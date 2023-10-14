@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	2	6	5	1	Agent	5, 6, 9	"{""5"": [""4 stars""], ""6"": [""four star""], ""9"": [""4 star""]}"
+4	4	1	17	10	3	Human	8, 14, 16, 17	"{""8"": [""address""], ""14"": [""address""], ""16"": [""address""], ""17"": [""address""]}"
+3	3	2	8	3	1	Agent	7, 8, 9	"{""7"": [""university arms""], ""8"": [""university arms""], ""9"": [""university arms""]}"
+2	2	2	4	2	1	Agent	3, 4	"{""3"": [""parking""], ""4"": [""parking""]}"
+2	2	2	9	2	1	Human	8, 9	"{""8"": [""post code""], ""9"": [""post code""]}"
+2	2	1	15	2	1	Human	14, 15	"{""14"": [""postcode""], ""15"": [""postcode""]}"
+5	2	1	6	7	2	Agent	3, 5, 6, 8, 9	"{""3"": [""star""], ""5"": [""stars""], ""6"": [""star""], ""8"": [""star""], ""9"": [""star""]}"
+4	4	1	7	11	1	Human	2, 7, 9, 12	"{""2"": [""hotel""], ""7"": [""hotels""], ""9"": [""hotel""], ""12"": [""hotel""]}"
+3	3	1	2	14	1	Agent	1, 2, 14	"{""1"": [""area""], ""2"": [""area""], ""14"": [""area""]}"
+3	3	1	11	4	1	Human	10, 11, 13	"{""10"": [""museum""], ""11"": [""museums""], ""13"": [""museum""]}"

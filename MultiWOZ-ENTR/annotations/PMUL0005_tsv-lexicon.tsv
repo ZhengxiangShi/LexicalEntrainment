@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+4	4	1	14	13	1	Agent	3, 14, 15	"{""3"": [""centre""], ""14"": [""centre""], ""15"": [""centre""]}"
+3	3	2	3	20	1	Human	2, 3, 21	"{""2"": [""golden curry""], ""3"": [""golden curry""], ""21"": [""golden curry""]}"
+4	4	2	21	22	1	Human	6, 21, 26, 27	"{""6"": [""reference number""], ""21"": [""reference number""], ""26"": [""reference number""], ""27"": [""reference number""]}"
+10	10	1	9	16	1	Human	6, 7, 9, 10, 11, 12, 16, 20, 21	"{""6"": [""hotel""], ""7"": [""hotel""], ""9"": [""hotels""], ""10"": [""hotel""], ""11"": [""hotel""], ""12"": [""hotel""], ""16"": [""hotel""], ""20"": [""hotel""], ""21"": [""hotel""]}"
+3	3	2	21	4	2	Human	18, 20, 21	"{""18"": [""restaurant reservation""], ""20"": [""restaurant reservation""], ""21"": [""restaurant reservation""]}"
+6	3	1	16	19	1	Agent	3, 16, 17, 18, 20, 21	"{""3"": [""reservation""], ""16"": [""reservation""], ""17"": [""reservation""], ""18"": [""reservation""], ""20"": [""reservation""], ""21"": [""reservation""]}"
+6	3	1	3	22	1	Human	0, 3, 16, 18, 20, 21	"{""0"": [""restaurant""], ""3"": [""restaurant""], ""16"": [""restaurant""], ""18"": [""restaurant""], ""20"": [""restaurant""], ""21"": [""restaurant""]}"
+5	1	1	6	25	1	Agent	3, 6, 21, 26, 27	"{""3"": [""number""], ""6"": [""number""], ""21"": [""number""], ""26"": [""number""], ""27"": [""number""]}"
+3	3	1	19	19	1	Human	4, 19, 22	"{""4"": [""people""], ""19"": [""people""], ""22"": [""people""]}"
+2	2	1	8	2	1	Agent	7, 8	"{""7"": [""area""], ""8"": [""area""]}"

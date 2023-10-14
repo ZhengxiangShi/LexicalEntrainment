@@ -1,0 +1,12 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	3	15	10	1	Human	6, 15	"{""6"": [""london kings cross""], ""15"": [""london kings cross""]}"
+2	2	3	5	2	1	Human	4, 5	"{""4"": [""table for 2""], ""5"": [""table for two""]}"
+3	3	2	11	3	1	Human	10, 11, 12	"{""10"": [""train id""], ""11"": [""train id""], ""12"": [""train id""]}"
+2	2	2	2	2	1	Agent	1, 2	"{""1"": [""la tasca""], ""2"": [""la tasca""]}"
+6	3	1	7	7	1	Human	6, 7, 9, 10, 11, 12	"{""6"": [""train""], ""7"": [""trains""], ""9"": [""train""], ""10"": [""train""], ""11"": [""train""], ""12"": [""train""]}"
+4	4	1	13	14	3	Human	10, 12, 13	"{""10"": [""price""], ""12"": [""price""], ""13"": [""price""]}"
+2	2	1	15	8	1	Human	8, 15	"{""8"": [""cambridge""], ""15"": [""cambridge""]}"
+2	2	1	4	2	1	Agent	3, 4	"{""3"": [""people""], ""4"": [""people""]}"
+2	2	1	1	2	1	Human	0, 1	"{""0"": [""restaurant""], ""1"": [""restaurant""]}"
+2	2	1	14	8	1	Agent	7, 14	"{""7"": [""time""], ""14"": [""time""]}"
+2	2	1	5	2	1	Human	4, 5	"{""4"": [""wednesday""], ""5"": [""wednesday""]}"

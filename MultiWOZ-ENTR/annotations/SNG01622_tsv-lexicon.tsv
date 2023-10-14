@@ -1,0 +1,8 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	4	3	5	1	Human	0, 3, 4	"{""0"": [""bishops stortford train station""], ""3"": [""bishops stortford train station""], ""4"": [""bishops stortford train station""]}"
+2	2	2	7	2	1	Human	6, 7	"{""6"": [""car type""], ""7"": [""car type""]}"
+4	1	2	3	5	2	Human	0, 2, 3, 4	"{""0"": [""bishops stortford""], ""2"": [""bishops stortford""], ""3"": [""bishops stortford""], ""4"": [""bishops stortford""]}"
+4	1	2	6	7	1	Human	0, 3, 4, 6	"{""0"": [""train station""], ""3"": [""train station""], ""4"": [""train station""], ""6"": [""train station""]}"
+2	2	2	7	2	1	Human	6, 7	"{""6"": [""contact number""], ""7"": [""contact number""]}"
+5	1	1	3	7	2	Human	0, 2, 3, 4, 6	"{""0"": [""station""], ""2"": [""station""], ""3"": [""station""], ""4"": [""station""], ""6"": [""station""]}"
+2	2	1	7	8	1	Human	0, 7	"{""0"": [""taxi""], ""7"": [""taxi""]}"

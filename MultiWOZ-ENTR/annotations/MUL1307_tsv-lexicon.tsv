@@ -1,0 +1,13 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	4	15	4	1	Human	12, 15	"{""12"": [""restaurant in the west""], ""15"": [""restaurants in the west""]}"
+2	2	2	9	2	1	Human	8, 9	"{""8"": [""one night""], ""9"": [""one night""]}"
+2	2	2	5	4	1	Human	2, 5	"{""2"": [""free parking""], ""5"": [""free parking""]}"
+2	2	2	11	2	1	Human	10, 11	"{""10"": [""reference number""], ""11"": [""reference number""]}"
+2	2	1	17	2	1	Human	16, 17	"{""16"": [""postcode""], ""17"": [""postcode""]}"
+2	2	1	4	2	1	Agent	3, 4	"{""3"": [""area""], ""4"": [""area""]}"
+4	2	1	9	6	3	Human	4, 6, 8, 9	"{""4"": [""nights""], ""6"": [""nights""], ""8"": [""night""], ""9"": [""night""]}"
+3	3	1	16	3	1	Agent	15, 16, 17	"{""15"": [""cocum""], ""16"": [""cocum""], ""17"": [""cocum""]}"
+3	3	1	1	6	1	Human	0, 1, 5	"{""0"": [""hotel""], ""1"": [""hotel""], ""5"": [""hotel""]}"
+3	3	1	16	6	2	Agent	11, 15, 16	"{""11"": [""reservation""], ""15"": [""reservation""], ""16"": [""reservation""]}"
+3	1	1	15	4	2	Human	12, 14, 15	"{""12"": [""restaurant""], ""14"": [""restaurant""], ""15"": [""restaurants""]}"
+2	2	1	3	2	1	Human	2, 3	"{""2"": [""guesthouse""], ""3"": [""guesthouse""]}"

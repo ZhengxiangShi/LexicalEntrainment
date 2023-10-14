@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	5	3	2	1	Human	2, 3	"{""2"": [""british restaurants that are expensive""], ""3"": [""british restaurants that are expensive""]}"
+3	3	2	10	7	1	Agent	5, 10, 11	"{""5"": [""reference number""], ""10"": [""reference number""], ""11"": [""reference number""]}"
+2	2	2	12	8	1	Agent	5, 12	"{""5"": [""fitzbillies restaurant""], ""12"": [""fitzbillies restaurant""]}"
+7	3	1	1	13	1	Human	0, 1, 2, 3, 4, 5, 12	"{""0"": [""restaurants""], ""1"": [""restaurants""], ""2"": [""restaurants""], ""3"": [""restaurants""], ""4"": [""restaurants""], ""5"": [""restaurant""], ""12"": [""restaurant""]}"
+4	1	1	13	9	1	Agent	5, 10, 11, 13	"{""5"": [""number""], ""10"": [""number""], ""11"": [""number""], ""13"": [""number""]}"
+3	3	1	12	6	2	Agent	7, 9, 12	"{""7"": [""hotels""], ""9"": [""hotel""], ""12"": [""hotel""]}"
+2	2	1	8	2	1	Agent	7, 8	"{""7"": [""area""], ""8"": [""area""]}"
+2	2	1	13	2	1	Human	12, 13	"{""12"": [""contact""], ""13"": [""contact""]}"
+2	2	1	13	2	1	Human	12, 13	"{""12"": [""taxi""], ""13"": [""taxi""]}"
+2	2	1	12	12	1	Agent	1, 12	"{""1"": [""type""], ""12"": [""type""]}"

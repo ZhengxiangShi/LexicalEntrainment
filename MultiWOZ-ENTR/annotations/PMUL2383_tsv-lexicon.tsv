@@ -1,0 +1,12 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	3	4	2	1	Agent	3, 4	"{""3"": [""centre of town""], ""4"": [""center of town""]}"
+2	2	3	7	2	1	Human	6, 7	"{""6"": [""indian food""], ""7"": [""indian food""]}"
+2	2	2	3	2	1	Human	2, 3	"{""2"": [""phone number""], ""3"": [""phone number""]}"
+2	2	1	11	2	1	Human	10, 11	"{""10"": [""restaurant""], ""11"": [""restaurant""]}"
+2	2	2	13	2	1	Human	12, 13	"{""12"": [""contact number""], ""13"": [""contact number""]}"
+2	2	2	9	2	1	Human	8, 9	"{""8"": [""reference number""], ""9"": [""reference number""]}"
+2	2	2	5	2	1	Human	4, 5	"{""4"": [""unusual food""], ""5"": [""unusual food""]}"
+4	2	1	4	7	2	Agent	1, 3, 4, 7	"{""1"": [""centre""], ""3"": [""centre""], ""4"": [""center""], ""7"": [""centre""]}"
+3	3	1	1	13	1	Human	0, 1, 12	"{""0"": [""pembroke""], ""1"": [""pembroke""], ""12"": [""pembroke""]}"
+2	2	1	2	2	1	Agent	1, 2	"{""1"": [""area""], ""2"": [""area""]}"
+2	2	1	12	8	1	Agent	5, 12	"{""5"": [""type""], ""12"": [""type""]}"

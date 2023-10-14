@@ -1,0 +1,4 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	2	2	2	1	Agent	1, 2	"{""1"": [""tr4003 train""], ""2"": [""tr4003 train""]}"
+5	3	1	1	5	1	Human	0, 1, 2, 3, 4	"{""0"": [""train""], ""1"": [""train""], ""2"": [""train""], ""3"": [""train""], ""4"": [""train""]}"
+2	2	1	7	8	1	Human	0, 7	"{""0"": [""cambridge""], ""7"": [""cambridge""]}"

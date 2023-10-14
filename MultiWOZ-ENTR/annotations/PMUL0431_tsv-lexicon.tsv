@@ -1,0 +1,9 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+4	4	2	10	7	1	Agent	7, 10, 12, 13	"{""7"": [""price range""], ""10"": [""price range""], ""12"": [""price range""], ""13"": [""price range""]}"
+3	3	2	3	12	1	Human	2, 3, 13	"{""2"": [""phone number""], ""3"": [""phone number""], ""13"": [""phone number""]}"
+4	4	1	1	17	1	Human	0, 1, 15, 16	"{""0"": [""hotel""], ""1"": [""hotel""], ""15"": [""hotel""], ""16"": [""hotel""]}"
+5	2	1	12	16	1	Human	2, 3, 12, 13, 17	"{""2"": [""number""], ""3"": [""number""], ""12"": [""number""], ""13"": [""number""], ""17"": [""number""]}"
+5	1	1	10	7	2	Agent	7, 10, 12, 13	"{""7"": [""price""], ""10"": [""price""], ""12"": [""price""], ""13"": [""price""]}"
+3	3	1	12	3	1	Agent	11, 12, 13	"{""11"": [""graffiti""], ""12"": [""graffiti""], ""13"": [""graffiti's""]}"
+2	2	1	1	2	1	Human	0, 1	"{""0"": [""cityroomz""], ""1"": [""cityroomz""]}"
+2	2	1	3	2	1	Human	2, 3	"{""2"": [""postcode""], ""3"": [""postcode""]}"

@@ -1,0 +1,10 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	2	8	7	1	Agent	3, 8, 9	"{""3"": [""saints church""], ""8"": [""saints church""], ""9"": [""saints church""]}"
+2	2	3	8	8	1	Agent	1, 8	"{""1"": [""type of attraction""], ""8"": [""type of attraction""]}"
+3	3	1	8	8	3	Agent	1, 5, 7, 8	"{""1"": [""type""], ""5"": [""type""], ""7"": [""type""], ""8"": [""type""]}"
+4	4	1	5	8	1	Human	4, 5, 10, 11	"{""4"": [""address""], ""5"": [""address""], ""10"": [""address""], ""11"": [""address""]}"
+2	2	2	11	2	1	Human	10, 11	"{""10"": [""phone number""], ""11"": [""phone number""]}"
+4	3	1	1	10	1	Human	0, 1, 8, 9	"{""0"": [""attractions""], ""1"": [""attraction"", ""attractions""], ""8"": [""attraction""], ""9"": [""attraction""]}"
+4	4	1	9	10	2	Human	2, 8, 9, 11	"{""2"": [""centre""], ""8"": [""center""], ""9"": [""centre""], ""11"": [""centre""]}"
+3	3	1	6	4	1	Agent	5, 6, 8	"{""5"": [""food""], ""6"": [""food""], ""8"": [""food""]}"
+3	3	1	10	4	2	Agent	7, 9, 10	"{""7"": [""restaurants""], ""9"": [""restaurant"", ""restaurant""], ""10"": [""restaurant""]}"

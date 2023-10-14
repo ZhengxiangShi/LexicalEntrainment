@@ -1,0 +1,10 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	1	1	2	1	Human	0, 1	"{""0"": [""sports""], ""1"": [""sports""]}"
+4	4	1	1	12	1	Human	0, 1, 3, 11	"{""0"": [""centre""], ""1"": [""centre""], ""3"": [""centre""], ""11"": [""centre""]}"
+3	3	2	4	3	1	Agent	3, 4, 5	"{""3"": [""phone number""], ""4"": [""phone number""], ""5"": [""phone number""]}"
+2	2	2	7	2	1	Human	6, 7	"{""6"": [""german restaurant""], ""7"": [""german restaurants""]}"
+2	2	2	10	2	1	Agent	9, 10	"{""9"": [""price range""], ""10"": [""price range""]}"
+5	2	1	13	13	1	Agent	3, 4, 5, 13, 15	"{""3"": [""number""], ""4"": [""number""], ""5"": [""number""], ""13"": [""number""], ""15"": [""number""]}"
+4	2	1	9	9	1	Human	6, 7, 9, 14	"{""6"": [""restaurant""], ""7"": [""restaurants""], ""9"": [""restaurants""], ""14"": [""restaurant""]}"
+3	3	1	10	10	2	Agent	1, 9, 10	"{""1"": [""area""], ""9"": [""area""], ""10"": [""area""]}"
+3	3	1	3	4	1	Human	2, 3, 5	"{""2"": [""concerthall""], ""3"": [""concerthall""], ""5"": [""concerthall""]}"

@@ -1,0 +1,7 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+4	4	2	7	4	1	Human	6, 7, 8, 9	"{""6"": [""attraction type""], ""7"": [""attraction type""], ""8"": [""attraction types""], ""9"": [""attraction type""]}"
+3	3	2	5	4	1	Human	4, 5, 7	"{""4"": [""riverboat georgina""], ""5"": [""riverboat georgina""], ""7"": [""riverboat georgina""]}"
+5	2	1	7	6	2	Human	4, 6, 7, 8, 9	"{""4"": [""attraction""], ""6"": [""attraction""], ""7"": [""attraction""], ""8"": [""attraction""], ""9"": [""attraction""]}"
+3	3	1	1	6	1	Human	0, 1, 5	"{""0"": [""cambridge""], ""1"": [""cambridge""], ""5"": [""cambridge""]}"
+2	2	1	3	2	1	Human	2, 3	"{""2"": [""cotto""], ""3"": [""cotto""]}"
+2	2	1	9	2	1	Human	8, 9	"{""8"": [""listed""], ""9"": [""listed""]}"

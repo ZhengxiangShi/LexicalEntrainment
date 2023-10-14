@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	7	7	2	1	Human	6, 7	"{""6"": [""expensive restaurant in the centre of town""], ""7"": [""expensive restaurants in the center of town""]}"
+2	2	5	1	2	1	Human	0, 1	"{""0"": [""train to cambridge on friday""], ""1"": [""trains to cambridge on friday""]}"
+3	3	2	4	5	1	Agent	1, 4, 5	"{""1"": [""travel time""], ""4"": [""travel time""], ""5"": [""travel time""]}"
+3	1	1	8	9	1	Human	0, 1, 8	"{""0"": [""cambridge""], ""1"": [""cambridge""], ""8"": [""cambridge""]}"
+5	5	1	2	7	1	Human	0, 1, 2, 3, 4, 6	"{""0"": [""train""], ""1"": [""trains""], ""2"": [""train""], ""3"": [""train""], ""4"": [""train""], ""6"": [""train""]}"
+2	2	1	11	2	1	Human	10, 11	"{""10"": [""address""], ""11"": [""address""]}"
+4	2	1	10	6	1	Human	6, 7, 10, 11	"{""6"": [""restaurant""], ""7"": [""restaurants""], ""10"": [""restaurant""], ""11"": [""restaurant""]}"
+3	1	1	11	6	1	Human	6, 7, 11	"{""6"": [""centre""], ""7"": [""center""], ""11"": [""centre""]}"
+2	2	1	9	2	1	Human	8, 9	"{""8"": [""flavor""], ""9"": [""flavor""]}"
+2	2	1	9	2	1	Human	8, 9	"{""8"": [""local""], ""9"": [""local""]}"

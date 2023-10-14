@@ -1,0 +1,13 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	1	5	16	1	Human	0, 5	"{""0"": [""east""], ""5"": [""east""]}"
+3	3	2	17	8	2	Human	10, 16, 17	"{""10"": [""phone number""], ""16"": [""phone number""], ""17"": [""phone number""]}"
+2	2	2	19	2	1	Human	18, 19	"{""18"": [""car type""], ""19"": [""car type""]}"
+2	2	2	19	2	1	Human	18, 19	"{""18"": [""contact number""], ""19"": [""contact number""]}"
+4	1	1	11	8	1	Human	10, 11, 16, 17	"{""10"": [""phone""], ""11"": [""phone""], ""16"": [""phone""], ""17"": [""phone""]}"
+3	3	1	14	6	1	Agent	13, 14, 18	"{""13"": [""attraction""], ""14"": [""attraction""], ""18"": [""attraction""]}"
+3	3	1	15	19	1	Human	0, 15, 18	"{""0"": [""hotel""], ""15"": [""hotel""], ""18"": [""hotel""]}"
+3	3	1	6	3	1	Agent	5, 6, 7	"{""5"": [""parking""], ""6"": [""parking""], ""7"": [""parking""]}"
+3	3	1	16	9	1	Agent	9, 16, 17	"{""9"": [""postcode""], ""16"": [""postcode""], ""17"": [""postcode""]}"
+3	1	1	18	7	1	Agent	13, 18, 19	"{""13"": [""type""], ""18"": [""type""], ""19"": [""type""]}"
+2	2	1	5	6	1	Human	0, 5	"{""0"": [""internet""], ""5"": [""internet""]}"
+2	2	1	2	2	1	Agent	1, 2	"{""1"": [""stars""], ""2"": [""star""]}"

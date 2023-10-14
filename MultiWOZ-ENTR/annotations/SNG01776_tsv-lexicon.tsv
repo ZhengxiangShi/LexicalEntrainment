@@ -1,0 +1,12 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	2	2	2	1	Agent	1, 2	"{""1"": [""price range""], ""2"": [""price range""]}"
+2	2	4	1	2	1	Human	0, 1	"{""0"": [""restaurant in the east""], ""1"": [""restaurants in the east""]}"
+3	1	1	5	6	1	Human	0, 1, 5	"{""0"": [""east""], ""1"": [""east""], ""5"": [""east""]}"
+2	2	3	9	4	1	Human	6, 9	"{""6"": [""table for 7""], ""9"": [""table for 7""]}"
+2	2	1	9	2	1	Human	8, 9	"{""8"": [""1200hrs""], ""9"": [""1200hrs""]}"
+2	2	2	5	2	1	Human	4, 5	"{""4"": [""british food""], ""5"": [""british food""]}"
+2	2	2	9	2	1	Human	8, 9	"{""8"": [""reference number""], ""9"": [""reference number""]}"
+2	2	1	9	4	1	Human	6, 9	"{""6"": [""thursday""], ""9"": [""thursday""]}"
+4	4	1	7	4	1	Human	7, 8, 9	"{""7"": [""booking""], ""8"": [""booking""], ""9"": [""booking""]}"
+4	2	1	5	10	1	Human	0, 1, 5, 9	"{""0"": [""restaurant""], ""1"": [""restaurants""], ""5"": [""restaurant""], ""9"": [""restaurant""]}"
+3	1	1	4	3	1	Agent	3, 4, 5	"{""3"": [""food""], ""4"": [""food""], ""5"": [""food""]}"

@@ -1,0 +1,12 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	3	13	2	1	Human	12, 13	"{""12"": [""indian food""], ""13"": [""indian food""]}"
+2	2	3	1	2	1	Human	0, 1	"{""0"": [""4 star hotel""], ""1"": [""4 star hotels""]}"
+3	3	1	13	12	2	Human	2, 13	"{""2"": [""east""], ""13"": [""east""]}"
+3	3	2	8	10	1	Agent	7, 8, 16	"{""7"": [""leverton house""], ""8"": [""leverton house""], ""16"": [""leverton house""]}"
+4	4	1	6	3	1	Agent	5, 6, 7	"{""5"": [""guesthouses"", ""guesthouse""], ""6"": [""guesthouse""], ""7"": [""guesthouse""]}"
+2	2	1	9	2	1	Human	8, 9	"{""8"": [""postcode""], ""9"": [""postcode""]}"
+2	2	2	16	2	1	Agent	15, 16	"{""15"": [""curry prince""], ""16"": [""curry prince""]}"
+2	2	2	11	2	1	Human	10, 11	"{""10"": [""venetian restaurant""], ""11"": [""venetian restaurants""]}"
+4	2	1	3	6	1	Human	0, 1, 3, 5	"{""0"": [""hotel""], ""1"": [""hotels""], ""3"": [""hotels""], ""5"": [""hotels""]}"
+3	1	1	13	4	1	Human	10, 11, 13	"{""10"": [""restaurant""], ""11"": [""restaurants""], ""13"": [""restaurants""]}"
+2	2	1	17	2	1	Human	16, 17	"{""16"": [""taxi""], ""17"": [""taxi""]}"

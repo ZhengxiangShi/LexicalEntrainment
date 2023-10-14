@@ -1,0 +1,5 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	2	7	2	1	Human	6, 7	"{""6"": [""entrance fee""], ""7"": [""entrance fee""]}"
+3	3	1	1	3	1	Human	0, 1, 2	"{""0"": [""place""], ""1"": [""places""], ""2"": [""place""]}"
+2	2	1	5	2	1	Human	4, 5	"{""4"": [""cinemas""], ""5"": [""cinema""]}"
+2	2	1	7	2	1	Human	6, 7	"{""6"": [""postcode""], ""7"": [""postcode""]}"

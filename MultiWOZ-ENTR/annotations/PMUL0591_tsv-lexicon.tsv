@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	3	5	2	1	Human	0, 1, 3, 4, 5	"{""0"": [""train""], ""1"": [""train""], ""3"": [""train""], ""4"": [""train""], ""5"": [""train""]}"
+2	2	4	11	4	1	Human	8, 11	"{""8"": [""restaurant in the north""], ""11"": [""restaurant in the north""]}"
+3	3	1	1	4	1	Human	0, 1, 3	"{""0"": [""peterborough""], ""1"": [""peterborough""], ""3"": [""peterborough""]}"
+2	2	1	3	2	1	Human	2, 3	"{""2"": [""thursday""], ""3"": [""thursday""]}"
+3	3	1	1	4	1	Human	0, 1, 3	"{""0"": [""cambridge""], ""1"": [""cambridge""], ""3"": [""cambridge""]}"
+3	3	1	10	4	1	Agent	9, 10, 12	"{""9"": [""type""], ""10"": [""type""], ""12"": [""type""]}"
+5	5	1	7	18	1	Human	7, 16	"{""7"": [""help""], ""16"": [""help""]}"
+3	3	1	10	5	1	Agent	7, 10, 11	"{""7"": [""number""], ""10"": [""number""], ""11"": [""number""]}"
+3	2	1	11	4	2	Human	8, 10, 11	"{""8"": [""restaurant""], ""10"": [""restaurant""], ""11"": [""restaurant"", ""restaurant""]}"
+3	3	1	4	4	2	Agent	1, 3, 4	"{""1"": [""scheduled""], ""3"": [""scheduled""], ""4"": [""schedule""]}"

@@ -1,0 +1,13 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	3	6	4	1	Agent	3, 6	"{""3"": [""centre of town""], ""6"": [""centre of town""]}"
+2	2	3	18	16	1	Agent	3, 18	"{""3"": [""soul tree nightclub""], ""18"": [""soul tree nightclub""]}"
+4	2	1	3	10	1	Human	0, 3, 6, 9	"{""0"": [""centre""], ""3"": [""centre""], ""6"": [""centre""], ""9"": [""centre""]}"
+2	2	2	21	2	1	Human	20, 21	"{""20"": [""contact number""], ""21"": [""contact number""]}"
+4	4	2	5	11	1	Human	4, 5, 8, 14	"{""4"": [""phone number""], ""5"": [""phone number""], ""8"": [""phone number""], ""14"": [""phone number""]}"
+3	1	1	9	7	1	Agent	3, 6, 9	"{""3"": [""town""], ""6"": [""town""], ""9"": [""town""]}"
+3	3	1	10	10	2	Agent	1, 7, 10	"{""1"": [""type""], ""7"": [""type""], ""10"": [""type""]}"
+7	1	1	15	18	1	Human	4, 5, 8, 14, 15, 20, 21	"{""4"": [""number""], ""5"": [""number""], ""8"": [""number""], ""14"": [""number""], ""15"": [""number""], ""20"": [""number""], ""21"": [""number""]}"
+5	3	1	2	18	1	Agent	1, 2, 3, 4, 18	"{""1"": [""nightclubs""], ""2"": [""nightclub""], ""3"": [""nightclub""], ""4"": [""nightclub""], ""18"": [""nightclub""]}"
+4	4	1	11	13	2	Human	0, 10, 11, 12	"{""0"": [""area""], ""10"": [""area""], ""11"": [""area""], ""12"": [""area""]}"
+3	3	1	9	11	1	Human	0, 9, 10	"{""0"": [""place""], ""9"": [""places""], ""10"": [""place""]}"
+2	2	1	23	24	1	Human	0, 23	"{""0"": [""cambridge""], ""23"": [""cambridge""]}"

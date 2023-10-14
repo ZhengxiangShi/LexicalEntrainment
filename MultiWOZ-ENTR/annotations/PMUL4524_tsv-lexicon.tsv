@@ -1,0 +1,12 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+6	6	2	1	16	1	Human	0, 1, 2, 3, 14, 15	"{""0"": [""curry garden""], ""1"": [""curry garden""], ""2"": [""curry garden""], ""3"": [""curry garden""], ""14"": [""curry garden""], ""15"": [""curry garden""]}"
+3	3	1	4	5	1	Agent	1, 4, 5	"{""1"": [""table""], ""4"": [""table""], ""5"": [""table""]}"
+2	2	2	5	2	1	Human	4, 5	"{""4"": [""8 people""], ""5"": [""8 people""]}"
+2	2	1	7	2	1	Human	6, 7	"{""6"": [""south""], ""7"": [""south""]}"
+2	2	1	5	2	1	Human	4, 5	"{""4"": [""thursday""], ""5"": [""thursday""]}"
+3	3	1	8	7	1	Agent	3, 8, 9	"{""3"": [""postcode""], ""8"": [""postcode""], ""9"": [""postcode""]}"
+4	4	1	1	4	1	Human	0, 1, 2, 3	"{""0"": [""restaurant""], ""1"": [""restaurant""], ""2"": [""restaurant""], ""3"": [""restaurant""]}"
+2	2	1	9	2	1	Human	8, 9	"{""8"": [""address""], ""9"": [""address""]}"
+2	2	1	7	2	1	Human	6, 7	"{""6"": [""college""], ""7"": [""colleges""]}"
+2	2	1	9	2	1	Human	8, 9	"{""8"": [""park""], ""9"": [""park's""]}"
+2	2	1	15	4	1	Human	12, 15	"{""12"": [""taxi""], ""15"": [""taxi""]}"

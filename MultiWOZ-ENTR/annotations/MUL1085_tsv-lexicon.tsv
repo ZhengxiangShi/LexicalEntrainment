@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	4	1	2	1	Human	0, 1	"{""0"": [""hotel with free wifi""], ""1"": [""hotels with free wifi""]}"
+4	4	2	5	6	1	Human	2, 5, 6, 7	"{""2"": [""four star""], ""5"": [""4 stars""], ""6"": [""4 star""], ""7"": [""4 stars""]}"
+5	5	1	1	7	1	Human	0, 1, 2, 4, 6	"{""0"": [""hotel""], ""1"": [""hotels"", ""hotel""], ""2"": [""hotel""], ""4"": [""hotel""], ""6"": [""hotel""]}"
+5	5	1	14	4	2	Agent	11, 13, 14	"{""11"": [""attraction""], ""13"": [""attraction"", ""attractions""], ""14"": [""attraction""]}"
+3	1	2	7	8	1	Human	0, 1, 7	"{""0"": [""free wifi""], ""1"": [""free wifi""], ""7"": [""free wifi""]}"
+2	2	2	16	2	1	Agent	15, 16	"{""15"": [""castle galleries""], ""16"": [""castle galleries""]}"
+2	2	1	17	2	1	Human	16, 17	"{""16"": [""postcode""], ""17"": [""postcode""]}"
+4	4	1	11	10	1	Human	10, 11, 13, 19	"{""10"": [""centre""], ""11"": [""centre""], ""13"": [""centre""], ""19"": [""centre""]}"
+2	2	1	7	6	1	Human	2, 7	"{""2"": [""parking""], ""7"": [""parking""]}"
+2	2	1	15	2	1	Human	14, 15	"{""14"": [""rated""], ""15"": [""rating""]}"

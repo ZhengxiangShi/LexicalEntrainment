@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	2	7	6	2	Human	2, 4, 7	"{""2"": [""free wifi""], ""4"": [""free wifi""], ""7"": [""free wifi""]}"
+2	2	3	13	4	1	Human	10, 13	"{""10"": [""soul tree nightclub""], ""13"": [""soul tree nightclub""]}"
+2	2	2	13	2	1	Human	12, 13	"{""12"": [""entrance fee""], ""13"": [""entrance fee""]}"
+2	2	3	7	2	1	Human	6, 7	"{""6"": [""wifi and parking""], ""7"": [""wifi and parking""]}"
+3	3	2	5	5	1	Human	2, 5, 6	"{""2"": [""4 stars""], ""5"": [""4 stars""], ""6"": [""4 star""]}"
+4	1	1	5	5	2	Human	2, 4, 5, 6	"{""2"": [""stars""], ""4"": [""star""], ""5"": [""stars""], ""6"": [""star""]}"
+3	3	1	3	5	1	Human	2, 3, 6	"{""2"": [""area""], ""3"": [""area""], ""6"": [""area""]}"
+3	1	1	7	8	2	Human	0, 6, 7	"{""0"": [""parking""], ""6"": [""parking""], ""7"": [""parking""]}"
+2	2	1	13	2	1	Human	12, 13	"{""12"": [""attraction""], ""13"": [""attraction""]}"
+2	1	1	13	4	1	Human	10, 13	"{""10"": [""nightclub""], ""13"": [""nightclub"", ""nightclub""]}"

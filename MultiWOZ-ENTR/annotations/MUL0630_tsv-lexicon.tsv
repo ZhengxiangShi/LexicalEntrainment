@@ -1,0 +1,10 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	4	6	2	1	Agent	5, 6	"{""5"": [""people""], ""6"": [""people""]}"
+5	5	1	12	16	2	Agent	1, 11, 12, 16	"{""1"": [""cambridge""], ""11"": [""cambridge""], ""12"": [""cambridge""], ""16"": [""cambridge""]}"
+2	2	2	16	6	1	Agent	11, 16	"{""11"": [""47 minutes""], ""16"": [""47 minutes""]}"
+4	4	1	12	8	2	Agent	9, 11, 12, 16	"{""9"": [""tr1465""], ""11"": [""tr1465""], ""12"": [""tr1465""], ""16"": [""tr1465""]}"
+4	4	1	9	6	1	Human	8, 9, 11, 13	"{""8"": [""train""], ""9"": [""train""], ""11"": [""train""], ""13"": [""train""]}"
+3	3	1	14	9	1	Agent	7, 14, 15	"{""7"": [""number""], ""14"": [""number""], ""15"": [""number""]}"
+3	3	1	10	8	1	Agent	9, 10, 16	"{""9"": [""time""], ""10"": [""time""], ""16"": [""time""]}"
+2	2	1	3	4	1	Human	0, 3	"{""0"": [""guesthouse""], ""3"": [""guesthouse""]}"
+2	2	1	3	2	1	Human	2, 3	"{""2"": [""north""], ""3"": [""North""]}"

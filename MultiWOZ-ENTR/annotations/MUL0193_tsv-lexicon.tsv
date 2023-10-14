@@ -1,0 +1,12 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	3	15	14	1	Human	2, 15	"{""2"": [""center of town""], ""15"": [""centre of town""]}"
+3	1	1	3	14	1	Human	2, 3, 15	"{""2"": [""center""], ""3"": [""centre""], ""15"": [""centre""]}"
+2	2	3	14	2	1	Agent	13, 14	"{""13"": [""bed and breakfast""], ""14"": [""bed and breakfast""]}"
+3	1	1	15	14	2	Human	2, 10, 15	"{""2"": [""town""], ""10"": [""town""], ""15"": [""town""]}"
+3	3	2	9	10	1	Human	8, 9, 17	"{""8"": [""reference number""], ""9"": [""reference number""], ""17"": [""reference number""]}"
+7	7	1	1	19	1	Human	0, 1, 2, 3, 6, 8, 10, 18	"{""0"": [""restaurant""], ""1"": [""restaurants""], ""2"": [""restaurants""], ""3"": [""restaurants""], ""6"": [""restaurant""], ""8"": [""restaurant""], ""10"": [""restaurant""], ""18"": [""restaurant""]}"
+2	2	2	21	2	1	Human	20, 21	"{""20"": [""contact number""], ""21"": [""contact number""]}"
+2	2	2	3	2	1	Human	2, 3	"{""2"": [""moderately-priced restaurants""], ""3"": [""moderately-priced restaurants""]}"
+2	2	1	21	2	1	Human	20, 21	"{""20"": [""car""], ""21"": [""car""]}"
+5	5	1	10	13	1	Agent	7, 10, 14, 15, 19	"{""7"": [""hotel""], ""10"": [""hotel""], ""14"": [""hotel""], ""15"": [""hotel"", ""hotel""], ""19"": [""hotel""]}"
+2	2	1	7	8	1	Human	0, 7	"{""0"": [""food""], ""7"": [""food""]}"

@@ -1,0 +1,12 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	6	1	2	1	Human	0, 1	"{""0"": [""attraction in the center of town""], ""1"": [""attractions in the center of town""]}"
+3	1	3	4	5	1	Human	0, 1, 4	"{""0"": [""center of town""], ""1"": [""center of town""], ""4"": [""centre of town""]}"
+2	2	2	11	2	1	Human	10, 11	"{""10"": [""1 night""], ""11"": [""one night""]}"
+3	3	1	15	8	2	Human	8, 14, 15	"{""8"": [""alexander""], ""14"": [""alexander""], ""15"": [""alexander""]}"
+3	3	2	7	6	2	Human	2, 6, 7	"{""2"": [""entrance fee""], ""6"": [""entrance fee""], ""7"": [""entrance fee""]}"
+2	2	1	7	6	1	Human	2, 7	"{""2"": [""address""], ""7"": [""address""]}"
+4	1	1	17	18	1	Human	0, 1, 4, 17	"{""0"": [""center""], ""1"": [""center""], ""4"": [""centre""], ""17"": [""centre""]}"
+3	1	1	3	4	1	Human	0, 1, 3	"{""0"": [""attraction""], ""1"": [""attractions""], ""3"": [""attractions""]}"
+3	1	1	11	4	2	Human	8, 10, 11	"{""8"": [""nights""], ""10"": [""night""], ""11"": [""night""]}"
+3	3	1	7	6	2	Human	2, 6, 7	"{""2"": [""postcode""], ""6"": [""postcode""], ""7"": [""postcode""]}"
+2	2	1	15	4	1	Human	12, 15	"{""12"": [""taxi""], ""15"": [""taxi""]}"

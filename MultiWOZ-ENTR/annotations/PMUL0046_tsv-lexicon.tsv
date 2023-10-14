@@ -1,0 +1,13 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	3	7	2	1	Human	6, 7	"{""6"": [""expensive price range""], ""7"": [""expensive price range""]}"
+4	4	2	18	17	2	Agent	3, 17, 18, 19	"{""3"": [""meze bar""], ""17"": [""meze bar""], ""18"": [""meze bar""], ""19"": [""meze bar""]}"
+2	2	2	20	2	1	Agent	19, 20	"{""19"": [""many people""], ""20"": [""many people""]}"
+3	3	1	3	8	1	Human	0, 3, 7	"{""0"": [""centre""], ""3"": [""centre""], ""7"": [""centre""]}"
+3	3	2	10	8	2	Agent	3, 5, 10	"{""3"": [""phone numbers""], ""5"": [""phone number""], ""10"": [""phone number""]}"
+3	3	1	18	12	2	Agent	7, 17, 18	"{""7"": [""reservation""], ""17"": [""reservation""], ""18"": [""reservation""]}"
+2	2	2	9	2	1	Human	8, 9	"{""8"": [""free parking""], ""9"": [""free parking""]}"
+2	2	2	12	6	1	Agent	7, 12	"{""7"": [""gonville hotel""], ""12"": [""gonville hotel""]}"
+2	2	2	7	2	1	Human	6, 7	"{""6"": [""3 star""], ""7"": [""3 stars""]}"
+7	7	1	3	18	2	Human	0, 2, 3, 12, 14, 16, 17	"{""0"": [""restaurant""], ""2"": [""restaurant""], ""3"": [""restaurant""], ""12"": [""restaurant""], ""14"": [""restaurant""], ""16"": [""restaurant""], ""17"": [""restaurant""]}"
+4	1	1	15	13	2	Agent	3, 5, 10, 15	"{""3"": [""numbers""], ""5"": [""number""], ""10"": [""number""], ""15"": [""number""]}"
+3	2	1	7	7	1	Human	6, 7, 12	"{""6"": [""hotel""], ""7"": [""hotel""], ""12"": [""hotel"", ""hotel""]}"

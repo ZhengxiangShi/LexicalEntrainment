@@ -1,0 +1,12 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+4	4	2	10	8	1	Agent	7, 10, 13, 14	"{""7"": [""golden wok""], ""10"": [""golden wok""], ""13"": [""golden wok""], ""14"": [""golden wok""]}"
+2	2	2	13	2	1	Human	12, 13	"{""12"": [""reference number""], ""13"": [""reference number""]}"
+3	3	2	13	5	1	Human	10, 13, 14	"{""10"": [""phone number""], ""13"": [""phone number""], ""14"": [""phone number""]}"
+2	2	2	5	2	1	Human	4, 5	"{""4"": [""chinese restaurant""], ""5"": [""chinese restaurants""]}"
+2	2	2	6	2	1	Agent	5, 6	"{""5"": [""price range""], ""6"": [""price range""]}"
+4	4	1	1	13	1	Human	0, 1, 4, 5, 12	"{""0"": [""restaurant""], ""1"": [""restaurants""], ""4"": [""restaurant""], ""5"": [""restaurants""], ""12"": [""restaurant""]}"
+4	4	1	9	6	1	Human	8, 9, 12, 13	"{""8"": [""train""], ""9"": [""trains""], ""12"": [""train""], ""13"": [""train""]}"
+2	2	1	10	10	1	Agent	1, 10	"{""1"": [""cambridge""], ""10"": [""cambridge""]}"
+2	2	1	10	2	1	Agent	9, 10	"{""9"": [""destination""], ""10"": [""destination""]}"
+2	2	1	12	10	1	Agent	3, 12	"{""3"": [""information""], ""12"": [""info""]}"
+2	2	1	19	4	1	Human	16, 19	"{""16"": [""time""], ""19"": [""time""]}"

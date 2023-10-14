@@ -1,0 +1,12 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+4	4	2	7	6	1	Human	6, 7, 10, 11	"{""6"": [""phone number""], ""7"": [""phone number""], ""10"": [""phone number""], ""11"": [""phone number""]}"
+2	2	2	12	4	1	Agent	9, 12	"{""9"": [""ugly ducking""], ""12"": [""ugly ducking""]}"
+3	3	2	12	8	2	Agent	5, 7, 12	"{""5"": [""hughes hall""], ""7"": [""hughes hall""], ""12"": [""hughes hall""]}"
+2	2	2	3	2	1	Human	2, 3	"{""2"": [""multiple sports""], ""3"": [""multiple sports""]}"
+2	2	2	3	4	1	Human	0, 3	"{""0"": [""sports centre""], ""3"": [""sports center""]}"
+6	5	1	1	10	1	Human	0, 1, 2, 3, 5, 9	"{""0"": [""centre""], ""1"": [""centre""], ""2"": [""centre""], ""3"": [""center"", ""centre""], ""5"": [""centre""], ""9"": [""centre""]}"
+4	2	1	1	4	1	Human	0, 1, 2, 3	"{""0"": [""sports""], ""1"": [""sports""], ""2"": [""sports""], ""3"": [""sports""]}"
+3	1	1	3	4	2	Human	0, 2, 3	"{""0"": [""multiple""], ""2"": [""multiple""], ""3"": [""multiple""]}"
+2	2	1	5	2	1	Human	4, 5	"{""4"": [""college""], ""5"": [""colleges""]}"
+2	2	1	13	2	1	Human	12, 13	"{""12"": [""taxi""], ""13"": [""taxi""]}"
+2	2	1	9	8	1	Human	2, 9	"{""2"": [""town""], ""9"": [""town""]}"

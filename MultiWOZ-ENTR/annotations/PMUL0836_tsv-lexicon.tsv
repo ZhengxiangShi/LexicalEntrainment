@@ -1,0 +1,13 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+4	4	1	3	6	1	Human	2, 3, 5, 7	"{""2"": [""centre""], ""3"": [""centre""], ""5"": [""centre""], ""7"": [""centre""]}"
+2	2	3	15	2	1	Human	14, 15	"{""14"": [""cambridge on friday""], ""15"": [""cambridge on friday""]}"
+2	2	1	11	4	1	Human	8, 11	"{""8"": [""saturday""], ""11"": [""saturday""]}"
+4	4	2	4	9	1	Agent	1, 4, 7, 9	"{""1"": [""price range""], ""4"": [""price range""], ""7"": [""price range""], ""9"": [""price range""]}"
+3	3	2	5	8	1	Human	0, 5, 7	"{""0"": [""chinese restaurant""], ""5"": [""chinese restaurants""], ""7"": [""chinese restaurants""]}"
+3	3	2	15	4	2	Human	12, 14, 15	"{""12"": [""stansted airport""], ""14"": [""stansted airport""], ""15"": [""stansted airport""]}"
+9	5	1	5	17	1	Agent	1, 4, 5, 7, 9, 16, 17	"{""1"": [""price""], ""4"": [""price""], ""5"": [""price""], ""7"": [""price""], ""9"": [""price""], ""16"": [""price""], ""17"": [""price""]}"
+5	2	1	8	11	1	Human	0, 5, 7, 8, 10	"{""0"": [""restaurant""], ""5"": [""restaurants""], ""7"": [""restaurants""], ""8"": [""restaurant""], ""10"": [""restaurant""]}"
+3	3	1	6	4	2	Agent	3, 5, 6	"{""3"": [""cuisine""], ""5"": [""cuisine""], ""6"": [""cuisines""]}"
+3	3	1	19	8	2	Human	12, 14, 19	"{""12"": [""train""], ""14"": [""train""], ""19"": [""train""]}"
+2	2	1	6	6	1	Agent	1, 6	"{""1"": [""area""], ""6"": [""area""]}"
+2	2	1	9	6	1	Human	4, 9	"{""4"": [""place""], ""9"": [""place""]}"

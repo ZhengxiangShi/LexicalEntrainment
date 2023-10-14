@@ -1,0 +1,12 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	2	11	2	1	Human	10, 11	"{""10"": [""cambridge belfry""], ""11"": [""cambridge belfry""]}"
+3	3	1	11	6	1	Human	10, 11, 15	"{""10"": [""hotel""], ""11"": [""hotel""], ""15"": [""hotel""]}"
+2	2	1	11	2	1	Human	10, 11	"{""10"": [""info""], ""11"": [""information""]}"
+2	2	1	17	2	1	Human	16, 17	"{""16"": [""address""], ""17"": [""address""]}"
+3	3	1	3	6	1	Human	0, 3, 5	"{""0"": [""train""], ""3"": [""trains""], ""5"": [""train""]}"
+2	2	2	7	2	1	Human	6, 7	"{""6"": [""travel time""], ""7"": [""travel time""]}"
+3	1	1	11	10	2	Human	2, 10, 11	"{""2"": [""cambridge""], ""10"": [""cambridge""], ""11"": [""cambridge""]}"
+3	1	1	6	5	1	Agent	3, 6, 7	"{""3"": [""time""], ""6"": [""time""], ""7"": [""time""]}"
+2	2	1	5	6	1	Human	0, 5	"{""0"": [""peterborough""], ""5"": [""peterborough""]}"
+2	2	1	11	6	1	Human	6, 11	"{""6"": [""price""], ""11"": [""price""]}"
+2	2	1	7	2	1	Human	6, 7	"{""6"": [""ticket""], ""7"": [""ticket""]}"

@@ -1,0 +1,9 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	3	9	4	1	Human	6, 9	"{""6"": [""saint catharine's college""], ""9"": [""saint catharine's college""]}"
+2	2	2	13	2	1	Human	12, 13	"{""12"": [""entrance fee""], ""13"": [""entrance fee""]}"
+3	1	2	12	7	1	Human	6, 9, 12	"{""6"": [""saint catharine's""], ""9"": [""saint catharine's""], ""12"": [""saint catharine's""]}"
+4	4	1	9	6	1	Human	8, 9, 12, 13	"{""8"": [""postcode""], ""9"": [""postcode""], ""12"": [""postcode""], ""13"": [""postcode""]}"
+2	2	1	8	2	1	Agent	7, 8	"{""7"": [""enter""], ""8"": [""enter""]}"
+5	3	1	7	8	1	Human	6, 7, 8, 9, 13	"{""6"": [""college""], ""7"": [""college""], ""8"": [""college""], ""9"": [""college""], ""13"": [""college""]}"
+4	1	1	9	7	2	Human	6, 8, 9, 12	"{""6"": [""saint""], ""8"": [""saint""], ""9"": [""saint""], ""12"": [""saint""]}"
+2	2	1	4	2	1	Agent	3, 4	"{""3"": [""time""], ""4"": [""time""]}"

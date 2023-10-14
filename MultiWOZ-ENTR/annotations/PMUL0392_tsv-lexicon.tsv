@@ -1,0 +1,12 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	4	11	2	1	Human	10, 11	"{""10"": [""free internet and parking""], ""11"": [""free internet and parking""]}"
+3	3	1	2	3	1	Agent	1, 2, 3	"{""1"": [""table""], ""2"": [""table""], ""3"": [""table""]}"
+2	2	3	14	2	1	Agent	13, 14	"{""13"": [""university arms hotel""], ""14"": [""university arms hotel""]}"
+3	1	1	12	3	1	Human	10, 11, 12	"{""10"": [""parking""], ""11"": [""parking""], ""12"": [""parking""]}"
+3	3	1	8	6	1	Agent	7, 8, 12	"{""7"": [""town""], ""8"": [""town""], ""12"": [""town""]}"
+2	2	2	1	2	1	Human	0, 1	"{""0"": [""sala thong""], ""1"": [""sala thong""]}"
+3	3	1	11	3	1	Human	10, 11, 12	"{""10"": [""range""], ""11"": [""range""], ""12"": [""range""]}"
+2	2	1	12	6	1	Agent	7, 12	"{""7"": [""area""], ""12"": [""area""]}"
+2	1	1	14	2	1	Agent	13, 14	"{""13"": [""hotel""], ""14"": [""hotel""]}"
+2	2	1	11	2	1	Human	10, 11	"{""10"": [""price""], ""11"": [""price""]}"
+2	2	1	1	2	1	Human	0, 1	"{""0"": [""restaurant""], ""1"": [""restaurant""]}"

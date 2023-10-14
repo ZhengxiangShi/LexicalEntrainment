@@ -1,0 +1,10 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	2	10	2	1	Agent	9, 10	"{""9"": [""price range""], ""10"": [""price range""]}"
+4	4	1	5	8	1	Human	0, 5, 6, 7	"{""0"": [""train"", ""trains""], ""5"": [""train""], ""6"": [""train""], ""7"": [""train""]}"
+4	4	1	13	4	1	Human	12, 13, 14, 15	"{""12"": [""monday""], ""13"": [""monday""], ""14"": [""monday""], ""15"": [""monday""]}"
+4	2	1	7	5	1	Human	6, 7, 9, 10	"{""6"": [""price""], ""7"": [""price""], ""9"": [""price""], ""10"": [""price""]}"
+3	3	1	5	20	1	Human	0, 5, 19	"{""0"": [""cambridge""], ""5"": [""cambridge""], ""19"": [""cambridge""]}"
+2	2	1	1	2	1	Human	0, 1	"{""0"": [""destination""], ""1"": [""destination""]}"
+2	2	1	14	2	1	Agent	13, 14	"{""13"": [""nights""], ""14"": [""nights""]}"
+2	2	1	16	4	1	Agent	13, 16	"{""13"": [""number""], ""16"": [""number""]}"
+2	2	1	5	4	1	Human	2, 5	"{""2"": [""stevenage""], ""5"": [""stevenage""]}"

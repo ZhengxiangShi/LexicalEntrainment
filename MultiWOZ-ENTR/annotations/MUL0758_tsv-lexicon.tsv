@@ -1,0 +1,12 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+5	5	2	5	14	1	Human	4, 5, 7, 8, 17	"{""4"": [""reference number""], ""5"": [""reference number""], ""7"": [""reference number""], ""8"": [""reference number""], ""17"": [""reference number""]}"
+2	2	3	18	2	1	Agent	17, 18	"{""17"": [""acorn guest house""], ""18"": [""acorn guest house""]}"
+3	3	2	15	3	1	Human	14, 15, 16	"{""14"": [""free parking""], ""15"": [""free parking""], ""16"": [""free parking""]}"
+3	1	2	18	10	2	Agent	9, 17, 18	"{""9"": [""guest house""], ""17"": [""guest house""], ""18"": [""guest house""]}"
+3	3	1	13	7	1	Human	12, 13, 18	"{""12"": [""address""], ""13"": [""address""], ""18"": [""address""]}"
+5	5	1	5	19	1	Human	0, 5, 6, 17, 18	"{""0"": [""train""], ""5"": [""train""], ""6"": [""train""], ""17"": [""train""], ""18"": [""train""]}"
+6	1	1	9	14	1	Human	4, 5, 7, 8, 9, 17	"{""4"": [""number""], ""5"": [""number""], ""7"": [""number""], ""8"": [""number""], ""9"": [""number""], ""17"": [""number""]}"
+4	1	1	17	4	1	Human	14, 15, 16, 17	"{""14"": [""parking""], ""15"": [""parking""], ""16"": [""parking""], ""17"": [""parking""]}"
+3	3	1	11	8	1	Human	10, 11, 17	"{""10"": [""wifi""], ""11"": [""wifi""], ""17"": [""wifi""]}"
+2	2	1	21	22	1	Human	0, 21	"{""0"": [""cambridge""], ""21"": [""cambridge""]}"
+2	2	1	1	2	1	Human	0, 1	"{""0"": [""ely""], ""1"": [""ely""]}"

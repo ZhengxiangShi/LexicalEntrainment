@@ -1,0 +1,12 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	2	3	3	1	Human	2, 3, 4	"{""2"": [""4 star""], ""3"": [""4 star""], ""4"": [""4 star""]}"
+2	2	1	14	8	1	Agent	7, 14	"{""7"": [""reservation""], ""14"": [""reservation""]}"
+2	2	2	13	2	1	Human	12, 13	"{""12"": [""international food""], ""13"": [""international food""]}"
+2	2	1	10	10	1	Agent	1, 10	"{""1"": [""town""], ""10"": [""town""]}"
+2	2	2	10	8	1	Agent	3, 10	"{""3"": [""price range""], ""10"": [""price range""]}"
+2	2	1	9	2	1	Human	8, 9	"{""8"": [""postcode""], ""9"": [""postcode""]}"
+2	2	2	4	2	1	Agent	3, 4	"{""3"": [""2 star""], ""4"": [""2 star""]}"
+4	4	1	3	5	2	Human	0, 2, 3, 4	"{""0"": [""hotel""], ""2"": [""hotel""], ""3"": [""hotels""], ""4"": [""hotel""]}"
+3	1	1	12	3	1	Agent	11, 12, 13	"{""11"": [""food""], ""12"": [""food""], ""13"": [""food""]}"
+2	2	1	14	2	1	Agent	13, 14	"{""13"": [""bloomsbury""], ""14"": [""bloomsbury""]}"
+2	2	1	13	4	1	Human	10, 13	"{""10"": [""restaurant""], ""13"": [""restaurant""]}"

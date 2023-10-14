@@ -1,0 +1,13 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	1	1	10	1	Human	0, 1, 9	"{""0"": [""south""], ""1"": [""south""], ""9"": [""South""]}"
+2	2	2	10	2	1	Agent	9, 10	"{""9"": [""junction theatre""], ""10"": [""junction theatre""]}"
+2	2	2	5	2	1	Human	4, 5	"{""4"": [""phone number""], ""5"": [""phone number""]}"
+4	4	1	5	8	1	Human	4, 5, 10, 11	"{""4"": [""address""], ""5"": [""address""], ""10"": [""address""], ""11"": [""address""]}"
+3	1	1	12	4	1	Agent	9, 10, 12	"{""9"": [""junction""], ""10"": [""junction""], ""12"": [""junction""]}"
+3	1	1	11	8	1	Human	4, 5, 11	"{""4"": [""phone""], ""5"": [""phone""], ""11"": [""phone""]}"
+4	2	1	7	9	1	Human	4, 5, 7, 12	"{""4"": [""number""], ""5"": [""number""], ""7"": [""number""], ""12"": [""number""]}"
+3	3	1	1	4	1	Human	0, 1, 3	"{""0"": [""place""], ""1"": [""places""], ""3"": [""place""]}"
+3	3	1	12	10	2	Agent	3, 5, 12	"{""3"": [""rosa's""], ""5"": [""rosa's""], ""12"": [""rosa's""]}"
+3	1	1	9	3	1	Human	8, 9, 10	"{""8"": [""theatre""], ""9"": [""theatre""], ""10"": [""theatre""]}"
+2	2	1	9	2	1	Human	8, 9	"{""8"": [""hotel""], ""9"": [""hotel""]}"
+2	2	1	3	4	1	Human	0, 3	"{""0"": [""parking""], ""3"": [""parking""]}"

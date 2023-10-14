@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	1	9	2	1	Human	8, 9	"{""8"": [""centre""], ""9"": [""centre""]}"
+2	2	2	13	2	1	Human	12, 13	"{""12"": [""phone number""], ""13"": [""phone number""]}"
+2	2	2	11	2	1	Human	10, 11	"{""10"": [""art museum""], ""11"": [""art museum""]}"
+2	2	2	12	2	1	Agent	11, 12	"{""11"": [""entrance fee""], ""12"": [""entrance fee""]}"
+2	2	2	7	2	1	Human	6, 7	"{""6"": [""4 nights""], ""7"": [""4 nights""]}"
+2	2	1	4	2	1	Agent	3, 4	"{""3"": [""west""], ""4"": [""West""]}"
+4	2	1	10	5	1	Agent	9, 10, 11, 13	"{""9"": [""art""], ""10"": [""art""], ""11"": [""art""], ""13"": [""art""]}"
+3	1	1	13	3	1	Agent	11, 12, 13	"{""11"": [""entrance""], ""12"": [""entrance""], ""13"": [""entrance""]}"
+3	1	1	11	4	2	Human	8, 10, 11	"{""8"": [""museums""], ""10"": [""museum""], ""11"": [""museum""]}"
+3	1	1	12	7	1	Agent	7, 12, 13	"{""7"": [""number""], ""12"": [""number""], ""13"": [""number""]}"

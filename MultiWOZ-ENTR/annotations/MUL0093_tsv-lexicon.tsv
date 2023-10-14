@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	2	1	2	1	Human	0, 1	"{""0"": [""lucky star""], ""1"": [""lucky star""]}"
+2	2	2	3	2	1	Human	2, 3	"{""2"": [""reference number""], ""3"": [""reference number""]}"
+2	2	2	10	4	1	Agent	7, 10	"{""7"": [""star rating""], ""10"": [""star rating""]}"
+5	1	1	11	12	1	Human	0, 1, 7, 10, 11	"{""0"": [""star""], ""1"": [""star""], ""7"": [""star""], ""10"": [""star""], ""11"": [""stars""]}"
+3	1	1	9	8	1	Human	2, 3, 9	"{""2"": [""number""], ""3"": [""number""], ""9"": [""number""]}"
+3	1	1	11	5	1	Agent	7, 10, 11	"{""7"": [""rating""], ""10"": [""rating""], ""11"": [""rated""]}"
+2	2	1	7	2	1	Human	6, 7	"{""6"": [""guesthouse""], ""7"": [""guesthouses""]}"
+2	2	1	5	2	1	Human	4, 5	"{""4"": [""hotel""], ""5"": [""hotels""]}"
+2	2	1	4	4	1	Agent	1, 4	"{""1"": [""park""], ""4"": [""parking""]}"
+2	2	1	6	2	1	Agent	5, 6	"{""5"": [""town""], ""6"": [""town""]}"

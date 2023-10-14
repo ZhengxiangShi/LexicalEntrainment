@@ -1,0 +1,5 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	3	1	2	1	Human	0, 1	"{""0"": [""nearest police station""], ""1"": [""nearest police station""]}"
+2	1	2	1	2	1	Human	0, 1	"{""0"": [""police station""], ""1"": [""police station"", ""police station""]}"
+3	3	1	4	3	1	Agent	3, 4, 5	"{""3"": [""quite""], ""4"": [""quite""], ""5"": [""quite""]}"
+2	2	1	1	2	1	Human	0, 1	"{""0"": [""number""], ""1"": [""number""]}"

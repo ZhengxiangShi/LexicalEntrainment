@@ -1,0 +1,12 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	3	9	2	1	Human	0, 4, 8, 9	"{""0"": [""place""], ""4"": [""place""], ""8"": [""place""], ""9"": [""places""]}"
+4	4	4	18	16	3	Agent	3, 5, 17, 18	"{""3"": [""whale of a time""], ""5"": [""whale of a time""], ""17"": [""whale of a time""], ""18"": [""whale of a time""]}"
+2	2	2	1	2	1	Human	0, 1	"{""0"": [""west side""], ""1"": [""west side""]}"
+3	3	2	18	6	2	Agent	13, 17, 18	"{""13"": [""hobsons house""], ""17"": [""hobsons house""], ""18"": [""hobson house""]}"
+2	2	2	7	2	1	Human	6, 7	"{""6"": [""phone number""], ""7"": [""phone number""]}"
+2	2	2	7	2	1	Human	6, 7	"{""6"": [""entrance fee""], ""7"": [""entrance fee""]}"
+2	2	1	8	2	1	Agent	7, 8	"{""7"": [""information""], ""8"": [""info""]}"
+2	2	2	15	2	1	Human	14, 15	"{""14"": [""reference number""], ""15"": [""reference number""]}"
+6	2	1	6	19	1	Agent	1, 6, 7, 14, 15, 19	"{""1"": [""number""], ""6"": [""number""], ""7"": [""number""], ""14"": [""number""], ""15"": [""number""], ""19"": [""number""]}"
+2	2	1	10	2	1	Agent	9, 10	"{""9"": [""guesthouse""], ""10"": [""guesthouse""]}"
+2	2	1	18	10	1	Agent	9, 18	"{""9"": [""hotel""], ""18"": [""hotel""]}"

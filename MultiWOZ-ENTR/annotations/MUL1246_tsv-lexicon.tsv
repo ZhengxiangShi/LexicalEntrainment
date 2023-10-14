@@ -1,0 +1,10 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	3	2	6	1	Agent	1, 2, 6	"{""1"": [""huntingdon marriott hotel""], ""2"": [""huntingdon marriott hotel""], ""6"": [""huntingdon marriott hotel""]}"
+4	4	2	7	4	1	Human	6, 7, 8, 9	"{""6"": [""chinese restaurant""], ""7"": [""chinese restaurants""], ""8"": [""chinese restaurants""], ""9"": [""chinese restaurant""]}"
+2	2	2	10	2	1	Agent	9, 10	"{""9"": [""ugly duckling""], ""10"": [""ugly duckling""]}"
+2	2	2	5	2	1	Human	4, 5	"{""4"": [""reference number""], ""5"": [""reference number""]}"
+2	2	1	11	2	1	Human	10, 11	"{""10"": [""address""], ""11"": [""address""]}"
+7	5	1	1	13	1	Human	0, 1, 2, 3, 6, 8, 12	"{""0"": [""hotel""], ""1"": [""hotel""], ""2"": [""hotel""], ""3"": [""hotel""], ""6"": [""hotel""], ""8"": [""hotel""], ""12"": [""hotel""]}"
+5	1	1	12	7	1	Human	6, 7, 8, 9, 12	"{""6"": [""restaurant""], ""7"": [""restaurants""], ""8"": [""restaurants""], ""9"": [""restaurant""], ""12"": [""restaurant""]}"
+3	3	1	7	3	1	Human	6, 7, 8	"{""6"": [""area""], ""7"": [""area""], ""8"": [""area""]}"
+2	2	1	13	2	1	Human	12, 13	"{""12"": [""taxi""], ""13"": [""taxi""]}"

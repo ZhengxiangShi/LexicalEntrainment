@@ -1,0 +1,13 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	3	1	2	1	Human	0, 1	"{""0"": [""birmingham new street""], ""1"": [""birmingham new street""]}"
+2	2	4	9	2	1	Human	8, 9	"{""8"": [""east with free parking""], ""9"": [""east with free parking""]}"
+2	2	2	10	2	1	Agent	9, 10	"{""9"": [""cheap guesthouses""], ""10"": [""cheap guesthouse""]}"
+2	2	1	10	4	1	Agent	7, 10	"{""7"": [""north""], ""10"": [""north""]}"
+2	2	2	13	2	1	Human	12, 13	"{""12"": [""phone number""], ""13"": [""phone number""]}"
+3	3	1	1	4	1	Human	0, 1, 3	"{""0"": [""cambridge""], ""1"": [""cambridge""], ""3"": [""cambridge""]}"
+2	2	2	10	4	1	Agent	7, 10	"{""7"": [""zero star""], ""10"": [""zero star""]}"
+4	2	1	7	5	1	Human	6, 7, 9, 10	"{""6"": [""star""], ""7"": [""star""], ""9"": [""stars""], ""10"": [""star""]}"
+3	1	1	10	4	2	Agent	7, 9, 10	"{""7"": [""guesthouses""], ""9"": [""guesthouses""], ""10"": [""guesthouse""]}"
+3	3	1	1	4	1	Human	0, 1, 3	"{""0"": [""train""], ""1"": [""trains""], ""3"": [""train""]}"
+2	2	1	13	2	1	Human	12, 13	"{""12"": [""address""], ""13"": [""address""]}"
+2	2	1	13	2	1	Human	12, 13	"{""12"": [""postcode""], ""13"": [""postcode""]}"

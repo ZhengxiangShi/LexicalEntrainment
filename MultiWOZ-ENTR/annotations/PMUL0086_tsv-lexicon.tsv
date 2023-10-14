@@ -1,0 +1,13 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	3	15	12	1	Human	4, 15	"{""4"": [""reservation""], ""15"": [""reservation""]}"
+2	2	2	9	2	1	Human	8, 9	"{""8"": [""free wifi""], ""9"": [""free wifi""]}"
+4	4	3	14	5	2	Agent	11, 13, 14, 15	"{""11"": [""acorn guest house""], ""13"": [""acorn guest house""], ""14"": [""acorn guest house""], ""15"": [""acorn guest house""]}"
+2	2	1	9	2	1	Human	8, 9	"{""8"": [""north""], ""9"": [""north""]}"
+2	2	3	3	2	1	Human	2, 3	"{""2"": [""yippee noodle bar""], ""3"": [""yippee noodle bar""]}"
+3	3	2	6	5	1	Agent	3, 6	"{""3"": [""moderate price""], ""6"": [""moderate pricing""]}"
+4	1	1	11	9	1	Agent	3, 6, 11	"{""3"": [""price""], ""6"": [""pricing""], ""11"": [""price""]}"
+3	3	1	9	4	1	Human	8, 9, 11	"{""8"": [""parking""], ""9"": [""parking""], ""11"": [""parking""]}"
+3	3	1	13	3	1	Human	12, 13, 14	"{""12"": [""rated""], ""13"": [""rated""], ""14"": [""rating""]}"
+3	3	1	13	3	1	Human	12, 13, 14	"{""12"": [""stars""], ""13"": [""stars""], ""14"": [""star""]}"
+2	2	1	6	4	1	Agent	3, 6	"{""3"": [""place""], ""6"": [""place""]}"
+2	2	1	1	2	1	Human	0, 1	"{""0"": [""restaurant""], ""1"": [""restaurant""]}"

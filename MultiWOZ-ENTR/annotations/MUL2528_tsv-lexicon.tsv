@@ -1,0 +1,12 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+5	5	1	4	17	1	Agent	1, 4, 5, 7, 17	"{""1"": [""center""], ""4"": [""centre""], ""5"": [""centre""], ""7"": [""centre""], ""17"": [""centre""]}"
+5	5	1	7	9	1	Human	6, 7, 8, 14	"{""6"": [""college""], ""7"": [""college"", ""colleges""], ""8"": [""college""], ""14"": [""college""]}"
+6	6	1	13	8	3	Human	8, 10, 12, 13, 14, 15	"{""8"": [""address""], ""10"": [""address""], ""12"": [""address""], ""13"": [""address""], ""14"": [""address""], ""15"": [""address""]}"
+4	4	2	13	14	3	Human	0, 10, 12, 13	"{""0"": [""university arms""], ""10"": [""university arms""], ""12"": [""university arms""], ""13"": [""university arms""]}"
+3	3	2	8	8	1	Agent	7, 8, 14	"{""7"": [""corpus christi""], ""8"": [""corpus christi""], ""14"": [""corpus christi""]}"
+4	4	1	7	8	3	Human	0, 2, 4, 7	"{""0"": [""information""], ""2"": [""information""], ""4"": [""information""], ""7"": [""information""]}"
+3	3	2	8	9	1	Agent	1, 8, 9	"{""1"": [""phone number""], ""8"": [""phone number""], ""9"": [""phone number""]}"
+5	5	1	11	13	2	Human	0, 10, 11, 12	"{""0"": [""hotel""], ""10"": [""hotel"", ""hotel""], ""11"": [""hotel""], ""12"": [""hotel""]}"
+2	2	2	5	2	1	Human	4, 5	"{""4"": [""multiple sports""], ""5"": [""multiple sports""]}"
+2	2	1	6	2	1	Agent	5, 6	"{""5"": [""area""], ""6"": [""area""]}"
+2	2	1	5	2	1	Human	4, 5	"{""4"": [""attraction""], ""5"": [""attraction"", ""attractions""]}"

@@ -1,0 +1,9 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+5	5	1	4	10	1	Agent	3, 4, 7, 11, 12	"{""3"": [""preference""], ""4"": [""preference""], ""7"": [""preference""], ""11"": [""preference""], ""12"": [""preference""]}"
+3	3	2	11	4	1	Human	10, 11, 13	"{""10"": [""entrance fee""], ""11"": [""entrance fees""], ""13"": [""entrance fee""]}"
+2	2	2	9	4	1	Human	6, 9	"{""6"": [""city centre""], ""9"": [""city centre""]}"
+5	3	1	6	9	1	Agent	3, 6, 7, 9, 11	"{""3"": [""center""], ""6"": [""centre""], ""7"": [""centre""], ""9"": [""centre""], ""11"": [""centre""]}"
+4	4	1	8	8	1	Agent	7, 8, 11, 14	"{""7"": [""attractions""], ""8"": [""attractions""], ""11"": [""attractions""], ""14"": [""attraction""]}"
+4	4	1	10	11	1	Agent	5, 10, 13, 15	"{""5"": [""number""], ""10"": [""number""], ""13"": [""number""], ""15"": [""number""]}"
+3	3	1	11	4	1	Human	10, 11, 13	"{""10"": [""college""], ""11"": [""college""], ""13"": [""college""]}"
+2	2	1	10	4	1	Agent	7, 10	"{""7"": [""type""], ""10"": [""type""]}"

@@ -1,0 +1,10 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	2	9	6	2	Human	4, 8, 9	"{""4"": [""5 people""], ""8"": [""5 people""], ""9"": [""5 people""]}"
+3	3	2	9	6	2	Human	4, 8, 9	"{""4"": [""4 nights""], ""8"": [""4 nights""], ""9"": [""four nights""]}"
+3	3	1	11	6	2	Human	6, 10, 11	"{""6"": [""address""], ""10"": [""address""], ""11"": [""address""]}"
+3	3	1	9	6	2	Human	4, 8, 9	"{""4"": [""wednesday""], ""8"": [""wednesday""], ""9"": [""wednesday""]}"
+2	2	2	7	2	1	Human	6, 7	"{""6"": [""phone number""], ""7"": [""phone number""]}"
+2	2	2	7	2	1	Human	6, 7	"{""6"": [""tandoori palace""], ""7"": [""tandoori palace""]}"
+2	2	1	8	4	1	Agent	5, 8	"{""5"": [""alexander""], ""8"": [""alexander""]}"
+3	1	1	9	4	1	Human	6, 7, 9	"{""6"": [""number""], ""7"": [""number""], ""9"": [""number""]}"
+2	2	1	7	6	1	Human	2, 7	"{""2"": [""hotel""], ""7"": [""hotel""]}"

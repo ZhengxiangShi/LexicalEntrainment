@@ -1,0 +1,5 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	4	7	2	1	Human	6, 7	"{""6"": [""cambridge to kings lynn""], ""7"": [""cambridge to kings lynn""]}"
+2	2	1	7	4	1	Human	4, 7	"{""4"": [""monday""], ""7"": [""monday""]}"
+2	2	1	8	2	1	Agent	7, 8	"{""7"": [""tickets""], ""8"": [""tickets""]}"
+2	2	1	7	4	1	Human	4, 7	"{""4"": [""train""], ""7"": [""train""]}"

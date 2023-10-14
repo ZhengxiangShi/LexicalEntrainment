@@ -1,0 +1,13 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	4	9	4	1	Human	6, 9	"{""6"": [""food in the centre""], ""9"": [""food in the centre""]}"
+3	3	2	16	3	1	Agent	15, 16, 17	"{""15"": [""contact number""], ""16"": [""contact number""], ""17"": [""contact number""]}"
+2	2	1	6	9	1	Agent	1, 6, 7, 9	"{""1"": [""centre""], ""6"": [""centre""], ""7"": [""centre""], ""9"": [""centre""]}"
+2	2	3	4	2	1	Agent	3, 4	"{""3"": [""milton county park""], ""4"": [""milton county park""]}"
+2	2	3	9	4	1	Human	0, 6, 7, 9, 10, 12, 14	"{""0"": [""restaurant""], ""6"": [""restaurants""], ""7"": [""restaurants""], ""9"": [""restaurants""], ""10"": [""restaurants""], ""12"": [""restaurant""], ""14"": [""restaurant""]}"
+4	4	1	5	8	1	Human	4, 5, 10, 11	"{""4"": [""postcode""], ""5"": [""postcode""], ""10"": [""postcode""], ""11"": [""postcode""]}"
+3	3	1	1	7	1	Human	0, 1, 6	"{""0"": [""town""], ""1"": [""town""], ""6"": [""town""]}"
+2	2	2	9	2	1	Human	8, 9	"{""8"": [""indian food""], ""9"": [""indian food""]}"
+2	2	2	10	2	1	Agent	9, 10	"{""9"": [""price range""], ""10"": [""price range""]}"
+5	3	1	1	13	1	Human	0, 1, 3, 4, 12	"{""0"": [""park""], ""1"": [""parks""], ""3"": [""park""], ""4"": [""park""], ""12"": [""park""]}"
+2	2	1	5	2	1	Human	4, 5	"{""4"": [""area""], ""5"": [""area""]}"
+2	2	1	17	6	1	Human	12, 17	"{""12"": [""taxi""], ""17"": [""taxi""]}"

@@ -1,0 +1,8 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	4	14	12	1	Agent	3, 14	"{""3"": [""alexander bed and breakfast""], ""14"": [""alexander bed and breakfast""]}"
+3	3	2	2	3	1	Agent	1, 2, 3	"{""1"": [""price range""], ""2"": [""price range""], ""3"": [""price range""]}"
+3	3	1	8	14	1	Agent	3, 8, 16	"{""3"": [""information""], ""8"": [""information""], ""16"": [""information""]}"
+3	3	1	9	5	1	Human	8, 9, 12	"{""8"": [""nusha""], ""9"": [""nusha""], ""12"": [""nusha""]}"
+3	3	1	7	18	1	Human	0, 7, 17	"{""0"": [""trip""], ""7"": [""trip""], ""17"": [""trip""]}"
+2	2	1	13	2	1	Human	12, 13	"{""12"": [""contact""], ""13"": [""contact""]}"
+2	2	1	14	4	1	Agent	11, 14	"{""11"": [""park""], ""14"": [""parking""]}"

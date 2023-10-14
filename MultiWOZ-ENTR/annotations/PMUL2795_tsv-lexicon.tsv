@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	4	13	12	1	Human	2, 13	"{""2"": [""finches bed and breakfast""], ""13"": [""finches bed and breakfast""]}"
+2	2	2	5	2	1	Human	4, 5	"{""4"": [""free parking""], ""5"": [""free parking""]}"
+2	2	1	7	4	1	Human	4, 7	"{""4"": [""type""], ""7"": [""type""]}"
+4	4	1	7	11	1	Human	6, 7, 16	"{""6"": [""attractions""], ""7"": [""attraction"", ""attractions""], ""16"": [""attraction""]}"
+2	2	2	11	2	1	Human	10, 11	"{""10"": [""entrance fee""], ""11"": [""entrance fee""]}"
+4	4	1	1	15	1	Human	0, 1, 4, 14	"{""0"": [""hotel""], ""1"": [""hotels""], ""4"": [""hotel""], ""14"": [""hotel""]}"
+3	1	1	11	6	2	Human	6, 10, 11	"{""6"": [""entrance""], ""10"": [""entrance""], ""11"": [""entrance""]}"
+3	3	1	17	19	1	Human	17, 18	"{""17"": [""help""], ""18"": [""help""]}"
+2	2	1	7	2	1	Human	6, 7	"{""6"": [""center""], ""7"": [""centre""]}"
+2	2	1	14	6	1	Agent	9, 14	"{""9"": [""primavera""], ""14"": [""primavera""]}"

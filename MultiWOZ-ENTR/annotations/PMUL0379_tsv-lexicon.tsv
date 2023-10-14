@@ -1,0 +1,12 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	4	12	3	1	Agent	11, 12, 13	"{""11"": [""sesame restaurant and bar""], ""12"": [""sesame restaurant and bar""], ""13"": [""sesame restaurant and bar""]}"
+2	2	2	9	2	1	Human	8, 9	"{""8"": [""expensive restaurant""], ""9"": [""expensive restaurants""]}"
+4	4	1	5	10	1	Human	4, 5, 9, 13	"{""4"": [""centre""], ""5"": [""centre""], ""9"": [""centre""], ""13"": [""centre""]}"
+3	3	2	12	7	1	Agent	7, 12, 13	"{""7"": [""phone number""], ""12"": [""phone number""], ""13"": [""phone number""]}"
+3	3	1	12	5	1	Agent	9, 12, 13	"{""9"": [""food""], ""12"": [""food""], ""13"": [""food""]}"
+2	2	2	6	2	1	Agent	5, 6	"{""5"": [""star rating""], ""6"": [""star rating""]}"
+2	2	1	4	2	1	Agent	3, 4	"{""3"": [""price""], ""4"": [""price""]}"
+3	3	1	13	8	2	Human	6, 12, 13	"{""6"": [""address""], ""12"": [""address""], ""13"": [""address""]}"
+2	2	1	5	2	1	Human	4, 5	"{""4"": [""guesthouse""], ""5"": [""guesthouse""]}"
+2	2	1	3	4	1	Human	0, 3	"{""0"": [""place""], ""3"": [""place""]}"
+2	2	1	2	2	1	Agent	1, 2	"{""1"": [""questions""], ""2"": [""questions""]}"

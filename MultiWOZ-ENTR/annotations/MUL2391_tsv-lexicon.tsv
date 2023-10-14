@@ -1,0 +1,12 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+4	4	1	5	6	1	Human	4, 5, 7, 9	"{""4"": [""centre""], ""5"": [""centre""], ""7"": [""centre""], ""9"": [""centre""]}"
+2	2	2	10	2	1	Agent	9, 10	"{""9"": [""saints church""], ""10"": [""saints church""]}"
+4	4	2	10	8	3	Agent	3, 5, 7, 10	"{""3"": [""pizza expresses""], ""5"": [""pizza express""], ""7"": [""pizza express""], ""10"": [""pizza express""]}"
+2	2	2	2	2	1	Agent	1, 2	"{""1"": [""5 options""], ""2"": [""5 options""]}"
+4	1	1	10	8	3	Agent	3, 5, 7, 10	"{""3"": [""pizza""], ""5"": [""pizza""], ""7"": [""pizza""], ""10"": [""pizza""]}"
+3	1	1	4	4	1	Agent	1, 2, 4	"{""1"": [""options""], ""2"": [""options""], ""4"": [""options""]}"
+2	2	1	8	8	1	Agent	1, 8	"{""1"": [""area""], ""8"": [""area""]}"
+2	2	1	10	2	1	Agent	9, 10	"{""9"": [""church""], ""10"": [""church"", ""church""]}"
+2	2	1	11	6	1	Human	6, 11	"{""6"": [""number""], ""11"": [""number""]}"
+2	2	1	9	4	1	Human	6, 9	"{""6"": [""postcode""], ""9"": [""postcode""]}"
+2	1	1	10	2	1	Agent	9, 10	"{""9"": [""saints"", ""saint""], ""10"": [""saints""]}"

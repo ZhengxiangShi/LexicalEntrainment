@@ -1,0 +1,9 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	3	8	3	1	Agent	7, 8, 9, 13	"{""7"": [""cambridge""], ""8"": [""cambridge""], ""9"": [""cambridge""], ""13"": [""cambridge""]}"
+2	2	2	15	2	1	Human	14, 15	"{""14"": [""8 tickets""], ""15"": [""8 tickets""]}"
+3	3	2	7	10	1	Human	6, 7, 15	"{""6"": [""reference number""], ""7"": [""reference number""], ""15"": [""reference number""]}"
+7	7	1	7	9	1	Human	6, 7, 9, 11, 12, 13, 14	"{""6"": [""train""], ""7"": [""train""], ""9"": [""train""], ""11"": [""train""], ""12"": [""train""], ""13"": [""train""], ""14"": [""train""]}"
+3	1	1	14	3	1	Agent	13, 14, 15	"{""13"": [""ticket"", ""tickets""], ""14"": [""tickets""], ""15"": [""tickets""]}"
+2	2	1	13	8	1	Human	6, 13	"{""6"": [""broxbourne""], ""13"": [""broxbourne""]}"
+2	2	1	5	4	1	Human	2, 5	"{""2"": [""house""], ""5"": [""house""]}"
+2	2	1	5	4	1	Human	2, 5	"{""2"": [""wifi""], ""5"": [""wifi""]}"

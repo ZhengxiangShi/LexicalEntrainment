@@ -1,0 +1,5 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	3	3	4	1	Human	0, 3	"{""0"": [""el shaddai hotel""], ""3"": [""el shaddai hotel""]}"
+4	4	2	3	8	1	Human	2, 3, 8, 9	"{""2"": [""phone number""], ""3"": [""phone number""], ""8"": [""phone number""], ""9"": [""phone number""]}"
+3	3	1	7	6	1	Human	6, 7, 11	"{""6"": [""fun""], ""7"": [""fun""], ""11"": [""fun""]}"
+3	3	1	5	5	1	Human	4, 5, 8	"{""4"": [""museums""], ""5"": [""museum""], ""8"": [""museum's""]}"

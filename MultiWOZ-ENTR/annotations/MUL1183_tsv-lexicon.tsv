@@ -1,0 +1,7 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+4	4	3	8	6	1	Agent	7, 8, 9, 12	"{""7"": [""holy trinity church""], ""8"": [""holy trinity church""], ""9"": [""holy trinity church""], ""12"": [""holy trinity church""]}"
+2	2	1	13	2	1	Human	12, 13	"{""12"": [""taxi""], ""13"": [""taxi""]}"
+2	2	2	3	2	1	Human	2, 3	"{""2"": [""reference number""], ""3"": [""reference number""]}"
+3	3	1	1	13	1	Human	0, 1, 12	"{""0"": [""limehouse""], ""1"": [""limehouse""], ""12"": [""limehouse""]}"
+3	1	1	13	12	1	Human	2, 3, 13	"{""2"": [""number""], ""3"": [""number""], ""13"": [""number""]}"
+2	2	1	5	2	1	Human	4, 5	"{""4"": [""architecture""], ""5"": [""architecture""]}"

@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	4	5	4	2	Human	2, 4, 5	"{""2"": [""bishops stortford""], ""4"": [""bishops stortford""], ""5"": [""bishops stortford""]}"
+2	2	2	13	2	1	Human	12, 13	"{""12"": [""phone number""], ""13"": [""phone number""]}"
+2	2	1	13	2	1	Human	12, 13	"{""12"": [""address""], ""13"": [""address""]}"
+2	2	2	3	4	1	Human	0, 3, 5, 7	"{""0"": [""train""], ""3"": [""trains""], ""5"": [""trains""], ""7"": [""train""]}"
+4	4	1	11	5	2	Human	8, 10, 11, 12	"{""8"": [""guesthouse""], ""10"": [""guesthouses""], ""11"": [""guesthouse""], ""12"": [""guesthouse""]}"
+3	3	1	5	4	2	Human	2, 4, 5	"{""2"": [""cambridge""], ""4"": [""cambridge""], ""5"": [""cambridge""]}"
+2	2	1	12	2	1	Agent	11, 12	"{""11"": [""internet""], ""12"": [""internet""]}"
+2	2	1	11	4	1	Human	8, 11	"{""8"": [""price""], ""11"": [""price""]}"
+2	2	1	11	4	1	Human	8, 11	"{""8"": [""star""], ""11"": [""star""]}"
+2	2	1	8	4	1	Agent	5, 8	"{""5"": [""time""], ""8"": [""time""]}"

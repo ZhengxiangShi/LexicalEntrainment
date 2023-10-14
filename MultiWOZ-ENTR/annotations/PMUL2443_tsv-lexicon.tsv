@@ -1,0 +1,7 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	4	1	2	1	Human	0, 1	"{""0"": [""sesame restaurant and bar""], ""1"": [""sesame restaurant and bar""]}"
+2	2	2	7	2	1	Human	6, 7	"{""6"": [""phone number""], ""7"": [""phone number""]}"
+3	3	1	4	5	1	Agent	1, 4, 5	"{""1"": [""centre""], ""4"": [""centre""], ""5"": [""center""]}"
+3	1	1	8	9	1	Human	0, 1, 8	"{""0"": [""restaurant""], ""1"": [""restaurant""], ""8"": [""restaurant""]}"
+3	3	1	5	5	1	Human	4, 5, 8	"{""4"": [""theatre""], ""5"": [""theatre""], ""8"": [""theater""]}"
+2	2	1	7	2	1	Human	6, 7	"{""6"": [""postcode""], ""7"": [""postcode""]}"

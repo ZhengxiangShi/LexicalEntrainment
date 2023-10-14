@@ -1,0 +1,13 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	5	14	7	1	Agent	9, 14, 15	"{""9"": [""indian restaurants in the south""], ""14"": [""indian restaurants in the south""], ""15"": [""indian restaurant in the south""]}"
+4	1	4	10	7	1	Agent	9, 10, 14, 15	"{""9"": [""restaurants in the south""], ""10"": [""restaurant in the south""], ""14"": [""restaurants in the south""], ""15"": [""restaurant in the south""]}"
+2	2	1	21	4	1	Human	18, 21	"{""18"": [""day""], ""21"": [""day""]}"
+2	2	1	11	10	1	Human	11, 13, 14, 15	"{""11"": [""south""], ""13"": [""south""], ""14"": [""south""], ""15"": [""South""]}"
+2	2	2	5	2	1	Human	4, 5	"{""4"": [""phone number""], ""5"": [""phone number""]}"
+2	2	2	9	4	1	Human	6, 9	"{""6"": [""south side""], ""9"": [""south side""]}"
+4	1	2	14	7	2	Agent	9, 11, 14, 15	"{""9"": [""indian restaurants""], ""11"": [""indian restaurants""], ""14"": [""indian restaurants""], ""15"": [""indian restaurant""]}"
+4	4	1	17	16	3	Human	2, 8, 16, 17	"{""2"": [""address""], ""8"": [""address""], ""16"": [""address""], ""17"": [""address""]}"
+2	2	1	10	2	1	Agent	9, 10	"{""9"": [""town""], ""10"": [""town""]}"
+4	4	1	8	6	1	Agent	7, 8, 10, 12	"{""7"": [""food""], ""8"": [""food""], ""10"": [""food""], ""12"": [""food""]}"
+3	1	1	6	9	1	Agent	1, 6, 9	"{""1"": [""side""], ""6"": [""side""], ""9"": [""side""]}"
+2	2	1	5	2	1	Human	4, 5	"{""4"": [""postcode""], ""5"": [""postcode""]}"

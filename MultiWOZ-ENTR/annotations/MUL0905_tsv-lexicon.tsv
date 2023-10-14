@@ -1,0 +1,8 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	4	3	2	1	Human	2, 3	"{""2"": [""colleges in the center""], ""3"": [""colleges in the centre""]}"
+3	3	1	3	14	2	Human	0, 2, 3, 9, 13	"{""0"": [""centre""], ""2"": [""center""], ""3"": [""centre""], ""9"": [""centre""], ""13"": [""centre""]}"
+5	5	2	4	9	1	Agent	3, 4, 5, 10, 11	"{""3"": [""christ's college""], ""4"": [""christ's college""], ""5"": [""christ's college""], ""10"": [""christ's college""], ""11"": [""christ's college""]}"
+3	3	1	4	10	1	Human	2, 3, 4, 5, 10, 11	"{""2"": [""colleges""], ""3"": [""college"", ""colleges""], ""4"": [""college"", ""college""], ""5"": [""college""], ""10"": [""college""], ""11"": [""college""]}"
+3	3	1	6	6	2	Agent	1, 3, 6	"{""1"": [""area""], ""3"": [""area""], ""6"": [""area""]}"
+3	3	1	5	7	1	Human	4, 5, 10	"{""4"": [""fee""], ""5"": [""fee""], ""10"": [""fee""]}"
+2	2	1	1	2	1	Human	0, 1	"{""0"": [""sports""], ""1"": [""sports""]}"

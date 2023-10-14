@@ -1,0 +1,4 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	3	1	2	1	Human	0, 1	"{""0"": [""places""], ""1"": [""places""]}"
+2	2	1	1	2	1	Human	0, 1	"{""0"": [""town""], ""1"": [""town""]}"
+2	2	1	2	2	1	Agent	1, 2	"{""1"": [""internet""], ""2"": [""internet""]}"

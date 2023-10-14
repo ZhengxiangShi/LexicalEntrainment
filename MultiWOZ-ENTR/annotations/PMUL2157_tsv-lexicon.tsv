@@ -1,0 +1,10 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	3	11	2	1	Human	10, 11	"{""10"": [""restaurant in time""], ""11"": [""restaurant in time""]}"
+3	3	1	4	3	1	Agent	3, 4, 5	"{""3"": [""south""], ""4"": [""south""], ""5"": [""south""]}"
+2	2	1	6	6	1	Agent	1, 6	"{""1"": [""food""], ""6"": [""food""]}"
+4	4	1	1	12	1	Human	0, 1, 5, 6, 10, 11	"{""0"": [""restaurant""], ""1"": [""restaurants"", ""restaurant""], ""5"": [""restaurant""], ""6"": [""restaurant""], ""10"": [""restaurant""], ""11"": [""restaurant""]}"
+2	2	1	11	2	1	Human	10, 11	"{""10"": [""taxi""], ""11"": [""taxi""]}"
+2	2	2	5	2	1	Human	4, 5	"{""4"": [""entrance fee""], ""5"": [""entrance fee""]}"
+5	5	1	9	4	1	Human	8, 9, 10, 11	"{""8"": [""reservation""], ""9"": [""reservation""], ""10"": [""reservation""], ""11"": [""reservation""]}"
+4	4	1	3	9	1	Human	2, 3, 5, 10	"{""2"": [""cinema""], ""3"": [""cinemas""], ""5"": [""cinema""], ""10"": [""cinema""]}"
+3	3	1	9	4	1	Human	8, 9, 11	"{""8"": [""number""], ""9"": [""number""], ""11"": [""number""]}"

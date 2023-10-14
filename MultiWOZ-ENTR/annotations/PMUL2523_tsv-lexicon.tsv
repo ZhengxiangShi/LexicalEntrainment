@@ -1,0 +1,13 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	4	1	2	1	Human	0, 1	"{""0"": [""park in the west""], ""1"": [""parks in the west""]}"
+3	1	1	2	3	1	Human	1, 2	"{""1"": [""west""], ""2"": [""west""]}"
+2	2	2	11	2	1	Human	10, 11	"{""10"": [""reference number""], ""11"": [""reference number""]}"
+4	4	1	1	10	1	Human	0, 1, 7, 9	"{""0"": [""area""], ""1"": [""area""], ""7"": [""area""], ""9"": [""area""]}"
+3	1	1	13	4	1	Human	10, 11, 13	"{""10"": [""number""], ""11"": [""number""], ""13"": [""number""]}"
+3	1	1	6	7	1	Human	0, 1, 6	"{""0"": [""park""], ""1"": [""parks""], ""6"": [""parking""]}"
+2	2	1	5	2	1	Human	4, 5	"{""4"": [""address""], ""5"": [""address""]}"
+2	2	1	13	2	1	Human	12, 13	"{""12"": [""contact""], ""13"": [""contact""]}"
+2	2	1	12	10	1	Agent	3, 12	"{""3"": [""information""], ""12"": [""info""]}"
+2	2	1	8	2	1	Agent	7, 8	"{""7"": [""rating""], ""8"": [""rated""]}"
+2	2	1	8	2	1	Agent	7, 8	"{""7"": [""star""], ""8"": [""stars""]}"
+2	2	1	13	2	1	Human	12, 13	"{""12"": [""taxi""], ""13"": [""taxi""]}"

@@ -1,0 +1,5 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	3	7	4	1	Human	6, 7, 9	"{""6"": [""scott polar museum""], ""7"": [""scott polar museum""], ""9"": [""scott polar museum""]}"
+3	3	2	1	2	1	Human	0, 1, 7	"{""0"": [""train""], ""1"": [""train"", ""trains""], ""7"": [""train""]}"
+2	2	1	9	2	1	Human	8, 9	"{""8"": [""postcode""], ""9"": [""postcode""]}"
+5	5	1	4	5	1	Agent	3, 4, 5, 6, 7	"{""3"": [""tickets""], ""4"": [""ticket""], ""5"": [""ticket""], ""6"": [""ticket""], ""7"": [""ticket""]}"

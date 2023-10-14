@@ -1,0 +1,13 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	2	9	2	1	Human	8, 9	"{""8"": [""2 stars""], ""9"": [""2 stars""]}"
+2	2	2	10	2	1	Agent	9, 10	"{""9"": [""ashley hotel""], ""10"": [""ashley hotel""]}"
+2	2	2	4	2	1	Agent	3, 4	"{""3"": [""christ's college""], ""4"": [""christ's college""]}"
+3	3	1	9	5	2	Human	6, 8, 9, 10	"{""6"": [""hotel""], ""8"": [""hotel""], ""9"": [""hotels"", ""hotel""], ""10"": [""hotel""]}"
+2	2	1	11	8	1	Human	4, 11	"{""4"": [""number""], ""11"": [""number""]}"
+2	2	2	5	2	1	Human	4, 5	"{""4"": [""phone number""], ""5"": [""phone number""]}"
+2	2	2	8	2	1	Agent	7, 8	"{""7"": [""price range""], ""8"": [""price range""]}"
+2	2	2	11	2	1	Human	10, 11	"{""10"": [""reference number""], ""11"": [""reference number""]}"
+3	3	1	11	4	2	Human	10, 11	"{""10"": [""booking""], ""11"": [""booking""]}"
+3	2	1	3	5	1	Human	0, 3, 4	"{""0"": [""colleges""], ""3"": [""college""], ""4"": [""college""]}"
+2	2	1	5	2	1	Human	4, 5	"{""4"": [""address""], ""5"": [""address""]}"
+2	2	1	1	2	1	Human	0, 1	"{""0"": [""town""], ""1"": [""town""]}"

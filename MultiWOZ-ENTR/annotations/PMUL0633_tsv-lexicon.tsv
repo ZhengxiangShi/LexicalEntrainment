@@ -1,0 +1,13 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	2	5	3	1	Human	4, 5, 6	"{""4"": [""three people""], ""5"": [""3 people""], ""6"": [""3 people""]}"
+3	3	2	7	3	1	Human	6, 7, 8	"{""6"": [""reference numbers""], ""7"": [""reference number""], ""8"": [""reference number""]}"
+2	2	2	9	4	1	Human	6, 9	"{""6"": [""greek restaurant""], ""9"": [""greek restaurants""]}"
+4	4	1	1	16	1	Human	0, 1, 2, 15	"{""0"": [""wednesday""], ""1"": [""wednesday""], ""2"": [""wednesday""], ""15"": [""wednesday""]}"
+4	1	1	15	10	1	Human	6, 7, 8, 15	"{""6"": [""numbers""], ""7"": [""number""], ""8"": [""number""], ""15"": [""number""]}"
+3	3	1	7	3	1	Human	6, 7, 8	"{""6"": [""provide""], ""7"": [""provide""], ""8"": [""provide""]}"
+3	1	1	11	6	1	Human	6, 9, 11	"{""6"": [""restaurant""], ""9"": [""restaurants""], ""11"": [""restaurants""]}"
+3	3	1	12	5	1	Agent	9, 12, 13	"{""9"": [""town""], ""12"": [""town""], ""13"": [""town""]}"
+3	3	1	1	6	1	Human	0, 1, 5	"{""0"": [""train""], ""1"": [""trains""], ""5"": [""trains""]}"
+2	2	1	13	2	1	Human	12, 13	"{""12"": [""centre""], ""13"": [""centre""]}"
+2	2	1	4	2	1	Agent	3, 4	"{""3"": [""fit""], ""4"": [""fit""]}"
+2	2	1	15	10	1	Human	6, 15	"{""6"": [""reservation""], ""15"": [""reservation""]}"

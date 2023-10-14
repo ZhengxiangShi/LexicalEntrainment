@@ -1,0 +1,12 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	5	7	9	1	Human	6, 7, 14	"{""6"": [""river bar steakhouse and grill""], ""7"": [""river bar steakhouse and grill""], ""14"": [""river bar steakhouse and grill""]}"
+2	2	3	3	2	1	Human	2, 3	"{""2"": [""moderate price range""], ""3"": [""moderate price range""]}"
+2	2	4	1	2	1	Human	0, 1	"{""0"": [""hotel in the north""], ""1"": [""hotels in the north""]}"
+4	4	1	2	6	1	Human	0, 1, 2, 3, 5	"{""0"": [""hotel""], ""1"": [""hotels""], ""2"": [""hotels""], ""3"": [""hotels""], ""5"": [""hotel""]}"
+2	2	2	14	10	1	Agent	5, 14	"{""5"": [""lovell lodge""], ""14"": [""lovell lodge""]}"
+3	3	2	11	4	2	Human	8, 10, 11	"{""8"": [""reference number""], ""10"": [""reference number""], ""11"": [""reference number""]}"
+2	2	2	5	2	1	Human	4, 5	"{""4"": [""free parking""], ""5"": [""free parking""]}"
+5	2	1	9	8	1	Human	8, 9, 10, 11, 15	"{""8"": [""number""], ""9"": [""number""], ""10"": [""number""], ""11"": [""number""], ""15"": [""number""]}"
+2	2	1	13	8	1	Human	6, 13	"{""6"": [""info""], ""13"": [""info""]}"
+2	2	1	10	2	1	Agent	9, 10	"{""9"": [""people""], ""10"": [""people""]}"
+2	2	1	13	2	1	Human	12, 13	"{""12"": [""taxi""], ""13"": [""taxi""]}"

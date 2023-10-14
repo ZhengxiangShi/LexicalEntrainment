@@ -1,0 +1,10 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	3	10	6	2	Agent	5, 9, 10	"{""5"": [""frankie and bennys""], ""9"": [""frankie and bennys""], ""10"": [""frankie and bennys""]}"
+2	2	1	9	4	1	Human	6, 9	"{""6"": [""party""], ""9"": [""party""]}"
+4	4	3	11	7	1	Human	10, 11, 12, 16	"{""10"": [""funky fun house""], ""11"": [""funky fun house""], ""12"": [""funky fun house""], ""16"": [""funky fun house""]}"
+2	2	4	1	2	1	Human	0, 1	"{""0"": [""restaurant in the south""], ""1"": [""restaurants in the south""]}"
+2	2	3	3	4	1	Human	0, 3	"{""0"": [""part of town""], ""3"": [""part of town""]}"
+3	1	1	11	12	1	Human	0, 3, 11	"{""0"": [""town""], ""3"": [""town""], ""11"": [""town""]}"
+2	2	1	5	6	1	Human	0, 5	"{""0"": [""restaurant""], ""5"": [""restaurant""]}"
+3	1	1	2	3	1	Human	1, 2	"{""1"": [""south""], ""2"": [""south""]}"
+3	3	1	9	5	1	Human	6, 9, 10	"{""6"": [""thursday""], ""9"": [""thursday""], ""10"": [""thursday""]}"

@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	6	10	6	1	Agent	5, 10	"{""5"": [""city centre north b and b""], ""10"": [""city centre north b and b""]}"
+2	2	3	6	2	1	Agent	5, 6	"{""5"": [""reservation""], ""6"": [""reservation""]}"
+2	2	1	3	2	1	Human	2, 3	"{""2"": [""east""], ""3"": [""east""]}"
+2	2	1	4	4	1	Agent	1, 4	"{""1"": [""north""], ""4"": [""north""]}"
+2	2	2	3	4	1	Human	0, 3	"{""0"": [""free parking""], ""3"": [""free parking""]}"
+4	4	1	10	10	3	Agent	1, 3, 5, 10	"{""1"": [""criteria""], ""3"": [""criteria""], ""5"": [""criteria""], ""10"": [""criteria""]}"
+2	2	2	3	4	1	Human	0, 3	"{""0"": [""zero stars""], ""3"": [""zero stars""]}"
+2	2	1	13	2	1	Human	12, 13	"{""12"": [""address""], ""13"": [""address""]}"
+2	2	1	10	8	1	Agent	3, 10	"{""3"": [""change""], ""10"": [""change""]}"
+2	1	1	3	4	1	Human	0, 3	"{""0"": [""stars""], ""3"": [""star"", ""stars""]}"

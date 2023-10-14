@@ -1,0 +1,12 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	4	4	3	1	Agent	3, 4, 5	"{""3"": [""alexander bed and breakfast""], ""4"": [""alexander bed and breakfast""], ""5"": [""alexander bed and breakfast""]}"
+2	2	2	9	8	1	Human	2, 9	"{""2"": [""city centre""], ""9"": [""city centre""]}"
+4	1	2	7	5	1	Agent	3, 4, 5, 7	"{""3"": [""alexander bed""], ""4"": [""alexander bed""], ""5"": [""alexander bed""], ""7"": [""alexander bed""]}"
+5	5	1	1	9	1	Human	0, 1, 2, 4, 8	"{""0"": [""hotel""], ""1"": [""hotels""], ""2"": [""hotel""], ""4"": [""hotel""], ""8"": [""hotel""]}"
+2	2	2	8	8	1	Agent	1, 8	"{""1"": [""price range""], ""8"": [""price range""]}"
+4	1	1	7	5	1	Agent	3, 4, 5, 7	"{""3"": [""breakfast""], ""4"": [""breakfast""], ""5"": [""breakfast""], ""7"": [""breakfast""]}"
+3	1	1	19	18	1	Human	2, 9, 19	"{""2"": [""centre""], ""9"": [""centre""], ""19"": [""centre""]}"
+3	1	1	10	10	1	Agent	1, 8, 10	"{""1"": [""range""], ""8"": [""range""], ""10"": [""range""]}"
+3	3	1	9	3	1	Human	8, 9, 10	"{""8"": [""restaurant""], ""9"": [""restaurants"", ""restaurant""], ""10"": [""restaurant""]}"
+2	2	1	19	20	1	Human	0, 19	"{""0"": [""cambridge""], ""19"": [""cambridge""]}"
+2	2	1	15	4	1	Human	12, 15	"{""12"": [""table""], ""15"": [""table""]}"

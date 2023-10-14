@@ -1,0 +1,13 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	4	1	2	1	Human	0, 1	"{""0"": [""entertainment in the centre""], ""1"": [""entertainment in the centre""]}"
+2	2	4	2	2	1	Agent	1, 2	"{""1"": [""centre of the city""], ""2"": [""centre of the city""]}"
+2	2	4	13	2	1	Human	12, 13	"{""12"": [""hotel in the centre""], ""13"": [""hotel in the centre""]}"
+2	2	3	3	4	1	Human	0, 3	"{""0"": [""centre of town""], ""3"": [""centre of town""]}"
+2	2	4	3	2	1	Human	2, 3	"{""2"": [""museums in the centre""], ""3"": [""museums in the centre""]}"
+3	3	1	7	8	1	Human	6, 7, 12, 13	"{""6"": [""hotel""], ""7"": [""hotel""], ""12"": [""hotel""], ""13"": [""hotel"", ""hotel""]}"
+7	1	1	10	14	1	Human	0, 1, 2, 3, 10, 12, 13	"{""0"": [""centre""], ""1"": [""centre""], ""2"": [""centre""], ""3"": [""centre""], ""10"": [""center""], ""12"": [""centre""], ""13"": [""centre""]}"
+4	2	1	9	11	1	Human	0, 3, 9, 10	"{""0"": [""town""], ""3"": [""town""], ""9"": [""town""], ""10"": [""town""]}"
+5	5	1	5	18	1	Human	0, 5, 7, 9, 17	"{""0"": [""cambridge""], ""5"": [""cambridge""], ""7"": [""cambridge""], ""9"": [""cambridge""], ""17"": [""cambridge""]}"
+2	2	1	8	4	1	Agent	5, 8	"{""5"": [""museum""], ""8"": [""museum""]}"
+3	3	1	8	10	1	Agent	1, 8, 10	"{""1"": [""area""], ""8"": [""area""], ""10"": [""area""]}"
+3	3	1	1	7	1	Human	0, 1, 6	"{""0"": [""place""], ""1"": [""places""], ""6"": [""place""]}"

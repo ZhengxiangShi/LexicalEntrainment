@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	2	2	2	1	Agent	1, 2	"{""1"": [""price range""], ""2"": [""price range""]}"
+2	2	2	11	12	1	Human	0, 11	"{""0"": [""west side""], ""11"": [""west side""]}"
+2	2	3	11	2	1	Human	10, 11	"{""10"": [""expensive panasian restaurant""], ""11"": [""expensive panasian restaurants""]}"
+2	2	1	3	2	1	Human	2, 3	"{""2"": [""guesthouse""], ""3"": [""guesthouse""]}"
+3	3	1	13	14	1	Human	0, 13	"{""0"": [""town""], ""13"": [""town""]}"
+4	2	1	12	4	1	Human	10, 11, 12, 13	"{""10"": [""restaurant""], ""11"": [""restaurants""], ""12"": [""restaurants""], ""13"": [""restaurants""]}"
+3	3	1	1	11	1	Human	0, 1, 10	"{""0"": [""hotel""], ""1"": [""hotel""], ""10"": [""hotel""]}"
+3	1	1	3	3	1	Agent	1, 2, 3	"{""1"": [""price""], ""2"": [""price""], ""3"": [""price""]}"
+2	2	1	8	2	1	Agent	7, 8	"{""7"": [""people""], ""8"": [""people""]}"
+2	2	1	7	2	1	Human	6, 7	"{""6"": [""wifi""], ""7"": [""wifi""]}"

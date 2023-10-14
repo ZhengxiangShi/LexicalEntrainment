@@ -1,0 +1,10 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	3	1	2	1	Human	0, 1	"{""0"": [""center of town""], ""1"": [""centre of town""]}"
+2	2	1	1	5	1	Human	0, 1, 4	"{""0"": [""center""], ""1"": [""centre"", ""centers""], ""4"": [""centre""]}"
+2	2	2	6	2	1	Agent	5, 6	"{""5"": [""saints church""], ""6"": [""saints church""]}"
+2	2	2	2	2	1	Agent	1, 2	"{""1"": [""another area""], ""2"": [""another area""]}"
+3	1	1	4	4	1	Agent	1, 2, 4	"{""1"": [""area""], ""2"": [""area""], ""4"": [""area""]}"
+2	2	1	5	2	1	Human	4, 5	"{""4"": [""architecture""], ""5"": [""architecture""]}"
+2	1	1	6	2	1	Agent	5, 6	"{""5"": [""church""], ""6"": [""church""]}"
+2	2	1	1	2	1	Human	0, 1	"{""0"": [""entertainment""], ""1"": [""entertainment""]}"
+2	1	1	6	2	1	Agent	5, 6	"{""5"": [""saints"", ""saint""], ""6"": [""saints""]}"

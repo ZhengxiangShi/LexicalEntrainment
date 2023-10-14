@@ -1,0 +1,10 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	2	13	2	1	Human	12, 13	"{""12"": [""phone number""], ""13"": [""phone number""]}"
+8	8	1	9	11	1	Human	8, 9, 11, 13, 14, 15, 18	"{""8"": [""hotel""], ""9"": [""hotels""], ""11"": [""hotel""], ""13"": [""hotel""], ""14"": [""hotel""], ""15"": [""hotel""], ""18"": [""hotel""]}"
+2	2	2	4	4	1	Agent	1, 4	"{""1"": [""cambridge lodge""], ""4"": [""cambridge lodge""]}"
+2	2	2	19	4	1	Human	16, 19	"{""16"": [""contact number""], ""19"": [""contact number""]}"
+5	5	1	1	19	1	Human	0, 1, 3, 11, 18	"{""0"": [""restaurant""], ""1"": [""restaurant""], ""3"": [""restaurant""], ""11"": [""restaurant""], ""18"": [""restaurant""]}"
+6	2	1	12	15	2	Agent	5, 7, 12, 13, 16, 19	"{""5"": [""number""], ""7"": [""number""], ""12"": [""number""], ""13"": [""number""], ""16"": [""number""], ""19"": [""number""]}"
+2	2	1	11	6	1	Human	6, 11	"{""6"": [""reservation""], ""11"": [""reservation""]}"
+2	2	1	15	2	1	Human	14, 15	"{""14"": [""stars""], ""15"": [""star""]}"
+2	2	1	9	2	1	Human	8, 9	"{""8"": [""wifi""], ""9"": [""wifi""]}"

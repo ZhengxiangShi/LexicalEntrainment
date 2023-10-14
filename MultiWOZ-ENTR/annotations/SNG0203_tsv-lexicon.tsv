@@ -1,0 +1,6 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	3	1	2	1	Human	0, 1	"{""0"": [""haematology day unit""], ""1"": [""haematology day unit""]}"
+2	2	2	1	2	1	Human	0, 1	"{""0"": [""addenbrookes hospital""], ""1"": [""addenbrookes hospital""]}"
+2	2	1	3	2	1	Human	2, 3	"{""2"": [""postcode""], ""3"": [""postcode""]}"
+3	1	1	5	6	1	Human	0, 1, 5	"{""0"": [""day""], ""1"": [""day""], ""5"": [""day""]}"
+2	1	1	1	2	1	Human	0, 1	"{""0"": [""unit""], ""1"": [""unit"", ""unit""]}"

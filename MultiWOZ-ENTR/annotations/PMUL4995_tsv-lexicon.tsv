@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	3	14	4	2	Agent	11, 13, 14	"{""11"": [""different price range""], ""13"": [""different price range""], ""14"": [""different price range""]}"
+3	3	1	15	6	2	Human	10, 14, 15	"{""10"": [""east""], ""14"": [""east""], ""15"": [""east""]}"
+2	2	2	5	2	1	Human	4, 5	"{""4"": [""cheap guesthouse""], ""5"": [""cheap guesthouse""]}"
+4	4	1	18	17	2	Agent	3, 17, 18	"{""3"": [""reservation""], ""17"": [""reservation""], ""18"": [""reservation""]}"
+3	3	2	4	3	1	Agent	3, 4, 5	"{""3"": [""hamilton lodge""], ""4"": [""hamilton lodge""], ""5"": [""hamilton lodge""]}"
+7	4	2	10	11	2	Agent	5, 9, 10, 11, 13, 14, 15	"{""5"": [""price range""], ""9"": [""price range""], ""10"": [""price range""], ""11"": [""price range""], ""13"": [""price range""], ""14"": [""price range""], ""15"": [""price range""]}"
+3	3	2	12	13	1	Agent	7, 12, 19	"{""7"": [""reference number""], ""12"": [""reference number""], ""19"": [""reference number""]}"
+2	2	1	5	2	1	Human	4, 5	"{""4"": [""guesthouse""], ""5"": [""guesthouse""]}"
+3	3	1	16	8	2	Agent	9, 13, 16	"{""9"": [""restaurants""], ""13"": [""restaurants""], ""16"": [""restaurant""]}"
+2	2	1	13	6	1	Human	8, 13	"{""8"": [""food""], ""13"": [""food""]}"

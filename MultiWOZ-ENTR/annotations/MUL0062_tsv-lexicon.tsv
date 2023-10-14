@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	5	9	2	1	Human	8, 9	"{""8"": [""address for the j restaurant""], ""9"": [""address for the j restaurant""]}"
+3	3	1	17	14	2	Human	4, 16, 17	"{""4"": [""wednesday""], ""16"": [""wednesday""], ""17"": [""wednesday""]}"
+2	2	1	13	4	1	Human	10, 13	"{""10"": [""reservation""], ""13"": [""reservation""]}"
+2	2	3	17	8	1	Human	10, 17	"{""10"": [""reservation for 2""], ""17"": [""reservation for 2""]}"
+2	2	2	7	2	1	Human	6, 7	"{""6"": [""four nights""], ""7"": [""four nights""]}"
+4	2	1	5	4	1	Human	4, 5, 6, 7	"{""4"": [""nights""], ""5"": [""nights""], ""6"": [""nights""], ""7"": [""nights""]}"
+4	4	1	16	12	3	Agent	5, 13, 15, 16	"{""5"": [""time""], ""13"": [""time""], ""15"": [""time""], ""16"": [""time""]}"
+2	2	1	16	2	1	Agent	15, 16	"{""15"": [""date""], ""16"": [""date""]}"
+2	1	1	9	2	1	Human	8, 9	"{""8"": [""restaurant""], ""9"": [""restaurant""]}"
+2	2	1	9	2	1	Human	8, 9	"{""8"": [""reviews""], ""9"": [""reviews""]}"

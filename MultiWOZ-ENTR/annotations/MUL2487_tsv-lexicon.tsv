@@ -1,0 +1,5 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	2	1	2	1	Human	0, 1	"{""0"": [""saints church""], ""1"": [""saints church""]}"
+3	1	1	6	7	1	Human	0, 1, 6	"{""0"": [""saints""], ""1"": [""saints""], ""6"": [""saints""]}"
+2	2	2	11	2	1	Human	10, 11	"{""10"": [""phone number""], ""11"": [""phone number""]}"
+2	2	1	9	4	1	Human	6, 9	"{""6"": [""place""], ""9"": [""place""]}"

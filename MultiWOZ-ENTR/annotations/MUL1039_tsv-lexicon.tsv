@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	4	8	5	1	Agent	7, 8, 11	"{""7"": [""rosa's bed and breakfast""], ""8"": [""rosa's bed and breakfast""], ""11"": [""rosa's bed and breakfast""]}"
+2	2	3	11	2	1	Human	10, 11	"{""10"": [""wednesday""], ""11"": [""wednesday""]}"
+2	2	2	6	2	1	Agent	5, 6	"{""5"": [""aylesbray lodge""], ""6"": [""aylesbray lodge""]}"
+3	1	1	7	3	1	Agent	5, 6, 7	"{""5"": [""aylesbray""], ""6"": [""aylesbray""], ""7"": [""aylesbray""]}"
+2	2	2	3	2	1	Human	2, 3	"{""2"": [""phone number""], ""3"": [""phone number""]}"
+2	2	2	13	2	1	Human	12, 13	"{""12"": [""reference number""], ""13"": [""reference number""]}"
+2	2	2	11	2	1	Human	10, 11	"{""10"": [""2 nights""], ""11"": [""two nights""]}"
+3	3	1	1	4	1	Human	0, 1, 3	"{""0"": [""college""], ""1"": [""college""], ""3"": [""college""]}"
+2	2	1	11	4	1	Human	8, 11	"{""8"": [""party""], ""11"": [""party""]}"
+2	2	1	3	2	1	Human	2, 3	"{""2"": [""postcode""], ""3"": [""postcode""]}"

@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	3	1	2	1	Human	0, 1	"{""0"": [""center of town""], ""1"": [""center of town""]}"
+3	3	1	3	13	1	Human	0, 1, 12	"{""0"": [""center""], ""1"": [""center""], ""12"": [""centre""]}"
+4	4	1	4	5	1	Agent	3, 4, 5, 7	"{""3"": [""ask""], ""4"": [""ask""], ""5"": [""ask""], ""7"": [""ask""]}"
+3	3	2	10	10	2	Agent	1, 9, 10	"{""1"": [""price range""], ""9"": [""price range""], ""10"": [""price range""]}"
+3	3	2	16	11	1	Agent	7, 16, 17	"{""7"": [""reference number""], ""16"": [""reference number""], ""17"": [""reference number""]}"
+2	2	2	1	2	1	Human	0, 1	"{""0"": [""italian restaurant""], ""1"": [""italian restaurants""]}"
+5	3	1	2	13	1	Human	0, 1, 2, 5, 12	"{""0"": [""restaurant""], ""1"": [""restaurants""], ""2"": [""restaurant""], ""5"": [""restaurant""], ""12"": [""restaurant""]}"
+4	4	1	18	15	2	Agent	5, 15, 18, 19	"{""5"": [""day""], ""15"": [""day""], ""18"": [""day""], ""19"": [""day""]}"
+4	4	1	9	6	1	Human	8, 9, 12, 13	"{""8"": [""hotel""], ""9"": [""hotels""], ""12"": [""hotel""], ""13"": [""hotels""]}"
+3	3	1	5	4	1	Human	4, 5, 7	"{""4"": [""table""], ""5"": [""tables""], ""7"": [""table""]}"

@@ -1,0 +1,12 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	1	7	16	1	Human	6, 7, 21	"{""6"": [""center""], ""7"": [""centre""], ""21"": [""centre""]}"
+3	3	2	14	10	1	Agent	7, 14, 16	"{""7"": [""club salsa""], ""14"": [""club salsas""], ""16"": [""club salsa""]}"
+2	2	2	7	2	1	Human	6, 7	"{""6"": [""reference number""], ""7"": [""reference number""]}"
+3	3	1	15	3	1	Human	14, 15, 16	"{""14"": [""taxi""], ""15"": [""taxi""], ""16"": [""taxi""]}"
+4	4	1	10	16	1	Agent	1, 10, 14, 16	"{""1"": [""restaurants""], ""10"": [""restaurant""], ""14"": [""restaurant""], ""16"": [""restaurant""]}"
+4	1	1	15	10	1	Agent	7, 14, 15, 16	"{""7"": [""salsa""], ""14"": [""salsas""], ""15"": [""salsa""], ""16"": [""salsa""]}"
+3	2	1	14	10	1	Agent	7, 14, 16	"{""7"": [""club"", ""clubs""], ""14"": [""club""], ""16"": [""club""]}"
+3	1	1	14	9	1	Human	6, 7, 14	"{""6"": [""number""], ""7"": [""number""], ""14"": [""number""]}"
+2	2	1	21	22	1	Human	0, 21	"{""0"": [""cambridge""], ""21"": [""cambridge""]}"
+2	2	1	17	10	1	Human	8, 17	"{""8"": [""contact""], ""17"": [""contact""]}"
+2	2	1	7	2	1	Human	6, 7	"{""6"": [""table""], ""7"": [""table""]}"

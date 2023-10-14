@@ -1,0 +1,4 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	2	10	7	1	Agent	5, 10, 11	"{""5"": [""reference number""], ""10"": [""reference number""], ""11"": [""reference number""]}"
+4	4	1	3	5	1	Human	0, 3, 4	"{""0"": [""train""], ""3"": [""train"", ""trains""], ""4"": [""train""]}"
+3	3	1	7	5	1	Human	6, 7, 10	"{""6"": [""hotel""], ""7"": [""hotel""], ""10"": [""hotel""]}"

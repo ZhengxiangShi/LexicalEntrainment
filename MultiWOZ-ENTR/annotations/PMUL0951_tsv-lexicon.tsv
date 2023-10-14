@@ -1,0 +1,12 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	3	11	8	1	Human	4, 11	"{""4"": [""table for 1""], ""11"": [""table for 1""]}"
+4	4	1	6	9	2	Agent	3, 5, 6, 11	"{""3"": [""gandhi""], ""5"": [""gandhi""], ""6"": [""gandhi""], ""11"": [""gandhi""]}"
+3	1	1	11	8	2	Human	4, 8, 11	"{""4"": [""table""], ""8"": [""table""], ""11"": [""table""]}"
+2	2	2	11	2	1	Human	10, 11	"{""10"": [""reference number""], ""11"": [""reference number""]}"
+2	2	1	2	2	1	Agent	1, 2	"{""1"": [""centre""], ""2"": [""center""]}"
+2	2	2	15	2	1	Human	14, 15	"{""14"": [""travel time""], ""15"": [""travel time""]}"
+4	4	1	10	10	2	Agent	3, 5, 10, 12	"{""3"": [""cambridge""], ""5"": [""cambridge""], ""10"": [""cambridge""], ""12"": [""cambridge""]}"
+4	4	1	11	12	1	Human	10, 11, 12, 21	"{""10"": [""train""], ""11"": [""train""], ""12"": [""train""], ""21"": [""trains""]}"
+3	1	1	14	9	1	Agent	7, 14, 15	"{""7"": [""time""], ""14"": [""time""], ""15"": [""time""]}"
+2	2	1	6	2	1	Agent	5, 6	"{""5"": [""let's""], ""6"": [""let's""]}"
+2	2	1	5	6	1	Human	0, 5	"{""0"": [""restaurants""], ""5"": [""restaurant""]}"

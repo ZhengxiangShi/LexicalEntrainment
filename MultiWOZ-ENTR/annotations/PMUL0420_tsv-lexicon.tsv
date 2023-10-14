@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	4	7	2	1	Human	6, 7	"{""6"": [""2 nights on wednesday""], ""7"": [""2 nights on wednesday""]}"
+2	2	4	1	2	1	Human	0, 1	"{""0"": [""hotel in the south""], ""1"": [""hotels in the south""]}"
+2	2	2	7	2	1	Human	6, 7	"{""6"": [""2 people""], ""7"": [""2 people""]}"
+3	3	2	9	4	1	Human	8, 9, 11	"{""8"": [""maharajah tandoori""], ""9"": [""maharajah tandoori""], ""11"": [""maharajah tandoori""]}"
+4	3	1	1	4	1	Human	0, 1, 2, 3	"{""0"": [""hotel""], ""1"": [""hotels"", ""hotel""], ""2"": [""hotel""], ""3"": [""hotel""]}"
+4	4	1	9	7	1	Human	8, 9, 11, 14	"{""8"": [""restaurant""], ""9"": [""restaurant""], ""11"": [""restaurant""], ""14"": [""restaurant""]}"
+4	4	1	15	8	2	Human	12, 14, 15, 19	"{""12"": [""taxi""], ""14"": [""taxi""], ""15"": [""taxi""], ""19"": [""taxi""]}"
+3	1	1	4	5	1	Human	0, 1, 4	"{""0"": [""south""], ""1"": [""south""], ""4"": [""south""]}"
+3	1	1	10	5	1	Human	6, 7, 10	"{""6"": [""wednesday""], ""7"": [""wednesday""], ""10"": [""wednesday""]}"
+2	2	1	9	8	1	Human	2, 9	"{""2"": [""centre""], ""9"": [""centre""]}"

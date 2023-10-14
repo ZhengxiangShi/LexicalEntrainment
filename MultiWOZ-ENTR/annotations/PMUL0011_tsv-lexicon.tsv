@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	2	15	2	1	Human	14, 15	"{""14"": [""free parking""], ""15"": [""free parking""]}"
+2	2	4	17	2	1	Human	16, 17	"{""16"": [""price range and postcode""], ""17"": [""price range and postcode""]}"
+2	2	1	7	2	1	Human	6, 7	"{""6"": [""address""], ""7"": [""address""]}"
+3	3	2	7	12	1	Human	6, 7, 11, 16, 17	"{""6"": [""price range""], ""7"": [""price range""], ""11"": [""price range""], ""16"": [""price range""], ""17"": [""price range""]}"
+3	3	1	12	3	1	Agent	11, 12, 13	"{""11"": [""guesthouse""], ""12"": [""guesthouse""], ""13"": [""guesthouse""]}"
+3	3	1	9	4	1	Human	8, 9, 11	"{""8"": [""hotel""], ""9"": [""hotel""], ""11"": [""hotel""]}"
+3	1	1	16	11	1	Agent	7, 16, 17	"{""7"": [""postcode""], ""16"": [""postcode""], ""17"": [""postcode""]}"
+2	2	1	4	4	1	Agent	1, 4	"{""1"": [""food""], ""4"": [""food""]}"
+2	2	1	5	2	1	Human	4, 5	"{""4"": [""portuguese""], ""5"": [""portuguese""]}"
+2	2	1	6	2	1	Agent	5, 6	"{""5"": [""reservation""], ""6"": [""reservation""]}"

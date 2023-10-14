@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+4	4	1	12	9	2	Agent	5, 7, 12, 13	"{""5"": [""centre""], ""7"": [""centre""], ""12"": [""centre""], ""13"": [""centre""]}"
+3	3	2	8	7	1	Agent	7, 8, 13	"{""7"": [""university arms""], ""8"": [""university arms""], ""13"": [""university arms""]}"
+2	2	2	8	2	1	Agent	7, 8	"{""7"": [""free parking""], ""8"": [""free parking""]}"
+6	6	1	7	12	1	Human	6, 7, 9, 11, 13, 17	"{""6"": [""hotel""], ""7"": [""hotel""], ""9"": [""hotels""], ""11"": [""hotel""], ""13"": [""hotel""], ""17"": [""hotel""]}"
+4	4	1	14	9	2	Agent	9, 11, 14, 17	"{""9"": [""marriott""], ""11"": [""marriott""], ""14"": [""marriott""], ""17"": [""marriott""]}"
+3	3	1	10	5	1	Agent	7, 10, 11	"{""7"": [""internet""], ""10"": [""internet""], ""11"": [""internet""]}"
+3	1	1	17	11	1	Agent	7, 8, 17	"{""7"": [""parking""], ""8"": [""parking""], ""17"": [""park""]}"
+2	2	1	7	4	1	Human	4, 7	"{""4"": [""area""], ""7"": [""area""]}"
+2	2	1	9	10	1	Human	0, 9	"{""0"": [""cambridge""], ""9"": [""cambridge""]}"
+2	2	1	16	6	1	Agent	11, 16	"{""11"": [""information""], ""16"": [""info""]}"

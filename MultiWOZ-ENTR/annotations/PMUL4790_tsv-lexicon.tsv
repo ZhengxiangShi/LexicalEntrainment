@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	4	11	2	1	Human	10, 11	"{""10"": [""address of the restaurant""], ""11"": [""address of the restaurant""]}"
+2	2	2	3	2	1	Human	2, 3	"{""2"": [""entrance fee""], ""3"": [""entrance fee""]}"
+2	2	3	1	2	1	Human	0, 1	"{""0"": [""scudamores punting co""], ""1"": [""scudamores punting co""]}"
+3	3	1	10	8	2	Agent	5, 7, 10, 11, 12	"{""5"": [""restaurants""], ""7"": [""restaurant""], ""10"": [""restaurant""], ""11"": [""restaurant""], ""12"": [""restaurant""]}"
+2	2	1	10	4	1	Agent	7, 10	"{""7"": [""reservation""], ""10"": [""reservation""]}"
+2	2	1	15	4	1	Human	12, 15	"{""12"": [""taxi""], ""15"": [""taxi""]}"
+2	2	2	5	2	1	Human	4, 5	"{""4"": [""expensive chinese""], ""5"": [""expensive chinese""]}"
+2	2	1	5	2	1	Human	4, 5	"{""4"": [""town""], ""5"": [""town""]}"
+2	2	1	11	2	1	Human	10, 11	"{""10"": [""postcode""], ""11"": [""postcode""]}"
+2	2	1	4	4	1	Agent	1, 4	"{""1"": [""place""], ""4"": [""places""]}"

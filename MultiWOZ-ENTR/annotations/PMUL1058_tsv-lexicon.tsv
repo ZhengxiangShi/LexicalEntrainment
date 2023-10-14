@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	3	3	4	1	Human	2, 3, 5	"{""2"": [""birmingham new street""], ""3"": [""birmingham new street""], ""5"": [""birmingham new street""]}"
+3	3	2	15	10	2	Human	6, 14, 15	"{""6"": [""fitzwilliam museum""], ""14"": [""fitzwilliam museum""], ""15"": [""fitzwilliam museum""]}"
+2	2	3	2	2	1	Agent	1, 2	"{""1"": [""london kings cross""], ""2"": [""london kings cross""]}"
+3	3	1	1	5	1	Human	0, 1, 4	"{""0"": [""train""], ""1"": [""train""], ""4"": [""train""]}"
+2	2	1	16	8	1	Agent	9, 16	"{""9"": [""address""], ""16"": [""address""]}"
+3	3	1	7	12	1	Human	6, 7, 8, 14, 15, 17	"{""6"": [""museum""], ""7"": [""museum""], ""8"": [""museum""], ""14"": [""museum""], ""15"": [""museum""], ""17"": [""museum""]}"
+5	2	1	9	16	1	Human	2, 3, 5, 9, 17	"{""2"": [""street""], ""3"": [""street""], ""5"": [""street""], ""9"": [""street""], ""17"": [""street""]}"
+3	3	1	7	12	1	Human	6, 7, 17	"{""6"": [""information""], ""7"": [""information""], ""17"": [""information""]}"
+3	3	1	11	3	1	Human	10, 11, 12	"{""10"": [""restaurant""], ""11"": [""restaurant""], ""12"": [""restaurant""]}"
+2	2	1	4	4	1	Agent	1, 4	"{""1"": [""time""], ""4"": [""time""]}"

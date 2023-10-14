@@ -1,0 +1,9 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	3	12	3	1	Agent	11, 12, 13	"{""11"": [""university arms hotel""], ""12"": [""university arms hotel""], ""13"": [""university arms hotel""]}"
+2	2	2	13	2	1	Human	12, 13	"{""12"": [""5 stars""], ""13"": [""5 star""]}"
+2	2	2	3	2	1	Human	2, 3	"{""2"": [""kings lynn""], ""3"": [""kings lynn""]}"
+4	2	1	12	5	2	Agent	9, 11, 12, 13	"{""9"": [""hotels""], ""11"": [""hotel""], ""12"": [""hotel""], ""13"": [""hotels"", ""hotel""]}"
+2	2	1	14	6	1	Agent	9, 14	"{""9"": [""area""], ""14"": [""area""]}"
+2	2	1	3	4	1	Human	0, 3	"{""0"": [""cambridge""], ""3"": [""cambridge""]}"
+2	2	1	14	10	1	Agent	5, 14	"{""5"": [""number""], ""14"": [""number""]}"
+2	1	1	13	2	1	Human	12, 13	"{""12"": [""stars""], ""13"": [""star""]}"

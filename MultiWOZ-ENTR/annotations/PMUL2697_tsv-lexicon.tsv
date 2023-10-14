@@ -1,0 +1,9 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	1	17	2	1	Human	16, 17	"{""16"": [""day""], ""17"": [""day""]}"
+2	2	4	15	2	1	Human	14, 15	"{""14"": [""little saint marys church""], ""15"": [""little saint mary's church""]}"
+4	4	1	3	14	1	Human	0, 3, 13	"{""0"": [""center""], ""3"": [""centre""], ""13"": [""centre"", ""centre""]}"
+4	4	2	5	12	1	Human	4, 5, 14, 15	"{""4"": [""kirkwood house""], ""5"": [""kirkwood house""], ""14"": [""kirkwood house""], ""15"": [""kirkwood house""]}"
+3	1	2	14	15	1	Agent	1, 14, 15	"{""1"": [""little saint""], ""14"": [""little saint""], ""15"": [""little saint""]}"
+5	5	1	8	11	1	Agent	3, 8, 11, 13	"{""3"": [""cinema""], ""8"": [""cinema""], ""11"": [""cinema""], ""13"": [""cinema""]}"
+3	3	1	13	12	2	Human	2, 12, 13	"{""2"": [""address""], ""12"": [""address""], ""13"": [""address""]}"
+2	1	1	15	2	1	Human	14, 15	"{""14"": [""church""], ""15"": [""church""]}"

@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	2	7	2	1	Human	6, 7	"{""6"": [""italian restaurant""], ""7"": [""italian restaurant""]}"
+2	2	4	10	4	1	Agent	7, 10	"{""7"": [""pizza hut fen ditton""], ""10"": [""pizza hut fen ditton""]}"
+2	2	1	7	8	1	Human	0, 7	"{""0"": [""east""], ""7"": [""east""]}"
+2	2	2	5	2	1	Human	4, 5	"{""4"": [""phone number""], ""5"": [""phone number""]}"
+3	3	2	4	8	1	Agent	3, 4, 10	"{""3"": [""cambridge artworks""], ""4"": [""cambridge artworks""], ""10"": [""cambridge artworks""]}"
+3	3	1	8	3	1	Agent	7, 8, 9	"{""7"": [""table""], ""8"": [""table""], ""9"": [""table""]}"
+3	1	1	4	8	1	Agent	3, 4, 10	"{""3"": [""cambridge""], ""4"": [""cambridge""], ""10"": [""cambridge""]}"
+3	1	1	9	6	1	Human	4, 5, 9	"{""4"": [""number""], ""5"": [""number""], ""9"": [""number""]}"
+2	2	1	3	2	1	Human	2, 3	"{""2"": [""museum""], ""3"": [""museum"", ""museums""]}"
+2	2	1	1	2	1	Human	0, 1	"{""0"": [""place""], ""1"": [""place""]}"

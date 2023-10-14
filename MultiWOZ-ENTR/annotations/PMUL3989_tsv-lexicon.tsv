@@ -1,0 +1,10 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	2	7	2	1	Human	6, 7	"{""6"": [""3 people""], ""7"": [""three people""]}"
+2	2	3	20	2	1	Agent	18, 19, 20	"{""18"": [""taxi""], ""19"": [""taxi""], ""20"": [""taxi""]}"
+3	3	2	3	6	1	Human	2, 3, 7	"{""2"": [""hobsons house""], ""3"": [""hobsons house""], ""7"": [""hobsons house""]}"
+5	5	1	8	21	1	Agent	1, 8, 14, 15, 21	"{""1"": [""train""], ""8"": [""train""], ""14"": [""train""], ""15"": [""train""], ""21"": [""train""]}"
+2	2	2	7	2	1	Human	6, 7	"{""6"": [""tuesday""], ""7"": [""tuesday""]}"
+3	3	1	14	4	2	Agent	11, 13, 14	"{""11"": [""time""], ""13"": [""time""], ""14"": [""time""]}"
+2	2	1	5	2	1	Human	4, 5	"{""4"": [""information""], ""5"": [""information""]}"
+2	2	1	20	6	1	Agent	15, 20	"{""15"": [""tr6193""], ""20"": [""tr6193""]}"
+2	2	1	25	26	1	Human	0, 25	"{""0"": [""trip""], ""25"": [""trip""]}"

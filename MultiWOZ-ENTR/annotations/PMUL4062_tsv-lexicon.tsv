@@ -1,0 +1,12 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	3	6	2	1	Agent	5, 6	"{""5"": [""internet or parking""], ""6"": [""internet or parking""]}"
+2	2	2	5	4	1	Human	2, 5	"{""2"": [""4 star""], ""5"": [""4 stars""]}"
+4	4	1	10	13	1	Agent	1, 10, 12, 13	"{""1"": [""information""], ""10"": [""info""], ""12"": [""info""], ""13"": [""information""]}"
+2	2	2	13	4	1	Human	10, 13	"{""10"": [""la margherita""], ""13"": [""la margherita""]}"
+4	4	1	13	9	1	Human	10, 13, 18	"{""10"": [""restaurant""], ""13"": [""restaurant""], ""18"": [""restaurant""]}"
+3	3	1	19	3	1	Human	18, 19, 20	"{""18"": [""time""], ""19"": [""time""], ""20"": [""time""]}"
+3	3	1	5	3	1	Human	4, 5, 6	"{""4"": [""guesthouse""], ""5"": [""guesthouses""], ""6"": [""guesthouse""]}"
+3	3	1	1	19	1	Human	0, 1, 18	"{""0"": [""hotel""], ""1"": [""hotels""], ""18"": [""hotel""]}"
+3	1	1	6	6	2	Agent	1, 5, 6	"{""1"": [""internet""], ""5"": [""internet""], ""6"": [""internet""]}"
+3	1	1	6	6	2	Agent	1, 5, 6	"{""1"": [""parking""], ""5"": [""parking""], ""6"": [""parking""]}"
+3	1	1	2	5	1	Agent	1, 2, 5	"{""1"": [""star""], ""2"": [""star""], ""5"": [""stars""]}"

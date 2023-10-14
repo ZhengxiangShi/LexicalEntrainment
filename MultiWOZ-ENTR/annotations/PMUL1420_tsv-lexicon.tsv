@@ -1,0 +1,12 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	4	15	2	1	Human	14, 15	"{""14"": [""theatre in the south""], ""15"": [""theatre in the south""]}"
+3	1	1	15	4	2	Human	12, 14, 15	"{""12"": [""south""], ""14"": [""south""], ""15"": [""south""]}"
+3	3	1	18	19	1	Agent	18, 19	"{""18"": [""help""], ""19"": [""help""]}"
+3	1	1	17	4	1	Human	14, 15, 17	"{""14"": [""theatre""], ""15"": [""theatre""], ""17"": [""theater's""]}"
+2	2	1	17	2	1	Human	16, 17	"{""16"": [""address""], ""17"": [""address""]}"
+2	2	1	13	2	1	Human	12, 13	"{""12"": [""college""], ""13"": [""colleges""]}"
+2	2	1	17	2	1	Human	16, 17	"{""16"": [""number""], ""17"": [""number""]}"
+2	2	1	11	2	1	Human	10, 11	"{""10"": [""place""], ""11"": [""place""]}"
+2	2	1	9	2	1	Human	8, 9	"{""8"": [""ticket""], ""9"": [""tickets""]}"
+2	2	1	6	2	1	Agent	5, 6	"{""5"": [""time""], ""6"": [""time""]}"
+2	2	1	7	6	1	Human	2, 7	"{""2"": [""tuesday""], ""7"": [""tuesday""]}"

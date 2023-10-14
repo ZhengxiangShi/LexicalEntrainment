@@ -1,0 +1,12 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	5	12	2	1	Agent	11, 12	"{""11"": [""churchill college is a college""], ""12"": [""churchill college is a college""]}"
+2	2	2	9	2	1	Human	8, 9	"{""8"": [""travel time""], ""9"": [""travel time""]}"
+2	2	2	9	4	1	Human	6, 9	"{""6"": [""churchill college""], ""9"": [""churchill college""]}"
+2	2	2	8	2	1	Agent	7, 8	"{""7"": [""storey's way""], ""8"": [""storey's way""]}"
+3	2	1	12	3	1	Agent	11, 12, 13	"{""11"": [""college""], ""12"": [""college"", ""college""], ""13"": [""college""]}"
+5	5	1	1	9	1	Human	0, 1, 3, 4, 8	"{""0"": [""train""], ""1"": [""trains""], ""3"": [""train""], ""4"": [""train""], ""8"": [""train""]}"
+3	3	1	3	4	2	Human	0, 2, 3	"{""0"": [""tuesday""], ""2"": [""tuesday""], ""3"": [""tuesday""]}"
+3	1	1	9	6	2	Human	4, 8, 9	"{""4"": [""times""], ""8"": [""time""], ""9"": [""time""]}"
+3	3	1	8	5	1	Agent	5, 8, 9	"{""5"": [""tr1830""], ""8"": [""tr1830""], ""9"": [""tr1830""]}"
+2	2	1	11	2	1	Human	10, 11	"{""10"": [""area""], ""11"": [""area""]}"
+2	2	1	5	2	1	Human	4, 5	"{""4"": [""id""], ""5"": [""id""]}"

@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	5	1	2	1	Human	0, 1	"{""0"": [""crossover restaurants in the west""], ""1"": [""crossover restaurants in the west""]}"
+3	1	1	5	6	1	Human	0, 1, 5	"{""0"": [""west""], ""1"": [""west""], ""5"": [""west""]}"
+3	3	2	11	4	2	Human	8, 10, 11	"{""8"": [""bishops stortford""], ""10"": [""bishops stortford""], ""11"": [""bishops stortford""]}"
+2	2	3	10	2	1	Agent	5, 7, 9, 10, 17	"{""5"": [""cambridge""], ""7"": [""cambridge""], ""9"": [""cambridge""], ""10"": [""cambridge""], ""17"": [""cambridge""]}"
+3	1	2	2	3	1	Human	0, 1, 2	"{""0"": [""crossover restaurants""], ""1"": [""crossover restaurants""], ""2"": [""crossover restaurants""]}"
+2	2	2	7	2	1	Human	6, 7	"{""6"": [""phone number""], ""7"": [""phone number""]}"
+4	1	1	5	6	1	Human	0, 1, 2, 5	"{""0"": [""restaurants""], ""1"": [""restaurants""], ""2"": [""restaurants""], ""5"": [""restaurant""]}"
+3	3	1	11	7	1	Human	8, 11, 14	"{""8"": [""train""], ""11"": [""train""], ""14"": [""train""]}"
+2	2	1	2	2	1	Agent	1, 2	"{""1"": [""area""], ""2"": [""area""]}"
+2	2	1	7	2	1	Human	6, 7	"{""6"": [""postcode""], ""7"": [""postcode""]}"

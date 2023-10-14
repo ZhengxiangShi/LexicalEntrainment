@@ -1,0 +1,12 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	3	5	2	1	Human	4, 5	"{""4"": [""centre of town""], ""5"": [""centre of town""]}"
+3	3	3	10	6	2	Agent	5, 7, 10	"{""5"": [""cambridge chop house""], ""7"": [""cambridge chop house""], ""10"": [""cambridge chop house""]}"
+3	3	2	1	11	1	Human	0, 1, 10	"{""0"": [""cambridge belfry""], ""1"": [""cambridge belfry""], ""10"": [""cambridge belfry""]}"
+2	2	2	13	2	1	Human	12, 13	"{""12"": [""contact number""], ""13"": [""contact number""]}"
+2	2	2	13	2	1	Human	12, 13	"{""12"": [""car type""], ""13"": [""car type""]}"
+2	2	1	8	2	1	Agent	7, 8	"{""7"": [""reservation""], ""8"": [""reservation""]}"
+4	4	1	9	15	2	Human	0, 4, 9, 14	"{""0"": [""information""], ""4"": [""information""], ""9"": [""information""], ""14"": [""information""]}"
+3	1	1	13	8	2	Human	6, 12, 13	"{""6"": [""type""], ""12"": [""type""], ""13"": [""type""]}"
+2	2	1	6	2	1	Agent	5, 6	"{""5"": [""food""], ""6"": [""food""]}"
+2	2	1	7	2	1	Human	6, 7	"{""6"": [""postcode""], ""7"": [""postcode""]}"
+2	2	1	11	4	1	Human	8, 11	"{""8"": [""taxi""], ""11"": [""taxi""]}"

@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	2	11	4	1	Human	10, 11, 13	"{""10"": [""rice boat""], ""11"": [""rice boat""], ""13"": [""rice boat""]}"
+2	2	3	2	2	1	Agent	1, 2	"{""1"": [""kind of cuisine""], ""2"": [""kind of cuisine""]}"
+2	2	2	17	2	1	Human	16, 17	"{""16"": [""car type""], ""17"": [""car type""]}"
+4	4	1	3	15	1	Human	0, 3, 11, 14	"{""0"": [""restaurant""], ""3"": [""restaurant""], ""11"": [""restaurant""], ""14"": [""restaurant""]}"
+4	4	1	4	5	1	Agent	3, 4, 5, 7	"{""3"": [""guesthouses""], ""4"": [""guesthouse""], ""5"": [""guesthouses""], ""7"": [""guesthouse""]}"
+4	4	1	14	9	2	Agent	9, 13, 14, 17	"{""9"": [""number""], ""13"": [""number""], ""14"": [""number""], ""17"": [""number""]}"
+3	2	1	17	4	2	Human	14, 16, 17	"{""14"": [""car""], ""16"": [""car""], ""17"": [""car""]}"
+3	3	1	3	17	1	Human	0, 3, 16	"{""0"": [""hotel""], ""3"": [""hotels""], ""16"": [""hotel""]}"
+3	1	1	17	4	2	Human	14, 16, 17	"{""14"": [""type""], ""16"": [""type""], ""17"": [""type""]}"
+2	2	1	17	2	1	Human	16, 17	"{""16"": [""contact""], ""17"": [""contact""]}"

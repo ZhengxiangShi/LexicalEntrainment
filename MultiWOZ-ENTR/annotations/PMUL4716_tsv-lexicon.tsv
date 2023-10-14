@@ -1,0 +1,8 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	2	17	2	1	Human	16, 17	"{""16"": [""phone number""], ""17"": [""phone number""]}"
+2	2	3	16	2	1	Agent	15, 16	"{""15"": [""wandlebury country park""], ""16"": [""wandlebury country park""]}"
+5	5	1	7	14	1	Human	2, 7, 8, 14, 15	"{""2"": [""train""], ""7"": [""train""], ""8"": [""train""], ""14"": [""train""], ""15"": [""train""]}"
+4	2	1	17	12	3	Human	6, 14, 16, 17	"{""6"": [""number""], ""14"": [""number""], ""16"": [""number""], ""17"": [""number""]}"
+3	3	1	15	10	2	Human	6, 14, 15	"{""6"": [""reference""], ""14"": [""reference""], ""15"": [""reference""]}"
+2	2	1	14	4	1	Agent	11, 14	"{""11"": [""attraction""], ""14"": [""attractions""]}"
+2	1	1	16	2	1	Agent	15, 16	"{""15"": [""parks"", ""park""], ""16"": [""park""]}"

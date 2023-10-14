@@ -1,0 +1,8 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+4	4	4	9	6	1	Human	8, 9, 11, 13	"{""8"": [""little saint mary's church""], ""9"": [""little saint mary's church""], ""11"": [""little saint mary's church""], ""13"": [""little saint mary's church""]}"
+4	1	3	9	6	1	Human	8, 9, 11, 13	"{""8"": [""little saint mary's""], ""9"": [""little saint mary's""], ""11"": [""little saint mary's""], ""13"": [""little saint mary's""]}"
+2	2	2	11	2	1	Human	10, 11	"{""10"": [""entrance fee""], ""11"": [""entrance fee""]}"
+2	2	1	13	2	1	Human	12, 13	"{""12"": [""postcode""], ""13"": [""postcode""]}"
+3	3	1	15	8	2	Human	8, 14, 15	"{""8"": [""attraction""], ""14"": [""attraction""], ""15"": [""attraction""]}"
+2	2	1	7	8	1	Human	0, 7	"{""0"": [""train""], ""7"": [""train""]}"
+2	2	1	15	2	1	Human	14, 15	"{""14"": [""type""], ""15"": [""type""]}"

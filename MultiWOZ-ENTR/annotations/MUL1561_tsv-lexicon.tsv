@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	1	9	8	1	Human	2, 9	"{""2"": [""table""], ""9"": [""table""]}"
+2	2	1	19	2	1	Human	18, 19	"{""18"": [""touch""], ""19"": [""touch""]}"
+4	4	1	1	7	1	Human	0, 1, 4, 6	"{""0"": [""restaurant""], ""1"": [""restaurant""], ""4"": [""restaurant""], ""6"": [""restaurant""]}"
+2	2	1	15	2	1	Human	14, 15	"{""14"": [""price""], ""15"": [""price""]}"
+5	5	1	13	11	2	Human	6, 10, 13, 14, 16	"{""6"": [""train""], ""10"": [""train""], ""13"": [""train""], ""14"": [""train""], ""16"": [""train""]}"
+4	4	1	11	16	1	Human	6, 11, 12, 21	"{""6"": [""cambridge""], ""11"": [""cambridge""], ""12"": [""cambridge""], ""21"": [""cambridge""]}"
+3	3	1	21	22	2	Human	0, 6, 21	"{""0"": [""centre""], ""6"": [""centre""], ""21"": [""centre""]}"
+3	3	1	6	7	1	Agent	3, 6, 9	"{""3"": [""number""], ""6"": [""number""], ""9"": [""number""]}"
+3	3	1	16	14	2	Agent	3, 9, 16	"{""3"": [""reservation""], ""9"": [""reservation""], ""16"": [""reservation""]}"
+2	2	1	16	10	1	Agent	7, 16	"{""7"": [""day""], ""16"": [""day""]}"

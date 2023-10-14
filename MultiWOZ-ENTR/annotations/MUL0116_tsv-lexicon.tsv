@@ -1,0 +1,12 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	3	1	2	1	Human	0, 1, 2	"{""0"": [""british food""], ""1"": [""british food""], ""2"": [""british food""]}"
+4	4	2	14	7	3	Agent	9, 11, 13, 14, 15	"{""9"": [""lovell lodge""], ""11"": [""lovell lodge""], ""13"": [""lovell lodge""], ""14"": [""lovell lodge""], ""15"": [""lovell lodge""]}"
+6	6	1	7	12	1	Human	6, 7, 9, 15, 16, 17	"{""6"": [""hotel""], ""7"": [""hotels""], ""9"": [""hotel""], ""15"": [""hotel""], ""16"": [""hotel""], ""17"": [""hotel""]}"
+6	6	1	1	7	1	Human	0, 1, 2, 3, 5, 6	"{""0"": [""restaurant""], ""1"": [""restaurants""], ""2"": [""restaurant""], ""3"": [""restaurant""], ""5"": [""restaurant""], ""6"": [""restaurant""]}"
+2	2	2	17	14	1	Human	4, 17	"{""4"": [""reference number""], ""17"": [""reference number""]}"
+6	6	1	13	13	2	Human	4, 10, 13, 14, 15, 16	"{""4"": [""wednesday""], ""10"": [""wednesday""], ""13"": [""wednesday""], ""14"": [""wednesday""], ""15"": [""wednesday""], ""16"": [""wednesday""]}"
+3	3	2	6	7	1	Agent	1, 6, 7	"{""1"": [""price range""], ""6"": [""price range""], ""7"": [""price range""]}"
+3	3	1	10	9	1	Agent	9, 10, 17	"{""9"": [""ashley""], ""10"": [""ashley""], ""17"": [""ashley""]}"
+3	3	1	1	6	1	Human	0, 1, 5	"{""0"": [""centre""], ""1"": [""centre""], ""5"": [""centre""]}"
+3	3	1	9	9	1	Human	8, 9, 16	"{""8"": [""parking""], ""9"": [""parking""], ""16"": [""parking""]}"
+2	2	1	1	2	1	Human	0, 1	"{""0"": [""town""], ""1"": [""town""]}"

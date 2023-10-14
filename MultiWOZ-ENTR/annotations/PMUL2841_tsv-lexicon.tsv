@@ -1,0 +1,13 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	2	11	8	1	Human	10, 11, 17	"{""10"": [""gonville hotel""], ""11"": [""gonville hotel""], ""17"": [""gonville hotel""]}"
+6	6	1	7	12	1	Human	6, 7	"{""6"": [""booking""], ""7"": [""bookings""]}"
+3	3	1	14	9	1	Agent	7, 14, 15	"{""7"": [""taxis""], ""14"": [""taxi""], ""15"": [""taxi""]}"
+2	2	2	4	2	1	Agent	3, 4	"{""3"": [""contact info""], ""4"": [""contact info""]}"
+2	2	2	9	2	1	Human	8, 9	"{""8"": [""entrance fee""], ""9"": [""entrance fee""]}"
+2	2	1	2	2	1	Agent	1, 2	"{""1"": [""town""], ""2"": [""town""]}"
+3	3	1	6	5	1	Agent	3, 6, 7	"{""3"": [""gallery""], ""6"": [""gallery""], ""7"": [""gallery""]}"
+6	4	1	10	11	1	Agent	7, 10, 11, 14, 16, 17	"{""7"": [""hotels""], ""10"": [""hotel""], ""11"": [""hotel""], ""14"": [""hotel""], ""16"": [""hotel""], ""17"": [""hotel""]}"
+4	2	1	10	13	1	Agent	3, 4, 10, 15	"{""3"": [""info""], ""4"": [""info""], ""10"": [""info""], ""15"": [""information""]}"
+3	1	1	17	15	1	Agent	3, 4, 17	"{""3"": [""contact""], ""4"": [""contact""], ""17"": [""contact""]}"
+3	3	1	18	17	1	Agent	5, 18, 21	"{""5"": [""help""], ""18"": [""help""], ""21"": [""help""]}"
+2	2	1	1	2	1	Human	0, 1	"{""0"": [""museums""], ""1"": [""museums""]}"

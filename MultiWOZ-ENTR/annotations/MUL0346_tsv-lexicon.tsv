@@ -1,0 +1,13 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	5	1	2	1	Human	0, 1	"{""0"": [""vegetarian restaurants in the centre""], ""1"": [""vegetarian restaurants in the center""]}"
+3	1	4	5	6	1	Human	0, 1, 5	"{""0"": [""restaurants in the centre""], ""1"": [""restaurants in the center""], ""5"": [""restaurants in the centre""]}"
+2	2	4	9	4	1	Human	6, 9	"{""6"": [""saturday at la mimosa""], ""9"": [""saturday at la mimosa""]}"
+2	2	1	4	18	1	Human	0, 1, 4, 5, 17	"{""0"": [""centre""], ""1"": [""center""], ""4"": [""centre""], ""5"": [""centre""], ""17"": [""centre""]}"
+2	2	1	2	8	1	Human	0, 1, 2, 5, 7	"{""0"": [""restaurants""], ""1"": [""restaurants""], ""2"": [""restaurants""], ""5"": [""restaurants""], ""7"": [""restaurant""]}"
+3	1	2	6	5	1	Agent	5, 6, 9	"{""5"": [""la mimosa""], ""6"": [""la mimosa""], ""9"": [""la mimosa""]}"
+3	3	1	13	6	2	Human	10, 12, 13, 14, 15	"{""10"": [""train""], ""12"": [""train""], ""13"": [""train""], ""14"": [""train""], ""15"": [""train""]}"
+2	2	2	15	2	1	Human	14, 15	"{""14"": [""train id""], ""15"": [""train id""]}"
+3	1	1	12	7	1	Human	6, 9, 12	"{""6"": [""saturday""], ""9"": [""saturday""], ""12"": [""saturday""]}"
+3	3	1	16	10	2	Agent	7, 11, 16	"{""7"": [""time""], ""11"": [""time""], ""16"": [""time""]}"
+2	2	1	3	2	1	Human	2, 3	"{""2"": [""area""], ""3"": [""area""]}"
+2	2	1	17	8	1	Human	10, 17	"{""10"": [""cambridge""], ""17"": [""cambridge""]}"

@@ -1,0 +1,13 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	3	5	4	1	Human	2, 5	"{""2"": [""center of town""], ""5"": [""center of town""]}"
+2	2	4	13	6	1	Human	8, 13	"{""8"": [""free parking and wifi""], ""13"": [""free parking and wifi""]}"
+2	2	2	17	4	1	Human	14, 17	"{""14"": [""reference number""], ""17"": [""reference number""]}"
+3	3	1	1	7	1	Human	0, 1, 2, 5, 6	"{""0"": [""town""], ""1"": [""town""], ""2"": [""town""], ""5"": [""town""], ""6"": [""town""]}"
+2	2	2	13	6	1	Human	8, 13	"{""8"": [""four star""], ""13"": [""4 star""]}"
+4	4	1	7	8	1	Human	6, 7, 12, 13	"{""6"": [""guesthouse""], ""7"": [""guesthouse""], ""12"": [""guesthouse""], ""13"": [""guesthouses""]}"
+3	3	1	21	14	2	Human	8, 18, 21	"{""8"": [""car""], ""18"": [""car""], ""21"": [""car""]}"
+3	3	1	3	6	1	Human	0, 3, 5	"{""0"": [""college""], ""3"": [""college""], ""5"": [""college""]}"
+3	1	1	21	8	1	Human	14, 17, 21	"{""14"": [""number""], ""17"": [""number""], ""21"": [""number""]}"
+2	2	1	21	4	1	Human	18, 21	"{""18"": [""contact""], ""21"": [""contact""]}"
+2	2	1	3	2	1	Human	2, 3	"{""2"": [""favorite""], ""3"": [""favorite""]}"
+2	2	1	21	4	1	Human	18, 21	"{""18"": [""type""], ""21"": [""type""]}"

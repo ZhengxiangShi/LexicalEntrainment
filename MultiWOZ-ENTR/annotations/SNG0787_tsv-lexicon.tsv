@@ -1,0 +1,6 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	2	1	2	1	Human	0, 1	"{""0"": [""4 star""], ""1"": [""4 star""]}"
+2	2	2	7	4	1	Human	4, 7	"{""4"": [""nights""], ""7"": [""nights""]}"
+2	2	2	7	2	1	Human	6, 7	"{""6"": [""3 nights""], ""7"": [""three nights""]}"
+2	2	1	2	2	1	Agent	1, 2	"{""1"": [""alexander""], ""2"": [""alexander's""]}"
+2	2	1	7	4	1	Human	4, 7	"{""4"": [""monday""], ""7"": [""monday""]}"

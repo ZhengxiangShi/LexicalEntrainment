@@ -1,0 +1,10 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	2	7	2	1	Human	6, 7	"{""6"": [""free parking""], ""7"": [""free parking""]}"
+2	2	1	11	2	1	Human	10, 11	"{""10"": [""centre""], ""11"": [""centre""]}"
+3	3	2	8	14	1	Agent	7, 8, 20	"{""7"": [""kirkwood house""], ""8"": [""kirkwood house""], ""20"": [""kirkwood house""]}"
+3	3	2	14	8	1	Agent	11, 14, 18	"{""11"": [""old schools""], ""14"": [""old schools""], ""18"": [""old schools""]}"
+2	2	1	9	2	1	Human	8, 9	"{""8"": [""postcode""], ""9"": [""postcode""]}"
+5	5	1	13	15	2	Human	10, 12, 13, 14, 24	"{""10"": [""attraction""], ""12"": [""attraction""], ""13"": [""attraction""], ""14"": [""attraction""], ""24"": [""attraction""]}"
+3	3	1	1	4	1	Human	0, 1, 3	"{""0"": [""guesthouse""], ""1"": [""guesthouses""], ""3"": [""guesthouses""]}"
+2	2	1	11	2	1	Human	10, 11	"{""10"": [""architecture""], ""11"": [""architecture""]}"
+2	2	1	2	2	1	Agent	1, 2	"{""1"": [""star""], ""2"": [""stars""]}"

@@ -1,0 +1,12 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	6	7	2	1	Human	6, 7	"{""6"": [""north indian restaurant in the centre""], ""7"": [""north indian restaurants in the centre""]}"
+3	3	1	9	8	1	Human	6, 7, 9, 10, 13	"{""6"": [""centre""], ""7"": [""centre""], ""9"": [""center""], ""10"": [""centre""], ""13"": [""centre""]}"
+2	2	2	5	2	1	Human	4, 5	"{""4"": [""8 tickets""], ""5"": [""8 tickets""]}"
+2	1	2	12	2	1	Agent	11, 12	"{""11"": [""noodle bar""], ""12"": [""noodle bar""]}"
+2	2	2	10	2	1	Agent	9, 10	"{""9"": [""price range""], ""10"": [""price range""]}"
+2	2	1	13	2	1	Human	12, 13	"{""12"": [""address""], ""13"": [""address""]}"
+5	5	1	3	6	1	Human	0, 3, 4, 5	"{""0"": [""train""], ""3"": [""trains""], ""4"": [""train""], ""5"": [""train""]}"
+4	2	1	9	6	1	Human	6, 7, 9, 11	"{""6"": [""restaurant""], ""7"": [""restaurants""], ""9"": [""restaurant""], ""11"": [""restaurant""]}"
+3	3	1	7	10	1	Human	0, 7, 9	"{""0"": [""cambridge""], ""7"": [""cambridge""], ""9"": [""cambridge""]}"
+2	2	1	7	2	1	Human	6, 7	"{""6"": [""area""], ""7"": [""area""]}"
+2	2	1	3	4	1	Human	0, 3	"{""0"": [""stevenage""], ""3"": [""stevenage""]}"

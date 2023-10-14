@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	7	16	4	1	Agent	13, 16	"{""13"": [""japanese restaurant in the centre of town""], ""16"": [""japanese restaurant in the center of town""]}"
+2	2	3	7	2	1	Human	6, 7	"{""6"": [""london kings cross""], ""7"": [""london kings cross""]}"
+4	4	1	1	18	1	Human	0, 1, 8, 9, 13, 16, 17	"{""0"": [""restaurants""], ""1"": [""restaurants""], ""8"": [""restaurant""], ""9"": [""restaurants""], ""13"": [""restaurant""], ""16"": [""restaurant""], ""17"": [""restaurants""]}"
+2	2	3	9	2	1	Human	8, 9	"{""8"": [""new zealand restaurant""], ""9"": [""new zealand restaurants""]}"
+4	2	1	4	14	1	Agent	3, 4, 13, 16	"{""3"": [""town""], ""4"": [""town""], ""13"": [""town""], ""16"": [""town""]}"
+4	4	1	7	13	1	Human	6, 7, 14, 18	"{""6"": [""tuesday""], ""7"": [""tuesday""], ""14"": [""tuesday""], ""18"": [""tuesday""]}"
+3	3	1	21	22	2	Human	0, 6, 21	"{""0"": [""cambridge""], ""6"": [""cambridge""], ""21"": [""cambridge""]}"
+2	2	1	10	2	1	Agent	9, 10	"{""9"": [""city""], ""10"": [""cities""]}"
+2	2	1	12	12	1	Agent	1, 12	"{""1"": [""food""], ""12"": [""food""]}"
+2	2	1	15	6	1	Human	10, 15	"{""10"": [""time""], ""15"": [""time""]}"

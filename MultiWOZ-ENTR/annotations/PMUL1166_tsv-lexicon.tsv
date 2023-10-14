@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	1	11	10	1	Human	2, 11	"{""2"": [""cambridge""], ""11"": [""cambridge""]}"
+2	2	1	13	2	1	Human	12, 13	"{""12"": [""west""], ""13"": [""west""]}"
+3	3	2	16	5	1	Agent	15, 16, 19	"{""15"": [""queens' college""], ""16"": [""queens' college""], ""19"": [""queens' college""]}"
+3	3	2	11	6	2	Human	6, 10, 11	"{""6"": [""reference number""], ""10"": [""reference number""], ""11"": [""reference number""]}"
+5	2	1	13	8	1	Human	12, 13, 15, 16, 19	"{""12"": [""college""], ""13"": [""colleges""], ""15"": [""college""], ""16"": [""college""], ""19"": [""college""]}"
+5	2	1	14	13	2	Human	6, 10, 11, 14, 18	"{""6"": [""number""], ""10"": [""number""], ""11"": [""number""], ""14"": [""number""], ""18"": [""number""]}"
+4	4	1	15	6	1	Human	14, 15, 18, 19	"{""14"": [""phone""], ""15"": [""phone""], ""18"": [""phone""], ""19"": [""phone""]}"
+4	4	1	5	10	1	Human	0, 5, 7, 9	"{""0"": [""train""], ""5"": [""train""], ""7"": [""train""], ""9"": [""train"", ""train""]}"
+3	3	1	9	12	1	Human	0, 9, 11	"{""0"": [""leicester""], ""9"": [""leicester""], ""11"": [""leicester""]}"
+2	2	1	8	4	1	Agent	5, 8	"{""5"": [""earliest""], ""8"": [""earliest""]}"

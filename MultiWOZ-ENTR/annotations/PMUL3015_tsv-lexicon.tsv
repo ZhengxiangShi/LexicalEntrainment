@@ -1,0 +1,10 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	3	5	2	1	Human	0, 2, 3, 4, 5	"{""0"": [""cambridge""], ""2"": [""cambridge""], ""3"": [""cambridge""], ""4"": [""cambridge""], ""5"": [""cambridge""]}"
+4	4	2	7	6	1	Human	6, 7, 10, 11	"{""6"": [""4 star""], ""7"": [""4 stars""], ""10"": [""4 star""], ""11"": [""4 star""]}"
+3	3	1	12	4	2	Agent	9, 11, 12	"{""9"": [""guesthouse""], ""11"": [""guesthouse""], ""12"": [""guesthouse""]}"
+2	2	1	3	2	1	Human	2, 3	"{""2"": [""monday""], ""3"": [""monday""]}"
+4	4	1	8	10	1	Agent	7, 8, 15, 16	"{""7"": [""area""], ""8"": [""area""], ""15"": [""area""], ""16"": [""area""]}"
+4	4	1	10	5	2	Agent	7, 9, 10, 11	"{""7"": [""hotels""], ""9"": [""hotel""], ""10"": [""hotel""], ""11"": [""hotels""]}"
+2	2	1	14	2	1	Agent	13, 14	"{""13"": [""parking""], ""14"": [""parking""]}"
+2	2	1	9	4	1	Human	6, 9	"{""6"": [""place""], ""9"": [""places""]}"
+2	2	1	3	2	1	Human	2, 3	"{""2"": [""train""], ""3"": [""trains""]}"

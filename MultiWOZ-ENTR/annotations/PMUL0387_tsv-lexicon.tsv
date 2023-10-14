@@ -1,0 +1,10 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	1	12	7	1	Agent	11, 12, 17	"{""11"": [""booking""], ""12"": [""booking""], ""17"": [""booking""]}"
+2	2	1	2	2	1	Agent	1, 2	"{""1"": [""reservation""], ""2"": [""reservation""]}"
+2	2	2	16	6	1	Agent	11, 16	"{""11"": [""gonville hotel""], ""16"": [""gonville hotel""]}"
+2	2	2	13	2	1	Human	12, 13	"{""12"": [""phone number""], ""13"": [""phone number""]}"
+4	4	1	5	10	1	Human	4, 5, 9, 13	"{""4"": [""centre""], ""5"": [""center""], ""9"": [""centre""], ""13"": [""centre""]}"
+4	2	1	10	8	1	Agent	9, 10, 11, 16	"{""9"": [""hotel""], ""10"": [""hotels""], ""11"": [""hotel""], ""16"": [""hotel""]}"
+3	1	1	17	6	1	Human	12, 13, 17	"{""12"": [""number""], ""13"": [""number""], ""17"": [""number""]}"
+3	3	1	1	5	1	Human	0, 1, 4	"{""0"": [""restaurant""], ""1"": [""restaurant""], ""4"": [""restaurant""]}"
+2	2	1	5	2	1	Human	4, 5	"{""4"": [""postcode""], ""5"": [""postcode""]}"

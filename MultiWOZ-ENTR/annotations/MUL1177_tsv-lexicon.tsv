@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	3	14	6	1	Agent	9, 14	"{""9"": [""b guest house""], ""14"": [""b guest house""]}"
+2	2	5	7	2	1	Human	6, 7	"{""6"": [""expensive guesthouse with free wifi""], ""7"": [""expensive guesthouses with free wifi""]}"
+3	3	1	18	8	2	Agent	11, 17, 18	"{""11"": [""day""], ""17"": [""day""], ""18"": [""day""]}"
+2	2	3	5	4	1	Human	2, 5	"{""2"": [""part of town""], ""5"": [""part of town""]}"
+3	1	1	2	5	1	Agent	1, 2, 5	"{""1"": [""town""], ""2"": [""town""], ""5"": [""town""]}"
+4	4	1	5	6	1	Human	4, 5, 8, 9	"{""4"": [""hotel""], ""5"": [""hotel""], ""8"": [""hotel""], ""9"": [""hotel""]}"
+3	1	1	6	3	1	Agent	5, 6, 7	"{""5"": [""guesthouse""], ""6"": [""guesthouse""], ""7"": [""guesthouses""]}"
+3	3	1	1	15	1	Human	0, 1, 14	"{""0"": [""nusha""], ""1"": [""nusha""], ""14"": [""nusha's""]}"
+2	2	1	1	2	1	Human	0, 1	"{""0"": [""cambridge""], ""1"": [""cambridge""]}"
+2	2	1	15	2	1	Human	14, 15	"{""14"": [""taxi""], ""15"": [""taxi""]}"

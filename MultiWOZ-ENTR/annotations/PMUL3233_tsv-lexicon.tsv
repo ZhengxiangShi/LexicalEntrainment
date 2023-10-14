@@ -1,0 +1,12 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	4	16	12	2	Agent	5, 7, 16	"{""5"": [""finches bed and breakfast""], ""7"": [""finches bed and breakfast""], ""16"": [""finches bed and breakfast""]}"
+3	3	2	17	6	2	Human	12, 14, 17	"{""12"": [""contact number""], ""14"": [""contact number""], ""17"": [""contact number""]}"
+3	3	2	12	5	1	Agent	9, 12, 13	"{""9"": [""entrance fee""], ""12"": [""entrance fee""], ""13"": [""entrance fee""]}"
+2	2	1	5	4	1	Human	2, 5	"{""2"": [""guesthouse""], ""5"": [""guesthouse""]}"
+2	2	1	11	2	1	Human	10, 11	"{""10"": [""address""], ""11"": [""address""]}"
+4	4	1	11	9	1	Human	8, 11, 14, 16	"{""8"": [""museum""], ""11"": [""museum""], ""14"": [""museum""], ""16"": [""museum""]}"
+5	2	1	12	11	2	Agent	7, 9, 12, 14, 17	"{""7"": [""number""], ""9"": [""number""], ""12"": [""number""], ""14"": [""number""], ""17"": [""number""]}"
+3	3	1	8	16	1	Agent	1, 8, 16	"{""1"": [""cambridge""], ""8"": [""cambridge""], ""16"": [""cambridge""]}"
+3	3	1	17	6	2	Human	12, 14, 17	"{""12"": [""taxi""], ""14"": [""taxi""], ""17"": [""taxi""]}"
+2	2	1	1	2	1	Human	0, 1	"{""0"": [""anniversary""], ""1"": [""anniversary""]}"
+2	2	1	9	10	1	Human	0, 9	"{""0"": [""town""], ""9"": [""town""]}"

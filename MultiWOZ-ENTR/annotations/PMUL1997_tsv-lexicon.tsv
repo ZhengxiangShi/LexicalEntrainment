@@ -1,0 +1,10 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+4	4	2	16	13	2	Agent	5, 15, 16, 17	"{""5"": [""reference number""], ""15"": [""reference number""], ""16"": [""reference number""], ""17"": [""reference number""]}"
+7	7	1	5	13	1	Human	5, 15, 16	"{""5"": [""booking""], ""15"": [""booking""], ""16"": [""booking""]}"
+3	3	2	15	6	2	Human	10, 12, 15	"{""10"": [""2 nights""], ""12"": [""2 nights""], ""15"": [""2 nights""]}"
+2	2	1	1	2	1	Human	0, 1	"{""0"": [""saturday""], ""1"": [""saturday""]}"
+2	2	1	11	4	1	Human	8, 11	"{""8"": [""room""], ""11"": [""room""]}"
+5	1	1	5	14	1	Human	4, 5, 15, 16, 17	"{""4"": [""number""], ""5"": [""number""], ""15"": [""number""], ""16"": [""number""], ""17"": [""number""]}"
+4	1	1	15	6	3	Human	10, 12, 14, 15	"{""10"": [""nights""], ""12"": [""nights""], ""14"": [""night""], ""15"": [""nights""]}"
+3	3	1	15	6	2	Human	10, 12, 15	"{""10"": [""thursday""], ""12"": [""thursday""], ""15"": [""thursday""]}"
+2	2	1	1	2	1	Human	0, 1	"{""0"": [""train""], ""1"": [""train""]}"

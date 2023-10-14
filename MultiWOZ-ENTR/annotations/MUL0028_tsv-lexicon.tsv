@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	1	9	4	1	Human	8, 9, 11	"{""8"": [""restaurant""], ""9"": [""restaurants""], ""11"": [""restaurants""]}"
+3	3	1	13	16	1	Human	0, 13, 15	"{""0"": [""cambridge""], ""13"": [""cambridge""], ""15"": [""cambridge""]}"
+2	2	2	13	8	1	Human	6, 13	"{""6"": [""reference number""], ""13"": [""reference number""]}"
+2	2	2	4	2	1	Agent	3, 4	"{""3"": [""star rating""], ""4"": [""star rating""]}"
+5	5	1	2	11	1	Agent	1, 2, 8, 9, 11	"{""1"": [""area""], ""2"": [""area""], ""8"": [""area""], ""9"": [""area""], ""11"": [""area""]}"
+5	3	1	5	10	1	Human	4, 5, 6, 7, 13	"{""4"": [""number""], ""5"": [""number""], ""6"": [""number""], ""7"": [""number""], ""13"": [""number""]}"
+4	4	1	1	6	1	Human	0, 1, 4, 5	"{""0"": [""hotel""], ""1"": [""hotels""], ""4"": [""hotel""], ""5"": [""hotel""]}"
+3	1	1	5	3	1	Agent	3, 4, 5	"{""3"": [""star""], ""4"": [""star""], ""5"": [""star""]}"
+2	2	1	5	2	1	Human	4, 5	"{""4"": [""address""], ""5"": [""address""]}"
+2	2	1	9	2	1	Human	8, 9	"{""8"": [""food""], ""9"": [""food""]}"

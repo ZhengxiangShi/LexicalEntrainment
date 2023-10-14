@@ -1,0 +1,12 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	3	3	4	1	Human	0, 3	"{""0"": [""centre of town""], ""3"": [""centre of town""]}"
+2	2	2	4	2	1	Agent	3, 4	"{""3"": [""cambridge punter""], ""4"": [""cambridge punter""]}"
+4	4	1	8	13	1	Agent	3, 4, 8, 11, 13, 15	"{""3"": [""cambridge""], ""4"": [""cambridge""], ""8"": [""cambridge""], ""11"": [""cambridge""], ""13"": [""cambridge""], ""15"": [""cambridge""]}"
+5	5	1	7	8	1	Human	6, 7, 9, 11, 13	"{""6"": [""train""], ""7"": [""trains""], ""9"": [""trains""], ""11"": [""train""], ""13"": [""train""]}"
+2	2	2	13	8	1	Human	6, 13	"{""6"": [""london liverpool""], ""13"": [""london liverpool""]}"
+2	2	2	13	2	1	Human	12, 13	"{""12"": [""reference number""], ""13"": [""reference number""]}"
+3	1	1	15	16	1	Human	0, 3, 15	"{""0"": [""centre""], ""3"": [""centre""], ""15"": [""centre""]}"
+3	3	1	9	3	1	Human	8, 9, 10	"{""8"": [""tuesday""], ""9"": [""tuesday""], ""10"": [""tuesday""]}"
+2	2	1	5	2	1	Human	4, 5	"{""4"": [""address""], ""5"": [""address""]}"
+2	2	1	3	2	1	Human	2, 3	"{""2"": [""boat""], ""3"": [""boats""]}"
+2	2	1	5	2	1	Human	4, 5	"{""4"": [""postcode""], ""5"": [""postcode""]}"

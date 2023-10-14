@@ -1,0 +1,12 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	1	17	10	2	Human	8, 16, 17	"{""8"": [""day""], ""16"": [""day""], ""17"": [""day""]}"
+2	2	2	15	6	1	Human	10, 15	"{""10"": [""stansted airport""], ""15"": [""stansted airport""]}"
+2	2	3	3	2	1	Human	2, 3	"{""2"": [""mahal of cambridge""], ""3"": [""mahal of cambridge""]}"
+3	3	2	15	4	2	Human	12, 14, 15	"{""12"": [""travel time""], ""14"": [""travel time""], ""15"": [""travel time""]}"
+2	2	1	6	2	1	Agent	5, 6	"{""5"": [""party""], ""6"": [""party""]}"
+2	2	1	15	8	1	Human	8, 15	"{""8"": [""cambridge""], ""15"": [""cambridge""]}"
+5	3	1	12	11	2	Agent	5, 9, 12, 14, 15	"{""5"": [""time""], ""9"": [""time""], ""12"": [""time""], ""14"": [""time""], ""15"": [""time""]}"
+2	2	1	1	2	1	Human	0, 1	"{""0"": [""restaurant""], ""1"": [""restaurants""]}"
+2	2	1	7	4	1	Human	4, 7	"{""4"": [""table""], ""7"": [""table""]}"
+2	2	1	13	10	1	Human	4, 13	"{""4"": [""thursday""], ""13"": [""thursday""]}"
+2	2	1	12	2	1	Agent	11, 12	"{""11"": [""tickets""], ""12"": [""tickets""]}"

@@ -1,0 +1,6 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	5	2	2	1	Agent	1, 2	"{""1"": [""kymmoy in the centre area""], ""2"": [""kymmoy in the centre area""]}"
+2	2	4	1	2	1	Human	0, 1	"{""0"": [""expensive asian oriental restaurant""], ""1"": [""expensive asian oriental restaurants""]}"
+4	2	1	5	7	1	Agent	1, 2, 5, 7	"{""1"": [""centre""], ""2"": [""centre""], ""5"": [""centre""], ""7"": [""centre""]}"
+3	2	1	2	5	1	Agent	1, 2, 5	"{""1"": [""area""], ""2"": [""area""], ""5"": [""area""]}"
+3	1	1	4	5	1	Human	0, 1, 4	"{""0"": [""restaurant""], ""1"": [""restaurants""], ""4"": [""restaurant""]}"

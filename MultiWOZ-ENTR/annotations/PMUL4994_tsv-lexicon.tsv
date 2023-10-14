@@ -1,0 +1,6 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	5	5	2	1	Human	4, 5	"{""4"": [""postcode for the cambridge artworks""], ""5"": [""postcode for the cambridge artworks""]}"
+3	1	2	4	3	1	Agent	3, 4, 5	"{""3"": [""cambridge artworks""], ""4"": [""cambridge artworks""], ""5"": [""cambridge artworks""]}"
+2	2	1	1	2	1	Human	0, 1	"{""0"": [""cambridge""], ""1"": [""cambridge""]}"
+2	2	1	6	4	1	Agent	3, 6	"{""3"": [""information""], ""6"": [""info""]}"
+2	2	1	1	2	1	Human	0, 1	"{""0"": [""museums""], ""1"": [""museums""]}"

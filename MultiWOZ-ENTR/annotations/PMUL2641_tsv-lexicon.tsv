@@ -1,0 +1,12 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	3	16	12	2	Agent	5, 9, 16	"{""5"": [""bridge guest house""], ""9"": [""bridge guest house""], ""16"": [""bridge guest house""]}"
+3	3	1	7	8	1	Human	4, 11	"{""4"": [""south""], ""11"": [""south""]}"
+4	2	2	16	12	3	Agent	5, 7, 9, 16	"{""5"": [""guest house""], ""7"": [""guest houses""], ""9"": [""guest house""], ""16"": [""guest house""]}"
+2	2	2	16	4	1	Agent	13, 16	"{""13"": [""club salsa""], ""16"": [""club salsa""]}"
+2	2	2	8	6	1	Agent	3, 8	"{""3"": [""star rating""], ""8"": [""star rating""]}"
+3	1	1	8	6	2	Agent	3, 7, 8	"{""3"": [""star""], ""7"": [""star""], ""8"": [""star""]}"
+2	2	1	11	2	1	Human	10, 11	"{""10"": [""nightclub""], ""11"": [""nightclubs""]}"
+2	2	1	19	2	1	Human	18, 19	"{""18"": [""number""], ""19"": [""number""]}"
+2	2	1	7	2	1	Human	6, 7	"{""6"": [""parking""], ""7"": [""parking""]}"
+2	2	1	1	2	1	Human	0, 1	"{""0"": [""place""], ""1"": [""places""]}"
+2	2	1	19	4	1	Human	16, 19	"{""16"": [""taxi""], ""19"": [""taxi""]}"

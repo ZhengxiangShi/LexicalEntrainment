@@ -1,0 +1,10 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+6	6	1	14	21	3	Agent	1, 13, 14, 20, 21	"{""1"": [""price""], ""13"": [""price""], ""14"": [""price""], ""20"": [""price""], ""21"": [""price""]}"
+2	2	3	9	6	1	Human	4, 9	"{""4"": [""nights on wednesday""], ""9"": [""night on wednesday""]}"
+4	2	1	12	16	1	Human	4, 9, 12, 19	"{""4"": [""wednesday""], ""9"": [""wednesday""], ""12"": [""wednesday""], ""19"": [""wednesday""]}"
+2	2	2	9	4	1	Human	6, 9	"{""6"": [""one night""], ""9"": [""1 night""]}"
+2	2	1	13	2	1	Human	12, 13	"{""12"": [""tickets""], ""13"": [""tickets""]}"
+3	3	1	15	6	2	Human	10, 14, 15	"{""10"": [""train""], ""14"": [""train""], ""15"": [""trains""]}"
+2	2	1	19	10	1	Human	10, 19	"{""10"": [""cambridge""], ""19"": [""cambridge""]}"
+2	2	1	19	10	1	Human	10, 19	"{""10"": [""norwich""], ""19"": [""norwich""]}"
+2	2	1	4	4	1	Agent	1, 4	"{""1"": [""rooms""], ""4"": [""room""]}"

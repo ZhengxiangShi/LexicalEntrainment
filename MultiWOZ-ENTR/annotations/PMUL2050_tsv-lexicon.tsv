@@ -1,0 +1,12 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	1	14	15	1	Agent	1, 14, 15	"{""1"": [""type""], ""14"": [""type""], ""15"": [""type""]}"
+6	6	1	3	13	2	Human	0, 2, 3, 4, 7, 12	"{""0"": [""college""], ""2"": [""college""], ""3"": [""college""], ""4"": [""college""], ""7"": [""college""], ""12"": [""college""]}"
+2	2	1	11	2	1	Human	10, 11	"{""10"": [""table""], ""11"": [""table""]}"
+2	2	2	15	2	1	Human	14, 15	"{""14"": [""contact number""], ""15"": [""contact number""]}"
+2	2	2	12	4	1	Agent	9, 12	"{""9"": [""pizza express""], ""12"": [""pizza express""]}"
+4	4	1	7	4	2	Human	4, 6, 7	"{""4"": [""postcode""], ""6"": [""postcode""], ""7"": [""postcode""]}"
+3	1	1	14	5	1	Agent	11, 14, 15	"{""11"": [""number""], ""14"": [""number""], ""15"": [""number""]}"
+3	3	1	13	3	1	Human	12, 13, 14	"{""12"": [""taxi""], ""13"": [""taxi""], ""14"": [""taxi""]}"
+2	2	1	15	2	1	Human	14, 15	"{""14"": [""car""], ""15"": [""car""]}"
+2	2	1	5	2	1	Human	4, 5	"{""4"": [""fee""], ""5"": [""fee""]}"
+2	2	1	8	8	1	Agent	1, 8	"{""1"": [""food""], ""8"": [""food""]}"

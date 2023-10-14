@@ -1,0 +1,12 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+5	5	2	8	11	3	Agent	1, 3, 7, 8, 11	"{""1"": [""gonville hotel""], ""3"": [""gonville hotel""], ""7"": [""gonville hotel""], ""8"": [""gonville hotel""], ""11"": [""gonville hotel""]}"
+10	10	1	2	12	1	Human	0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 11	"{""0"": [""hotel""], ""1"": [""hotel""], ""2"": [""hotel""], ""3"": [""hotel""], ""4"": [""hotels""], ""5"": [""hotels""], ""6"": [""hotel""], ""7"": [""hotels"", ""hotel""], ""8"": [""hotel""], ""9"": [""hotel""], ""11"": [""hotel""]}"
+3	3	2	18	9	1	Agent	11, 18, 19	"{""11"": [""reference number""], ""18"": [""reference number""], ""19"": [""reference number""]}"
+4	4	1	3	5	1	Human	2, 3, 6	"{""2"": [""guesthouse""], ""3"": [""guesthouse"", ""guesthouses""], ""6"": [""guesthouse""]}"
+4	4	1	16	3	1	Agent	15, 16, 17	"{""15"": [""reservation""], ""16"": [""reservation""], ""17"": [""reservation""]}"
+2	2	2	11	2	1	Human	10, 11	"{""10"": [""3 nights""], ""11"": [""3 nights""]}"
+5	5	1	8	13	1	Agent	18, 19	"{""18"": [""booking""], ""19"": [""booking""]}"
+4	4	1	7	22	1	Human	0, 7, 12, 21	"{""0"": [""center""], ""7"": [""centre""], ""12"": [""center""], ""21"": [""centre""]}"
+3	1	1	11	4	2	Human	8, 10, 11	"{""8"": [""nights""], ""10"": [""nights""], ""11"": [""nights""]}"
+3	3	1	13	3	1	Human	12, 13, 14	"{""12"": [""restaurants""], ""13"": [""restaurants""], ""14"": [""restaurant""]}"
+3	3	1	7	13	1	Human	0, 7, 12	"{""0"": [""town""], ""7"": [""town""], ""12"": [""town""]}"

@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	3	9	6	1	Human	4, 9	"{""4"": [""table for four""], ""9"": [""table for four""]}"
+3	3	2	14	4	1	Agent	13, 14, 16	"{""13"": [""lynne strover""], ""14"": [""lynne strover""], ""16"": [""lynne strover""]}"
+6	6	1	11	9	1	Human	10, 11, 12, 13, 16, 18	"{""10"": [""museums""], ""11"": [""museums""], ""12"": [""museum""], ""13"": [""museums""], ""16"": [""museum""], ""18"": [""museum""]}"
+2	2	2	15	2	1	Human	14, 15	"{""14"": [""post code""], ""15"": [""post code""]}"
+3	3	1	7	4	1	Human	6, 7, 9	"{""6"": [""sunday""], ""7"": [""sunday""], ""9"": [""sunday""]}"
+2	2	1	19	2	1	Human	18, 19	"{""18"": [""postcode""], ""19"": [""postcode""]}"
+8	8	1	4	16	2	Agent	1, 3, 4, 10, 11, 13, 14, 16	"{""1"": [""area""], ""3"": [""area""], ""4"": [""area""], ""10"": [""area""], ""11"": [""area""], ""13"": [""area""], ""14"": [""area""], ""16"": [""area""]}"
+4	4	1	1	4	1	Human	0, 1, 2, 3	"{""0"": [""restaurant""], ""1"": [""restaurants""], ""2"": [""restaurant""], ""3"": [""restaurants""]}"
+3	1	1	7	6	1	Human	4, 7, 9	"{""4"": [""table""], ""7"": [""table""], ""9"": [""table""]}"
+2	2	1	2	2	1	Agent	1, 2	"{""1"": [""food""], ""2"": [""food""]}"

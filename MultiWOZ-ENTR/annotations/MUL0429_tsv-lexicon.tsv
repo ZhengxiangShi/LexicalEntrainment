@@ -1,0 +1,10 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	2	4	3	1	Agent	3, 4, 5	"{""3"": [""botanic gardens""], ""4"": [""botanic gardens""], ""5"": [""botanic gardens""]}"
+2	2	1	7	2	1	Human	6, 7	"{""6"": [""postcode""], ""7"": [""postcode""]}"
+4	4	1	5	6	3	Human	0, 2, 4, 5	"{""0"": [""attractions""], ""2"": [""attractions""], ""4"": [""attractions""], ""5"": [""attraction""]}"
+3	3	1	5	6	1	Human	4, 5	"{""4"": [""cost""], ""5"": [""cost""]}"
+3	1	1	4	3	1	Agent	3, 4, 5	"{""3"": [""gardens""], ""4"": [""gardens""], ""5"": [""gardens""]}"
+3	3	1	10	4	1	Agent	9, 10, 12	"{""9"": [""tickets""], ""10"": [""tickets""], ""12"": [""tickets""]}"
+2	2	1	5	4	1	Human	2, 5	"{""2"": [""park""], ""5"": [""park""]}"
+2	2	1	8	6	1	Agent	3, 8	"{""3"": [""street""], ""8"": [""street""]}"
+2	2	1	11	4	1	Human	8, 11	"{""8"": [""train""], ""11"": [""train""]}"

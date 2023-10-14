@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	4	12	4	1	Agent	11, 12, 14	"{""11"": [""carolina bed and breakfast""], ""12"": [""carolina bed and breakfast""], ""14"": [""carolina bed and breakfast""]}"
+4	4	2	13	14	2	Human	4, 12, 13, 17	"{""4"": [""phone number""], ""12"": [""phone number""], ""13"": [""phone number""], ""17"": [""phone number""]}"
+3	3	2	5	4	1	Human	4, 5, 7	"{""4"": [""entrance fee""], ""5"": [""entrance fee""], ""7"": [""entrance fee""]}"
+3	3	2	9	8	1	Human	8, 9, 15	"{""8"": [""free parking""], ""9"": [""free parking""], ""15"": [""free parking""]}"
+2	2	2	15	2	1	Human	14, 15	"{""14"": [""free wifi""], ""15"": [""free wifi""]}"
+2	2	2	9	8	1	Human	2, 9	"{""2"": [""price range""], ""9"": [""price range""]}"
+6	2	1	7	14	1	Human	4, 7, 12, 13, 16, 17	"{""4"": [""number""], ""7"": [""number""], ""12"": [""number""], ""13"": [""number""], ""16"": [""number""], ""17"": [""number""]}"
+4	2	1	2	11	1	Agent	1, 2, 9	"{""1"": [""price""], ""2"": [""price""], ""9"": [""price""]}"
+2	2	1	7	4	1	Human	4, 7	"{""4"": [""college""], ""7"": [""college""]}"
+2	2	1	9	2	1	Human	8, 9	"{""8"": [""guesthouse""], ""9"": [""guesthouses""]}"

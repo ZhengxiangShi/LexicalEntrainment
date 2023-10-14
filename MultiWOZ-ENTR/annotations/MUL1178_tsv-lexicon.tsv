@@ -1,0 +1,8 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+6	6	2	5	10	2	Human	2, 4, 5, 10, 11	"{""2"": [""phone number""], ""4"": [""phone number""], ""5"": [""phone number""], ""10"": [""phone number""], ""11"": [""phone number""]}"
+4	4	2	3	4	1	Human	2, 3, 4, 5	"{""2"": [""entrance fee""], ""3"": [""entrance fee""], ""4"": [""entrance fee""], ""5"": [""entrance fee""]}"
+3	3	1	8	8	2	Agent	1, 7, 8	"{""1"": [""town""], ""7"": [""town""], ""8"": [""town""]}"
+2	2	2	9	4	1	Human	6, 9	"{""6"": [""free parking""], ""9"": [""free parking""]}"
+6	1	1	7	10	2	Human	2, 4, 5, 7, 10, 11	"{""2"": [""number""], ""4"": [""number""], ""5"": [""number""], ""7"": [""number""], ""10"": [""number""], ""11"": [""number""]}"
+3	3	1	9	5	1	Human	8, 9, 12	"{""8"": [""guesthouse""], ""9"": [""guesthouse""], ""12"": [""guesthouse""]}"
+3	3	1	1	6	1	Human	0, 1, 5	"{""0"": [""pool""], ""1"": [""pools""], ""5"": [""pool""]}"

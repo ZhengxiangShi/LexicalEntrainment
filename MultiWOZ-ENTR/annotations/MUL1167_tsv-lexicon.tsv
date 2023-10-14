@@ -1,0 +1,8 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	3	11	2	1	Human	10, 11	"{""10"": [""free wifi""], ""11"": [""free wifi""]}"
+2	2	2	2	2	1	Agent	1, 2	"{""1"": [""price range""], ""2"": [""price range""]}"
+2	2	1	5	2	1	Human	4, 5	"{""4"": [""address""], ""5"": [""address""]}"
+4	4	1	10	10	2	Agent	3, 5, 10, 12	"{""3"": [""rosa's""], ""5"": [""rosa's""], ""10"": [""rosa's""], ""12"": [""rosa's""]}"
+4	4	1	7	7	1	Human	6, 7, 8, 12	"{""6"": [""camboats""], ""7"": [""camboats""], ""8"": [""camboats""], ""12"": [""camboats""]}"
+4	4	1	11	5	1	Human	10, 11, 12, 14	"{""10"": [""taxi""], ""11"": [""taxi""], ""12"": [""taxi""], ""14"": [""taxi""]}"
+3	1	1	10	11	1	Agent	1, 10, 11	"{""1"": [""wifi""], ""10"": [""wifi""], ""11"": [""wifi""]}"

@@ -1,0 +1,12 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	2	8	4	1	Agent	0, 5, 8	"{""0"": [""place""], ""5"": [""place""], ""8"": [""place""]}"
+3	3	1	1	6	1	Human	0, 1, 5	"{""0"": [""centre""], ""1"": [""centre""], ""5"": [""centre""]}"
+3	3	2	4	12	1	Agent	3, 4, 14	"{""3"": [""old schools""], ""4"": [""old school""], ""14"": [""old schools""]}"
+2	2	1	7	2	1	Human	6, 7	"{""6"": [""address""], ""7"": [""address""]}"
+4	1	1	5	12	1	Agent	3, 4, 5, 14	"{""3"": [""schools""], ""4"": [""school""], ""5"": [""schools""], ""14"": [""schools""]}"
+2	2	1	5	4	1	Human	2, 5	"{""2"": [""architecture""], ""5"": [""architecture""]}"
+2	2	1	1	2	1	Human	0, 1	"{""0"": [""entertainment""], ""1"": [""entertainment""]}"
+2	2	1	7	2	1	Human	6, 7	"{""6"": [""fee""], ""7"": [""fee""]}"
+2	2	1	10	2	1	Agent	9, 10	"{""9"": [""party""], ""10"": [""party""]}"
+2	2	1	15	2	1	Human	14, 15	"{""14"": [""taxi""], ""15"": [""taxi""]}"
+2	2	1	14	4	1	Agent	11, 14	"{""11"": [""time""], ""14"": [""time""]}"

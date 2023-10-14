@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	4	5	2	1	Human	4, 5	"{""4"": [""cinemas in the south""], ""5"": [""cinema in the south""]}"
+4	2	1	3	4	1	Human	2, 3, 4	"{""2"": [""South""], ""3"": [""south""], ""4"": [""south""]}"
+2	2	2	13	2	1	Human	12, 13	"{""12"": [""car type""], ""13"": [""car type""]}"
+2	2	2	13	2	1	Human	12, 13	"{""12"": [""contact number""], ""13"": [""contact number""]}"
+2	2	2	9	2	1	Human	8, 9	"{""8"": [""lovell lodge""], ""9"": [""lovell lodge""]}"
+3	3	1	8	3	1	Agent	7, 8, 9	"{""7"": [""park""], ""8"": [""parking""], ""9"": [""parking""]}"
+2	2	2	7	2	1	Human	6, 7	"{""6"": [""phone number""], ""7"": [""phone number""]}"
+3	3	1	7	3	1	Human	6, 7, 8	"{""6"": [""address""], ""7"": [""address""], ""8"": [""address""]}"
+2	2	1	1	2	1	Human	0, 1	"{""0"": [""colleges""], ""1"": [""colleges""]}"
+2	2	1	9	2	1	Human	8, 9	"{""8"": [""price""], ""9"": [""pricing""]}"

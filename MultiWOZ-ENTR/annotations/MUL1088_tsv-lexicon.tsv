@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	5	18	18	1	Agent	1, 18	"{""1"": [""saints church on jesus lane""], ""18"": [""saints church on jesus lane""]}"
+3	3	4	1	8	1	Human	0, 1, 7	"{""0"": [""centre""], ""1"": [""centre""], ""7"": [""centre""]}"
+3	1	2	19	19	1	Agent	1, 18, 19	"{""1"": [""saints church""], ""18"": [""saints church""], ""19"": [""saints church's""]}"
+3	3	2	8	4	2	Agent	5, 7, 8	"{""5"": [""price range"", ""price ranges""], ""7"": [""price range""], ""8"": [""price range""]}"
+2	2	2	3	2	1	Human	2, 3	"{""2"": [""entrance fee""], ""3"": [""entrance fee""]}"
+2	2	2	5	2	1	Human	4, 5	"{""4"": [""expensive one""], ""5"": [""expensive ones""]}"
+2	2	2	19	2	1	Human	18, 19	"{""18"": [""phone number""], ""19"": [""phone number""]}"
+4	4	1	5	6	1	Human	4, 5, 8, 9	"{""4"": [""guesthouse""], ""5"": [""guesthouses""], ""8"": [""guesthouse""], ""9"": [""guesthouses""]}"
+3	1	1	18	3	1	Agent	17, 18, 19	"{""17"": [""number""], ""18"": [""number""], ""19"": [""number""]}"
+2	2	1	7	2	1	Human	6, 7	"{""6"": [""hotel""], ""7"": [""hotels"", ""hotel""]}"

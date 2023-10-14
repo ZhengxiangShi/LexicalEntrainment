@@ -1,0 +1,12 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	3	7	4	1	Human	4, 7	"{""4"": [""london liverpool street""], ""7"": [""london liverpool street""]}"
+2	2	2	2	2	1	Agent	1, 2	"{""1"": [""lovely colleges""], ""2"": [""lovely colleges""]}"
+2	2	2	5	2	1	Human	4, 5	"{""4"": [""phone number""], ""5"": [""phone number""]}"
+5	5	1	5	8	1	Human	4, 5, 7, 9, 11	"{""4"": [""train""], ""5"": [""train""], ""7"": [""train""], ""9"": [""trains""], ""11"": [""train""]}"
+2	2	1	1	2	1	Human	0, 1	"{""0"": [""town""], ""1"": [""town""]}"
+3	1	1	1	3	1	Human	0, 1, 2	"{""0"": [""colleges""], ""1"": [""colleges""], ""2"": [""colleges""]}"
+3	3	1	9	3	1	Human	8, 9, 10	"{""8"": [""earlier""], ""9"": [""earlier""], ""10"": [""earlier""]}"
+2	2	1	7	4	1	Human	4, 7	"{""4"": [""cambridge""], ""7"": [""cambridge""]}"
+2	2	1	7	2	1	Human	6, 7	"{""6"": [""friday""], ""7"": [""friday""]}"
+2	2	1	13	2	1	Human	12, 13	"{""12"": [""price""], ""13"": [""price""]}"
+2	2	1	13	2	1	Human	12, 13	"{""12"": [""ticket""], ""13"": [""ticket""]}"

@@ -1,0 +1,5 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	10	7	8	1	Human	0, 7	"{""0"": [""taxi to take me to london liverpool street train station""], ""7"": [""taxi to take me to london liverpool street train station""]}"
+3	1	2	7	8	2	Human	0, 2, 7	"{""0"": [""train station""], ""2"": [""train station""], ""7"": [""train station""]}"
+2	2	2	5	2	1	Human	4, 5	"{""4"": [""contact number""], ""5"": [""contact number""]}"
+3	1	1	7	8	2	Human	0, 2, 7	"{""0"": [""london""], ""2"": [""london""], ""7"": [""london""]}"

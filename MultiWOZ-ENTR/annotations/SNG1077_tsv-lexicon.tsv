@@ -1,0 +1,5 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	3	1	2	1	Human	0, 1	"{""0"": [""theatres in town""], ""1"": [""theatres in town""]}"
+2	2	1	5	2	1	Human	4, 5	"{""4"": [""address""], ""5"": [""address""]}"
+4	2	1	3	8	1	Human	0, 1, 3, 7	"{""0"": [""theatres""], ""1"": [""theatres""], ""3"": [""theatre""], ""7"": [""theatre""]}"
+3	1	1	7	8	1	Human	0, 1, 7	"{""0"": [""town""], ""1"": [""town""], ""7"": [""town""]}"

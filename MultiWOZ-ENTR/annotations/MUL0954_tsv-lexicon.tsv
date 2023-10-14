@@ -1,0 +1,13 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	7	1	2	1	Human	0, 1	"{""0"": [""museums in the west part of town""], ""1"": [""museums in the west part of town""]}"
+5	3	1	2	9	1	Human	2, 3, 8	"{""2"": [""west""], ""3"": [""west""], ""8"": [""west""]}"
+3	3	2	5	15	1	Human	4, 5, 18	"{""4"": [""phone number""], ""5"": [""phone number""], ""18"": [""phone number""]}"
+2	2	2	15	2	1	Human	14, 15	"{""14"": [""reference number""], ""15"": [""reference number""]}"
+7	7	1	7	12	1	Human	6, 7, 8, 9, 15, 16, 17	"{""6"": [""restaurant""], ""7"": [""restaurants""], ""8"": [""restaurant""], ""9"": [""restaurant""], ""15"": [""restaurant""], ""16"": [""restaurant""], ""17"": [""restaurant""]}"
+5	5	1	10	8	1	Agent	9, 10, 12, 15, 16	"{""9"": [""reservation""], ""10"": [""reservations""], ""12"": [""reservations""], ""15"": [""reservation""], ""16"": [""reservation""]}"
+2	2	1	13	2	1	Human	12, 13	"{""12"": [""friday""], ""13"": [""friday""]}"
+5	5	1	14	11	3	Agent	11, 14, 19	"{""11"": [""booking""], ""14"": [""booking""], ""19"": [""booking""]}"
+6	1	1	19	16	1	Human	4, 5, 14, 15, 18, 19	"{""4"": [""number""], ""5"": [""number""], ""14"": [""number""], ""15"": [""number""], ""18"": [""number""], ""19"": [""number""]}"
+2	2	1	7	2	1	Human	6, 7	"{""6"": [""area""], ""7"": [""area""]}"
+2	2	1	19	4	1	Human	16, 19	"{""16"": [""taxi""], ""19"": [""taxi""]}"
+2	2	1	16	6	1	Agent	11, 16	"{""11"": [""time""], ""16"": [""time""]}"

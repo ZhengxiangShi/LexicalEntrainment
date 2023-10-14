@@ -1,0 +1,13 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	3	10	4	1	Agent	7, 10	"{""7"": [""moderate price range""], ""10"": [""moderate price range""]}"
+2	2	4	5	2	1	Human	4, 5	"{""4"": [""hotels in the north""], ""5"": [""hotels in the north""]}"
+3	2	1	5	6	1	Human	4, 5, 9	"{""4"": [""north""], ""5"": [""north""], ""9"": [""north""]}"
+3	1	2	8	4	1	Agent	7, 10	"{""7"": [""moderate price""], ""10"": [""moderate price""]}"
+2	2	2	3	2	1	Human	2, 3	"{""2"": [""phone number""], ""3"": [""phone number""]}"
+3	3	2	10	11	1	Agent	5, 10, 15	"{""5"": [""ashley hotel""], ""10"": [""ashley hotel""], ""15"": [""ashley hotel""]}"
+5	5	1	8	12	1	Human	4, 5, 8, 9, 10, 15	"{""4"": [""hotels""], ""5"": [""hotels"", ""hotel""], ""8"": [""hotels""], ""9"": [""hotels"", ""hotel""], ""10"": [""hotel"", ""hotel""], ""15"": [""hotel""]}"
+2	2	2	15	2	1	Human	14, 15	"{""14"": [""2 nights""], ""15"": [""two nights""]}"
+5	3	1	15	10	4	Human	6, 10, 12, 14, 15	"{""6"": [""night""], ""10"": [""nights""], ""12"": [""nights""], ""14"": [""nights""], ""15"": [""nights""]}"
+3	1	1	15	14	1	Human	2, 3, 15	"{""2"": [""number""], ""3"": [""number""], ""15"": [""number""]}"
+2	2	1	1	2	1	Human	0, 1	"{""0"": [""architecture""], ""1"": [""architecture""]}"
+2	2	1	12	2	1	Agent	11, 12	"{""11"": [""people""], ""12"": [""people""]}"

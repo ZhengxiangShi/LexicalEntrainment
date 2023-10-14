@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	1	7	3	1	Human	7, 8	"{""7"": [""north""], ""8"": [""north""]}"
+3	3	2	8	4	2	Agent	5, 7, 8	"{""5"": [""4 star""], ""7"": [""4 star""], ""8"": [""4 star""]}"
+3	3	1	6	15	1	Agent	1, 6, 15	"{""1"": [""town""], ""6"": [""town""], ""15"": [""town""]}"
+3	3	1	7	16	1	Human	6, 7, 21	"{""6"": [""area""], ""7"": [""area""], ""21"": [""area""]}"
+6	6	1	5	18	1	Human	4, 5, 7, 11, 20, 21	"{""4"": [""hotel""], ""5"": [""hotels""], ""7"": [""hotels""], ""11"": [""hotels""], ""20"": [""hotel""], ""21"": [""hotel""]}"
+5	3	1	5	12	1	Human	4, 5, 7, 8, 15	"{""4"": [""star""], ""5"": [""star""], ""7"": [""star""], ""8"": [""star""], ""15"": [""star""]}"
+4	4	1	3	22	1	Human	0, 3, 19, 21	"{""0"": [""park""], ""3"": [""parks""], ""19"": [""park""], ""21"": [""parks""]}"
+2	2	1	17	6	1	Human	12, 17	"{""12"": [""guest""], ""17"": [""guest""]}"
+2	2	1	3	2	1	Human	2, 3	"{""2"": [""postcode""], ""3"": [""postcodes""]}"
+2	2	1	6	2	1	Agent	5, 6	"{""5"": [""price""], ""6"": [""price""]}"

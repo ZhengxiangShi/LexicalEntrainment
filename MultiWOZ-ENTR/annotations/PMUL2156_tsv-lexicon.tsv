@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+4	4	1	1	6	1	Human	0, 1, 2, 5	"{""0"": [""town""], ""1"": [""town""], ""2"": [""town""], ""5"": [""town""]}"
+2	2	1	9	10	1	Human	0, 9	"{""0"": [""information""], ""9"": [""info""]}"
+5	5	1	4	6	1	Agent	3, 4, 5, 6, 8	"{""3"": [""museums""], ""4"": [""museum""], ""5"": [""museums""], ""6"": [""museum""], ""8"": [""museum""]}"
+2	2	1	15	2	1	Human	14, 15	"{""14"": [""postcode""], ""15"": [""postcode""]}"
+4	4	1	11	6	1	Human	10, 11, 13, 15	"{""10"": [""gallery""], ""11"": [""gallery""], ""13"": [""gallery""], ""15"": [""gallery""]}"
+3	3	1	13	11	1	Human	6, 13, 16	"{""6"": [""restaurant""], ""13"": [""restaurant""], ""16"": [""restaurant""]}"
+2	2	1	16	16	1	Agent	1, 16	"{""1"": [""area""], ""16"": [""area""]}"
+2	2	1	14	12	1	Agent	3, 14	"{""3"": [""attractions""], ""14"": [""attraction""]}"
+2	2	1	13	8	1	Human	6, 13	"{""6"": [""nearby""], ""13"": [""nearby""]}"
+2	2	1	21	4	1	Human	18, 21	"{""18"": [""table""], ""21"": [""table""]}"

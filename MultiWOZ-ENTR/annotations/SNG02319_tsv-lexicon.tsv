@@ -1,0 +1,5 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	6	7	8	1	Human	0, 7	"{""0"": [""taxi to the scott polar museum""], ""7"": [""taxi to the scott polar museum""]}"
+2	2	1	5	2	1	Human	4, 5	"{""4"": [""contact""], ""5"": [""contact""]}"
+2	2	1	5	2	1	Human	4, 5	"{""4"": [""number""], ""5"": [""number""]}"
+2	2	1	2	2	1	Agent	1, 2	"{""1"": [""time""], ""2"": [""time""]}"

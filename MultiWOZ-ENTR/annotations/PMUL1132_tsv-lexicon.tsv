@@ -1,0 +1,10 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	2	16	2	1	Agent	15, 16	"{""15"": [""saints church""], ""16"": [""saints church""]}"
+5	5	1	12	7	1	Agent	9, 12, 13, 15	"{""9"": [""attractions""], ""12"": [""attraction""], ""13"": [""attraction"", ""attractions""], ""15"": [""attraction""]}"
+3	3	1	17	4	2	Human	14, 16, 17	"{""14"": [""address""], ""16"": [""address""], ""17"": [""address""]}"
+5	5	1	9	10	1	Human	8, 9, 12, 13, 17	"{""8"": [""centre""], ""9"": [""centre""], ""12"": [""centre""], ""13"": [""centre""], ""17"": [""centre""]}"
+4	4	1	9	6	1	Human	8, 9, 10, 13	"{""8"": [""entertainment""], ""9"": [""entertainment""], ""10"": [""entertainment""], ""13"": [""entertainment""]}"
+3	3	1	7	3	1	Human	6, 7, 8	"{""6"": [""food""], ""7"": [""food""], ""8"": [""food""]}"
+2	2	1	15	2	1	Human	14, 15	"{""14"": [""architecture""], ""15"": [""architecture""]}"
+2	2	1	12	4	1	Agent	9, 12	"{""9"": [""city""], ""12"": [""city""]}"
+2	2	1	3	4	1	Human	0, 3	"{""0"": [""train""], ""3"": [""train""]}"

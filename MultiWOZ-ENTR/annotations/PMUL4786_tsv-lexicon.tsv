@@ -1,0 +1,12 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	2	11	2	1	Human	10, 11	"{""10"": [""entrance fee""], ""11"": [""entrance fee""]}"
+2	2	2	1	2	1	Human	0, 1	"{""0"": [""golden house""], ""1"": [""golden house""]}"
+2	2	2	3	2	1	Human	2, 3	"{""2"": [""reference number""], ""3"": [""reference number""]}"
+4	2	1	2	9	1	Agent	1, 2, 3, 9	"{""1"": [""number""], ""2"": [""number""], ""3"": [""number""], ""9"": [""number""]}"
+3	3	1	7	6	1	Human	6, 7, 11	"{""6"": [""college""], ""7"": [""college"", ""colleges""], ""11"": [""college""]}"
+3	3	1	8	5	1	Agent	7, 8, 11	"{""7"": [""pembroke""], ""8"": [""pembroke""], ""11"": [""pembroke""]}"
+3	3	1	4	7	1	Agent	1, 4, 7	"{""1"": [""town""], ""4"": [""town""], ""7"": [""town""]}"
+2	2	1	8	8	1	Agent	1, 8	"{""1"": [""address""], ""8"": [""address""]}"
+2	2	1	5	2	1	Human	4, 5	"{""4"": [""entertainment""], ""5"": [""entertainment""]}"
+2	2	1	1	2	1	Human	0, 1	"{""0"": [""restaurant""], ""1"": [""restaurant""]}"
+2	2	1	3	2	1	Human	2, 3	"{""2"": [""table""], ""3"": [""table""]}"

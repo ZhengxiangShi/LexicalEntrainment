@@ -1,0 +1,7 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	3	15	6	1	Human	10, 15	"{""10"": [""da vinci pizzeria""], ""15"": [""da vinci pizzeria""]}"
+3	3	1	13	5	1	Human	12, 13, 16	"{""12"": [""address""], ""13"": [""address""], ""16"": [""address""]}"
+2	2	2	3	2	1	Human	2, 3	"{""2"": [""4 stars""], ""3"": [""4 stars""]}"
+5	5	1	16	12	4	Agent	5, 11, 13, 15, 16	"{""5"": [""booking""], ""11"": [""booking""], ""13"": [""booking""], ""15"": [""booking""], ""16"": [""booking""]}"
+3	3	1	18	14	2	Agent	5, 15, 18	"{""5"": [""days"", ""day""], ""15"": [""day""], ""18"": [""day""]}"
+2	2	1	1	2	1	Human	0, 1	"{""0"": [""guesthouse""], ""1"": [""guesthouse""]}"

@@ -1,0 +1,12 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	4	12	2	1	Agent	11, 12	"{""11"": [""entrance fee isn't listed""], ""12"": [""entrance fee isn't listed""]}"
+2	2	2	11	4	1	Human	10, 11, 12, 13	"{""10"": [""entrance fee""], ""11"": [""entrance fee""], ""12"": [""entrance fee""], ""13"": [""entrance fee""]}"
+2	2	1	5	4	1	Human	2, 5	"{""2"": [""food""], ""5"": [""food""]}"
+3	3	2	7	5	1	Human	6, 7, 10	"{""6"": [""phone number""], ""7"": [""phone number""], ""10"": [""phone number""]}"
+2	2	2	11	2	1	Human	10, 11	"{""10"": [""attraction type""], ""11"": [""attraction type""]}"
+2	2	2	5	2	1	Human	4, 5	"{""4"": [""french food""], ""5"": [""french food""]}"
+2	2	2	9	2	1	Human	8, 9	"{""8"": [""parkside pools""], ""9"": [""parkside pools""]}"
+4	1	1	11	6	1	Human	6, 7, 10, 11	"{""6"": [""number""], ""7"": [""number""], ""10"": [""number""], ""11"": [""number""]}"
+3	1	1	13	3	1	Agent	11, 12, 13	"{""11"": [""listed""], ""12"": [""listed""], ""13"": [""listed""]}"
+3	3	1	9	4	2	Human	6, 8, 9	"{""6"": [""postcode""], ""8"": [""postcode""], ""9"": [""postcode""]}"
+2	2	1	9	10	1	Human	0, 9	"{""0"": [""place""], ""9"": [""place""]}"

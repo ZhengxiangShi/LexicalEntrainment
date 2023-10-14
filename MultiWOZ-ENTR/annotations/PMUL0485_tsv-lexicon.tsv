@@ -1,0 +1,8 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+4	4	1	5	8	1	Human	4, 5, 10, 11	"{""4"": [""address""], ""5"": [""address""], ""10"": [""address""], ""11"": [""address""]}"
+2	2	2	3	2	1	Human	2, 3	"{""2"": [""expensive european""], ""3"": [""expensive european""]}"
+3	3	1	7	4	1	Human	6, 7, 9	"{""6"": [""hotel""], ""7"": [""hotels""], ""9"": [""hotel""]}"
+2	2	1	4	2	1	Agent	3, 4	"{""3"": [""town""], ""4"": [""town""]}"
+3	3	1	11	8	2	Human	4, 10, 11	"{""4"": [""postcode""], ""10"": [""postcode""], ""11"": [""postcode""]}"
+2	2	1	2	2	1	Agent	1, 2	"{""1"": [""food""], ""2"": [""food""]}"
+2	2	1	8	8	1	Agent	1, 8	"{""1"": [""price""], ""8"": [""price""]}"

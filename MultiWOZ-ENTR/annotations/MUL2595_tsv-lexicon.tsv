@@ -1,0 +1,8 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	4	7	4	1	Human	4, 7	"{""4"": [""cherry hinton village centre""], ""7"": [""cherry hinton village centre""]}"
+3	3	2	3	6	1	Human	2, 3, 4, 7	"{""2"": [""cherry hinton""], ""3"": [""cherry hinton""], ""4"": [""cherry hinton""], ""7"": [""cherry hinton""]}"
+2	2	2	7	2	1	Human	6, 7	"{""6"": [""entrance fees""], ""7"": [""entrance fee""]}"
+2	2	2	10	2	1	Agent	9, 10	"{""9"": [""ashley hotel""], ""10"": [""ashley hotel""]}"
+2	2	2	11	2	1	Human	10, 11	"{""10"": [""reference number""], ""11"": [""reference number""]}"
+5	5	1	1	7	1	Human	0, 1, 3, 5, 6	"{""0"": [""attractions""], ""1"": [""attractions""], ""3"": [""attractions""], ""5"": [""attraction""], ""6"": [""attraction""]}"
+3	2	1	9	3	1	Human	8, 9, 10	"{""8"": [""hotel""], ""9"": [""hotel"", ""hotel""], ""10"": [""hotel""]}"

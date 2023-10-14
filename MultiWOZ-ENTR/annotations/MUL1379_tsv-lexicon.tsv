@@ -1,0 +1,9 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+4	4	1	9	13	1	Human	2, 9, 13, 14	"{""2"": [""centre""], ""9"": [""centre""], ""13"": [""centre""], ""14"": [""centre""]}"
+2	2	3	1	2	1	Human	0, 1	"{""0"": [""expensive russian restaurant""], ""1"": [""expensive russian restaurants""]}"
+2	2	2	6	2	1	Agent	5, 6	"{""5"": [""fitzbillies restaurant""], ""6"": [""fitzbillies restaurant""]}"
+7	4	1	3	11	1	Human	0, 1, 3, 5, 6, 8, 10	"{""0"": [""restaurant""], ""1"": [""restaurants""], ""3"": [""restaurants""], ""5"": [""restaurants"", ""restaurant""], ""6"": [""restaurant""], ""8"": [""restaurant's""], ""10"": [""restaurant""]}"
+5	5	1	11	6	1	Human	10, 11, 12, 13, 15	"{""10"": [""hotel""], ""11"": [""hotels""], ""12"": [""hotel""], ""13"": [""hotel""], ""15"": [""hotel""]}"
+3	3	1	11	12	1	Human	2, 11, 13	"{""2"": [""area""], ""11"": [""area""], ""13"": [""area""]}"
+2	2	1	9	2	1	Human	8, 9	"{""8"": [""address""], ""9"": [""address""]}"
+2	2	1	17	4	1	Human	14, 17	"{""14"": [""nights""], ""17"": [""night""]}"

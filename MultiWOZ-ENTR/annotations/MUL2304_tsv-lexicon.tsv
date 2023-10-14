@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	3	5	6	1	Human	0, 5	"{""0"": [""expensive price range""], ""5"": [""expensive price range""]}"
+2	2	2	5	4	1	Human	2, 5	"{""2"": [""lebanese food""], ""5"": [""lebanese food""]}"
+4	4	1	9	6	1	Human	8, 9, 12, 13	"{""8"": [""address""], ""9"": [""address""], ""12"": [""address""], ""13"": [""address""]}"
+3	3	1	14	8	2	Agent	7, 11, 14	"{""7"": [""restaurant"", ""restaurant""], ""11"": [""restaurant""], ""14"": [""restaurant""]}"
+6	6	1	17	19	4	Human	0, 6, 10, 14, 17, 18	"{""0"": [""place""], ""6"": [""places""], ""10"": [""place""], ""14"": [""place""], ""17"": [""places""], ""18"": [""places""]}"
+5	3	1	2	6	1	Agent	1, 2, 3, 5, 6	"{""1"": [""food""], ""2"": [""food""], ""3"": [""food""], ""5"": [""food""], ""6"": [""food""]}"
+3	3	1	8	3	1	Agent	7, 8, 9	"{""7"": [""cote""], ""8"": [""cote""], ""9"": [""cote""]}"
+2	2	1	20	6	1	Agent	15, 20	"{""15"": [""attraction""], ""20"": [""attraction""]}"
+2	2	1	17	2	1	Human	16, 17	"{""16"": [""entrance""], ""17"": [""entrance""]}"
+2	2	1	6	2	1	Agent	5, 6	"{""5"": [""listings""], ""6"": [""list""]}"

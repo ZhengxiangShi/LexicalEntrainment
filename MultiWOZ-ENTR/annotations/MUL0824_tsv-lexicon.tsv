@@ -1,0 +1,12 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+4	4	3	8	8	1	Agent	5, 8, 10, 12	"{""5"": [""gourmet burger kitchen""], ""8"": [""gourmet burger kitchen""], ""10"": [""gourmet burger kitchen""], ""12"": [""gourmet burger kitchen""]}"
+3	3	2	9	6	2	Human	4, 8, 9	"{""4"": [""phone number""], ""8"": [""phone number""], ""9"": [""phone number""]}"
+2	2	2	11	12	1	Human	0, 11	"{""0"": [""city centre""], ""11"": [""city centre""]}"
+2	2	1	8	4	1	Agent	5, 8	"{""5"": [""numbers""], ""8"": [""number""]}"
+2	2	1	11	2	1	Human	10, 11	"{""10"": [""address""], ""11"": [""address""]}"
+5	5	1	2	8	1	Agent	1, 2, 3, 5, 8	"{""1"": [""churches""], ""2"": [""churches""], ""3"": [""churches""], ""5"": [""church"", ""churches""], ""8"": [""churches""]}"
+2	2	1	13	2	1	Human	12, 13	"{""12"": [""postcode""], ""13"": [""postcode""]}"
+3	1	1	17	18	1	Human	0, 11, 17	"{""0"": [""centre""], ""11"": [""centre""], ""17"": [""centre""]}"
+3	3	1	11	6	1	Human	10, 11, 15	"{""10"": [""reservations""], ""11"": [""reservation""], ""15"": [""reservation""]}"
+2	2	1	17	18	1	Human	0, 17	"{""0"": [""cambridge""], ""17"": [""cambridge""]}"
+2	2	1	5	2	1	Human	4, 5	"{""4"": [""restaurant""], ""5"": [""restaurant""]}"

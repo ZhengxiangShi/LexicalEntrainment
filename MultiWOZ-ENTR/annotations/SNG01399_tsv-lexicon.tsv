@@ -1,0 +1,5 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	4	1	2	1	Human	0, 1	"{""0"": [""teenage cancer trust unit""], ""1"": [""teenage cancer trust unit""]}"
+2	2	1	3	2	1	Human	2, 3	"{""2"": [""postcode""], ""3"": [""postcode""]}"
+3	3	1	1	4	1	Human	0, 1, 3	"{""0"": [""hospital""], ""1"": [""hospital""], ""3"": [""hospital""]}"
+3	1	1	3	4	1	Human	0, 1, 3	"{""0"": [""unit""], ""1"": [""unit""], ""3"": [""unit""]}"

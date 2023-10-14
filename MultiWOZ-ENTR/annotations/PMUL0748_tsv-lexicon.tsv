@@ -1,0 +1,12 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	3	9	4	1	Human	6, 9	"{""6"": [""london liverpool street""], ""9"": [""london liverpool street""]}"
+2	2	1	11	2	1	Human	10, 11	"{""10"": [""address""], ""11"": [""address""]}"
+2	2	1	2	2	1	Agent	1, 2	"{""1"": [""best""], ""2"": [""best""]}"
+3	1	1	11	6	1	Human	6, 9, 11	"{""6"": [""street""], ""9"": [""street""], ""11"": [""street""]}"
+3	3	1	8	3	1	Agent	7, 8, 9	"{""7"": [""tickets""], ""8"": [""ticket""], ""9"": [""ticket""]}"
+2	2	1	9	4	1	Human	6, 9	"{""6"": [""cambridge""], ""9"": [""cambridge""]}"
+2	2	1	10	10	1	Agent	1, 10	"{""1"": [""hotel""], ""10"": [""hotel""]}"
+2	2	1	13	2	1	Human	12, 13	"{""12"": [""number""], ""13"": [""number""]}"
+2	2	1	3	2	1	Human	2, 3	"{""2"": [""options""], ""3"": [""options""]}"
+2	2	1	1	2	1	Human	0, 1	"{""0"": [""train""], ""1"": [""train""]}"
+2	2	1	15	16	1	Human	0, 15	"{""0"": [""trip""], ""15"": [""trip""]}"

@@ -1,0 +1,12 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	1	6	6	2	Agent	1, 5, 6	"{""1"": [""centre""], ""5"": [""centre""], ""6"": [""centre""]}"
+3	3	1	9	7	1	Human	8, 9, 14	"{""8"": [""taxi""], ""9"": [""taxi""], ""14"": [""taxi""]}"
+2	2	1	5	2	1	Human	4, 5	"{""4"": [""town""], ""5"": [""town""]}"
+2	2	2	6	6	1	Agent	1, 6	"{""1"": [""phone number""], ""6"": [""phone number""]}"
+2	2	1	14	4	1	Agent	11, 14	"{""11"": [""time""], ""14"": [""time""]}"
+4	2	1	6	13	2	Agent	1, 3, 6, 13	"{""1"": [""number""], ""3"": [""number""], ""6"": [""number""], ""13"": [""number""]}"
+4	4	1	5	7	1	Human	4, 5, 7, 10	"{""4"": [""theatre""], ""5"": [""theatres""], ""7"": [""theatre""], ""10"": [""theatre""]}"
+2	2	1	7	2	1	Human	6, 7	"{""6"": [""address""], ""7"": [""address""]}"
+2	2	1	7	2	1	Human	6, 7	"{""6"": [""postcode""], ""7"": [""postcode""]}"
+2	2	1	12	12	1	Agent	1, 12	"{""1"": [""restaurant""], ""12"": [""restaurant""]}"
+2	2	1	3	2	1	Human	2, 3	"{""2"": [""table""], ""3"": [""table""]}"

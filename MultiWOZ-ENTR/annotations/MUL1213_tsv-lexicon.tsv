@@ -1,0 +1,10 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+4	4	1	12	9	1	Agent	7, 8, 12, 14, 15	"{""7"": [""allenbell""], ""8"": [""allenbell""], ""12"": [""allenbell""], ""14"": [""allenbell""], ""15"": [""allenbell""]}"
+3	3	2	1	13	1	Human	0, 1, 12	"{""0"": [""j restaurant""], ""1"": [""j restaurant""], ""12"": [""j restaurant""]}"
+2	2	2	8	2	1	Agent	7, 8	"{""7"": [""hotel allenbell""], ""8"": [""hotel allenbell""]}"
+2	2	1	9	2	1	Human	8, 9	"{""8"": [""postcode""], ""9"": [""postcode""]}"
+4	2	1	8	10	2	Agent	5, 7, 8, 14	"{""5"": [""hotels""], ""7"": [""hotel""], ""8"": [""hotel""], ""14"": [""hotel""]}"
+3	2	1	1	13	1	Human	0, 1, 12	"{""0"": [""restaurant""], ""1"": [""restaurant""], ""12"": [""restaurant""]}"
+2	2	1	7	2	1	Human	6, 7	"{""6"": [""parking""], ""7"": [""parking""]}"
+2	2	1	10	2	1	Agent	9, 10	"{""9"": [""room""], ""10"": [""room""]}"
+2	2	1	13	2	1	Human	12, 13	"{""12"": [""taxi""], ""13"": [""taxi""]}"

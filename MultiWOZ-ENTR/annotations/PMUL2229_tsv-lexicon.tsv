@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	4	2	2	1	Agent	1, 2	"{""1"": [""name of the restaurant""], ""2"": [""name of the restaurant""]}"
+2	2	3	9	6	1	Human	4, 9	"{""4"": [""table for six""], ""9"": [""table for 6""]}"
+3	1	1	4	7	1	Agent	3, 4, 9	"{""3"": [""table""], ""4"": [""table""], ""9"": [""table""]}"
+3	3	1	12	3	1	Agent	11, 12, 13	"{""11"": [""centre""], ""12"": [""centre""], ""13"": [""centre""]}"
+3	3	1	14	11	1	Agent	5, 14, 15	"{""5"": [""day""], ""14"": [""day""], ""15"": [""day""]}"
+2	2	2	13	2	1	Human	12, 13	"{""12"": [""entrance fee""], ""13"": [""entrance fee""]}"
+2	2	1	9	4	1	Human	6, 9	"{""6"": [""thursday""], ""9"": [""thursday""]}"
+4	4	2	3	8	1	Human	2, 3, 5, 9	"{""2"": [""lucky star""], ""3"": [""lucky star""], ""5"": [""lucky star""], ""9"": [""lucky star""]}"
+4	2	1	1	6	1	Human	0, 1, 2, 5	"{""0"": [""restaurant""], ""1"": [""restaurant""], ""2"": [""restaurant""], ""5"": [""restaurant""]}"
+2	2	1	11	2	1	Human	10, 11	"{""10"": [""nightclub""], ""11"": [""nightclubs""]}"

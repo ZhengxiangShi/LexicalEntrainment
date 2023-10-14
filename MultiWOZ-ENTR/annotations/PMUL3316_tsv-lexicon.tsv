@@ -1,0 +1,12 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	3	5	2	1	Human	0, 4, 5	"{""0"": [""place""], ""4"": [""place""], ""5"": [""place""]}"
+2	2	4	12	2	1	Agent	11, 12	"{""11"": [""guesthouses in the north""], ""12"": [""guesthouse in the north""]}"
+3	1	1	11	7	1	Human	6, 11, 12	"{""6"": [""guesthouse""], ""11"": [""guesthouses""], ""12"": [""guesthouse""]}"
+3	2	1	11	3	1	Human	10, 11, 12	"{""10"": [""North""], ""11"": [""north""], ""12"": [""north""]}"
+3	3	1	4	5	1	Agent	1, 4, 5	"{""1"": [""town""], ""4"": [""town""], ""5"": [""town""]}"
+3	3	1	13	4	2	Human	10, 12, 13	"{""10"": [""star""], ""12"": [""star""], ""13"": [""star""]}"
+2	2	1	11	6	1	Human	6, 11	"{""6"": [""care""], ""11"": [""care""]}"
+2	2	1	1	2	1	Human	0, 1	"{""0"": [""college""], ""1"": [""college""]}"
+2	2	1	1	2	1	Human	0, 1	"{""0"": [""magdalene""], ""1"": [""magdalene""]}"
+2	2	1	13	2	1	Human	12, 13	"{""12"": [""number""], ""13"": [""number""]}"
+2	2	1	18	4	1	Agent	15, 18	"{""15"": [""services""], ""18"": [""services""]}"

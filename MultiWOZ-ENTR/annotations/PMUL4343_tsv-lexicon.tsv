@@ -1,0 +1,13 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	6	9	2	1	Human	8, 9	"{""8"": [""museum in the centre of town""], ""9"": [""museum in the center of town""]}"
+2	2	4	12	6	1	Human	8, 9, 12, 13	"{""8"": [""museum in the centre""], ""9"": [""museum in the center""], ""12"": [""museum in the centre""], ""13"": [""museums in the centre""]}"
+3	3	2	7	6	1	Human	6, 7, 11	"{""6"": [""reference number""], ""7"": [""reference number""], ""11"": [""reference number""]}"
+3	3	1	3	4	1	Human	2, 3, 5	"{""2"": [""reservations""], ""3"": [""reservation""], ""5"": [""reservation""]}"
+3	3	1	11	3	1	Human	10, 11, 12	"{""10"": [""change""], ""11"": [""changed""], ""12"": [""change""]}"
+5	1	1	8	13	1	Agent	1, 8, 9, 12, 13	"{""1"": [""centre""], ""8"": [""centre""], ""9"": [""center""], ""12"": [""centre""], ""13"": [""centre""]}"
+5	1	1	14	7	1	Human	8, 9, 12, 13, 14	"{""8"": [""museum""], ""9"": [""museum""], ""12"": [""museum""], ""13"": [""museums""], ""14"": [""museum""]}"
+3	3	1	1	5	1	Human	0, 1, 4	"{""0"": [""restaurant""], ""1"": [""restaurant""], ""4"": [""restaurant""]}"
+3	3	1	7	7	1	Human	4, 7, 10	"{""4"": [""table""], ""7"": [""table""], ""10"": [""table""]}"
+3	1	1	8	9	1	Agent	1, 8, 9	"{""1"": [""town""], ""8"": [""town""], ""9"": [""town""]}"
+2	2	1	9	2	1	Human	8, 9	"{""8"": [""address""], ""9"": [""address""]}"
+2	2	1	17	18	1	Human	0, 17	"{""0"": [""cambridge""], ""17"": [""cambridge""]}"

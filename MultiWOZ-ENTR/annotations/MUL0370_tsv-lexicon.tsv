@@ -1,0 +1,8 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+5	5	4	7	13	1	Human	6, 7, 9, 16, 18	"{""6"": [""restaurant in the south""], ""7"": [""restaurants in the south""], ""9"": [""restaurant in the south""], ""16"": [""restaurant in the south""], ""18"": [""restaurant in the south""]}"
+3	3	2	5	18	1	Human	4, 5, 21	"{""4"": [""reference number""], ""5"": [""reference number""], ""21"": [""reference number""]}"
+7	7	1	18	19	4	Agent	5, 15, 20	"{""5"": [""booking""], ""15"": [""bookings""], ""20"": [""booking""]}"
+7	2	1	11	13	1	Human	6, 7, 9, 11, 15, 16, 18	"{""6"": [""restaurant""], ""7"": [""restaurants""], ""9"": [""restaurant""], ""11"": [""restaurant""], ""15"": [""restaurant""], ""16"": [""restaurant""], ""18"": [""restaurant""]}"
+5	5	1	15	17	2	Human	2, 10, 15, 16, 18	"{""2"": [""tuesday""], ""10"": [""tuesday""], ""15"": [""tuesday""], ""16"": [""tuesday""], ""18"": [""tuesday""]}"
+2	2	1	8	2	1	Agent	7, 8	"{""7"": [""food""], ""8"": [""food""]}"
+2	2	1	3	2	1	Human	2, 3	"{""2"": [""peterborough""], ""3"": [""peterborough""]}"

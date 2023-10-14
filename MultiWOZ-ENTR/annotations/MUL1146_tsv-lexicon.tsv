@@ -1,0 +1,12 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	7	15	4	1	Human	12, 15	"{""12"": [""museum on the west side of town""], ""15"": [""museums on the west side of town""]}"
+2	2	3	20	2	1	Agent	10, 11, 12, 13, 15, 16, 17, 18, 19, 20	"{""10"": [""museum""], ""11"": [""museums""], ""12"": [""museum""], ""13"": [""museum"", ""museums""], ""15"": [""museums""], ""16"": [""museum""], ""17"": [""museum""], ""18"": [""museum""], ""19"": [""museum""], ""20"": [""museum""]}"
+2	2	4	9	2	1	Human	8, 9	"{""8"": [""cinema in the west""], ""9"": [""cinemas in the west""]}"
+4	4	2	7	12	1	Human	6, 7, 16, 17	"{""6"": [""phone number""], ""7"": [""phone number""], ""16"": [""phone number""], ""17"": [""phone number""]}"
+3	1	1	11	4	1	Human	8, 9, 11	"{""8"": [""west""], ""9"": [""west""], ""11"": [""west""]}"
+2	2	1	1	2	1	Human	0, 1	"{""0"": [""north""], ""1"": [""north""]}"
+4	4	2	6	7	1	Agent	3, 6, 7, 9	"{""3"": [""worth house""], ""6"": [""worth house""], ""7"": [""worth house""], ""9"": [""worth house""]}"
+3	3	1	19	20	2	Human	0, 18, 19	"{""0"": [""hotel""], ""18"": [""hotel""], ""19"": [""hotel""]}"
+2	2	2	9	2	1	Human	8, 9	"{""8"": [""free parking""], ""9"": [""free parking""]}"
+4	2	1	12	6	1	Human	8, 9, 12, 13	"{""8"": [""cinema""], ""9"": [""cinemas""], ""12"": [""cinema""], ""13"": [""cinema""]}"
+2	2	1	19	16	1	Human	4, 19	"{""4"": [""time""], ""19"": [""time""]}"

@@ -1,0 +1,12 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	4	9	2	1	Human	8, 9	"{""8"": [""luck chinese food takeaway""], ""9"": [""luck chinese food takeaway""]}"
+4	4	1	15	8	3	Human	8, 12, 14, 15	"{""8"": [""restaurant""], ""12"": [""restaurant""], ""14"": [""restaurant""], ""15"": [""restaurant""]}"
+3	3	2	7	7	1	Human	6, 7, 12	"{""6"": [""2 people""], ""7"": [""2 people""], ""12"": [""two people""]}"
+2	2	2	7	2	1	Human	6, 7	"{""6"": [""3 nights""], ""7"": [""3 nights""]}"
+2	2	1	14	8	1	Agent	7, 14	"{""7"": [""reservation""], ""14"": [""reservation""]}"
+4	4	1	7	5	1	Human	6, 7, 10	"{""6"": [""tuesday""], ""7"": [""tuesday""], ""10"": [""tuesday""]}"
+4	4	1	12	11	2	Agent	5, 7, 12, 15	"{""5"": [""number""], ""7"": [""number""], ""12"": [""number""], ""15"": [""number""]}"
+4	1	1	11	7	1	Human	6, 7, 11, 12	"{""6"": [""people""], ""7"": [""people""], ""11"": [""people""], ""12"": [""people""]}"
+2	2	1	3	4	1	Human	0, 3	"{""0"": [""guesthouse""], ""3"": [""guesthouse""]}"
+2	2	1	3	4	1	Human	0, 3	"{""0"": [""parking""], ""3"": [""parking""]}"
+2	2	1	13	2	1	Human	12, 13	"{""12"": [""time""], ""13"": [""time""]}"

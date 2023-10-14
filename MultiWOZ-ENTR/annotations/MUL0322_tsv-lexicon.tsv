@@ -1,0 +1,13 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	2	12	9	1	Agent	5, 12, 13	"{""5"": [""reference number""], ""12"": [""reference number""], ""13"": [""reference number""]}"
+2	2	2	10	10	1	Agent	1, 10	"{""1"": [""price range""], ""10"": [""price range""]}"
+3	1	1	6	10	1	Agent	1, 10	"{""1"": [""price""], ""10"": [""price""]}"
+3	3	1	7	8	2	Human	0, 6, 7	"{""0"": [""restaurants""], ""6"": [""restaurants""], ""7"": [""restaurants""]}"
+3	3	1	3	4	1	Human	2, 3, 5	"{""2"": [""train""], ""3"": [""trains""], ""5"": [""train""]}"
+2	2	1	16	2	1	Agent	15, 16	"{""15"": [""assistance""], ""16"": [""assistance""]}"
+2	2	1	2	2	1	Agent	1, 2	"{""1"": [""cambridge""], ""2"": [""cambridge""]}"
+2	2	1	17	8	1	Human	10, 17	"{""10"": [""day""], ""17"": [""day""]}"
+2	2	1	8	8	1	Agent	1, 8	"{""1"": [""options""], ""8"": [""options""]}"
+2	2	1	3	2	1	Human	2, 3	"{""2"": [""peterborough""], ""3"": [""peterborough""]}"
+2	2	1	8	8	1	Agent	1, 8	"{""1"": [""type""], ""8"": [""type""]}"
+2	2	1	5	4	1	Human	2, 5	"{""2"": [""wednesday""], ""5"": [""wednesday""]}"

@@ -1,0 +1,13 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+6	6	1	1	14	1	Human	0, 1, 10, 11, 12, 13	"{""0"": [""restaurant""], ""1"": [""restaurant""], ""10"": [""restaurant""], ""11"": [""restaurant""], ""12"": [""restaurant""], ""13"": [""restaurant""]}"
+4	4	2	1	8	1	Human	0, 1, 6, 7	"{""0"": [""saffron brasserie""], ""1"": [""saffron brasserie""], ""6"": [""saffron brasserie""], ""7"": [""saffron brasserie""]}"
+2	2	1	5	2	1	Human	4, 5	"{""4"": [""town""], ""5"": [""town""]}"
+2	2	1	5	2	1	Human	4, 5	"{""4"": [""places""], ""5"": [""places""]}"
+2	2	2	3	2	1	Human	2, 3	"{""2"": [""reference number""], ""3"": [""reference number""]}"
+5	5	1	11	3	1	Human	10, 11, 12	"{""10"": [""taxi""], ""11"": [""taxi""], ""12"": [""taxi""]}"
+2	2	1	9	2	1	Human	8, 9	"{""8"": [""postcode""], ""9"": [""postcode""]}"
+3	1	1	12	11	1	Human	2, 3, 12	"{""2"": [""number""], ""3"": [""number""], ""12"": [""number""]}"
+3	3	1	7	7	1	Human	4, 7, 10	"{""4"": [""pool""], ""7"": [""pools""], ""10"": [""pool""]}"
+2	2	1	13	2	1	Human	12, 13	"{""12"": [""contact""], ""13"": [""contact""]}"
+2	2	1	2	2	1	Agent	1, 2	"{""1"": [""reservations""], ""2"": [""reservation""]}"
+2	2	1	5	2	1	Human	4, 5	"{""4"": [""swimming""], ""5"": [""swim""]}"

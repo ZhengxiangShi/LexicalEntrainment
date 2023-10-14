@@ -1,0 +1,5 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	4	3	2	1	Human	2, 3	"{""2"": [""college in the west""], ""3"": [""colleges in the west""]}"
+2	2	4	1	2	1	Human	0, 1	"{""0"": [""nightclubs in the west""], ""1"": [""nightclubs in the west""]}"
+4	3	1	3	4	1	Human	2, 3, 4, 5	"{""2"": [""college""], ""3"": [""college"", ""colleges""], ""4"": [""college""], ""5"": [""college""]}"
+2	2	1	3	4	1	Human	0, 3	"{""0"": [""town""], ""3"": [""town""]}"

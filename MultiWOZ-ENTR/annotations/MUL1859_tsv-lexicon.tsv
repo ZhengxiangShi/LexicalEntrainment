@@ -1,0 +1,4 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+4	4	2	1	4	1	Human	0, 1, 2, 3	"{""0"": [""club salsa""], ""1"": [""club salsa""], ""2"": [""club salsa""], ""3"": [""club salsa""]}"
+3	3	2	11	4	2	Human	8, 10, 11	"{""8"": [""reference number""], ""10"": [""reference number""], ""11"": [""reference number""]}"
+2	2	1	10	2	1	Agent	9, 10	"{""9"": [""tickets""], ""10"": [""tickets""]}"

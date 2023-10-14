@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	6	7	2	1	Human	6, 7, 9	"{""6"": [""christmas food in the centre""], ""7"": [""christmas food in the centre""], ""9"": [""christmas food in the centre""]}"
+4	1	2	8	4	1	Human	6, 7, 8, 9	"{""6"": [""christmas food""], ""7"": [""christmas food""], ""8"": [""christmas food""], ""9"": [""christmas food""]}"
+4	1	1	10	5	1	Human	6, 7, 9, 10	"{""6"": [""centre""], ""7"": [""centre""], ""9"": [""centre""], ""10"": [""centre""]}"
+6	6	1	1	15	1	Human	0, 1, 2, 3, 5, 14	"{""0"": [""hotel""], ""1"": [""hotels""], ""2"": [""hotel""], ""3"": [""hotel""], ""5"": [""hotel""], ""14"": [""hotel""]}"
+2	2	2	11	4	1	Human	8, 11	"{""8"": [""town centre""], ""11"": [""town centre""]}"
+4	4	1	10	11	2	Agent	1, 3, 10, 11	"{""1"": [""range""], ""3"": [""range""], ""10"": [""range""], ""11"": [""range""]}"
+4	4	1	10	8	2	Agent	7, 9, 10, 14	"{""7"": [""restaurants""], ""9"": [""restaurants""], ""10"": [""restaurant""], ""14"": [""restaurant""]}"
+3	3	1	12	11	1	Agent	5, 12, 15	"{""5"": [""number""], ""12"": [""number""], ""15"": [""number""]}"
+3	1	1	8	9	1	Agent	3, 8, 11	"{""3"": [""town""], ""8"": [""town""], ""11"": [""town""]}"
+2	2	1	3	4	1	Human	0, 3	"{""0"": [""parking""], ""3"": [""parking""]}"

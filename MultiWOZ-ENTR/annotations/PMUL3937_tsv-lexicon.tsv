@@ -1,0 +1,13 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	6	3	2	1	Human	2, 3	"{""2"": [""3 people for 3 nights""], ""3"": [""three people for three nights""]}"
+2	2	4	1	2	1	Human	0, 1	"{""0"": [""rosa's bed and breakfast""], ""1"": [""rosa's bed and breakfast""]}"
+5	5	1	6	11	1	Agent	6, 7, 9	"{""6"": [""south""], ""7"": [""South""], ""9"": [""south""]}"
+3	3	2	14	11	1	Agent	5, 14, 15	"{""5"": [""reference number""], ""14"": [""reference number""], ""15"": [""reference number""]}"
+2	2	2	9	2	1	Human	8, 9	"{""8"": [""cheap restaurants""], ""9"": [""cheap restaurants""]}"
+2	2	2	7	2	1	Human	6, 7	"{""6"": [""scottish restaurants""], ""7"": [""scottish restaurants""]}"
+6	2	1	10	6	1	Human	6, 7, 8, 9, 10, 11	"{""6"": [""restaurants""], ""7"": [""restaurants""], ""8"": [""restaurants""], ""9"": [""restaurants""], ""10"": [""restaurant""], ""11"": [""restaurant""]}"
+3	1	1	12	11	1	Human	2, 3, 12	"{""2"": [""people""], ""3"": [""people""], ""12"": [""people""]}"
+3	3	1	10	3	1	Agent	9, 10, 11	"{""9"": [""portuguese""], ""10"": [""portuguese""], ""11"": [""portuguese""]}"
+2	2	1	17	6	1	Human	12, 17	"{""12"": [""day""], ""17"": [""day""]}"
+2	2	1	3	2	1	Human	2, 3	"{""2"": [""rooms""], ""3"": [""room""]}"
+2	2	1	3	2	1	Human	2, 3	"{""2"": [""thursday""], ""3"": [""thursday""]}"

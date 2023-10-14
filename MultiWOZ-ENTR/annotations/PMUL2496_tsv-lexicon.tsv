@@ -1,0 +1,7 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	4	1	2	1	Human	0, 1	"{""0"": [""cambridge university botanic gardens""], ""1"": [""cambridge university botanic gardens""]}"
+2	2	2	5	2	1	Human	4, 5	"{""4"": [""copper kettle""], ""5"": [""copper kettle""]}"
+3	1	2	8	9	1	Human	0, 1, 8	"{""0"": [""botanic gardens""], ""1"": [""botanic gardens""], ""8"": [""botanic gardens""]}"
+2	2	2	11	2	1	Human	10, 11	"{""10"": [""contact number""], ""11"": [""contact number""]}"
+2	2	1	7	2	1	Human	6, 7	"{""6"": [""postcode""], ""7"": [""postcode""]}"
+4	4	1	5	8	1	Human	4, 5, 9, 11	"{""4"": [""restaurant""], ""5"": [""restaurant""], ""9"": [""restaurant""], ""11"": [""restaurant""]}"

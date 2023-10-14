@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	4	5	2	1	Human	4, 5	"{""4"": [""guesthouse in the north""], ""5"": [""guesthouses in the north""]}"
+2	2	4	11	2	1	Human	10, 11	"{""10"": [""restaurants in that area""], ""11"": [""restaurants in that area""]}"
+3	3	1	3	14	1	Human	4, 5, 13	"{""4"": [""north""], ""5"": [""north""], ""13"": [""north""]}"
+3	3	1	12	9	1	Human	10, 11, 12, 13, 18	"{""10"": [""restaurants""], ""11"": [""restaurants""], ""12"": [""restaurant""], ""13"": [""restaurants""], ""18"": [""restaurant""]}"
+2	2	2	14	2	1	Agent	13, 14	"{""13"": [""golden wok""], ""14"": [""golden wok""]}"
+2	2	1	3	4	1	Human	0, 3	"{""0"": [""town""], ""3"": [""town""]}"
+5	3	1	3	17	1	Human	2, 3, 4, 5, 18	"{""2"": [""guesthouse""], ""3"": [""guesthouse""], ""4"": [""guesthouse""], ""5"": [""guesthouses""], ""18"": [""guesthouse""]}"
+3	1	1	12	3	1	Human	10, 11, 12	"{""10"": [""area""], ""11"": [""area""], ""12"": [""area""]}"
+2	2	1	11	2	1	Human	10, 11	"{""10"": [""cuisine""], ""11"": [""cuisine""]}"
+2	2	1	7	8	1	Human	0, 7	"{""0"": [""hotel""], ""7"": [""hotel""]}"

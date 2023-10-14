@@ -1,0 +1,8 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	5	12	8	1	Agent	5, 12	"{""5"": [""little rose 37 trumpington street""], ""12"": [""little rose 37 trumpington street""]}"
+2	2	4	17	2	1	Human	0, 1, 4, 5, 12, 16, 17	"{""0"": [""restaurants""], ""1"": [""restaurants""], ""4"": [""restaurant""], ""5"": [""restaurant""], ""12"": [""restaurant""], ""16"": [""restaurant""], ""17"": [""restaurant""]}"
+5	5	2	5	16	1	Human	4, 5, 12, 19	"{""4"": [""loch fyne""], ""5"": [""loch fyne""], ""12"": [""loch fyne""], ""19"": [""loch fyne""]}"
+2	2	3	19	10	1	Human	10, 11, 17, 19, 20	"{""10"": [""taxi""], ""11"": [""taxi""], ""17"": [""taxi""], ""19"": [""taxi""], ""20"": [""taxi""]}"
+2	2	2	19	6	1	Human	14, 19	"{""14"": [""christ's college""], ""19"": [""christ's college""]}"
+2	2	2	23	4	1	Human	20, 23	"{""20"": [""contact number""], ""23"": [""contact number""]}"
+3	1	1	20	17	1	Agent	7, 20, 23	"{""7"": [""number""], ""20"": [""number""], ""23"": [""number""]}"

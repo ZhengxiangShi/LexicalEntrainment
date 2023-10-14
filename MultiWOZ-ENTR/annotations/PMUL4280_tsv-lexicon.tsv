@@ -1,0 +1,7 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	3	12	4	1	Agent	9, 12	"{""9"": [""soul tree nightclub""], ""12"": [""soul tree nightclub""]}"
+4	4	2	11	6	1	Human	10, 11, 14, 15	"{""10"": [""phone number""], ""11"": [""phone number""], ""14"": [""phone number""], ""15"": [""phone number""]}"
+3	3	2	14	7	1	Agent	9, 14, 15	"{""9"": [""entrance fee""], ""14"": [""entrance fee""], ""15"": [""entrance fee""]}"
+3	1	2	12	4	2	Agent	9, 11, 12	"{""9"": [""soul tree""], ""11"": [""soul tree""], ""12"": [""soul tree""]}"
+3	1	1	13	5	1	Agent	9, 12, 13	"{""9"": [""nightclub""], ""12"": [""nightclub""], ""13"": [""nightclub""]}"
+3	3	1	3	8	1	Human	0, 3, 7	"{""0"": [""train""], ""3"": [""trains""], ""7"": [""trains""]}"

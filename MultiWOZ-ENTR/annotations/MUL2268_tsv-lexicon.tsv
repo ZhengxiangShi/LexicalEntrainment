@@ -1,0 +1,12 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	6	1	2	1	Human	0, 1	"{""0"": [""train going to london liverpool street""], ""1"": [""trains going to london liverpool street""]}"
+2	2	2	5	2	1	Human	4, 5	"{""4"": [""reference number""], ""5"": [""reference number""]}"
+3	1	2	3	4	1	Human	0, 1, 3	"{""0"": [""liverpool street""], ""1"": [""liverpool street""], ""3"": [""liverpool street""]}"
+2	2	2	10	4	1	Agent	7, 10	"{""7"": [""price range""], ""10"": [""price range""]}"
+2	2	1	13	2	1	Human	12, 13	"{""12"": [""phone""], ""13"": [""phone""]}"
+4	4	1	7	7	1	Human	6, 7, 11, 12	"{""6"": [""hotel""], ""7"": [""hotel""], ""11"": [""hotel""], ""12"": [""hotel""]}"
+3	3	1	3	10	1	Human	2, 3, 11	"{""2"": [""cambridge""], ""3"": [""cambridge""], ""11"": [""cambridge""]}"
+3	1	1	3	4	1	Human	0, 1, 3	"{""0"": [""london""], ""1"": [""london""], ""3"": [""london""]}"
+3	1	1	12	9	1	Human	4, 5, 12	"{""4"": [""number""], ""5"": [""number""], ""12"": [""number""]}"
+2	2	1	9	2	1	Human	8, 9	"{""8"": [""rated""], ""9"": [""ratings"", ""rating""]}"
+2	2	1	16	2	1	Agent	15, 16	"{""15"": [""room""], ""16"": [""room""]}"

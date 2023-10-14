@@ -1,0 +1,5 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	5	9	2	1	Human	8, 9	"{""8"": [""british food in the west""], ""9"": [""british food in the west""]}"
+2	2	4	10	2	1	Agent	9, 10	"{""9"": [""saint johns chop house""], ""10"": [""saint johns chop house""]}"
+2	2	2	5	2	1	Human	4, 5	"{""4"": [""reference number""], ""5"": [""reference number""]}"
+4	2	1	10	8	1	Human	4, 5, 10, 11	"{""4"": [""number""], ""5"": [""number""], ""10"": [""number""], ""11"": [""number""]}"

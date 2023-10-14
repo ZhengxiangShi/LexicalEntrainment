@@ -1,0 +1,7 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+10	10	1	2	19	1	Agent	1, 2, 10, 12, 13, 15, 18, 19	"{""1"": [""area""], ""2"": [""area""], ""10"": [""area""], ""12"": [""area""], ""13"": [""area""], ""15"": [""area""], ""18"": [""area""], ""19"": [""area""]}"
+8	8	1	3	23	2	Human	0, 2, 3, 7, 13, 14, 21, 22	"{""0"": [""hotel""], ""2"": [""hotel""], ""3"": [""hotel""], ""7"": [""hotel""], ""13"": [""hotels""], ""14"": [""hotel""], ""21"": [""hotel""], ""22"": [""hotel""]}"
+5	5	1	9	13	1	Human	8, 9, 10, 14, 20	"{""8"": [""restaurant""], ""9"": [""restaurants""], ""10"": [""restaurant""], ""14"": [""restaurant""], ""20"": [""restaurant""]}"
+2	2	1	19	2	1	Human	18, 19	"{""18"": [""address""], ""19"": [""address""]}"
+2	2	1	11	2	1	Human	10, 11	"{""10"": [""cambridge""], ""11"": [""cambridge""]}"
+2	2	1	14	8	1	Agent	7, 14	"{""7"": [""reservation""], ""14"": [""reservation""]}"

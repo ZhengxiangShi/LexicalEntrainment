@@ -1,0 +1,5 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	2	11	12	2	Human	0, 10, 11	"{""0"": [""golden wok""], ""10"": [""golden wok""], ""11"": [""golden wok""]}"
+2	2	2	3	2	1	Human	2, 3	"{""2"": [""phone number""], ""3"": [""phone number""]}"
+2	2	2	9	2	1	Human	8, 9	"{""8"": [""reference number""], ""9"": [""reference number""]}"
+2	2	1	14	2	1	Agent	13, 14	"{""13"": [""ask""], ""14"": [""ask""]}"

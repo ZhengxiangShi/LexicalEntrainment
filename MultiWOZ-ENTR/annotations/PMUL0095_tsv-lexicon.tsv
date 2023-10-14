@@ -1,0 +1,10 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	3	14	14	2	Agent	1, 3, 14	"{""1"": [""cambridge lodge restaurant""], ""3"": [""cambridge lodge restaurant""], ""14"": [""cambridge lodge restaurant""]}"
+2	2	2	7	2	1	Human	6, 7	"{""6"": [""3 people""], ""7"": [""3 people""]}"
+3	1	2	14	14	2	Agent	1, 3, 14	"{""1"": [""cambridge lodge""], ""3"": [""cambridge lodge"", ""cambridge lodge""], ""14"": [""cambridge lodge""]}"
+3	3	1	7	5	1	Human	6, 7, 10	"{""6"": [""friday""], ""7"": [""friday""], ""10"": [""friday""]}"
+5	5	1	4	12	2	Agent	1, 3, 4, 6, 12	"{""1"": [""reservation""], ""3"": [""reservation""], ""4"": [""reservation""], ""6"": [""reservation""], ""12"": [""reservation""]}"
+5	2	1	1	15	1	Human	0, 1, 3, 12, 14	"{""0"": [""restaurant""], ""1"": [""restaurant""], ""3"": [""restaurant""], ""12"": [""restaurant""], ""14"": [""restaurant""]}"
+4	1	1	1	15	1	Human	0, 1, 3, 14	"{""0"": [""cambridge""], ""1"": [""cambridge""], ""3"": [""cambridge"", ""cambridge""], ""14"": [""cambridge""]}"
+3	1	1	6	3	1	Agent	5, 6, 7	"{""5"": [""people""], ""6"": [""people""], ""7"": [""people""]}"
+2	2	1	12	8	1	Agent	5, 12	"{""5"": [""time""], ""12"": [""time""]}"

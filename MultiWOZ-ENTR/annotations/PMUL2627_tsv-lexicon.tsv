@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	3	12	2	1	Agent	11, 12	"{""11"": [""broughton house gallery""], ""12"": [""broughton house gallery""]}"
+2	2	1	13	2	1	Human	12, 13	"{""12"": [""gallery""], ""13"": [""gallery""]}"
+2	2	2	2	2	1	Agent	1, 2	"{""1"": [""internet""], ""2"": [""internet""]}"
+4	4	1	1	13	1	Human	0, 1, 4, 12	"{""0"": [""hotel""], ""1"": [""hotels""], ""4"": [""hotels""], ""12"": [""hotel""]}"
+4	2	1	12	10	3	Agent	3, 7, 11, 12	"{""3"": [""house""], ""7"": [""house""], ""11"": [""house""], ""12"": [""house""]}"
+2	2	1	13	10	1	Human	4, 13	"{""4"": [""guesthouse""], ""13"": [""guesthouse""]}"
+2	2	1	11	4	1	Human	8, 11	"{""8"": [""museum""], ""11"": [""museum""]}"
+2	2	1	2	2	1	Agent	1, 2	"{""1"": [""parking""], ""2"": [""parking""]}"
+2	2	1	7	2	1	Human	6, 7	"{""6"": [""reference""], ""7"": [""reference""]}"
+2	2	1	7	2	1	Human	6, 7	"{""6"": [""saturday""], ""7"": [""saturday""]}"

@@ -1,0 +1,5 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	4	7	4	1	Human	4, 6, 7, 8, 9	"{""4"": [""clare hall""], ""6"": [""clare hall""], ""7"": [""clare hall""], ""8"": [""clare hall""], ""9"": [""clare hall""]}"
+3	3	1	1	5	1	Human	0, 1, 4	"{""0"": [""cote""], ""1"": [""cote""], ""4"": [""cote""]}"
+2	2	2	5	2	1	Human	4, 5	"{""4"": [""phone number""], ""5"": [""phone number""]}"
+4	4	1	5	8	1	Human	4, 5, 10, 11	"{""4"": [""postcode""], ""5"": [""postcode""], ""10"": [""postcode""], ""11"": [""postcode""]}"

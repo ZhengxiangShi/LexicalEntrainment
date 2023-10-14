@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	5	21	2	1	Human	20, 21	"{""20"": [""contact number for the taxi""], ""21"": [""contact number for the taxi""]}"
+5	5	2	2	15	1	Agent	1, 2, 7, 14, 15	"{""1"": [""price range""], ""2"": [""price range""], ""7"": [""price range""], ""14"": [""price range""], ""15"": [""price range""]}"
+4	4	1	5	10	1	Human	4, 5, 12, 13	"{""4"": [""postcode""], ""5"": [""postcode""], ""12"": [""postcode""], ""13"": [""postcode""]}"
+4	4	1	12	17	1	Agent	3, 12	"{""3"": [""booking""], ""12"": [""booking""]}"
+4	4	1	1	8	1	Human	0, 1, 3, 7	"{""0"": [""center""], ""1"": [""centre""], ""3"": [""centre""], ""7"": [""center""]}"
+4	2	1	13	10	1	Human	12, 13, 20, 21	"{""12"": [""number""], ""13"": [""number""], ""20"": [""number""], ""21"": [""number""]}"
+3	3	1	7	4	1	Human	6, 7, 9	"{""6"": [""guesthouse""], ""7"": [""guesthouses""], ""9"": [""guesthouse""]}"
+3	1	1	21	6	2	Human	16, 20, 21	"{""16"": [""taxi""], ""20"": [""taxi""], ""21"": [""taxi""]}"
+2	2	1	9	2	1	Human	8, 9	"{""8"": [""internet""], ""9"": [""internet""]}"
+2	2	1	9	2	1	Human	8, 9	"{""8"": [""parking""], ""9"": [""parking""]}"

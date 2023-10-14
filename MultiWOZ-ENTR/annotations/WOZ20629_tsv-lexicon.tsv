@@ -1,0 +1,5 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+4	4	4	2	7	1	Agent	1, 2, 5, 7	"{""1"": [""saint johns chop house""], ""2"": [""saint johns chop house""], ""5"": [""saint johns chop house""], ""7"": [""saint johns chop house""]}"
+2	2	4	5	2	1	Human	4, 5	"{""4"": [""west part of town""], ""5"": [""west part of town""]}"
+3	3	1	7	8	2	Human	0, 7	"{""0"": [""west""], ""7"": [""west""]}"
+2	2	2	5	2	1	Human	4, 5	"{""4"": [""phone number""], ""5"": [""phone number""]}"

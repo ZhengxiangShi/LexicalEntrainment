@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	2	3	4	1	Human	0, 3	"{""0"": [""cheap italian""], ""3"": [""cheap italian""]}"
+2	2	3	1	2	1	Human	0, 1	"{""0"": [""cheap italian restaurant""], ""1"": [""cheap italian restaurants""]}"
+4	4	1	2	7	1	Agent	1, 2, 3, 7	"{""1"": [""town""], ""2"": [""town""], ""3"": [""town""], ""7"": [""town""]}"
+3	3	1	7	3	1	Human	6, 7, 8	"{""6"": [""cinema""], ""7"": [""cinemas""], ""8"": [""cinema""]}"
+2	2	1	11	2	1	Human	10, 11	"{""10"": [""address""], ""11"": [""address""]}"
+4	4	1	2	8	1	Agent	1, 2, 6, 8	"{""1"": [""area""], ""2"": [""area""], ""6"": [""area""], ""8"": [""area""]}"
+3	3	1	9	4	1	Human	8, 9, 11	"{""8"": [""park""], ""9"": [""park""], ""11"": [""park""]}"
+3	1	1	14	15	1	Human	0, 1, 14	"{""0"": [""restaurant""], ""1"": [""restaurants""], ""14"": [""restaurant""]}"
+2	2	1	13	2	1	Human	12, 13	"{""12"": [""fee""], ""13"": [""fee""]}"
+2	2	1	14	10	1	Agent	5, 14	"{""5"": [""time""], ""14"": [""time""]}"

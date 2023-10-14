@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	4	1	2	1	Human	0, 1	"{""0"": [""colleges in the west""], ""1"": [""colleges in the west""]}"
+3	3	1	3	3	1	Human	2, 3, 4	"{""2"": [""postcodes""], ""3"": [""postcodes""], ""4"": [""postcodes""]}"
+3	1	1	2	3	1	Human	0, 1, 2	"{""0"": [""west""], ""1"": [""west""], ""2"": [""west""]}"
+4	4	1	7	8	1	Human	6, 7, 8, 13	"{""6"": [""cambridge""], ""7"": [""cambridge""], ""8"": [""cambridge""], ""13"": [""cambridge""]}"
+3	3	1	5	4	1	Human	4, 5, 7	"{""4"": [""ely""], ""5"": [""ely""], ""7"": [""ely""]}"
+2	2	1	11	2	1	Human	10, 11	"{""10"": [""price""], ""11"": [""price""]}"
+5	3	1	2	6	1	Human	0, 1, 2, 3, 5	"{""0"": [""colleges""], ""1"": [""colleges""], ""2"": [""colleges""], ""3"": [""college""], ""5"": [""college""]}"
+5	5	1	5	8	1	Human	4, 5, 7, 10, 11	"{""4"": [""train""], ""5"": [""train""], ""7"": [""trains""], ""10"": [""train""], ""11"": [""train""]}"
+2	2	1	7	4	1	Human	4, 7	"{""4"": [""sunday""], ""7"": [""sunday""]}"
+2	2	1	10	4	1	Agent	7, 10	"{""7"": [""time""], ""10"": [""time""]}"

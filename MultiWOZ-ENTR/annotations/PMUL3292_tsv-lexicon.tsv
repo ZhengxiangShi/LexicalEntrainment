@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	2	20	2	1	Agent	19, 20	"{""19"": [""wonderful day""], ""20"": [""wonderful day""]}"
+3	3	2	9	10	2	Human	0, 6, 9	"{""0"": [""cheap place""], ""6"": [""cheap place""], ""9"": [""cheap place""]}"
+2	2	2	15	2	1	Human	14, 15	"{""14"": [""contact number""], ""15"": [""contact number""]}"
+3	3	2	5	10	1	Human	4, 5, 13	"{""4"": [""reference number""], ""5"": [""reference number""], ""13"": [""reference number""]}"
+3	3	1	8	7	1	Agent	7, 8, 13	"{""7"": [""alexander""], ""8"": [""alexander""], ""13"": [""alexander""]}"
+2	2	2	15	2	1	Human	14, 15	"{""14"": [""car type""], ""15"": [""car type""]}"
+3	1	1	19	11	1	Human	10, 19, 20	"{""10"": [""day""], ""19"": [""day""], ""20"": [""day""]}"
+3	3	1	11	11	1	Human	2, 11, 12	"{""2"": [""people""], ""11"": [""people""], ""12"": [""people""]}"
+3	1	1	14	15	1	Agent	1, 14, 15	"{""1"": [""type""], ""14"": [""type""], ""15"": [""type""]}"
+2	2	1	12	2	1	Agent	11, 12	"{""11"": [""nights""], ""12"": [""nights""]}"

@@ -1,0 +1,12 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	1	5	4	1	Human	2, 5	"{""2"": [""east""], ""5"": [""east""]}"
+2	2	2	1	2	1	Human	0, 1	"{""0"": [""mexican restaurant""], ""1"": [""mexican restaurants""]}"
+2	2	1	2	2	1	Agent	1, 2	"{""1"": [""restaurants""], ""2"": [""restaurant""]}"
+3	3	2	14	9	1	Agent	7, 14, 15	"{""7"": [""reference number""], ""14"": [""reference number""], ""15"": [""reference number""]}"
+2	2	2	12	4	1	Agent	9, 12	"{""9"": [""stansted airport""], ""12"": [""stansted airport""]}"
+2	2	1	13	2	1	Human	12, 13	"{""12"": [""sunday""], ""13"": [""sunday""]}"
+4	4	1	9	7	1	Human	8, 9, 12, 14	"{""8"": [""train""], ""9"": [""train""], ""12"": [""train""], ""14"": [""train""]}"
+3	1	1	9	5	1	Human	8, 9, 12	"{""8"": [""airport""], ""9"": [""airport""], ""12"": [""airport""]}"
+2	2	1	9	2	1	Human	8, 9	"{""8"": [""cambridge""], ""9"": [""cambridge""]}"
+2	2	1	6	2	1	Agent	5, 6	"{""5"": [""reservations""], ""6"": [""reservation""]}"
+2	2	1	1	2	1	Human	0, 1	"{""0"": [""west""], ""1"": [""west""]}"

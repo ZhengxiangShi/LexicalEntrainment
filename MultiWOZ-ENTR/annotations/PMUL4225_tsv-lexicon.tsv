@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	4	9	4	2	Human	6, 8, 9	"{""6"": [""museum in the centre""], ""8"": [""museum in the centre""], ""9"": [""museums in the centre""]}"
+2	2	1	7	2	1	Human	6, 7	"{""6"": [""table""], ""7"": [""table""]}"
+2	2	2	13	2	1	Human	12, 13	"{""12"": [""phone number""], ""13"": [""phone number""]}"
+2	2	2	5	2	1	Human	4, 5	"{""4"": [""chinese food""], ""5"": [""chinese food""]}"
+2	2	1	8	8	1	Agent	1, 8	"{""1"": [""town""], ""8"": [""town""]}"
+2	2	2	7	2	1	Human	6, 7	"{""6"": [""reference number""], ""7"": [""reference number""]}"
+5	1	1	17	12	1	Human	6, 7, 12, 13, 17	"{""6"": [""number""], ""7"": [""number""], ""12"": [""number""], ""13"": [""number""], ""17"": [""number""]}"
+4	1	1	7	4	1	Human	6, 7, 8, 9	"{""6"": [""centre""], ""7"": [""centre""], ""8"": [""centre""], ""9"": [""centre""]}"
+4	1	1	12	7	2	Human	6, 8, 9, 12	"{""6"": [""museum""], ""8"": [""museum""], ""9"": [""museums""], ""12"": [""museum""]}"
+2	2	1	13	2	1	Human	12, 13	"{""12"": [""postcode""], ""13"": [""postcode""]}"

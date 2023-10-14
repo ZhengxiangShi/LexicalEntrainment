@@ -1,0 +1,9 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	3	9	2	1	Human	8, 9	"{""8"": [""gonville and caius""], ""9"": [""gonville and caius""]}"
+2	2	2	5	2	1	Human	4, 5	"{""4"": [""arrival time""], ""5"": [""arrival time""]}"
+2	2	2	3	4	1	Human	0, 3	"{""0"": [""bishops stortford""], ""3"": [""bishops stortford""]}"
+2	2	1	3	2	1	Human	2, 3	"{""2"": [""cambridge""], ""3"": [""cambridge""]}"
+2	2	1	3	2	1	Human	2, 3	"{""2"": [""saturday""], ""3"": [""saturday""]}"
+2	2	1	13	2	1	Human	12, 13	"{""12"": [""postcode""], ""13"": [""postcode""]}"
+2	2	1	7	2	1	Human	6, 7	"{""6"": [""attraction""], ""7"": [""attraction""]}"
+2	2	1	3	4	1	Human	0, 3	"{""0"": [""train""], ""3"": [""train""]}"

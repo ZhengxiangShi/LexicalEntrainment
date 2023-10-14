@@ -1,0 +1,13 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	8	3	2	1	Human	2, 3	"{""2"": [""restaurant in the centre that serves afghan food""], ""3"": [""restaurants in the centre that serve afghan food""]}"
+3	1	4	5	4	1	Human	2, 3, 5	"{""2"": [""restaurant in the centre""], ""3"": [""restaurants in the centre""], ""5"": [""restaurants in the centre""]}"
+3	3	2	8	7	1	Agent	7, 8, 13	"{""7"": [""charlie chan""], ""8"": [""charlie chan""], ""13"": [""charlie chan""]}"
+2	2	2	19	2	1	Human	18, 19	"{""18"": [""arrival time""], ""19"": [""arrival time""]}"
+2	2	1	13	4	1	Human	10, 13	"{""10"": [""4pm""], ""13"": [""4pm""]}"
+2	2	2	5	2	1	Human	4, 5	"{""4"": [""chinese restaurant""], ""5"": [""chinese restaurants""]}"
+2	2	1	13	2	1	Human	12, 13	"{""12"": [""tuesday""], ""13"": [""tuesday""]}"
+2	2	2	6	2	1	Agent	5, 6	"{""5"": [""price range""], ""6"": [""price range""]}"
+2	2	1	11	2	1	Human	10, 11	"{""10"": [""table""], ""11"": [""table""]}"
+6	2	1	7	7	1	Human	2, 3, 4, 5, 7, 8	"{""2"": [""restaurant""], ""3"": [""restaurants""], ""4"": [""restaurant""], ""5"": [""restaurants""], ""7"": [""restaurants""], ""8"": [""restaurant""]}"
+4	1	1	9	8	1	Human	2, 3, 5, 9	"{""2"": [""centre""], ""3"": [""centre""], ""5"": [""centre""], ""9"": [""centre""]}"
+3	1	1	5	7	1	Human	0, 5, 6	"{""0"": [""price""], ""5"": [""price""], ""6"": [""price""]}"

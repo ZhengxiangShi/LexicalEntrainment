@@ -1,0 +1,9 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	5	7	9	1	Human	6, 7, 14	"{""6"": [""cambridge and county folk museum""], ""7"": [""cambridge and county folk museum""], ""14"": [""cambridge and county folk museum""]}"
+3	3	1	12	9	1	Agent	5, 12, 13	"{""5"": [""ticket""], ""12"": [""ticket""], ""13"": [""tickets""]}"
+3	3	1	12	10	1	Human	6, 7, 9, 12, 14, 15	"{""6"": [""museum""], ""7"": [""museum""], ""9"": [""museum""], ""12"": [""museum""], ""14"": [""museum""], ""15"": [""museum""]}"
+3	3	1	5	6	3	Human	0, 2, 4, 5	"{""0"": [""train""], ""2"": [""train""], ""4"": [""train""], ""5"": [""train""]}"
+2	2	2	5	2	1	Human	4, 5	"{""4"": [""train id""], ""5"": [""train id""]}"
+5	2	1	7	15	3	Human	0, 2, 6, 7, 14	"{""0"": [""cambridge""], ""2"": [""cambridge""], ""6"": [""cambridge""], ""7"": [""cambridge""], ""14"": [""cambridge""]}"
+2	2	1	5	2	1	Human	4, 5	"{""4"": [""price""], ""5"": [""price""]}"
+2	2	1	15	2	1	Human	14, 15	"{""14"": [""type""], ""15"": [""type""]}"

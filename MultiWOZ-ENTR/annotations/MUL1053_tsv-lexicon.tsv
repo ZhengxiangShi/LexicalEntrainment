@@ -1,0 +1,12 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	4	4	3	1	Agent	3, 4, 5	"{""3"": [""cherry hinton water play""], ""4"": [""cherry hinton water play""], ""5"": [""cherry hinton water play""]}"
+2	2	1	8	2	1	Agent	7, 8	"{""7"": [""centre""], ""8"": [""centre""]}"
+2	2	3	9	8	1	Human	2, 9	"{""2"": [""address""], ""9"": [""address""]}"
+2	2	1	5	2	1	Human	4, 5	"{""4"": [""postcode""], ""5"": [""postcode""]}"
+3	1	2	4	3	1	Agent	4, 5	"{""4"": [""cherry hinton""], ""5"": [""cherry hinton""]}"
+2	2	2	9	2	1	Human	8, 9	"{""8"": [""5 nights""], ""9"": [""five nights""]}"
+2	2	2	2	2	1	Agent	1, 2	"{""1"": [""sports centre""], ""2"": [""sports centre""]}"
+2	2	2	9	2	1	Human	8, 9	"{""8"": [""friday""], ""9"": [""friday""]}"
+3	3	1	2	6	1	Agent	1, 2, 6	"{""1"": [""parks""], ""2"": [""parks""], ""6"": [""parking""]}"
+3	3	1	2	3	1	Agent	1, 2, 3	"{""1"": [""pools""], ""2"": [""pools""], ""3"": [""pool""]}"
+2	2	1	5	4	1	Human	2, 5	"{""2"": [""information""], ""5"": [""information""]}"

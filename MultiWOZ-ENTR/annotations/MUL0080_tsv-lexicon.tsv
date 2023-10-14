@@ -1,0 +1,7 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	2	5	2	1	Human	4, 5	"{""4"": [""cotto restaurant""], ""5"": [""cotto restaurant""]}"
+2	2	2	1	2	1	Human	0, 1	"{""0"": [""hamilton lodge""], ""1"": [""hamilton lodge""]}"
+2	2	2	3	2	1	Human	2, 3	"{""2"": [""reference number""], ""3"": [""reference number""]}"
+3	1	1	6	3	1	Human	4, 5, 6	"{""4"": [""cotto""], ""5"": [""cotto""], ""6"": [""cotto""]}"
+2	2	1	7	2	1	Human	6, 7	"{""6"": [""address""], ""7"": [""address""]}"
+2	2	1	7	2	1	Human	6, 7	"{""6"": [""postcode""], ""7"": [""postcode""]}"

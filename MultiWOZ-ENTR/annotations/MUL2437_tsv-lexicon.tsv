@@ -1,0 +1,4 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	3	4	3	1	Agent	3, 4, 5	"{""3"": [""cafe jello gallery""], ""4"": [""cafe jello gallery""], ""5"": [""cafe jello gallery""]}"
+2	2	2	3	2	1	Human	2, 3	"{""2"": [""phone number""], ""3"": [""phone number""]}"
+2	2	1	1	2	1	Human	0, 1	"{""0"": [""museums""], ""1"": [""museums""]}"

@@ -1,0 +1,5 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	4	3	4	1	Human	0, 3	"{""0"": [""pizza hut city centre""], ""3"": [""pizza hut city centre""]}"
+2	2	2	3	2	1	Human	2, 3	"{""2"": [""italian restaurant""], ""3"": [""italian restaurant""]}"
+3	2	2	1	4	1	Human	0, 1, 3	"{""0"": [""city centre""], ""1"": [""city centre""], ""3"": [""city centre""]}"
+2	2	1	3	2	1	Human	2, 3	"{""2"": [""postcode""], ""3"": [""postcode""]}"

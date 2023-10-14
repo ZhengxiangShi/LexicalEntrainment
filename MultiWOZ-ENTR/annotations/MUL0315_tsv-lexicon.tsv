@@ -1,0 +1,4 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	3	9	6	1	Human	6, 9, 11	"{""6"": [""city stop restaurant""], ""9"": [""city stop restaurant""], ""11"": [""city stop restaurant""]}"
+2	2	2	14	2	1	Agent	12, 13, 14	"{""12"": [""help""], ""13"": [""help""], ""14"": [""help""]}"
+3	3	1	9	5	1	Human	8, 9, 12	"{""8"": [""area""], ""9"": [""area""], ""12"": [""area""]}"

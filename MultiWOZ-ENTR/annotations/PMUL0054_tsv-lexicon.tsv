@@ -1,0 +1,9 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	1	25	10	2	Human	16, 24, 25	"{""16"": [""day""], ""24"": [""day""], ""25"": [""day""]}"
+4	4	1	19	6	1	Human	18, 19, 21, 23	"{""18"": [""taxi""], ""19"": [""taxi""], ""21"": [""taxi""], ""23"": [""taxi""]}"
+4	4	1	17	15	2	Human	8, 14, 17, 22	"{""8"": [""wednesday""], ""14"": [""wednesday""], ""17"": [""wednesday""], ""22"": [""wednesday""]}"
+2	2	2	5	2	1	Human	4, 5	"{""4"": [""4 star""], ""5"": [""4 stars""]}"
+6	6	1	11	13	1	Human	10, 11, 12, 18, 20, 22	"{""10"": [""restaurant""], ""11"": [""restaurants""], ""12"": [""restaurants""], ""18"": [""restaurant""], ""20"": [""restaurant""], ""22"": [""restaurant""]}"
+5	5	1	18	7	2	Agent	15, 17, 18, 19, 21	"{""15"": [""time""], ""17"": [""time""], ""18"": [""time""], ""19"": [""time""], ""21"": [""time""]}"
+3	3	1	17	5	1	Human	14, 17, 18	"{""14"": [""reservation""], ""17"": [""reservation""], ""18"": [""reservation""]}"
+2	2	1	22	16	1	Agent	7, 22	"{""7"": [""hotel""], ""22"": [""hotel""]}"

@@ -1,0 +1,12 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+4	4	5	15	9	2	Human	8, 14, 15, 16	"{""8"": [""cow pizza kitchen and bar""], ""14"": [""cow pizza kitchen and bar""], ""15"": [""cow pizza kitchen and bar""], ""16"": [""cow pizza kitchen and bar""]}"
+2	2	5	1	2	1	Human	0, 1	"{""0"": [""cheap hotel with free parking""], ""1"": [""cheap hotels with free parking""]}"
+3	1	4	4	5	1	Human	0, 1, 4	"{""0"": [""hotel with free parking""], ""1"": [""hotels with free parking""], ""4"": [""hotels with free parking""]}"
+3	3	1	17	6	2	Human	12, 16, 17	"{""12"": [""address""], ""16"": [""address""], ""17"": [""address""]}"
+4	4	1	19	4	1	Human	18, 19, 20, 21	"{""18"": [""taxi""], ""19"": [""taxi""], ""20"": [""taxi""], ""21"": [""taxi""]}"
+2	2	1	15	14	1	Human	2, 15	"{""2"": [""center""], ""15"": [""centre""]}"
+7	4	1	2	19	1	Human	0, 1, 2, 3, 4, 5, 18	"{""0"": [""hotel""], ""1"": [""hotels""], ""2"": [""hotel""], ""3"": [""hotels""], ""4"": [""hotels""], ""5"": [""hotels""], ""18"": [""hotel""]}"
+4	4	1	9	11	1	Human	8, 9, 14, 18	"{""8"": [""restaurant""], ""9"": [""restaurant""], ""14"": [""restaurant""], ""18"": [""restaurant""]}"
+2	2	1	19	8	1	Human	12, 19	"{""12"": [""contact""], ""19"": [""contact""]}"
+2	2	1	11	2	1	Human	10, 11	"{""10"": [""internet""], ""11"": [""internet""]}"
+2	2	1	8	2	1	Agent	7, 8	"{""7"": [""preferences""], ""8"": [""preference""]}"

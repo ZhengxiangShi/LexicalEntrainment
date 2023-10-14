@@ -1,0 +1,10 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	2	7	2	1	Human	6, 7	"{""6"": [""arrival time""], ""7"": [""arrival time""]}"
+2	2	1	15	2	1	Human	14, 15	"{""14"": [""b""], ""15"": [""b""]}"
+2	2	1	7	4	1	Human	4, 7	"{""4"": [""cambridge""], ""7"": [""cambridge""]}"
+2	2	1	9	2	1	Human	8, 9	"{""8"": [""trip""], ""9"": [""trip""]}"
+2	2	1	7	8	1	Human	0, 7	"{""0"": [""norwich""], ""7"": [""norwich""]}"
+3	1	1	8	3	1	Human	6, 7, 8	"{""6"": [""time""], ""7"": [""time""], ""8"": [""time""]}"
+3	3	1	7	8	2	Human	0, 6, 7	"{""0"": [""train""], ""6"": [""train""], ""7"": [""train""]}"
+2	2	1	13	2	1	Human	12, 13	"{""12"": [""information""], ""13"": [""information""]}"
+2	2	1	7	6	1	Human	2, 7	"{""2"": [""thursday""], ""7"": [""thursday""]}"

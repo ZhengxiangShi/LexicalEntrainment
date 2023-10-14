@@ -1,0 +1,5 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	4	3	4	1	Human	0, 3	"{""0"": [""hotel with free parking""], ""3"": [""hotels with free parking""]}"
+2	2	2	4	2	1	Agent	3, 4	"{""3"": [""huntingdon marriott""], ""4"": [""huntingdon marriott""]}"
+3	1	2	1	4	1	Human	0, 1, 3	"{""0"": [""free parking""], ""1"": [""free parking""], ""3"": [""free parking""]}"
+4	3	1	1	4	1	Human	0, 1, 2, 3	"{""0"": [""hotel""], ""1"": [""hotels""], ""2"": [""hotel""], ""3"": [""hotels"", ""hotel""]}"

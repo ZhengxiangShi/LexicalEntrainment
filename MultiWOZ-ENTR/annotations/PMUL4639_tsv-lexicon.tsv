@@ -1,0 +1,13 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	7	7	2	1	Human	6, 7	"{""6"": [""cambridge station""], ""7"": [""cambridge station""]}"
+2	2	5	19	2	1	Human	18, 19	"{""18"": [""travel time for the train""], ""19"": [""travel time for the train""]}"
+2	2	1	15	6	1	Human	10, 15	"{""10"": [""west""], ""15"": [""west""]}"
+3	3	2	12	4	2	Agent	9, 11, 12	"{""9"": [""price range""], ""11"": [""price range""], ""12"": [""price range""]}"
+2	2	1	19	20	3	Human	0, 4, 18, 19	"{""0"": [""train""], ""4"": [""train""], ""18"": [""train""], ""19"": [""train""]}"
+2	2	2	15	4	1	Human	12, 15	"{""12"": [""moderate price""], ""15"": [""moderate pricing""]}"
+2	2	2	17	2	1	Human	16, 17	"{""16"": [""star rating""], ""17"": [""star rating""]}"
+2	2	1	5	2	1	Human	4, 5	"{""4"": [""cost""], ""5"": [""cost""]}"
+3	1	1	7	8	2	Human	0, 6, 7	"{""0"": [""cambridge""], ""6"": [""cambridge""], ""7"": [""cambridge""]}"
+3	1	1	19	14	2	Human	6, 18, 19	"{""6"": [""time""], ""18"": [""time""], ""19"": [""time""]}"
+2	2	1	15	2	1	Human	14, 15	"{""14"": [""internet""], ""15"": [""internet""]}"
+2	2	1	18	16	1	Agent	3, 18	"{""3"": [""tr0254""], ""18"": [""tr0254""]}"

@@ -1,0 +1,8 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+4	4	3	5	10	1	Human	2, 5, 6, 11	"{""2"": [""london liverpool street""], ""5"": [""london liverpool street""], ""6"": [""london liverpool street""], ""11"": [""london liverpool street""]}"
+3	3	1	7	6	2	Human	2, 6, 7	"{""2"": [""london""], ""6"": [""london""], ""7"": [""london""]}"
+3	3	1	7	6	1	Human	6, 7, 11	"{""6"": [""friday""], ""7"": [""friday""], ""11"": [""friday""]}"
+6	6	1	5	16	1	Human	2, 5, 6, 7, 11, 17	"{""2"": [""cambridge""], ""5"": [""cambridge""], ""6"": [""cambridge""], ""7"": [""cambridge""], ""11"": [""cambridge""], ""17"": [""cambridge""]}"
+9	9	1	1	16	1	Human	0, 1, 5, 6, 7, 9, 10, 11, 15	"{""0"": [""train""], ""1"": [""trains""], ""5"": [""train""], ""6"": [""train""], ""7"": [""train""], ""9"": [""trains""], ""10"": [""train""], ""11"": [""train""], ""15"": [""train""]}"
+5	5	1	10	8	4	Agent	3, 5, 7, 9, 10	"{""3"": [""time""], ""5"": [""time""], ""7"": [""time""], ""9"": [""time""], ""10"": [""time""]}"
+2	2	1	14	2	1	Agent	13, 14	"{""13"": [""tickets""], ""14"": [""ticket""]}"

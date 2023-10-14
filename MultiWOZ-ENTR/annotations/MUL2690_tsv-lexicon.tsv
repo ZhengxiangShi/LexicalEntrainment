@@ -1,0 +1,12 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	1	3	4	1	Human	0, 3	"{""0"": [""centre""], ""3"": [""centre""]}"
+2	2	1	9	2	1	Human	8, 9	"{""8"": [""rated""], ""9"": [""rated""]}"
+2	2	2	17	6	1	Human	12, 17	"{""12"": [""contact number""], ""17"": [""contact number""]}"
+2	2	2	5	2	1	Human	4, 5	"{""4"": [""entrance fee""], ""5"": [""entrance fee""]}"
+4	2	1	12	13	1	Agent	5, 12, 15, 17	"{""5"": [""number""], ""12"": [""number""], ""15"": [""number""], ""17"": [""number""]}"
+4	4	1	9	7	1	Human	8, 9, 10, 14	"{""8"": [""stars""], ""9"": [""stars""], ""10"": [""stars""], ""14"": [""star""]}"
+4	4	1	13	6	1	Human	12, 13, 16, 17	"{""12"": [""taxi""], ""13"": [""taxi""], ""16"": [""taxi""], ""17"": [""taxi""]}"
+2	2	1	5	2	1	Human	4, 5	"{""4"": [""address""], ""5"": [""address""]}"
+2	2	1	12	12	1	Agent	1, 12	"{""1"": [""attraction""], ""12"": [""attraction""]}"
+2	2	1	14	2	1	Agent	13, 14	"{""13"": [""hotel""], ""14"": [""hotel""]}"
+2	2	1	12	12	1	Agent	1, 12	"{""1"": [""type""], ""12"": [""type""]}"

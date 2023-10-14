@@ -1,0 +1,13 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	3	3	2	1	Human	2, 3	"{""2"": [""moderate price range""], ""3"": [""moderate price range""]}"
+3	3	2	5	7	1	Human	0, 5, 6	"{""0"": [""four star""], ""5"": [""4 stars""], ""6"": [""4 stars""]}"
+3	1	2	5	4	1	Human	2, 3	"{""2"": [""moderate price""], ""3"": [""moderate price""]}"
+3	1	2	16	15	1	Human	2, 3, 16	"{""2"": [""price range""], ""3"": [""price range""], ""16"": [""price range""]}"
+4	4	1	1	17	1	Human	0, 1, 5, 16	"{""0"": [""hotels""], ""1"": [""hotel""], ""5"": [""hotels""], ""16"": [""hotel""]}"
+2	2	1	5	2	1	Human	4, 5	"{""4"": [""town""], ""5"": [""town""]}"
+2	2	2	19	2	1	Human	18, 19	"{""18"": [""phone number""], ""19"": [""phone number""]}"
+2	2	2	14	4	1	Agent	11, 14	"{""11"": [""reference number""], ""14"": [""reference number""]}"
+3	3	1	21	4	2	Human	18, 20, 21	"{""18"": [""postcode""], ""20"": [""postcode""], ""21"": [""postcode""]}"
+3	3	1	13	16	1	Human	0, 13, 15	"{""0"": [""information""], ""13"": [""info""], ""15"": [""information""]}"
+2	2	1	17	2	1	Human	16, 17	"{""16"": [""restaurant""], ""17"": [""restaurant""]}"
+2	2	1	9	2	1	Human	8, 9	"{""8"": [""room""], ""9"": [""room""]}"

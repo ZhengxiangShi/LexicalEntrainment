@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+4	4	1	1	4	1	Human	0, 1, 2, 3	"{""0"": [""boats""], ""1"": [""boats""], ""2"": [""boats""], ""3"": [""boat""]}"
+5	5	1	1	12	1	Human	0, 1, 4, 9, 11	"{""0"": [""south""], ""1"": [""south""], ""4"": [""south""], ""9"": [""south""], ""11"": [""South""]}"
+2	2	2	13	2	1	Human	12, 13	"{""12"": [""phone number""], ""13"": [""phone number""]}"
+2	2	3	6	2	1	Agent	5, 6	"{""5"": [""wandlebury country park""], ""6"": [""wandlebury country park""]}"
+7	7	1	5	15	2	Human	2, 4, 5, 6, 7, 13, 15, 16	"{""2"": [""park""], ""4"": [""parks""], ""5"": [""park""], ""6"": [""park""], ""7"": [""park""], ""13"": [""park""], ""15"": [""park""], ""16"": [""park""]}"
+2	2	2	7	2	1	Human	6, 7	"{""6"": [""entrance fee""], ""7"": [""entrance fee""]}"
+3	1	1	17	6	1	Human	12, 13, 17	"{""12"": [""number""], ""13"": [""number""], ""17"": [""number""]}"
+3	3	1	9	8	1	Human	8, 9, 15	"{""8"": [""restaurant""], ""9"": [""restaurant""], ""15"": [""restaurant""]}"
+2	2	1	8	8	1	Agent	1, 8	"{""1"": [""area""], ""8"": [""area""]}"
+2	2	1	10	2	1	Agent	9, 10	"{""9"": [""places""], ""10"": [""place""]}"

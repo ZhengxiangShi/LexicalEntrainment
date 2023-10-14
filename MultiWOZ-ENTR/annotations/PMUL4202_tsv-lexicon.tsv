@@ -1,0 +1,12 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	1	7	6	1	Human	2, 7	"{""2"": [""centre""], ""7"": [""centre""]}"
+3	3	1	11	12	2	Human	0, 10, 11	"{""0"": [""restaurant""], ""10"": [""restaurant""], ""11"": [""restaurant""]}"
+3	3	2	7	7	1	Human	6, 7, 12	"{""6"": [""vue cinema""], ""7"": [""vue cinema""], ""12"": [""vue cinema""]}"
+3	3	1	13	4	2	Human	10, 12, 13	"{""10"": [""car""], ""12"": [""car""], ""13"": [""car""]}"
+4	4	1	6	10	1	Agent	3, 6, 7, 12	"{""3"": [""reservation""], ""6"": [""reservation""], ""7"": [""reservation""], ""12"": [""reservation""]}"
+4	2	1	7	7	1	Human	6, 7, 8, 12	"{""6"": [""cinema""], ""7"": [""cinema"", ""cinema""], ""8"": [""cinema""], ""12"": [""cinema""]}"
+3	3	1	7	8	1	Human	6, 7, 13	"{""6"": [""number""], ""7"": [""number""], ""13"": [""number""]}"
+2	2	1	5	4	1	Human	2, 5	"{""2"": [""attractions""], ""5"": [""attraction""]}"
+2	2	1	13	4	1	Human	10, 13	"{""10"": [""contact""], ""13"": [""contact""]}"
+2	2	1	10	4	1	Agent	7, 10	"{""7"": [""time""], ""10"": [""time""]}"
+2	2	1	5	4	1	Human	2, 5	"{""2"": [""town""], ""5"": [""town""]}"

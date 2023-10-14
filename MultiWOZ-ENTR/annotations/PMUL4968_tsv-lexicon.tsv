@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	4	8	6	1	Agent	7, 8, 12	"{""7"": [""restaurants in the west""], ""8"": [""restaurant in the west""], ""12"": [""restaurants in the west""]}"
+2	2	1	7	7	1	Human	6, 7, 12	"{""6"": [""west""], ""7"": [""west""], ""12"": [""west""]}"
+5	5	1	16	9	2	Agent	11, 15, 16, 17, 19	"{""11"": [""table""], ""15"": [""table""], ""16"": [""table""], ""17"": [""table""], ""19"": [""table""]}"
+3	3	1	18	5	1	Agent	17, 18, 21	"{""17"": [""day""], ""18"": [""day""], ""21"": [""day""]}"
+2	2	2	12	2	1	Agent	11, 12	"{""11"": [""indian food""], ""12"": [""indian food""]}"
+5	2	1	7	7	1	Human	6, 7, 8, 11, 12	"{""6"": [""restaurant""], ""7"": [""restaurants""], ""8"": [""restaurant""], ""11"": [""restaurant""], ""12"": [""restaurants""]}"
+4	2	1	9	7	1	Human	6, 9, 11, 12	"{""6"": [""food""], ""9"": [""food""], ""11"": [""food""], ""12"": [""food""]}"
+2	2	1	8	2	1	Agent	7, 8	"{""7"": [""areas""], ""8"": [""area""]}"
+2	2	1	18	14	1	Agent	5, 18	"{""5"": [""reference""], ""18"": [""reference""]}"
+2	2	1	5	6	1	Human	0, 5	"{""0"": [""train""], ""5"": [""train""]}"

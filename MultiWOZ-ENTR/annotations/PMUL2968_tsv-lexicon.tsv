@@ -1,0 +1,12 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	4	12	4	1	Agent	9, 12	"{""9"": [""alexander bed and breakfast""], ""12"": [""alexander bed and breakfast""]}"
+2	2	4	12	10	1	Agent	3, 12	"{""3"": [""cambridge university botanic gardens""], ""12"": [""cambridge university botanic gardens""]}"
+3	3	1	1	9	1	Human	0, 1, 8	"{""0"": [""centre""], ""1"": [""centre""], ""8"": [""centre""]}"
+2	2	2	5	2	1	Human	4, 5	"{""4"": [""phone number""], ""5"": [""phone number""]}"
+3	1	2	4	10	1	Agent	3, 4, 12	"{""3"": [""botanic gardens""], ""4"": [""botanic gardens""], ""12"": [""botanic gardens""]}"
+2	2	1	11	2	1	Human	10, 11	"{""10"": [""postcode""], ""11"": [""postcode""]}"
+4	4	1	9	4	1	Human	8, 9, 10, 11	"{""8"": [""hotel""], ""9"": [""hotels""], ""10"": [""hotel""], ""11"": [""hotel""]}"
+3	1	1	13	10	1	Human	4, 5, 13	"{""4"": [""number""], ""5"": [""number""], ""13"": [""number""]}"
+3	3	1	10	3	1	Agent	9, 10, 11	"{""9"": [""stars""], ""10"": [""star""], ""11"": [""star""]}"
+2	2	1	1	2	1	Human	0, 1	"{""0"": [""attractions""], ""1"": [""attraction""]}"
+2	2	1	13	2	1	Human	12, 13	"{""12"": [""taxi""], ""13"": [""taxi""]}"

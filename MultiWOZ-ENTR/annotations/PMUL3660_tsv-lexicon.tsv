@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	1	13	8	1	Human	6, 13	"{""6"": [""table""], ""13"": [""table""]}"
+3	3	1	10	3	1	Agent	9, 10, 11	"{""9"": [""area""], ""10"": [""area""], ""11"": [""area""]}"
+4	4	1	12	9	2	Agent	7, 9, 12, 15	"{""7"": [""type""], ""9"": [""type""], ""12"": [""type""], ""15"": [""type""]}"
+4	4	1	11	9	1	Human	6, 11, 12, 14	"{""6"": [""restaurant""], ""11"": [""restaurants""], ""12"": [""restaurant""], ""14"": [""restaurant""]}"
+3	3	1	3	6	1	Human	0, 3, 5	"{""0"": [""colleges""], ""3"": [""college""], ""5"": [""college""]}"
+3	3	1	10	4	2	Agent	7, 9, 10	"{""7"": [""food""], ""9"": [""food""], ""10"": [""food""]}"
+3	3	1	7	3	1	Human	6, 7, 8	"{""6"": [""place""], ""7"": [""places""], ""8"": [""place""]}"
+3	3	1	1	6	1	Human	0, 1, 5	"{""0"": [""town""], ""1"": [""town""], ""5"": [""town""]}"
+2	2	1	5	2	1	Human	4, 5	"{""4"": [""address""], ""5"": [""address""]}"
+2	2	1	17	4	1	Human	14, 17	"{""14"": [""time""], ""17"": [""time""]}"

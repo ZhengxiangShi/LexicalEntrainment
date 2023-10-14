@@ -1,0 +1,7 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	2	1	2	1	Human	0, 1	"{""0"": [""golden wok""], ""1"": [""golden wok""]}"
+3	3	2	16	13	1	Agent	5, 16, 17	"{""5"": [""reference number""], ""16"": [""reference number""], ""17"": [""reference number""]}"
+5	5	1	7	6	1	Human	6, 7, 9, 11	"{""6"": [""train""], ""7"": [""train""], ""9"": [""train""], ""11"": [""train""]}"
+4	1	1	16	17	2	Agent	1, 5, 16, 17	"{""1"": [""number""], ""5"": [""number""], ""16"": [""number""], ""17"": [""number""]}"
+4	4	1	2	17	1	Agent	1, 2, 17	"{""1"": [""reservation""], ""2"": [""reservation""], ""17"": [""reservations""]}"
+2	2	1	4	2	1	Agent	3, 4	"{""3"": [""people""], ""4"": [""people""]}"

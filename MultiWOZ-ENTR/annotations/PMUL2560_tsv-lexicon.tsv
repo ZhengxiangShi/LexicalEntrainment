@@ -1,0 +1,9 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	2	2	2	1	Agent	1, 2	"{""1"": [""saints church""], ""2"": [""saints church""]}"
+2	2	2	3	2	1	Human	2, 3	"{""2"": [""phone number""], ""3"": [""phone number""]}"
+2	2	2	6	2	1	Agent	5, 6	"{""5"": [""price range""], ""6"": [""price range""]}"
+3	2	1	2	3	1	Agent	1, 2, 3	"{""1"": [""church""], ""2"": [""church""], ""3"": [""church""]}"
+3	1	1	10	9	1	Human	2, 3, 10	"{""2"": [""number""], ""3"": [""number""], ""10"": [""number""]}"
+3	1	1	7	3	1	Agent	5, 6	"{""5"": [""price""], ""6"": [""price""]}"
+2	2	1	6	2	1	Agent	5, 6	"{""5"": [""area""], ""6"": [""area""]}"
+2	1	1	2	2	1	Agent	1, 2	"{""1"": [""saints"", ""saint""], ""2"": [""saints""]}"

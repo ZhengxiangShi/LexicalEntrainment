@@ -1,0 +1,4 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	2	7	2	1	Human	6, 7	"{""6"": [""gonville hotel""], ""7"": [""gonville hotel""]}"
+2	2	1	7	2	1	Human	6, 7	"{""6"": [""hotel"", ""hotel""], ""7"": [""hotel"", ""hotel""]}"
+2	2	1	7	8	1	Human	0, 7	"{""0"": [""information""], ""7"": [""information""]}"

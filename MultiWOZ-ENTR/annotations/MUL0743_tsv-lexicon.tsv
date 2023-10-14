@@ -1,0 +1,9 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	5	9	2	1	Human	6, 8, 9, 11	"{""6"": [""london liverpool street""], ""8"": [""london liverpool street""], ""9"": [""london liverpool street""], ""11"": [""london liverpool street""]}"
+2	2	2	3	2	1	Human	2, 3	"{""2"": [""5 nights""], ""3"": [""5 nights""]}"
+6	6	1	7	16	2	Human	0, 6, 7, 9, 11, 15	"{""0"": [""cambridge""], ""6"": [""cambridge""], ""7"": [""cambridge""], ""9"": [""cambridge""], ""11"": [""cambridge""], ""15"": [""cambridge""]}"
+3	3	1	7	6	1	Human	4, 7, 9	"{""4"": [""train""], ""7"": [""train"", ""trains""], ""9"": [""train""]}"
+2	2	1	7	4	1	Human	4, 7	"{""4"": [""friday""], ""7"": [""friday""]}"
+2	2	1	3	2	1	Human	2, 3	"{""2"": [""party""], ""3"": [""party""]}"
+2	2	1	3	4	1	Human	0, 3	"{""0"": [""rosa's""], ""3"": [""rosa's""]}"
+2	2	1	3	2	1	Human	2, 3	"{""2"": [""sunday""], ""3"": [""sunday""]}"

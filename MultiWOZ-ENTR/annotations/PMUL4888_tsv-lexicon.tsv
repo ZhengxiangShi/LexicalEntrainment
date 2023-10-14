@@ -1,0 +1,6 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	7	7	4	1	Human	6, 7, 9	"{""6"": [""whipple museum of the history of science""], ""7"": [""whipple museum of the history of science""], ""9"": [""whipple museum of the history of science""]}"
+2	2	1	9	2	1	Human	8, 9	"{""8"": [""postcode""], ""9"": [""postcode""]}"
+4	1	1	12	7	1	Human	6, 7, 9, 12	"{""6"": [""museum""], ""7"": [""museum""], ""9"": [""museum""], ""12"": [""museum""]}"
+2	2	1	2	2	1	Agent	1, 2	"{""1"": [""range""], ""2"": [""range""]}"
+2	2	1	11	2	1	Human	10, 11	"{""10"": [""taxi""], ""11"": [""taxi""]}"

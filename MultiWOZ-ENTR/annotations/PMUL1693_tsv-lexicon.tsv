@@ -1,0 +1,13 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	5	13	2	1	Human	12, 13	"{""12"": [""area that are 4 star""], ""13"": [""area that are 4 star""]}"
+2	2	2	5	2	1	Human	4, 5	"{""4"": [""7 people""], ""5"": [""7 people""]}"
+2	2	3	1	2	1	Human	0, 1	"{""0"": [""train from norwich""], ""1"": [""train from norwich""]}"
+3	3	2	10	15	1	Agent	5, 10, 19	"{""5"": [""reference number""], ""10"": [""reference number""], ""19"": [""reference number""]}"
+5	5	1	13	9	3	Human	6, 8, 12, 13, 14	"{""6"": [""hotel""], ""8"": [""hotel""], ""12"": [""hotels""], ""13"": [""hotels""], ""14"": [""hotel""]}"
+4	2	1	10	15	1	Human	4, 5, 10, 18	"{""4"": [""people""], ""5"": [""people""], ""10"": [""people""], ""18"": [""people""]}"
+4	2	1	3	6	1	Human	0, 1, 3, 5	"{""0"": [""train""], ""1"": [""train""], ""3"": [""train""], ""5"": [""train""]}"
+3	1	1	14	3	1	Human	12, 13, 14	"{""12"": [""area""], ""13"": [""area""], ""14"": [""area""]}"
+3	3	1	11	9	1	Human	10, 11, 18	"{""10"": [""day""], ""11"": [""days""], ""18"": [""day""]}"
+3	3	1	16	4	2	Agent	13, 15, 16	"{""13"": [""guesthouses""], ""15"": [""guesthouses""], ""16"": [""guesthouse""]}"
+3	1	1	5	6	1	Human	0, 1, 5	"{""0"": [""norwich""], ""1"": [""norwich""], ""5"": [""norwich""]}"
+3	1	1	13	8	2	Human	6, 12, 13	"{""6"": [""star""], ""12"": [""star""], ""13"": [""star""]}"

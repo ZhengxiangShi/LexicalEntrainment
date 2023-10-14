@@ -1,0 +1,8 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	1	1	4	1	Human	0, 1, 3	"{""0"": [""centre""], ""1"": [""centre""], ""3"": [""center""]}"
+2	2	3	13	8	1	Human	6, 13	"{""6"": [""wandlebury country park""], ""13"": [""wandlebury country park""]}"
+2	2	2	2	2	1	Agent	1, 2	"{""1"": [""price ranges""], ""2"": [""price range""]}"
+3	3	1	11	4	1	Human	10, 11, 13	"{""10"": [""taxi""], ""11"": [""taxi""], ""13"": [""taxi""]}"
+4	2	1	7	8	1	Human	6, 7, 10, 13	"{""6"": [""park""], ""7"": [""park""], ""10"": [""park""], ""13"": [""park""]}"
+3	3	1	6	6	2	Agent	1, 3, 6	"{""1"": [""places""], ""3"": [""place""], ""6"": [""place""]}"
+3	1	1	7	8	1	Human	6, 7, 13	"{""6"": [""wandlebury""], ""7"": [""wandlebury""], ""13"": [""wandlebury""]}"

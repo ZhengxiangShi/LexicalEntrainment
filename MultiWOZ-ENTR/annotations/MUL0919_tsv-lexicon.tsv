@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	7	7	2	1	Human	6, 7	"{""6"": [""multiple sports complex in the same area""], ""7"": [""multiple sports complexes in the same area""]}"
+3	3	2	10	9	1	Agent	3, 10, 11	"{""3"": [""phone number""], ""10"": [""phone number""], ""11"": [""phone number""]}"
+3	3	2	4	3	1	Agent	3, 4, 5	"{""3"": [""bangkok city""], ""4"": [""bangkok city""], ""5"": [""bangkok city""]}"
+4	4	1	5	6	1	Human	4, 5, 8, 9	"{""4"": [""postcode""], ""5"": [""postcode""], ""8"": [""postcode""], ""9"": [""postcode""]}"
+4	4	1	5	10	2	Human	0, 2, 5, 9	"{""0"": [""centre""], ""2"": [""centre""], ""5"": [""centre""], ""9"": [""centre""]}"
+3	1	1	5	3	1	Agent	3, 4, 5	"{""3"": [""city""], ""4"": [""city""], ""5"": [""city""]}"
+3	3	1	12	6	2	Agent	7, 9, 12	"{""7"": [""information""], ""9"": [""information""], ""12"": [""info""]}"
+2	2	1	9	2	1	Human	8, 9	"{""8"": [""fee""], ""9"": [""fee""]}"
+2	2	1	2	2	1	Agent	1, 2	"{""1"": [""food""], ""2"": [""food""]}"
+2	2	1	2	2	1	Agent	1, 2	"{""1"": [""restaurants""], ""2"": [""restaurant""]}"

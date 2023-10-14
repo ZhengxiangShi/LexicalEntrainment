@@ -1,0 +1,13 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	1	9	3	1	Human	8, 9, 10	"{""8"": [""centre""], ""9"": [""centre""], ""10"": [""centre""]}"
+3	3	1	5	4	2	Human	2, 4, 5	"{""2"": [""postcode""], ""4"": [""postcode""], ""5"": [""postcode""]}"
+3	3	2	5	4	2	Human	2, 4, 5	"{""2"": [""entrance fee""], ""4"": [""entrance fee""], ""5"": [""entrance fee""]}"
+2	2	2	8	4	1	Agent	5, 8	"{""5"": [""christ's college""], ""8"": [""christ's college""]}"
+3	3	1	7	7	1	Human	6, 7, 12	"{""6"": [""hotel""], ""7"": [""hotels""], ""12"": [""hotel""]}"
+4	4	1	1	17	1	Human	0, 1, 6, 16	"{""0"": [""places""], ""1"": [""place""], ""6"": [""place""], ""16"": [""places""]}"
+3	1	1	8	6	2	Agent	3, 5, 8	"{""3"": [""christs""], ""5"": [""christ's""], ""8"": [""christ's""]}"
+3	1	1	8	6	2	Agent	3, 5, 8	"{""3"": [""college""], ""5"": [""college""], ""8"": [""college""]}"
+3	3	1	11	3	1	Human	10, 11, 12	"{""10"": [""parking""], ""11"": [""parking""], ""12"": [""parking""]}"
+2	2	1	8	2	1	Agent	7, 8	"{""7"": [""area""], ""8"": [""area""]}"
+2	2	1	11	12	1	Human	0, 11	"{""0"": [""attractions""], ""11"": [""attractions""]}"
+2	2	1	7	8	1	Human	0, 7	"{""0"": [""town""], ""7"": [""town""]}"

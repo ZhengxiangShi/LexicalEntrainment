@@ -1,0 +1,9 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+4	4	2	14	9	1	Agent	13, 14, 15, 21	"{""13"": [""riverside brasserie""], ""14"": [""riverside brasserie""], ""15"": [""riverside brasserie""], ""21"": [""riverside brasserie""]}"
+2	2	2	12	2	1	Agent	11, 12	"{""11"": [""price range""], ""12"": [""price range""]}"
+5	5	1	21	8	4	Human	14, 16, 18, 20, 21	"{""14"": [""area""], ""16"": [""area""], ""18"": [""area""], ""20"": [""area""], ""21"": [""area""]}"
+4	4	1	17	6	1	Human	16, 17, 20, 21	"{""16"": [""address""], ""17"": [""address""], ""20"": [""address""], ""21"": [""address""]}"
+3	3	1	17	20	1	Human	2, 17, 21	"{""2"": [""cambridge""], ""17"": [""cambridge""], ""21"": [""cambridge""]}"
+2	2	1	24	22	1	Agent	3, 24	"{""3"": [""day""], ""24"": [""day""]}"
+2	2	1	13	4	1	Human	10, 13	"{""10"": [""restaurant""], ""13"": [""restaurant""]}"
+2	2	1	8	2	1	Agent	7, 8	"{""7"": [""tr1389""], ""8"": [""tr1389""]}"

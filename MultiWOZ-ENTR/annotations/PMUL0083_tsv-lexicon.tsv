@@ -1,0 +1,10 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	3	3	3	1	Human	2, 3, 4	"{""2"": [""lan hong house""], ""3"": [""lan hong house""], ""4"": [""lan hong house""]}"
+3	3	1	14	9	1	Agent	7, 14, 15	"{""7"": [""day""], ""14"": [""day""], ""15"": [""day""]}"
+2	2	3	11	4	1	Human	8, 11	"{""8"": [""holiday inn cambridge""], ""11"": [""holiday inn cambridge""]}"
+4	1	2	11	10	1	Human	2, 3, 4, 11	"{""2"": [""hong house""], ""3"": [""hong house""], ""4"": [""hong house""], ""11"": [""hong house""]}"
+2	2	1	6	2	1	Agent	5, 6	"{""5"": [""reservation""], ""6"": [""reservation""]}"
+2	2	1	11	2	1	Human	10, 11	"{""10"": [""taxi""], ""11"": [""taxi""]}"
+2	2	1	9	2	1	Human	8, 9	"{""8"": [""postcode""], ""9"": [""postcode""]}"
+4	4	1	1	13	1	Human	0, 1, 5, 12	"{""0"": [""restaurant""], ""1"": [""restaurant""], ""5"": [""restaurant""], ""12"": [""restaurant""]}"
+3	3	1	8	5	1	Agent	7, 8, 11	"{""7"": [""time""], ""8"": [""time""], ""11"": [""time""]}"

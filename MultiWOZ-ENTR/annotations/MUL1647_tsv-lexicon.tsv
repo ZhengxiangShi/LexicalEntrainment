@@ -1,0 +1,12 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	2	11	4	1	Human	10, 11, 13	"{""10"": [""reference number""], ""11"": [""reference number""], ""13"": [""reference number""]}"
+3	3	1	9	4	1	Human	8, 9, 11	"{""8"": [""train""], ""9"": [""train""], ""11"": [""train""]}"
+2	2	2	11	4	1	Human	8, 11	"{""8"": [""bishops stortford""], ""11"": [""bishops stortford""]}"
+2	2	2	7	2	1	Human	6, 7	"{""6"": [""phone number""], ""7"": [""phone number""]}"
+2	2	2	13	2	1	Human	12, 13	"{""12"": [""6 tickets""], ""13"": [""6 tickets""]}"
+2	2	1	11	4	1	Human	8, 11	"{""8"": [""cambridge""], ""11"": [""cambridge""]}"
+4	4	1	2	4	1	Agent	1, 2, 3, 4	"{""1"": [""food""], ""2"": [""food""], ""3"": [""food""], ""4"": [""food""]}"
+3	1	1	12	3	1	Agent	11, 12, 13	"{""11"": [""ticket""], ""12"": [""tickets""], ""13"": [""tickets""]}"
+2	2	1	4	2	1	Agent	3, 4	"{""3"": [""instead""], ""4"": [""instead""]}"
+2	2	1	7	2	1	Human	6, 7	"{""6"": [""postcode""], ""7"": [""postcode""]}"
+2	2	1	3	4	1	Human	0, 3	"{""0"": [""town""], ""3"": [""town""]}"

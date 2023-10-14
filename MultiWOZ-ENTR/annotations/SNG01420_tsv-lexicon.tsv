@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	5	10	2	1	Agent	9, 10	"{""9"": [""huntington marriott in the west""], ""10"": [""huntington marriott in the west""]}"
+2	2	3	5	4	1	Human	2, 5	"{""2"": [""expensive price range""], ""5"": [""expensive price range""]}"
+3	1	1	10	6	2	Agent	5, 9, 10	"{""5"": [""west""], ""9"": [""west""], ""10"": [""west""]}"
+3	3	2	11	4	2	Human	8, 10, 11	"{""8"": [""phone number""], ""10"": [""phone number""], ""11"": [""phone number""]}"
+2	2	2	7	4	1	Human	4, 7	"{""4"": [""free wifi""], ""7"": [""free wifi""]}"
+3	3	1	1	5	1	Human	0, 1, 4	"{""0"": [""internet""], ""1"": [""internet""], ""4"": [""internet""]}"
+7	7	1	1	12	1	Human	0, 1, 5, 8, 9, 10, 11	"{""0"": [""hotel""], ""1"": [""hotels""], ""5"": [""hotels""], ""8"": [""hotel""], ""9"": [""hotels""], ""10"": [""hotel""], ""11"": [""hotel""]}"
+3	1	1	9	8	1	Human	2, 5, 9	"{""2"": [""range""], ""5"": [""range""], ""9"": [""range""]}"
+3	1	1	7	4	2	Human	4, 6, 7	"{""4"": [""wifi""], ""6"": [""wifi""], ""7"": [""wifi""]}"
+2	2	1	1	2	1	Human	0, 1	"{""0"": [""star""], ""1"": [""stars""]}"

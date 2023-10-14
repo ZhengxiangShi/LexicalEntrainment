@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	3	9	8	1	Human	2, 9	"{""2"": [""centre of town""], ""9"": [""center of town""]}"
+3	1	1	12	11	1	Human	2, 9, 12	"{""2"": [""centre""], ""9"": [""center""], ""12"": [""centre""]}"
+2	2	1	9	2	1	Human	8, 9	"{""8"": [""saints""], ""9"": [""saints""]}"
+2	2	1	15	2	1	Human	14, 15	"{""14"": [""sunday""], ""15"": [""sunday""]}"
+5	5	1	13	19	2	Human	0, 12, 13, 15, 18	"{""0"": [""restaurants""], ""12"": [""restaurant""], ""13"": [""restaurant""], ""15"": [""restaurant""], ""18"": [""restaurant""]}"
+3	1	1	9	10	2	Human	0, 2, 9	"{""0"": [""town""], ""2"": [""town""], ""9"": [""town""]}"
+2	2	1	3	2	1	Human	2, 3	"{""2"": [""attraction""], ""3"": [""attractions""]}"
+2	2	1	7	2	1	Human	6, 7	"{""6"": [""college""], ""7"": [""college""]}"
+2	2	1	17	18	1	Human	0, 17	"{""0"": [""places""], ""17"": [""places""]}"
+2	2	1	11	2	1	Human	10, 11	"{""10"": [""postcode""], ""11"": [""postcode""]}"

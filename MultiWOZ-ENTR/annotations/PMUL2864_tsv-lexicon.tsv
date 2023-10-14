@@ -1,0 +1,7 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	5	9	4	1	Human	6, 9	"{""6"": [""milton country park""], ""9"": [""milton country park""]}"
+3	3	2	6	5	1	Agent	5, 6, 9	"{""5"": [""aylesbray lodge""], ""6"": [""aylesbray lodge""], ""9"": [""aylesbray lodge""]}"
+2	2	1	9	4	1	Human	6, 9	"{""6"": [""postcode""], ""9"": [""postcode""]}"
+3	3	1	5	4	2	Human	2, 4, 5	"{""2"": [""guesthouse""], ""4"": [""guesthouse""], ""5"": [""guesthouses"", ""guesthouse""]}"
+2	1	1	9	4	1	Human	6, 9	"{""6"": [""milton""], ""9"": [""milton""]}"
+2	2	1	4	2	1	Agent	3, 4	"{""3"": [""price""], ""4"": [""price""]}"

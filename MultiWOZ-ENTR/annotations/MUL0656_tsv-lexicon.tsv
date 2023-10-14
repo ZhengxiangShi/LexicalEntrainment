@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+4	4	3	10	7	2	Agent	4, 5, 6, 7, 9, 10, 11, 13	"{""4"": [""train""], ""5"": [""trains""], ""6"": [""trains""], ""7"": [""trains""], ""9"": [""trains""], ""10"": [""train""], ""11"": [""trains""], ""13"": [""train""]}"
+2	2	2	1	2	1	Human	0, 1	"{""0"": [""lensfield hotel""], ""1"": [""lensfield hotel""]}"
+2	2	2	3	2	1	Human	2, 3	"{""2"": [""phone number""], ""3"": [""phone number""]}"
+4	4	1	9	8	1	Human	6, 9, 12, 13	"{""6"": [""saturday""], ""9"": [""saturday""], ""12"": [""saturday""], ""13"": [""saturday""]}"
+2	2	1	1	2	1	Human	0, 1	"{""0"": [""hotel""], ""1"": [""hotel"", ""hotel""]}"
+2	2	2	13	2	1	Human	12, 13	"{""12"": [""reference number""], ""13"": [""reference number""]}"
+2	2	2	5	2	1	Human	4, 5	"{""4"": [""stansted airport""], ""5"": [""stansted airport""]}"
+5	5	1	4	13	1	Agent	3, 4, 5, 8, 15	"{""3"": [""days"", ""day""], ""4"": [""days""], ""5"": [""day""], ""8"": [""day""], ""15"": [""day""]}"
+4	4	1	12	8	3	Agent	5, 7, 11, 12	"{""5"": [""time""], ""7"": [""time""], ""11"": [""time""], ""12"": [""times""]}"
+3	3	1	10	10	1	Agent	3, 10, 12	"{""3"": [""people""], ""10"": [""people""], ""12"": [""people""]}"

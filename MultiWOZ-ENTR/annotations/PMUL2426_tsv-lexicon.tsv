@@ -1,0 +1,12 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	4	8	2	1	Agent	7, 8	"{""7"": [""gonville and caius college""], ""8"": [""gonville and caius college""]}"
+3	1	2	10	4	1	Agent	7, 8, 10	"{""7"": [""caius college""], ""8"": [""caius college""], ""10"": [""caius college""]}"
+2	2	2	1	2	1	Human	0, 1	"{""0"": [""pizza express""], ""1"": [""pizza express""]}"
+2	2	1	3	2	1	Human	2, 3	"{""2"": [""postcode""], ""3"": [""postcode""]}"
+5	2	1	7	7	2	Human	4, 6, 7, 8, 10	"{""4"": [""colleges""], ""6"": [""college""], ""7"": [""college""], ""8"": [""college""], ""10"": [""college""]}"
+3	1	1	10	4	1	Agent	7, 8, 10	"{""7"": [""gonville""], ""8"": [""gonville""], ""10"": [""gonville""]}"
+3	3	1	1	8	1	Human	0, 1, 7	"{""0"": [""information""], ""1"": [""information""], ""7"": [""info""]}"
+3	3	1	4	12	1	Agent	1, 4, 12	"{""1"": [""town""], ""4"": [""town""], ""12"": [""town""]}"
+2	2	1	7	2	1	Human	6, 7	"{""6"": [""area""], ""7"": [""area""]}"
+2	2	1	10	2	1	Agent	9, 10	"{""9"": [""attraction""], ""10"": [""attraction""]}"
+2	2	1	13	8	1	Human	6, 13	"{""6"": [""care""], ""13"": [""care""]}"

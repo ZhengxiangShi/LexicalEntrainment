@@ -1,0 +1,13 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	4	7	2	1	Human	6, 7	"{""6"": [""train leaving from cambridge""], ""7"": [""trains leaving from cambridge""]}"
+3	3	1	3	4	2	Human	0, 3	"{""0"": [""south""], ""3"": [""south""]}"
+2	2	2	1	2	1	Human	0, 1	"{""0"": [""concert hall""], ""1"": [""concert hall""]}"
+2	2	2	15	2	1	Human	14, 15	"{""14"": [""6 tickets""], ""15"": [""six tickets""]}"
+3	3	1	12	10	1	Human	6, 7, 12, 13, 15	"{""6"": [""cambridge""], ""7"": [""cambridge""], ""12"": [""cambridge""], ""13"": [""cambridge""], ""15"": [""cambridge""]}"
+2	2	2	4	2	1	Agent	3, 4	"{""3"": [""entertainment places""], ""4"": [""entertainment places""]}"
+3	3	1	14	10	1	Human	6, 7, 10, 14, 15	"{""6"": [""train""], ""7"": [""trains""], ""10"": [""train""], ""14"": [""train""], ""15"": [""train""]}"
+3	1	1	3	3	1	Human	2, 3, 4	"{""2"": [""entertainment""], ""3"": [""entertainment""], ""4"": [""entertainment""]}"
+2	2	1	2	2	1	Agent	1, 2	"{""1"": [""area""], ""2"": [""area""]}"
+2	2	1	2	2	1	Agent	1, 2	"{""1"": [""attraction""], ""2"": [""attractions""]}"
+2	2	1	5	2	1	Human	4, 5	"{""4"": [""postcodes""], ""5"": [""postcode""]}"
+2	2	1	12	2	1	Agent	11, 12	"{""11"": [""preference""], ""12"": [""preference""]}"

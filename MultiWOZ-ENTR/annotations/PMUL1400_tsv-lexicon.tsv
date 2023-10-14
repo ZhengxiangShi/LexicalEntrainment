@@ -1,0 +1,7 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	2	15	2	1	Human	14, 15	"{""14"": [""entrance fee""], ""15"": [""entrance fee""]}"
+2	2	2	13	2	1	Human	12, 13	"{""12"": [""newest theatre""], ""13"": [""newest theater""]}"
+4	4	1	9	12	2	Human	6, 17	"{""6"": [""booking""], ""17"": [""booking""]}"
+6	4	1	11	6	1	Human	10, 11, 12, 13, 14, 15	"{""10"": [""theatres""], ""11"": [""theatre""], ""12"": [""theatre""], ""13"": [""theater""], ""14"": [""theater""], ""15"": [""theatre""]}"
+3	1	1	14	7	1	Agent	9, 14, 15	"{""9"": [""fee""], ""14"": [""fee""], ""15"": [""fee""]}"
+3	3	1	3	7	1	Human	0, 3, 6	"{""0"": [""time""], ""3"": [""time""], ""6"": [""time""]}"

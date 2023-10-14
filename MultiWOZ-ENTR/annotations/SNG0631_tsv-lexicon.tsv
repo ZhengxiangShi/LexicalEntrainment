@@ -1,0 +1,5 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	1	4	2	1	Agent	3, 4	"{""3"": [""table""], ""4"": [""table""]}"
+2	2	2	4	2	1	Agent	3, 4	"{""3"": [""charlie chan""], ""4"": [""charlie chan""]}"
+2	2	1	7	8	1	Human	0, 7	"{""0"": [""centre""], ""7"": [""centre""]}"
+2	2	1	7	2	1	Human	6, 7	"{""6"": [""day""], ""7"": [""day""]}"

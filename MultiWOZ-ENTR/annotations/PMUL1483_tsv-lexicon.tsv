@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	3	1	2	1	Human	0, 1	"{""0"": [""centre of town""], ""1"": [""centre of town""]}"
+2	2	3	7	4	1	Human	4, 7	"{""4"": [""address and postcode""], ""7"": [""address and postcode""]}"
+3	1	1	5	4	1	Human	4, 5, 7	"{""4"": [""address""], ""5"": [""address""], ""7"": [""address""]}"
+3	3	2	6	5	1	Agent	3, 6, 7	"{""3"": [""scudamores punting""], ""6"": [""scudamores punting""], ""7"": [""scudamores punting""]}"
+2	2	2	3	2	1	Human	2, 3	"{""2"": [""boating place""], ""3"": [""boating places""]}"
+4	2	1	3	8	2	Human	0, 2, 3, 7	"{""0"": [""places""], ""2"": [""place""], ""3"": [""places""], ""7"": [""place""]}"
+3	3	1	15	9	1	Human	8, 15, 16	"{""8"": [""tickets""], ""15"": [""ticket""], ""16"": [""tickets""]}"
+2	2	1	10	8	1	Agent	3, 10	"{""3"": [""cambridge""], ""10"": [""cambridge""]}"
+2	2	1	1	2	1	Human	0, 1	"{""0"": [""entertainment""], ""1"": [""entertainment""]}"
+2	1	1	7	4	1	Human	4, 7	"{""4"": [""postcode""], ""7"": [""postcode""]}"

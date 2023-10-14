@@ -1,0 +1,13 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	2	19	2	1	Human	18, 19	"{""18"": [""nice day""], ""19"": [""nice day""]}"
+3	3	2	12	3	1	Agent	11, 12, 13	"{""11"": [""cambridge belfry""], ""12"": [""cambridge belfry""], ""13"": [""cambridge belfry""]}"
+3	3	2	17	6	2	Human	12, 16, 17	"{""12"": [""price range""], ""16"": [""price range""], ""17"": [""price range""]}"
+2	2	2	9	2	1	Human	8, 9	"{""8"": [""4 star""], ""9"": [""4 stars""]}"
+2	2	2	7	2	1	Human	6, 7	"{""6"": [""reference number""], ""7"": [""reference number""]}"
+5	5	1	6	11	1	Agent	6, 7	"{""6"": [""booking""], ""7"": [""booking""]}"
+5	5	1	9	8	1	Human	8, 9, 10, 11, 15	"{""8"": [""hotel""], ""9"": [""hotels""], ""10"": [""hotel""], ""11"": [""hotel""], ""15"": [""hotel""]}"
+4	1	1	11	14	1	Human	0, 11, 12, 13	"{""0"": [""cambridge""], ""11"": [""cambridge""], ""12"": [""cambridge""], ""13"": [""cambridge""]}"
+3	3	1	16	8	2	Agent	9, 15, 16	"{""9"": [""area""], ""15"": [""area""], ""16"": [""area""]}"
+3	1	1	18	19	1	Agent	1, 18, 19	"{""1"": [""day""], ""18"": [""day""], ""19"": [""day""]}"
+3	3	1	16	5	1	Agent	13, 16, 17	"{""13"": [""postcode""], ""16"": [""postcode""], ""17"": [""postcode""]}"
+2	2	1	15	2	1	Human	14, 15	"{""14"": [""favorite""], ""15"": [""favorite""]}"

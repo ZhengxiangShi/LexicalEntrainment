@@ -1,0 +1,12 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+6	6	1	5	19	2	Human	0, 4, 5, 12, 16, 18	"{""0"": [""restaurant""], ""4"": [""restaurant""], ""5"": [""restaurants""], ""12"": [""restaurant""], ""16"": [""restaurant""], ""18"": [""restaurant""]}"
+4	4	1	21	7	2	Human	16, 20, 21, 22	"{""16"": [""taxi""], ""20"": [""taxi""], ""21"": [""taxi""], ""22"": [""taxi""]}"
+2	2	2	23	2	1	Human	22, 23	"{""22"": [""contact number""], ""23"": [""contact number""]}"
+2	2	2	15	2	1	Human	14, 15	"{""14"": [""phone number""], ""15"": [""phone number""]}"
+5	5	1	13	4	1	Human	12, 13, 14, 15	"{""12"": [""pool""], ""13"": [""pool""], ""14"": [""pool""], ""15"": [""pool""]}"
+6	6	1	1	7	1	Human	0, 1, 2, 4, 5, 6	"{""0"": [""food""], ""1"": [""food""], ""2"": [""food's""], ""4"": [""food""], ""5"": [""food""], ""6"": [""food""]}"
+5	1	1	14	13	1	Agent	11, 14, 15, 22, 23	"{""11"": [""number""], ""14"": [""number""], ""15"": [""number""], ""22"": [""number""], ""23"": [""number""]}"
+4	4	1	10	12	1	Agent	9, 10, 19, 20	"{""9"": [""people""], ""10"": [""people""], ""19"": [""people""], ""20"": [""people""]}"
+4	4	1	18	13	2	Agent	9, 17, 18, 21	"{""9"": [""time""], ""17"": [""time""], ""18"": [""time""], ""21"": [""time""]}"
+3	3	1	8	5	1	Agent	7, 8, 11	"{""7"": [""hotpot""], ""8"": [""hotpot""], ""11"": [""hotpot""]}"
+2	2	1	11	4	1	Human	8, 11	"{""8"": [""reservation""], ""11"": [""reservation""]}"

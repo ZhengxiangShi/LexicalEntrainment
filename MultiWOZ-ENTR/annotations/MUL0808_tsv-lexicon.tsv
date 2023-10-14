@@ -1,0 +1,10 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	1	1	8	1	Human	0, 1, 7	"{""0"": [""center""], ""1"": [""centre""], ""7"": [""centre""]}"
+2	2	2	13	2	1	Human	12, 13	"{""12"": [""cab ride""], ""13"": [""cab ride""]}"
+3	3	1	5	6	2	Human	0, 4, 5	"{""0"": [""town""], ""4"": [""town""], ""5"": [""town""]}"
+2	2	2	7	2	1	Human	6, 7	"{""6"": [""peking restaurant""], ""7"": [""peking restaurant""]}"
+4	4	1	4	9	1	Agent	3, 4, 10, 11	"{""3"": [""church""], ""4"": [""church""], ""10"": [""church""], ""11"": [""church""]}"
+6	4	1	5	9	1	Human	4, 5, 6, 7, 10, 12	"{""4"": [""restaurant""], ""5"": [""restaurants""], ""6"": [""restaurant""], ""7"": [""restaurant""], ""10"": [""restaurant""], ""12"": [""restaurant""]}"
+3	1	1	13	4	2	Human	10, 12, 13	"{""10"": [""cab""], ""12"": [""cab""], ""13"": [""cab""]}"
+3	3	1	12	6	2	Agent	7, 11, 12	"{""7"": [""time""], ""11"": [""time""], ""12"": [""time""]}"
+2	2	1	8	2	1	Agent	7, 8	"{""7"": [""put""], ""8"": [""put""]}"

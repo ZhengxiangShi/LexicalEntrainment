@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	2	8	3	1	Agent	7, 8, 9	"{""7"": [""east area""], ""8"": [""east area""], ""9"": [""east area""]}"
+2	2	4	10	2	1	Agent	9, 10	"{""9"": [""cambridge museum of technology""], ""10"": [""cambridge museum of technology""]}"
+2	2	4	7	2	1	Human	6, 7	"{""6"": [""college in the east""], ""7"": [""colleges in the east""]}"
+2	2	3	3	4	1	Human	0, 3	"{""0"": [""london kings cross""], ""3"": [""london kings cross""]}"
+3	3	1	3	11	1	Human	0, 3, 9, 10	"{""0"": [""cambridge""], ""3"": [""cambridge""], ""9"": [""cambridge""], ""10"": [""cambridge""]}"
+3	3	1	7	2	1	Human	6, 7	"{""6"": [""town""], ""7"": [""town""]}"
+3	1	1	8	3	1	Agent	7, 8, 9	"{""7"": [""area""], ""8"": [""area""], ""9"": [""area""]}"
+3	2	1	9	3	1	Human	8, 9, 10	"{""8"": [""museums""], ""9"": [""museum"", ""museums""], ""10"": [""museum""]}"
+3	3	1	10	7	1	Agent	5, 10, 11	"{""5"": [""number""], ""10"": [""number""], ""11"": [""number""]}"
+2	2	1	3	2	1	Human	2, 3	"{""2"": [""thursday""], ""3"": [""thursday""]}"

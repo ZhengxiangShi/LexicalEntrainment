@@ -1,0 +1,13 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	3	5	2	1	Human	4, 5	"{""4"": [""guesthouse style hotel""], ""5"": [""guesthouse style hotel""]}"
+2	2	3	1	2	1	Human	0, 1	"{""0"": [""nandos city centre""], ""1"": [""nandos city centre""]}"
+2	2	3	9	2	1	Human	8, 9	"{""8"": [""parking and wifi""], ""9"": [""parking and wifi""]}"
+4	2	2	9	12	1	Human	0, 1, 9, 11	"{""0"": [""city centre""], ""1"": [""city centre""], ""9"": [""city centre""], ""11"": [""city centre""]}"
+3	3	2	11	4	2	Human	8, 10, 11	"{""8"": [""phone number""], ""10"": [""phone number""], ""11"": [""phone number""]}"
+3	3	2	11	4	2	Human	8, 10, 11	"{""8"": [""price range""], ""10"": [""price range""], ""11"": [""price range""]}"
+2	2	2	3	2	1	Human	2, 3	"{""2"": [""reference number""], ""3"": [""reference number""]}"
+2	2	2	7	2	1	Human	6, 7	"{""6"": [""star rating""], ""7"": [""star ratings""]}"
+4	4	1	8	5	2	Agent	5, 7, 8, 9	"{""5"": [""area""], ""7"": [""area""], ""8"": [""area""], ""9"": [""area""]}"
+3	1	1	7	4	1	Human	4, 5, 7	"{""4"": [""guesthouse""], ""5"": [""guesthouse""], ""7"": [""guesthouses""]}"
+3	1	1	9	6	1	Human	4, 5, 9	"{""4"": [""hotel""], ""5"": [""hotel""], ""9"": [""hotel""]}"
+2	1	1	7	2	1	Human	6, 7	"{""6"": [""star""], ""7"": [""star""]}"

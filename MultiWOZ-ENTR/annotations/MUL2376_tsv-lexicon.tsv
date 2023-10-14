@@ -1,0 +1,7 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	1	7	2	1	Human	6, 7	"{""6"": [""north""], ""7"": [""North""]}"
+4	4	1	1	4	1	Human	0, 1, 2, 3	"{""0"": [""museum""], ""1"": [""museum""], ""2"": [""museum""], ""3"": [""museum""]}"
+2	2	1	1	2	1	Human	0, 1	"{""0"": [""anthropology""], ""1"": [""anthropology""]}"
+2	2	1	13	2	1	Human	12, 13	"{""12"": [""day""], ""13"": [""day""]}"
+2	2	1	9	4	1	Human	6, 9	"{""6"": [""place""], ""9"": [""place""]}"
+2	2	1	11	4	1	Human	8, 11	"{""8"": [""table""], ""11"": [""table""]}"

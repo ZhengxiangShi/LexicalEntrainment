@@ -1,0 +1,13 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	2	11	2	1	Human	10, 11	"{""10"": [""phone number""], ""11"": [""phone number""]}"
+3	3	2	16	8	2	Agent	9, 13, 16	"{""9"": [""gonville hotel""], ""13"": [""gonville hotel""], ""16"": [""gonville hotel""]}"
+2	2	2	7	2	1	Human	6, 7	"{""6"": [""free wifi""], ""7"": [""free wifi""]}"
+5	5	1	1	17	1	Human	0, 1, 12, 14, 16	"{""0"": [""restaurant""], ""1"": [""restaurant""], ""12"": [""restaurant""], ""14"": [""restaurant""], ""16"": [""restaurant""]}"
+3	1	1	10	8	1	Agent	9, 10, 16	"{""9"": [""gonville""], ""10"": [""gonville""], ""16"": [""gonville""]}"
+6	4	1	7	11	1	Human	6, 7, 9, 12, 13, 16	"{""6"": [""hotel""], ""7"": [""hotels""], ""9"": [""hotel""], ""12"": [""hotel""], ""13"": [""hotel""], ""16"": [""hotel""]}"
+4	2	1	10	15	1	Agent	3, 10, 11, 17	"{""3"": [""number""], ""10"": [""number""], ""11"": [""number""], ""17"": [""number""]}"
+3	3	1	1	17	1	Human	0, 1, 16	"{""0"": [""panahar""], ""1"": [""panahar""], ""16"": [""panahar""]}"
+3	3	1	14	16	1	Agent	1, 14, 16	"{""1"": [""reservation""], ""14"": [""reservation""], ""16"": [""reservation""]}"
+3	3	1	14	3	1	Agent	13, 14, 15	"{""13"": [""time""], ""14"": [""time""], ""15"": [""time""]}"
+2	2	1	11	2	1	Human	10, 11	"{""10"": [""postcode""], ""11"": [""postcode""]}"
+2	2	1	17	6	1	Human	12, 17	"{""12"": [""taxi""], ""17"": [""taxi""]}"

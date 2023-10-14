@@ -1,0 +1,4 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	6	1	2	1	Human	0, 1	"{""0"": [""moderately priced restaurant in the north""], ""1"": [""moderately priced restaurants in the north""]}"
+3	1	4	3	4	1	Human	0, 1, 3	"{""0"": [""restaurant in the north""], ""1"": [""restaurants in the north""], ""3"": [""restaurant in the north""]}"
+3	1	1	1	4	1	Human	0, 1, 3	"{""0"": [""restaurant""], ""1"": [""restaurants"", ""restaurant""], ""3"": [""restaurant""]}"

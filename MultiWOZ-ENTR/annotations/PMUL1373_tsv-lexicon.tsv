@@ -1,0 +1,7 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+5	5	1	9	13	1	Human	6, 9, 10, 11, 12, 13, 14, 18	"{""6"": [""college""], ""9"": [""college""], ""10"": [""college""], ""11"": [""college""], ""12"": [""college""], ""13"": [""college""], ""14"": [""college""], ""18"": [""college""]}"
+3	3	2	14	6	1	Agent	13, 14, 18	"{""13"": [""churchill college""], ""14"": [""churchill college""], ""18"": [""churchill college""]}"
+2	2	2	9	4	1	Human	6, 9	"{""6"": [""reference number""], ""9"": [""reference number""]}"
+4	4	1	15	10	2	Human	10, 14, 15, 19	"{""10"": [""postcode""], ""14"": [""postcode""], ""15"": [""postcode""], ""19"": [""postcode""]}"
+4	2	1	11	10	1	Human	6, 9, 11, 15	"{""6"": [""number""], ""9"": [""number""], ""11"": [""number""], ""15"": [""number""]}"
+2	2	1	8	2	1	Agent	7, 8	"{""7"": [""tickets""], ""8"": [""ticket""]}"

@@ -1,0 +1,4 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	2	2	2	1	Agent	1, 2	"{""1"": [""particular area""], ""2"": [""particular area""]}"
+2	2	2	7	4	1	Human	4, 7	"{""4"": [""free parking""], ""7"": [""free parking""]}"
+3	1	1	4	5	1	Agent	3, 4, 7	"{""3"": [""parking""], ""4"": [""parking""], ""7"": [""parking""]}"

@@ -1,0 +1,13 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	2	4	3	1	Agent	3, 4, 5	"{""3"": [""fez club""], ""4"": [""fez club""], ""5"": [""fez club""]}"
+2	2	3	5	2	1	Human	4, 5	"{""4"": [""expensive chinese restaurant""], ""5"": [""expensive chinese restaurant""]}"
+3	1	2	7	4	1	Human	4, 5, 7	"{""4"": [""chinese restaurant""], ""5"": [""chinese restaurant""], ""7"": [""chinese restaurants""]}"
+4	4	1	11	4	1	Human	10, 11	"{""10"": [""reservation""], ""11"": [""reservation""]}"
+2	2	2	5	2	1	Human	4, 5	"{""4"": [""phone number""], ""5"": [""phone number""]}"
+4	1	1	9	6	1	Human	4, 5, 7, 9	"{""4"": [""restaurant""], ""5"": [""restaurant""], ""7"": [""restaurants""], ""9"": [""restaurants""]}"
+3	3	1	6	9	1	Agent	1, 6, 9	"{""1"": [""area""], ""6"": [""area""], ""9"": [""area""]}"
+3	1	1	13	10	1	Human	4, 5, 13	"{""4"": [""number""], ""5"": [""number""], ""13"": [""number""]}"
+2	2	1	1	2	1	Human	0, 1	"{""0"": [""attractions""], ""1"": [""attraction"", ""attractions""]}"
+2	2	1	1	2	1	Human	0, 1	"{""0"": [""cambridge""], ""1"": [""cambridge""]}"
+2	2	1	13	8	1	Human	6, 13	"{""6"": [""table""], ""13"": [""table""]}"
+2	2	1	15	2	1	Human	14, 15	"{""14"": [""taxi""], ""15"": [""taxi""]}"

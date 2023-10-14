@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	3	2	2	1	Agent	1, 2	"{""1"": [""type of food""], ""2"": [""type of food""]}"
+4	4	2	15	8	3	Human	8, 10, 14, 15	"{""8"": [""indian food""], ""10"": [""indian food""], ""14"": [""indian food""], ""15"": [""indian food""]}"
+3	3	2	12	5	1	Agent	11, 12, 15	"{""11"": [""saffron brasserie""], ""12"": [""saffron brasserie""], ""15"": [""saffron brasserie""]}"
+2	2	2	1	2	1	Human	0, 1, 4	"{""0"": [""nusha""], ""1"": [""nusha""], ""4"": [""nusha""]}"
+2	2	2	14	4	1	Agent	11, 14	"{""11"": [""italian food""], ""14"": [""italian food""]}"
+4	4	1	7	8	1	Human	6, 7, 12, 13	"{""6"": [""address""], ""7"": [""address""], ""12"": [""address""], ""13"": [""address""]}"
+5	5	1	1	12	1	Human	0, 1, 4, 9, 11	"{""0"": [""restaurant""], ""1"": [""restaurant""], ""4"": [""restaurant""], ""9"": [""restaurants""], ""11"": [""restaurant""]}"
+3	3	1	9	6	1	Human	8, 9, 13	"{""8"": [""center""], ""9"": [""centre""], ""13"": [""centre""]}"
+3	1	1	5	5	1	Agent	1, 2, 5	"{""1"": [""type""], ""2"": [""type""], ""5"": [""type""]}"
+2	2	1	7	2	1	Human	6, 7	"{""6"": [""postcode""], ""7"": [""postcode""]}"

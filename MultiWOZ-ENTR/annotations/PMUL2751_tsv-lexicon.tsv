@@ -1,0 +1,13 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	4	5	4	1	Human	2, 5	"{""2"": [""hotel in the west""], ""5"": [""hotels in the west""]}"
+3	3	1	12	3	1	Agent	11, 12, 13	"{""11"": [""east""], ""12"": [""east""], ""13"": [""east""]}"
+3	1	1	5	6	2	Human	0, 2, 5	"{""0"": [""hotel""], ""2"": [""hotel""], ""5"": [""hotels""]}"
+3	1	1	7	6	1	Human	2, 5	"{""2"": [""west""], ""5"": [""west""]}"
+2	2	1	11	12	1	Human	0, 11	"{""0"": [""North""], ""11"": [""north""]}"
+2	2	2	6	2	1	Agent	5, 6	"{""5"": [""cheap range""], ""6"": [""cheap range""]}"
+2	2	2	5	2	1	Human	4, 5	"{""4"": [""free parking""], ""5"": [""free parking""]}"
+2	2	1	11	4	1	Human	8, 11	"{""8"": [""town""], ""11"": [""town""]}"
+2	2	2	5	4	1	Human	2, 5	"{""2"": [""price range""], ""5"": [""price range""]}"
+2	2	2	7	2	1	Human	6, 7	"{""6"": [""reference number""], ""7"": [""reference number""]}"
+4	2	1	10	8	1	Human	4, 5, 10, 11	"{""4"": [""parking""], ""5"": [""parking""], ""10"": [""parks""], ""11"": [""parks""]}"
+2	2	1	13	2	1	Human	12, 13	"{""12"": [""postcode""], ""13"": [""postcode""]}"

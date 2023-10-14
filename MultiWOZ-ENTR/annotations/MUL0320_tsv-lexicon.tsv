@@ -1,0 +1,12 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	4	12	2	1	Agent	11, 12	"{""11"": [""european food in general""], ""12"": [""european food in general""]}"
+3	1	2	11	3	1	Human	10, 11, 12	"{""10"": [""european food""], ""11"": [""european food""], ""12"": [""european food""]}"
+2	2	2	7	4	1	Human	4, 7	"{""4"": [""8 tickets""], ""7"": [""8 tickets""]}"
+2	2	2	7	4	1	Human	4, 7	"{""4"": [""reference number""], ""7"": [""reference number""]}"
+3	3	1	9	3	1	Human	8, 9, 10	"{""8"": [""restaurant""], ""9"": [""restaurants""], ""10"": [""restaurant""]}"
+3	1	1	13	10	1	Human	4, 7, 13	"{""4"": [""number""], ""7"": [""number""], ""13"": [""number""]}"
+2	2	1	3	4	1	Human	0, 3	"{""0"": [""ely""], ""3"": [""ely""]}"
+2	2	1	13	4	1	Human	10, 13	"{""10"": [""phone""], ""13"": [""phone""]}"
+2	2	1	13	4	1	Human	10, 13	"{""10"": [""postcode""], ""13"": [""postcode""]}"
+2	2	1	2	2	1	Agent	1, 2	"{""1"": [""time""], ""2"": [""time""]}"
+2	2	1	3	4	1	Human	0, 3	"{""0"": [""train""], ""3"": [""train""]}"

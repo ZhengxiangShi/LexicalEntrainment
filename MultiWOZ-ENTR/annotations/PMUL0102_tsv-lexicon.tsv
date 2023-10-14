@@ -1,0 +1,6 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+7	7	1	12	11	3	Agent	13, 14, 15	"{""13"": [""booking""], ""14"": [""booking""], ""15"": [""booking""]}"
+2	2	3	4	2	1	Agent	3, 4, 11	"{""3"": [""reservation""], ""4"": [""reservation""], ""11"": [""reservation""]}"
+3	3	2	14	9	1	Agent	7, 14, 15	"{""7"": [""reference number""], ""14"": [""reference number""], ""15"": [""reference number""]}"
+2	2	2	1	2	1	Human	0, 1	"{""0"": [""chinese places""], ""1"": [""chinese places""]}"
+4	1	1	7	10	1	Human	6, 7, 14, 15	"{""6"": [""number""], ""7"": [""number""], ""14"": [""number""], ""15"": [""number""]}"

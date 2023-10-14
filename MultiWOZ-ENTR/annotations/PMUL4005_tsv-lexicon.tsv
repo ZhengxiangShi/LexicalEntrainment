@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	3	6	6	1	Agent	1, 6	"{""1"": [""center of town""], ""6"": [""centre of town""]}"
+3	3	2	8	6	1	Agent	7, 8, 12	"{""7"": [""christ's college""], ""8"": [""christ's college""], ""12"": [""christ's college""]}"
+3	3	1	1	13	1	Human	0, 1, 12	"{""0"": [""gandhi""], ""1"": [""gandhi""], ""12"": [""gandhi""]}"
+4	2	1	7	7	1	Human	6, 7, 8, 12	"{""6"": [""college""], ""7"": [""college""], ""8"": [""college""], ""12"": [""college""]}"
+4	4	1	8	11	1	Agent	3, 8, 9, 13	"{""3"": [""number""], ""8"": [""number""], ""9"": [""number""], ""13"": [""number""]}"
+3	3	1	1	13	1	Human	0, 1, 12	"{""0"": [""restaurant""], ""1"": [""restaurant""], ""12"": [""restaurant""]}"
+2	1	1	6	6	1	Agent	1, 6	"{""1"": [""centre"", ""center""], ""6"": [""centre""]}"
+2	2	1	9	2	1	Human	8, 9	"{""8"": [""entrance""], ""9"": [""entrance""]}"
+2	2	1	9	2	1	Human	8, 9	"{""8"": [""postcode""], ""9"": [""postcode""]}"
+2	2	1	13	4	1	Human	10, 13	"{""10"": [""taxi""], ""13"": [""taxi""]}"

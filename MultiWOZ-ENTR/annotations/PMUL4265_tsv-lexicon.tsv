@@ -1,0 +1,6 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	4	7	2	1	Human	6, 7	"{""6"": [""postcode for old schools""], ""7"": [""postcode for old schools""]}"
+3	3	1	1	3	1	Human	0, 1, 2	"{""0"": [""centre""], ""1"": [""centre""], ""2"": [""centre""]}"
+3	1	2	6	3	1	Agent	5, 6, 7	"{""5"": [""old schools""], ""6"": [""old schools""], ""7"": [""old schools""]}"
+4	1	1	6	5	2	Agent	3, 5, 6, 7	"{""3"": [""school""], ""5"": [""schools""], ""6"": [""schools""], ""7"": [""schools""]}"
+2	2	1	1	2	1	Human	0, 1	"{""0"": [""entertainment""], ""1"": [""entertainment""]}"

@@ -1,0 +1,8 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	3	8	3	1	Agent	7, 8, 9	"{""7"": [""saint barnabas press""], ""8"": [""saint barnabas press""], ""9"": [""saint barnabas press""]}"
+2	2	2	5	2	1	Human	4, 5	"{""4"": [""7 people""], ""5"": [""7 people""]}"
+2	2	1	7	2	1	Human	6, 7	"{""6"": [""east""], ""7"": [""east""]}"
+3	3	1	7	8	2	Human	0, 2, 7	"{""0"": [""cambridge""], ""2"": [""cambridge""], ""7"": [""cambridge"", ""cambridge""]}"
+3	3	1	7	6	1	Human	6, 7, 11	"{""6"": [""museum""], ""7"": [""museum"", ""museums""], ""11"": [""museum""]}"
+2	2	1	8	4	1	Agent	5, 8	"{""5"": [""number""], ""8"": [""number""]}"
+2	2	1	5	6	1	Human	0, 5	"{""0"": [""train""], ""5"": [""train""]}"

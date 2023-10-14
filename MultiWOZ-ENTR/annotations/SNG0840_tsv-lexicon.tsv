@@ -1,0 +1,9 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+4	4	2	5	13	2	Human	2, 4, 5, 14	"{""2"": [""4 stars""], ""4"": [""4 star""], ""5"": [""4 stars""], ""14"": [""4 star""]}"
+2	2	2	14	2	1	Agent	13, 14	"{""13"": [""three people""], ""14"": [""3 people""]}"
+2	2	2	11	2	1	Human	10, 11, 13	"{""10"": [""sunday""], ""11"": [""sunday""], ""13"": [""sunday""]}"
+7	7	1	1	16	1	Human	0, 1, 4, 9, 13, 14, 15	"{""0"": [""hotel""], ""1"": [""hotels""], ""4"": [""hotel""], ""9"": [""hotel""], ""13"": [""hotel""], ""14"": [""hotel""], ""15"": [""hotel""]}"
+5	5	1	9	11	2	Human	4, 6, 9, 12, 14	"{""4"": [""nights""], ""6"": [""nights""], ""9"": [""nights""], ""12"": [""nights""], ""14"": [""nights""]}"
+4	2	1	8	10	1	Agent	5, 8, 13, 14	"{""5"": [""people""], ""8"": [""people""], ""13"": [""people""], ""14"": [""people""]}"
+2	2	1	10	2	1	Agent	9, 10	"{""9"": [""arrival""], ""10"": [""arrival""]}"
+2	2	1	15	8	1	Human	8, 15	"{""8"": [""reference""], ""15"": [""reference""]}"

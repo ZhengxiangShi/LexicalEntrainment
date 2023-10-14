@@ -1,0 +1,9 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	1	4	3	1	Agent	4, 5	"{""4"": [""preference""], ""5"": [""preference""]}"
+2	2	2	12	2	1	Agent	11, 12	"{""11"": [""university arms""], ""12"": [""university arms""]}"
+3	3	2	7	8	2	Human	0, 6, 7	"{""0"": [""5 star""], ""6"": [""5 star""], ""7"": [""5 stars""]}"
+8	8	1	11	16	4	Human	0, 4, 8, 10, 11, 12, 13, 15	"{""0"": [""hotel""], ""4"": [""hotel""], ""8"": [""hotel""], ""10"": [""hotel""], ""11"": [""hotel""], ""12"": [""hotel""], ""13"": [""hotel""], ""15"": [""hotel""]}"
+7	4	1	7	13	3	Human	0, 4, 6, 7, 8, 10, 12	"{""0"": [""star""], ""4"": [""star""], ""6"": [""star""], ""7"": [""stars""], ""8"": [""star""], ""10"": [""star""], ""12"": [""star""]}"
+3	3	1	3	12	1	Human	2, 3, 13	"{""2"": [""area""], ""3"": [""area""], ""13"": [""area""]}"
+3	3	1	15	3	1	Human	14, 15, 16	"{""14"": [""nights""], ""15"": [""night""], ""16"": [""nights""]}"
+2	2	1	6	2	1	Agent	5, 6	"{""5"": [""places""], ""6"": [""place""]}"

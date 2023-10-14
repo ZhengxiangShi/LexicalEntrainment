@@ -1,0 +1,4 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	2	8	6	1	Agent	3, 8	"{""3"": [""cambridge artworks""], ""8"": [""cambridge artworks""]}"
+3	2	1	8	13	1	Agent	3, 8, 15	"{""3"": [""cambridge""], ""8"": [""cambridge""], ""15"": [""cambridge""]}"
+2	2	1	7	4	1	Human	4, 7	"{""4"": [""food""], ""7"": [""food""]}"

@@ -1,0 +1,5 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+4	4	2	3	6	1	Human	2, 3, 4, 7	"{""2"": [""royal spice""], ""3"": [""royal spice""], ""4"": [""royal spice""], ""7"": [""royal spice""]}"
+3	3	1	4	5	1	Agent	1, 4, 5	"{""1"": [""food""], ""4"": [""food""], ""5"": [""food""]}"
+2	2	1	7	2	1	Human	6, 7	"{""6"": [""postcode""], ""7"": [""postcode""]}"
+2	2	1	7	2	1	Human	6, 7	"{""6"": [""area""], ""7"": [""area""]}"

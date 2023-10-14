@@ -1,0 +1,6 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	3	2	2	1	Agent	1, 2	"{""1"": [""cambridge police station""], ""2"": [""cambridge police station""]}"
+2	2	3	2	2	1	Agent	1, 2	"{""1"": [""contact the parkside""], ""2"": [""contact the parkside""]}"
+3	1	2	5	5	1	Agent	1, 2, 5	"{""1"": [""police station""], ""2"": [""police station""], ""5"": [""police station""]}"
+2	2	1	5	5	1	Agent	1, 2, 5	"{""1"": [""parkside""], ""2"": [""parkside""], ""5"": [""parkside""]}"
+3	1	1	5	5	1	Agent	1, 2, 5	"{""1"": [""cambridge""], ""2"": [""cambridge""], ""5"": [""cambridge""]}"

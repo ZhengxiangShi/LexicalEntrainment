@@ -1,0 +1,9 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	2	9	4	1	Human	6, 9	"{""6"": [""guest houses""], ""9"": [""guest house""]}"
+2	2	1	5	4	1	Human	2, 5	"{""2"": [""centre""], ""5"": [""centre""]}"
+7	7	1	2	12	1	Agent	1, 2, 3, 4, 5, 11, 12	"{""1"": [""hotels""], ""2"": [""hotel""], ""3"": [""hotel""], ""4"": [""hotels""], ""5"": [""hotel""], ""11"": [""hotel""], ""12"": [""hotel""]}"
+4	4	1	14	14	3	Agent	1, 3, 13, 14	"{""1"": [""area""], ""3"": [""areas""], ""13"": [""area""], ""14"": [""area""]}"
+4	4	1	7	9	2	Human	0, 2, 7, 8	"{""0"": [""star""], ""2"": [""star""], ""7"": [""star""], ""8"": [""star""]}"
+3	3	1	15	18	1	Human	0, 15, 17	"{""0"": [""lodging""], ""15"": [""lodge""], ""17"": [""lodge""]}"
+2	2	1	13	6	1	Human	8, 13	"{""8"": [""care""], ""13"": [""care""]}"
+2	2	1	17	2	1	Human	16, 17	"{""16"": [""day""], ""17"": [""day""]}"

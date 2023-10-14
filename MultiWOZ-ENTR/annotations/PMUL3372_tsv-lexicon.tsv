@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	2	11	6	2	Human	6, 10, 11	"{""6"": [""four people""], ""10"": [""4 people""], ""11"": [""4 people""]}"
+3	3	2	7	6	1	Human	6, 7, 11	"{""6"": [""reference number""], ""7"": [""reference number""], ""11"": [""reference number""]}"
+4	4	1	9	4	1	Human	8, 9, 11	"{""8"": [""reservations""], ""9"": [""reservation""], ""11"": [""reservation""]}"
+2	2	2	11	4	1	Human	8, 11	"{""8"": [""thanh binh""], ""11"": [""thanh binh""]}"
+4	1	1	9	6	1	Human	6, 9, 10, 11	"{""6"": [""people""], ""9"": [""people""], ""10"": [""people""], ""11"": [""people""]}"
+4	4	1	3	7	1	Human	0, 3, 5, 6	"{""0"": [""train""], ""3"": [""trains""], ""5"": [""trains""], ""6"": [""train""]}"
+3	3	1	4	7	1	Agent	3, 4, 9	"{""3"": [""time""], ""4"": [""times""], ""9"": [""time""]}"
+3	3	1	11	10	2	Human	2, 10, 11	"{""2"": [""tuesday""], ""10"": [""tuesday""], ""11"": [""tuesday""]}"
+2	2	1	7	2	1	Human	6, 7	"{""6"": [""booking""], ""7"": [""booking""]}"
+2	2	1	3	4	1	Human	0, 3	"{""0"": [""cambridge""], ""3"": [""cambridge""]}"

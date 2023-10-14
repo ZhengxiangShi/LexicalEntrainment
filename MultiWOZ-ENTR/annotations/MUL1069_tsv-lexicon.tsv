@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	2	12	11	1	Agent	3, 12, 13	"{""3"": [""el shaddai""], ""12"": [""el shaddai""], ""13"": [""el shaddai""]}"
+3	3	1	7	4	1	Human	6, 7, 9	"{""6"": [""south""], ""7"": [""south""], ""9"": [""south""]}"
+4	4	1	9	14	1	Human	0, 9, 13	"{""0"": [""place""], ""9"": [""place""], ""13"": [""place""]}"
+4	4	1	5	8	1	Human	4, 5, 10, 11	"{""4"": [""postcode""], ""5"": [""postcode""], ""10"": [""postcode""], ""11"": [""postcode""]}"
+2	2	2	1	2	1	Human	0, 1	"{""0"": [""0 stars""], ""1"": [""0 star""]}"
+2	2	2	7	2	1	Human	6, 7	"{""6"": [""swimming pools""], ""7"": [""swimming pools""]}"
+3	3	1	9	5	1	Human	8, 9, 12	"{""8"": [""nightclubs""], ""9"": [""nightclub""], ""12"": [""nightclub""]}"
+3	3	1	5	10	1	Human	4, 5, 13	"{""4"": [""number""], ""5"": [""number""], ""13"": [""number""]}"
+2	2	1	5	2	1	Human	4, 5	"{""4"": [""address""], ""5"": [""address""]}"
+2	2	1	8	2	1	Agent	7, 8	"{""7"": [""area""], ""8"": [""area""]}"

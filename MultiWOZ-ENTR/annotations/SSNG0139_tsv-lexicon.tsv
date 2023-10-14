@@ -1,0 +1,9 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	6	1	2	1	Human	0, 1	"{""0"": [""restaurant in the centre of town""], ""1"": [""restaurants in the center of town""]}"
+2	2	4	11	10	1	Human	2, 11	"{""2"": [""restaurants in the city""], ""11"": [""restaurant in the city""]}"
+4	2	1	5	10	1	Human	2, 5, 7, 11	"{""2"": [""city""], ""5"": [""city""], ""7"": [""city""], ""11"": [""city""]}"
+2	2	2	1	2	1	Human	0, 1	"{""0"": [""kosher food""], ""1"": [""kosher food""]}"
+6	2	1	4	12	1	Human	0, 1, 2, 4, 9, 11	"{""0"": [""restaurant""], ""1"": [""restaurants""], ""2"": [""restaurants""], ""4"": [""restaurant""], ""9"": [""restaurant""], ""11"": [""restaurant""]}"
+4	2	1	7	12	1	Human	0, 1, 7, 11	"{""0"": [""centre""], ""1"": [""center""], ""7"": [""center""], ""11"": [""center""]}"
+3	1	1	4	5	1	Human	0, 1, 4	"{""0"": [""food""], ""1"": [""food""], ""4"": [""food""]}"
+2	2	1	10	6	1	Agent	5, 10	"{""5"": [""range""], ""10"": [""range""]}"

@@ -1,0 +1,9 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	3	12	5	1	Agent	9, 11, 12, 13	"{""9"": [""room""], ""11"": [""room""], ""12"": [""room""], ""13"": [""room""]}"
+3	3	1	4	5	1	Agent	3, 4, 7	"{""3"": [""table""], ""4"": [""table""], ""7"": [""table""]}"
+2	2	2	11	2	1	Human	10, 11	"{""10"": [""free parking""], ""11"": [""free parking""]}"
+2	2	2	15	2	1	Human	14, 15	"{""14"": [""phone number""], ""15"": [""phone number""]}"
+6	6	1	16	10	3	Agent	9, 13, 15, 16, 17, 18	"{""9"": [""hotel""], ""13"": [""hotel""], ""15"": [""hotel's""], ""16"": [""hotel""], ""17"": [""hotel""], ""18"": [""hotel""]}"
+6	4	1	14	17	1	Agent	7, 14, 15, 20, 21, 23	"{""7"": [""number""], ""14"": [""number""], ""15"": [""number""], ""20"": [""number""], ""21"": [""number""], ""23"": [""number""]}"
+5	5	1	16	8	4	Agent	9, 11, 13, 15, 16	"{""9"": [""lensfield""], ""11"": [""lensfield""], ""13"": [""lensfield""], ""15"": [""lensfield""], ""16"": [""lensfield""]}"
+2	2	1	22	18	1	Agent	5, 22	"{""5"": [""time""], ""22"": [""time""]}"

@@ -1,0 +1,13 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	3	3	2	1	Human	2, 3	"{""2"": [""cambridge on thursday""], ""3"": [""cambridge on thursday""]}"
+3	3	1	13	8	1	Human	10, 13, 17	"{""10"": [""centre""], ""13"": [""centre""], ""17"": [""centre""]}"
+2	2	3	13	2	1	Human	12, 13	"{""12"": [""british food""], ""13"": [""british food""]}"
+4	4	2	7	4	1	Human	6, 7, 8, 9	"{""6"": [""two tickets""], ""7"": [""2 tickets""], ""8"": [""two tickets""], ""9"": [""two tickets""]}"
+3	3	2	1	4	1	Human	0, 1, 3	"{""0"": [""bishops stortford""], ""1"": [""bishops stortford""], ""3"": [""bishops stortford""]}"
+2	2	2	15	2	1	Human	14, 15	"{""14"": [""phone number""], ""15"": [""phone number""]}"
+4	2	1	5	16	1	Human	2, 3, 5, 17	"{""2"": [""cambridge""], ""3"": [""cambridge""], ""5"": [""cambridge""], ""17"": [""cambridge""]}"
+4	2	1	11	4	1	Human	10, 11, 12, 13	"{""10"": [""food""], ""11"": [""food""], ""12"": [""food""], ""13"": [""food""]}"
+3	1	1	14	7	1	Agent	9, 14, 15	"{""9"": [""number""], ""14"": [""number""], ""15"": [""number""]}"
+3	3	1	12	3	1	Agent	11, 12, 13	"{""11"": [""restaurants""], ""12"": [""restaurants""], ""13"": [""restaurants""]}"
+2	2	1	15	2	1	Human	14, 15	"{""14"": [""postcode""], ""15"": [""postcode""]}"
+2	2	1	3	4	1	Human	0, 3	"{""0"": [""trains""], ""3"": [""trains""]}"

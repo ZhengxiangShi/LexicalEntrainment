@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	3	15	16	2	Human	0, 14, 15	"{""0"": [""train to stevenage""], ""14"": [""train to stevenage""], ""15"": [""train to stevenage""]}"
+4	4	1	7	12	1	Human	6, 7, 16, 17	"{""6"": [""price""], ""7"": [""prices""], ""16"": [""price""], ""17"": [""price""]}"
+3	3	2	13	10	1	Human	10, 13, 19	"{""10"": [""reference number""], ""13"": [""reference number""], ""19"": [""reference number""]}"
+3	3	2	21	16	2	Human	6, 20, 21	"{""6"": [""train id""], ""20"": [""train id""], ""21"": [""train id""]}"
+2	2	2	11	2	1	Human	10, 11	"{""10"": [""expensive welsh""], ""11"": [""expensive welsh""]}"
+3	3	1	9	4	1	Human	8, 9, 11	"{""8"": [""restaurant""], ""9"": [""restaurants""], ""11"": [""restaurants""]}"
+9	9	1	1	22	1	Human	0, 1, 3, 5, 6, 12, 13, 14, 15, 16, 18, 20, 21	"{""0"": [""train""], ""1"": [""trains""], ""3"": [""trains""], ""5"": [""train""], ""6"": [""train""], ""12"": [""train""], ""13"": [""train""], ""14"": [""train""], ""15"": [""train""], ""16"": [""train""], ""18"": [""train""], ""20"": [""train""], ""21"": [""train""]}"
+5	5	1	4	12	1	Agent	3, 4, 5, 8, 14	"{""3"": [""time""], ""4"": [""time""], ""5"": [""time""], ""8"": [""time""], ""14"": [""time""]}"
+4	1	1	21	12	1	Human	10, 13, 19, 21	"{""10"": [""number""], ""13"": [""number""], ""19"": [""number""], ""21"": [""number""]}"
+3	3	1	9	11	1	Human	0, 9, 10	"{""0"": [""food""], ""9"": [""food""], ""10"": [""food""]}"

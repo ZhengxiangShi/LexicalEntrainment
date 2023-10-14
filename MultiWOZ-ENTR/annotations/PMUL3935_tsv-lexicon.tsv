@@ -1,0 +1,6 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+4	4	1	1	6	1	Human	0, 1, 5	"{""0"": [""train""], ""1"": [""trains""], ""5"": [""train""]}"
+5	5	1	9	14	3	Human	0, 2, 8, 9, 13	"{""0"": [""cambridge""], ""2"": [""cambridge""], ""8"": [""cambridge""], ""9"": [""cambridge""], ""13"": [""cambridge""]}"
+2	2	2	7	2	1	Human	6, 7	"{""6"": [""reference number""], ""7"": [""reference number""]}"
+3	1	1	10	5	1	Human	6, 7, 10	"{""6"": [""number""], ""7"": [""number""], ""10"": [""number""]}"
+2	2	1	9	2	1	Human	8, 9	"{""8"": [""architecture""], ""9"": [""architecture""]}"

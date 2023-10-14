@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	5	1	2	1	Human	0, 1	"{""0"": [""sports attraction in the north""], ""1"": [""sports attractions in the north""]}"
+5	3	1	9	12	1	Human	0, 1, 9, 10, 11	"{""0"": [""north""], ""1"": [""north""], ""9"": [""north""], ""10"": [""north""], ""11"": [""north""]}"
+4	4	2	5	10	1	Human	4, 5, 11, 13	"{""4"": [""phone number""], ""5"": [""phone number""], ""11"": [""phone number""], ""13"": [""phone number""]}"
+3	3	2	7	4	1	Human	6, 7, 9	"{""6"": [""chinese restaurant""], ""7"": [""chinese restaurants""], ""9"": [""chinese restaurants""]}"
+2	2	1	17	2	1	Human	16, 17	"{""16"": [""taxi""], ""17"": [""taxi""]}"
+6	2	1	15	14	1	Human	4, 5, 11, 13, 15, 17	"{""4"": [""number""], ""5"": [""number""], ""11"": [""number""], ""13"": [""number""], ""15"": [""number""], ""17"": [""number""]}"
+5	5	1	3	15	1	Human	2, 3, 8, 10, 16	"{""2"": [""pool""], ""3"": [""pool""], ""8"": [""pool""], ""10"": [""pool""], ""16"": [""pool""]}"
+4	1	1	16	11	1	Human	6, 7, 9, 16	"{""6"": [""restaurant""], ""7"": [""restaurants""], ""9"": [""restaurants""], ""16"": [""restaurant""]}"
+2	2	1	16	2	1	Agent	15, 16	"{""15"": [""reservations""], ""16"": [""reservation""]}"
+2	2	1	16	16	1	Agent	1, 16	"{""1"": [""time""], ""16"": [""time""]}"

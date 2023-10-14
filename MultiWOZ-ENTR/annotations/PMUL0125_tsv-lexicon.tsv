@@ -1,0 +1,13 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	3	8	8	2	Agent	1, 5, 8	"{""1"": [""moderate price range""], ""5"": [""moderate price range""], ""8"": [""moderate price range""]}"
+4	4	2	5	8	1	Human	2, 5, 8, 9	"{""2"": [""4 star""], ""5"": [""4 stars""], ""8"": [""4 star""], ""9"": [""4 star""]}"
+3	3	2	13	3	1	Human	12, 13, 14	"{""12"": [""india house""], ""13"": [""india house""], ""14"": [""india house""]}"
+2	2	3	13	2	1	Human	12, 13	"{""12"": [""table for 1""], ""13"": [""table for 1""]}"
+3	3	1	13	4	2	Human	10, 12, 13	"{""10"": [""thursday""], ""12"": [""thursday""], ""13"": [""thursday""]}"
+5	2	2	1	10	1	Human	1, 5, 8	"{""1"": [""moderate price""], ""5"": [""moderate price""], ""8"": [""moderate price""]}"
+4	1	2	8	8	3	Agent	1, 5, 7, 8	"{""1"": [""price range""], ""5"": [""price range""], ""7"": [""price range""], ""8"": [""price range""]}"
+4	4	1	1	9	1	Human	0, 1, 2, 8	"{""0"": [""place""], ""1"": [""place""], ""2"": [""place""], ""8"": [""place""]}"
+3	3	1	4	7	1	Agent	1, 4, 7	"{""1"": [""hotels""], ""4"": [""hotel""], ""7"": [""hotels""]}"
+2	2	1	4	2	1	Agent	3, 4	"{""3"": [""area""], ""4"": [""area""]}"
+2	2	1	14	6	1	Agent	9, 14	"{""9"": [""avalon""], ""14"": [""avalon""]}"
+2	1	1	13	2	1	Human	12, 13	"{""12"": [""table""], ""13"": [""table""]}"

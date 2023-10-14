@@ -1,0 +1,12 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	4	5	4	1	Human	2, 5	"{""2"": [""hotel in the north""], ""5"": [""hotels in the north""]}"
+3	1	1	11	10	1	Human	2, 5, 11	"{""2"": [""north""], ""5"": [""north""], ""11"": [""north""]}"
+3	3	1	5	7	1	Human	0, 5, 6	"{""0"": [""guesthouse""], ""5"": [""guesthouse""], ""6"": [""guesthouse""]}"
+2	2	2	11	2	1	Human	10, 11	"{""10"": [""chinese restaurant""], ""11"": [""chinese restaurants""]}"
+2	2	2	5	2	1	Human	4, 5	"{""4"": [""4 stars""], ""5"": [""4 star""]}"
+2	2	2	15	2	1	Human	14, 15	"{""14"": [""phone number""], ""15"": [""phone number""]}"
+2	2	1	15	2	1	Human	14, 15	"{""14"": [""postcode""], ""15"": [""postcode""]}"
+2	2	1	20	2	1	Agent	19, 20	"{""19"": [""restaurant""], ""20"": [""restaurant""]}"
+8	6	1	1	21	1	Human	0, 1, 2, 3, 5, 10, 18, 20	"{""0"": [""hotel""], ""1"": [""hotels""], ""2"": [""hotel""], ""3"": [""hotels"", ""hotel""], ""5"": [""hotels""], ""10"": [""hotel""], ""18"": [""hotel""], ""20"": [""hotel""]}"
+4	2	1	14	15	1	Agent	9, 14, 15, 23	"{""9"": [""number""], ""14"": [""number""], ""15"": [""number""], ""23"": [""number""]}"
+2	1	1	5	2	1	Human	4, 5	"{""4"": [""stars""], ""5"": [""star""]}"

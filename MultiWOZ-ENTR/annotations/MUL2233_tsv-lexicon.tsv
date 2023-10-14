@@ -1,0 +1,10 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	4	10	3	1	Agent	9, 10, 11	"{""9"": [""alexander bed and breakfast""], ""10"": [""alexander bed and breakfast""], ""11"": [""alexander bed and breakfast""]}"
+3	3	2	11	3	1	Human	10, 11, 12	"{""10"": [""price range""], ""11"": [""price range""], ""12"": [""price range""]}"
+3	3	1	12	7	1	Agent	7, 12, 13	"{""7"": [""hotel""], ""12"": [""hotel""], ""13"": [""hotel""]}"
+2	2	2	5	2	1	Human	4, 5	"{""4"": [""5 people""], ""5"": [""5 people""]}"
+2	2	2	15	2	1	Human	14, 15	"{""14"": [""phone number""], ""15"": [""phone number""]}"
+2	2	2	5	2	1	Human	4, 5	"{""4"": [""reference number""], ""5"": [""reference number""]}"
+2	2	1	15	2	1	Human	14, 15	"{""14"": [""postcode""], ""15"": [""postcode""]}"
+3	3	1	8	7	1	Agent	7, 8, 13	"{""7"": [""guesthouses""], ""8"": [""guesthouse""], ""13"": [""guesthouses""]}"
+3	3	1	8	5	1	Agent	7, 8, 11	"{""7"": [""rooms""], ""8"": [""rooms""], ""11"": [""room""]}"

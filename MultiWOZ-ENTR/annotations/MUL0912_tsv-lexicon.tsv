@@ -1,0 +1,13 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	3	18	2	1	Agent	5, 6, 7, 13, 17, 18	"{""5"": [""nusha""], ""6"": [""nusha""], ""7"": [""nusha""], ""13"": [""nusha""], ""17"": [""nusha""], ""18"": [""nusha""]}"
+2	2	2	21	6	1	Human	16, 21	"{""16"": [""contact number""], ""21"": [""contact number""]}"
+2	2	2	7	2	1	Human	6, 7	"{""6"": [""entrance fee""], ""7"": [""entrance fee""]}"
+2	2	2	7	2	1	Human	6, 7	"{""6"": [""phone number""], ""7"": [""phone number""]}"
+3	3	2	16	8	2	Agent	9, 13, 16	"{""9"": [""taj tandoori""], ""13"": [""taj tandoori""], ""16"": [""taj tandoori""]}"
+3	3	1	17	6	2	Human	12, 16, 17	"{""12"": [""taxi""], ""16"": [""taxi""], ""17"": [""taxi""]}"
+5	1	1	11	16	1	Human	6, 7, 11, 16, 21	"{""6"": [""number""], ""7"": [""number""], ""11"": [""number""], ""16"": [""number""], ""21"": [""number""]}"
+4	4	1	9	15	2	Human	0, 2, 9, 14	"{""0"": [""place""], ""2"": [""place""], ""9"": [""place""], ""14"": [""places""]}"
+3	3	1	8	7	1	Agent	3, 8, 9	"{""3"": [""area""], ""8"": [""area""], ""9"": [""area""]}"
+3	3	1	5	5	1	Human	4, 5, 8	"{""4"": [""attractions""], ""5"": [""attractions""], ""8"": [""attraction""]}"
+2	2	1	21	22	1	Human	0, 21	"{""0"": [""help""], ""21"": [""help""]}"
+2	2	1	3	2	1	Human	2, 3	"{""2"": [""pool""], ""3"": [""pools""]}"

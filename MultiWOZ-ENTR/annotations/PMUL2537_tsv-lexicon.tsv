@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	2	1	2	1	Human	0, 1	"{""0"": [""lensfield hotel""], ""1"": [""lensfield hotel""]}"
+2	2	2	11	2	1	Human	10, 11	"{""10"": [""entrance fee""], ""11"": [""entrance fee""]}"
+3	3	1	7	3	1	Human	6, 7, 8	"{""6"": [""town""], ""7"": [""town""], ""8"": [""town""]}"
+2	2	2	11	2	1	Human	10, 11	"{""10"": [""phone number""], ""11"": [""phone number""]}"
+2	2	2	5	4	1	Human	2, 5	"{""2"": [""reference number""], ""5"": [""reference number""]}"
+2	2	1	12	6	1	Agent	7, 12	"{""7"": [""hotel""], ""12"": [""hotel""]}"
+5	1	1	15	14	1	Human	2, 5, 10, 11, 15	"{""2"": [""number""], ""5"": [""number""], ""10"": [""number""], ""11"": [""number""], ""15"": [""number""]}"
+3	3	1	9	5	1	Human	8, 9, 12	"{""8"": [""theatre""], ""9"": [""theatre""], ""12"": [""theater"", ""theatre""]}"
+2	1	1	1	2	1	Human	0, 1	"{""0"": [""lensfield""], ""1"": [""lensfield""]}"
+2	2	1	15	4	1	Human	12, 15	"{""12"": [""taxi""], ""15"": [""taxi""]}"

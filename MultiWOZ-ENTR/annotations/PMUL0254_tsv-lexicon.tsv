@@ -1,0 +1,12 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	3	13	14	1	Human	0, 13	"{""0"": [""centre of town""], ""13"": [""centre of town""]}"
+3	3	1	3	16	1	Human	0, 3, 10, 13	"{""0"": [""centre""], ""3"": [""center""], ""10"": [""centre""], ""13"": [""centre""]}"
+2	2	3	15	8	1	Human	0, 8, 15	"{""0"": [""place""], ""8"": [""place""], ""15"": [""place""]}"
+2	2	2	17	2	1	Human	16, 17	"{""16"": [""contact number""], ""17"": [""contact number""]}"
+3	3	2	10	10	2	Agent	1, 9, 10	"{""1"": [""price range""], ""9"": [""price range""], ""10"": [""price range""]}"
+2	2	1	13	2	1	Human	12, 13	"{""12"": [""americas""], ""13"": [""americas""]}"
+3	3	1	10	5	1	Agent	9, 10, 13	"{""9"": [""area""], ""10"": [""area""], ""13"": [""area""]}"
+3	1	1	16	11	1	Agent	7, 16, 17	"{""7"": [""number""], ""16"": [""number""], ""17"": [""number""]}"
+2	2	1	13	2	1	Human	12, 13	"{""12"": [""food""], ""13"": [""food""]}"
+2	2	1	10	8	1	Agent	3, 10	"{""3"": [""guesthouse""], ""10"": [""guesthouse""]}"
+2	2	1	13	2	1	Human	12, 13	"{""12"": [""restaurant""], ""13"": [""restaurants""]}"

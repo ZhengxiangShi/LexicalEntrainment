@@ -1,0 +1,9 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	3	14	14	2	Agent	1, 3, 14	"{""1"": [""huntingdon marriott hotel""], ""3"": [""huntingdon marriott hotel""], ""14"": [""huntingdon marriott hotel""]}"
+2	2	1	3	2	1	Human	2, 3	"{""2"": [""west""], ""3"": [""west""]}"
+3	3	2	14	6	2	Agent	9, 11, 14	"{""9"": [""girton college""], ""11"": [""girton college""], ""14"": [""girton college""]}"
+2	2	2	3	2	1	Human	2, 3	"{""2"": [""free parking""], ""3"": [""free parking""]}"
+2	2	2	7	2	1	Human	6, 7	"{""6"": [""1 night""], ""7"": [""one night""]}"
+4	2	1	1	15	1	Human	0, 1, 3, 14	"{""0"": [""hotel""], ""1"": [""hotels"", ""hotel""], ""3"": [""hotel""], ""14"": [""hotel""]}"
+4	1	1	14	14	3	Agent	1, 3, 11, 14	"{""1"": [""huntingdon""], ""3"": [""huntingdon""], ""11"": [""huntingdon""], ""14"": [""huntingdon""]}"
+3	1	1	7	4	2	Human	4, 6, 7	"{""4"": [""nights""], ""6"": [""night""], ""7"": [""night""]}"

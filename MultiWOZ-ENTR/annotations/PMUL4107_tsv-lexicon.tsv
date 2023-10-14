@@ -1,0 +1,8 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	4	11	6	2	Human	6, 10, 11	"{""6"": [""jesus green outdoor pool""], ""10"": [""jesus green outdoor pool""], ""11"": [""jesus green outdoor pool""]}"
+2	2	3	7	6	1	Human	0, 2, 4, 7	"{""0"": [""cambridge""], ""2"": [""cambridge""], ""4"": [""cambridge""], ""7"": [""cambridge""]}"
+2	2	3	1	2	1	Human	0, 1, 7	"{""0"": [""train""], ""1"": [""train""], ""7"": [""train""]}"
+2	2	2	6	2	1	Agent	5, 6	"{""5"": [""something earlier""], ""6"": [""something earlier""]}"
+2	2	1	11	2	1	Human	10, 11	"{""10"": [""address""], ""11"": [""address""]}"
+2	2	1	7	4	1	Human	4, 7	"{""4"": [""broxbourne""], ""7"": [""broxbourne""]}"
+2	2	1	11	6	1	Human	6, 11	"{""6"": [""info""], ""11"": [""information""]}"

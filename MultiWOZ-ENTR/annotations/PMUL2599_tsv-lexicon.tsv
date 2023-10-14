@@ -1,0 +1,12 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	3	5	2	1	Human	4, 5	"{""4"": [""moderate price range""], ""5"": [""moderate price range""]}"
+4	4	1	11	14	2	Human	2, 6, 11, 15	"{""2"": [""centre""], ""6"": [""centre""], ""11"": [""centre""], ""15"": [""centre""]}"
+6	6	1	1	11	1	Human	0, 1, 2, 3, 5, 7, 10	"{""0"": [""hotel""], ""1"": [""hotels""], ""2"": [""hotels""], ""3"": [""hotels""], ""5"": [""hotels""], ""7"": [""hotel""], ""10"": [""hotel""]}"
+2	2	2	9	2	1	Human	8, 9	"{""8"": [""reference number""], ""9"": [""reference number""]}"
+2	2	2	3	4	1	Human	0, 3	"{""0"": [""star hotel""], ""3"": [""star hotels""]}"
+5	5	1	6	11	1	Agent	5, 6, 10, 11, 15	"{""5"": [""area""], ""6"": [""area""], ""10"": [""area""], ""11"": [""area""], ""15"": [""areas""]}"
+4	4	1	11	6	1	Human	10, 11, 14, 15	"{""10"": [""entertainment""], ""11"": [""entertainment""], ""14"": [""entertainment""], ""15"": [""entertainment""]}"
+4	2	1	1	4	1	Human	0, 1, 2, 3	"{""0"": [""star""], ""1"": [""stars""], ""2"": [""star""], ""3"": [""star""]}"
+3	3	1	13	8	1	Human	10, 13, 17	"{""10"": [""options""], ""13"": [""options""], ""17"": [""options""]}"
+3	3	1	8	3	1	Agent	7, 8, 9	"{""7"": [""reservations""], ""8"": [""reservation""], ""9"": [""reservations""]}"
+2	2	1	21	2	1	Human	20, 21	"{""20"": [""day""], ""21"": [""day""]}"

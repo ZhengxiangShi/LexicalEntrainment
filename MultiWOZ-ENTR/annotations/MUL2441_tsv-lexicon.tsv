@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	2	2	3	1	Agent	1, 2, 3	"{""1"": [""price range""], ""2"": [""price range""], ""3"": [""price range""]}"
+2	2	3	8	2	1	Agent	7, 8	"{""7"": [""able""], ""8"": [""able""]}"
+3	3	1	11	12	1	Human	2, 11, 13	"{""2"": [""centre""], ""11"": [""centre""], ""13"": [""centre""]}"
+3	3	2	1	6	1	Human	0, 1, 5	"{""0"": [""british food""], ""1"": [""british food""], ""5"": [""british food""]}"
+4	1	1	5	5	1	Agent	1, 2, 3	"{""1"": [""price""], ""2"": [""price""], ""3"": [""price""]}"
+2	2	1	13	2	1	Human	12, 13	"{""12"": [""address""], ""13"": [""address""]}"
+2	2	1	11	2	1	Human	10, 11	"{""10"": [""area""], ""11"": [""area""]}"
+2	2	1	5	2	1	Human	4, 5	"{""4"": [""favorite""], ""5"": [""favorite""]}"
+2	2	1	13	2	1	Human	12, 13	"{""12"": [""postcode""], ""13"": [""postcode""]}"
+2	2	1	11	2	1	Human	10, 11	"{""10"": [""theater""], ""11"": [""theatre""]}"

@@ -1,0 +1,5 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	5	1	2	1	Human	0, 1	"{""0"": [""nightclub on the west side""], ""1"": [""nightclubs on the west side""]}"
+2	2	4	3	2	1	Human	2, 3	"{""2"": [""museums in the west""], ""3"": [""museums in the west""]}"
+2	2	2	6	2	1	Agent	5, 6	"{""5"": [""kettles yard""], ""6"": [""kettles yard""]}"
+2	2	1	7	2	1	Human	6, 7	"{""6"": [""postcode""], ""7"": [""postcode""]}"

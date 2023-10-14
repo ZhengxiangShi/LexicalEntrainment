@@ -1,0 +1,12 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	4	1	15	1	Human	0, 1, 14	"{""0"": [""man on the moon""], ""1"": [""man on the moon""], ""14"": [""man on the moon""]}"
+2	2	2	5	2	1	Human	4, 5	"{""4"": [""vegetarian restaurants""], ""5"": [""vegetarian restaurants""]}"
+2	2	2	6	2	1	Agent	5, 6	"{""5"": [""centre area""], ""6"": [""centre area""]}"
+3	3	3	9	7	1	Human	8, 9, 14	"{""8"": [""frankie and bennys""], ""9"": [""frankie and bennys""], ""14"": [""frankie and benny's""]}"
+2	2	2	15	2	1	Human	14, 15	"{""14"": [""contact number""], ""15"": [""contact number""]}"
+2	2	1	13	4	1	Human	10, 13	"{""10"": [""friday""], ""13"": [""friday""]}"
+5	3	1	7	6	1	Human	4, 5, 7, 8, 9	"{""4"": [""restaurants""], ""5"": [""restaurants""], ""7"": [""restaurants""], ""8"": [""restaurant""], ""9"": [""restaurant""]}"
+4	2	1	14	15	2	Agent	1, 13, 14, 15	"{""1"": [""number""], ""13"": [""number""], ""14"": [""number""], ""15"": [""number""]}"
+3	3	1	12	7	1	Agent	11, 12, 17	"{""11"": [""day""], ""12"": [""day""], ""17"": [""day""]}"
+2	2	1	15	2	1	Human	14, 15	"{""14"": [""car""], ""15"": [""car""]}"
+2	2	1	13	4	1	Human	10, 13	"{""10"": [""table""], ""13"": [""table""]}"

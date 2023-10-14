@@ -1,0 +1,13 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	2	21	2	1	Human	20, 21	"{""20"": [""train id""], ""21"": [""train id""]}"
+2	2	4	5	6	1	Human	0, 1, 2, 5, 6, 11, 19, 20, 24, 26	"{""0"": [""hotel""], ""1"": [""hotels""], ""2"": [""hotel""], ""5"": [""hotel""], ""6"": [""hotels""], ""11"": [""hotel""], ""19"": [""hotel""], ""20"": [""hotel""], ""24"": [""hotels""], ""26"": [""hotel""]}"
+3	3	2	21	4	2	Human	18, 20, 21	"{""18"": [""travel time""], ""20"": [""travel time""], ""21"": [""travel time""]}"
+2	2	2	17	2	1	Human	16, 17	"{""16"": [""london liverpool""], ""17"": [""london liverpool""]}"
+2	2	3	30	2	1	Agent	29, 30, 34, 35	"{""29"": [""reservation""], ""30"": [""reservation""], ""34"": [""reservation""], ""35"": [""reservation""]}"
+3	3	1	13	10	1	Human	12, 13, 17, 20, 21	"{""12"": [""train""], ""13"": [""train""], ""17"": [""train""], ""20"": [""train""], ""21"": [""train""]}"
+2	2	2	26	2	1	Agent	25, 26	"{""25"": [""hamilton lodge""], ""26"": [""hamilton lodge""]}"
+4	1	1	18	9	1	Agent	13, 18, 20, 21	"{""13"": [""time""], ""18"": [""time""], ""20"": [""time""], ""21"": [""time""]}"
+3	3	1	32	23	1	Agent	13, 32, 35	"{""13"": [""day""], ""32"": [""days""], ""35"": [""day""]}"
+2	2	1	34	10	1	Agent	25, 34	"{""25"": [""believe""], ""34"": [""believe""]}"
+2	2	1	17	4	1	Human	14, 17	"{""14"": [""cambridge""], ""17"": [""cambridge""]}"
+2	2	1	4	2	1	Agent	3, 4	"{""3"": [""town""], ""4"": [""town""]}"

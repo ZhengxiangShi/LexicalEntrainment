@@ -1,0 +1,7 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	8	5	2	1	Human	4, 5	"{""4"": [""sheep's green and lammas land park fen causeway""], ""5"": [""sheep's green and lammas land park fen causeway""]}"
+2	2	1	1	2	1	Human	0, 1	"{""0"": [""centre""], ""1"": [""centre""]}"
+2	1	2	5	2	1	Human	4, 5	"{""4"": [""fen causeway""], ""5"": [""fen causeway""]}"
+3	3	1	3	4	1	Human	2, 3, 5	"{""2"": [""postcode""], ""3"": [""postcode""], ""5"": [""postcode""]}"
+2	1	1	5	2	1	Human	4, 5	"{""4"": [""park""], ""5"": [""park""]}"
+2	2	1	1	2	1	Human	0, 1	"{""0"": [""restaurant""], ""1"": [""restaurants""]}"

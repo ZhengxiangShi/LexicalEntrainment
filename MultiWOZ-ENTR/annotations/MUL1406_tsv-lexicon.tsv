@@ -1,0 +1,13 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	3	3	2	1	Human	0, 1, 2, 3	"{""0"": [""cambridge""], ""1"": [""cambridge""], ""2"": [""cambridge""], ""3"": [""cambridge""]}"
+3	3	2	7	4	1	Human	6, 7, 9	"{""6"": [""reference number""], ""7"": [""reference number""], ""9"": [""reference number""]}"
+2	2	1	1	2	1	Human	0, 1	"{""0"": [""wednesday""], ""1"": [""wednesday""]}"
+2	2	1	3	2	1	Human	2, 3	"{""2"": [""peterborough""], ""3"": [""peterborough""]}"
+4	1	1	13	8	1	Human	6, 7, 9, 13	"{""6"": [""number""], ""7"": [""number""], ""9"": [""number""], ""13"": [""number""]}"
+3	3	1	12	3	1	Agent	11, 12, 13	"{""11"": [""anatolia""], ""12"": [""anatolia""], ""13"": [""anatolia's""]}"
+3	3	1	1	4	1	Human	0, 1, 3	"{""0"": [""train""], ""1"": [""trains""], ""3"": [""trains""]}"
+2	2	1	13	2	1	Human	12, 13	"{""12"": [""address""], ""13"": [""address""]}"
+2	2	1	13	4	1	Human	10, 13	"{""10"": [""centre""], ""13"": [""centre""]}"
+2	2	1	13	2	1	Human	12, 13	"{""12"": [""phone""], ""13"": [""phone""]}"
+2	2	1	13	2	1	Human	12, 13	"{""12"": [""postcode""], ""13"": [""postcode""]}"
+2	2	1	11	2	1	Human	10, 11	"{""10"": [""restaurant""], ""11"": [""restaurant""]}"

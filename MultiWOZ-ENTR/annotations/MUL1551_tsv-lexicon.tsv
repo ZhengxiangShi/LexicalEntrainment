@@ -1,0 +1,9 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	4	2	2	1	Agent	0, 1, 2, 3	"{""0"": [""ticket""], ""1"": [""ticket""], ""2"": [""ticket""], ""3"": [""ticket""]}"
+4	4	2	5	14	1	Human	4, 5, 16, 17	"{""4"": [""train id""], ""5"": [""train id""], ""16"": [""train id""], ""17"": [""train id""]}"
+5	5	1	1	18	1	Human	0, 1, 2, 4, 5, 14, 16, 17	"{""0"": [""train""], ""1"": [""train""], ""2"": [""train""], ""4"": [""train""], ""5"": [""train""], ""14"": [""train""], ""16"": [""train""], ""17"": [""train""]}"
+2	2	2	13	2	1	Human	12, 13	"{""12"": [""phone number""], ""13"": [""phone number""]}"
+3	3	1	7	5	1	Human	6, 7, 10	"{""6"": [""restaurant""], ""7"": [""restaurants""], ""10"": [""restaurant""]}"
+2	2	1	11	2	1	Human	10, 11	"{""10"": [""address""], ""11"": [""address""]}"
+3	3	1	1	15	1	Human	0, 1, 14	"{""0"": [""leicester""], ""1"": [""leicester""], ""14"": [""leicester""]}"
+2	2	1	11	6	1	Human	6, 11	"{""6"": [""centre""], ""11"": [""centre""]}"

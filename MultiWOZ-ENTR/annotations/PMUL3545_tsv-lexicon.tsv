@@ -1,0 +1,9 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	3	11	6	1	Human	6, 11	"{""6"": [""3 star guesthouse""], ""11"": [""3 star guesthouse""]}"
+6	6	1	3	12	1	Human	2, 3, 7, 10, 12, 13	"{""2"": [""postcode""], ""3"": [""postcode""], ""7"": [""postcode""], ""10"": [""postcode""], ""12"": [""postcode""], ""13"": [""postcode""]}"
+4	2	2	7	6	1	Human	6, 7, 10, 11	"{""6"": [""3 star""], ""7"": [""3 stars""], ""10"": [""3 stars""], ""11"": [""3 star""]}"
+3	3	2	3	6	1	Human	2, 3, 7	"{""2"": [""phone number""], ""3"": [""phone number""], ""7"": [""phone number""]}"
+2	2	2	1	2	1	Human	0, 1	"{""0"": [""cineworld cinema""], ""1"": [""cineworld cinema""]}"
+4	3	1	11	7	2	Human	6, 10, 11, 12	"{""6"": [""guesthouse""], ""10"": [""guesthouse""], ""11"": [""guesthouse""], ""12"": [""guesthouse""]}"
+3	3	1	1	5	1	Human	0, 1, 4	"{""0"": [""cambridge""], ""1"": [""cambridge""], ""4"": [""cambridge""]}"
+3	3	1	3	7	1	Human	0, 3, 6	"{""0"": [""train""], ""3"": [""train""], ""6"": [""train""]}"

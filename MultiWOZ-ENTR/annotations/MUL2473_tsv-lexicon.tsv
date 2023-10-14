@@ -1,0 +1,10 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	5	5	2	1	Human	4, 5	"{""4"": [""table for two""], ""5"": [""table for two""]}"
+3	3	3	14	3	1	Agent	13, 14, 15	"{""13"": [""cambridge arts theatre""], ""14"": [""cambridge arts theatre""], ""15"": [""cambridge arts theatre""]}"
+3	1	1	14	3	1	Agent	13, 14, 15	"{""13"": [""cambridge""], ""14"": [""cambridge""], ""15"": [""cambridge""]}"
+2	2	2	1	2	1	Human	0, 1	"{""0"": [""muslim restaurant""], ""1"": [""muslim restaurant""]}"
+3	3	1	11	5	1	Human	10, 11, 14	"{""10"": [""address""], ""11"": [""address""], ""14"": [""address""]}"
+5	3	1	13	10	2	Human	6, 12, 13, 14, 15	"{""6"": [""theatre's""], ""12"": [""theatre""], ""13"": [""theatre""], ""14"": [""theatre""], ""15"": [""theatre""]}"
+3	1	1	5	6	1	Human	0, 1, 5	"{""0"": [""restaurant""], ""1"": [""restaurant""], ""5"": [""restaurant""]}"
+2	1	1	5	2	1	Human	4, 5	"{""4"": [""table""], ""5"": [""table""]}"
+2	2	1	12	12	1	Agent	1, 12	"{""1"": [""type""], ""12"": [""type""]}"

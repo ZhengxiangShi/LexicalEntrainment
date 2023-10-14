@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+5	5	1	17	6	1	Human	16, 17, 20, 21	"{""16"": [""taxi""], ""17"": [""taxi""], ""20"": [""taxi""], ""21"": [""taxi""]}"
+3	3	2	19	3	1	Human	18, 19, 20	"{""18"": [""time""], ""19"": [""time""], ""20"": [""time""]}"
+4	4	1	5	10	1	Human	4, 5, 12, 13	"{""4"": [""address""], ""5"": [""address""], ""12"": [""address""], ""13"": [""address""]}"
+4	4	1	14	5	2	Agent	11, 13, 14, 15	"{""11"": [""alpha-milton""], ""13"": [""alpha-milton""], ""14"": [""alpha-milton""], ""15"": [""alpha-milton""]}"
+2	2	2	20	18	1	Agent	3, 20	"{""3"": [""curry garden""], ""20"": [""curry garden""]}"
+5	5	1	5	18	1	Human	4, 5, 7, 12, 14, 15, 21	"{""4"": [""number""], ""5"": [""number""], ""7"": [""number""], ""12"": [""number""], ""14"": [""number""], ""15"": [""number""], ""21"": [""number""]}"
+2	2	2	12	8	1	Agent	5, 12	"{""5"": [""phone number""], ""12"": [""phone number""]}"
+2	2	1	19	2	1	Human	18, 19	"{""18"": [""restaurant""], ""19"": [""restaurant""]}"
+2	2	1	5	6	1	Human	0, 5	"{""0"": [""centre""], ""5"": [""centre""]}"
+2	2	1	7	2	1	Human	6, 7	"{""6"": [""sunday""], ""7"": [""sunday""]}"

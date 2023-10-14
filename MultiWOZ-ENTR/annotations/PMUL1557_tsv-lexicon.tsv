@@ -1,0 +1,8 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	2	15	4	2	Human	12, 14, 15	"{""12"": [""free parking""], ""14"": [""free parking""], ""15"": [""free parking""]}"
+3	3	2	17	6	2	Human	12, 16, 17	"{""12"": [""phone number""], ""16"": [""phone number""], ""17"": [""phone number""]}"
+4	4	2	14	6	1	Agent	13, 14, 17, 18	"{""13"": [""archway house""], ""14"": [""archway house""], ""17"": [""archway house""], ""18"": [""archway house""]}"
+5	2	1	12	11	1	Agent	7, 12, 13, 16, 17	"{""7"": [""number""], ""12"": [""number""], ""13"": [""number""], ""16"": [""number""], ""17"": [""number""]}"
+3	3	1	5	6	2	Human	0, 4, 5	"{""0"": [""train""], ""4"": [""train""], ""5"": [""train""]}"
+2	2	1	18	10	1	Agent	9, 18	"{""9"": [""information""], ""18"": [""information""]}"
+2	2	1	6	2	1	Agent	5, 6	"{""5"": [""tickets""], ""6"": [""ticket""]}"

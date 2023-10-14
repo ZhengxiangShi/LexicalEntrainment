@@ -1,0 +1,12 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	2	5	6	2	Human	0, 4, 5	"{""0"": [""mexican restaurant""], ""4"": [""mexican restaurant""], ""5"": [""mexican restaurant""]}"
+2	2	2	17	10	1	Human	8, 17	"{""8"": [""city centre""], ""17"": [""city centre""]}"
+2	2	2	19	2	1	Human	18, 19	"{""18"": [""corpus christi""], ""19"": [""corpus christi""]}"
+3	3	1	4	19	1	Agent	1, 4, 19	"{""1"": [""town""], ""4"": [""town""], ""19"": [""town""]}"
+2	2	2	8	2	1	Agent	7, 8	"{""7"": [""price range""], ""8"": [""price range""]}"
+5	2	1	1	9	1	Human	0, 1, 4, 5, 8	"{""0"": [""restaurant""], ""1"": [""restaurant""], ""4"": [""restaurant""], ""5"": [""restaurant""], ""8"": [""restaurant""]}"
+4	2	1	17	16	2	Human	4, 8, 17, 19	"{""4"": [""centre""], ""8"": [""centre""], ""17"": [""centre""], ""19"": [""centre""]}"
+3	3	1	16	8	2	Agent	9, 15, 16	"{""9"": [""backstreet""], ""15"": [""backstreet""], ""16"": [""backstreet""]}"
+2	2	1	9	2	1	Human	8, 9	"{""8"": [""choice""], ""9"": [""choice""]}"
+2	2	1	20	6	1	Agent	15, 20	"{""15"": [""help""], ""20"": [""help""]}"
+2	2	1	19	4	1	Human	16, 19	"{""16"": [""postcode""], ""19"": [""postcode""]}"

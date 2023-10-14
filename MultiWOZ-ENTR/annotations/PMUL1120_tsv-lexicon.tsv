@@ -1,0 +1,12 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	1	3	12	1	Human	2, 3, 13	"{""2"": [""centre""], ""3"": [""centre""], ""13"": [""centre""]}"
+2	2	3	9	2	1	Human	8, 9	"{""8"": [""london liverpool street""], ""9"": [""london liverpool street""]}"
+3	3	1	3	6	1	Human	0, 3, 5	"{""0"": [""college""], ""3"": [""colleges""], ""5"": [""college""]}"
+2	2	1	3	4	1	Human	0, 3	"{""0"": [""hang""], ""3"": [""hang""]}"
+2	2	1	9	2	1	Human	8, 9	"{""8"": [""sunday""], ""9"": [""sunday""]}"
+2	2	2	5	2	1	Human	4, 5	"{""4"": [""phone number""], ""5"": [""phone number""]}"
+2	2	1	5	2	1	Human	4, 5	"{""4"": [""postcode""], ""5"": [""postcode""]}"
+4	4	1	9	14	2	Human	0, 6, 9, 13	"{""0"": [""cambridge""], ""6"": [""cambridge""], ""9"": [""cambridge""], ""13"": [""cambridge""]}"
+3	1	1	11	8	1	Human	4, 5, 11	"{""4"": [""number""], ""5"": [""number""], ""11"": [""number""]}"
+3	1	1	8	5	1	Agent	5, 8, 9	"{""5"": [""street""], ""8"": [""street""], ""9"": [""street""]}"
+3	3	1	7	6	1	Human	6, 7, 11	"{""6"": [""train""], ""7"": [""train""], ""11"": [""train""]}"

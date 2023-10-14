@@ -1,0 +1,12 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	7	1	2	1	Human	0, 1	"{""0"": [""turkish restaurant in the center of town""], ""1"": [""turkish restaurants in the centre of town""]}"
+2	2	1	19	4	1	Human	16, 19	"{""16"": [""day""], ""19"": [""day""]}"
+2	2	1	10	12	1	Human	0, 1, 10, 11	"{""0"": [""center""], ""1"": [""centre""], ""10"": [""centre""], ""11"": [""centre""]}"
+3	1	1	9	10	1	Human	0, 1, 9	"{""0"": [""town""], ""1"": [""town""], ""9"": [""town""]}"
+4	4	1	11	8	1	Human	8, 11, 12, 15	"{""8"": [""college""], ""11"": [""college""], ""12"": [""college""], ""15"": [""college""]}"
+2	2	1	5	2	1	Human	4, 5	"{""4"": [""tuesday""], ""5"": [""tuesday""]}"
+2	2	2	7	2	1	Human	6, 7	"{""6"": [""reference number""], ""7"": [""reference number""]}"
+7	5	1	2	16	1	Human	0, 1, 2, 3, 10, 12, 15	"{""0"": [""restaurant""], ""1"": [""restaurants""], ""2"": [""restaurant""], ""3"": [""restaurant""], ""10"": [""restaurant""], ""12"": [""restaurant""], ""15"": [""restaurant""]}"
+4	4	1	4	13	1	Agent	3, 14, 15	"{""3"": [""reservation""], ""14"": [""reservation""], ""15"": [""reservation""]}"
+3	1	1	15	10	1	Human	6, 7, 15	"{""6"": [""number""], ""7"": [""number""], ""15"": [""number""]}"
+2	2	1	15	4	1	Human	12, 15	"{""12"": [""taxi""], ""15"": [""taxi""]}"

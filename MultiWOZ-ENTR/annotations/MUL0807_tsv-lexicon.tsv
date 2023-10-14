@@ -1,0 +1,12 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	5	8	2	1	Agent	7, 8	"{""7"": [""cambridge and country folk museum""], ""8"": [""cambridge and country folk museum""]}"
+2	2	2	6	6	1	Agent	1, 6	"{""1"": [""west area""], ""6"": [""west area""]}"
+4	4	1	2	5	1	Agent	1, 2, 4, 5	"{""1"": [""table""], ""2"": [""table""], ""4"": [""table""], ""5"": [""table""]}"
+3	3	1	11	4	1	Human	10, 11, 13	"{""10"": [""taxi""], ""11"": [""taxi""], ""13"": [""taxi""]}"
+2	2	1	9	2	1	Human	8, 9	"{""8"": [""postcode""], ""9"": [""postcode""]}"
+3	3	1	11	12	2	Human	0, 10, 11	"{""0"": [""restaurant""], ""10"": [""restaurant""], ""11"": [""restaurant""]}"
+5	4	1	7	6	1	Human	6, 7, 8, 10, 11	"{""6"": [""museum""], ""7"": [""museum""], ""8"": [""museum""], ""10"": [""museum""], ""11"": [""museum""]}"
+3	1	1	7	7	1	Agent	1, 6, 7	"{""1"": [""area""], ""6"": [""area""], ""7"": [""area""]}"
+3	1	1	7	9	1	Human	0, 7, 8	"{""0"": [""cambridge""], ""7"": [""cambridge""], ""8"": [""cambridge""]}"
+3	3	1	12	9	1	Agent	5, 12, 13	"{""5"": [""number""], ""12"": [""number""], ""13"": [""number""]}"
+2	2	1	13	2	1	Human	12, 13	"{""12"": [""contact""], ""13"": [""contact""]}"

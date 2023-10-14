@@ -1,0 +1,5 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	2	3	2	1	Human	2, 3	"{""2"": [""phone number""], ""3"": [""phone number""]}"
+2	2	1	9	2	1	Human	8, 9	"{""8"": [""cambridge""], ""9"": [""cambridge""]}"
+3	3	1	9	6	2	Human	4, 8, 9	"{""4"": [""train""], ""8"": [""train""], ""9"": [""train""]}"
+2	2	1	1	2	1	Human	0, 1	"{""0"": [""restaurant""], ""1"": [""restaurants""]}"

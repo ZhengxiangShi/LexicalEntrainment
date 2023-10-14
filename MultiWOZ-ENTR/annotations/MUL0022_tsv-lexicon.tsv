@@ -1,0 +1,13 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	7	17	2	1	Human	16, 17	"{""16"": [""reservation number for the taxi""], ""17"": [""reservation number for the taxi""]}"
+4	4	2	1	8	1	Human	0, 1, 6, 7	"{""0"": [""oak bistro""], ""1"": [""oak bistro""], ""6"": [""oak bistro""], ""7"": [""oak bistro""]}"
+3	3	1	13	6	1	Human	12, 13, 14, 16, 17	"{""12"": [""taxi""], ""13"": [""taxi""], ""14"": [""taxi""], ""16"": [""taxi""], ""17"": [""taxi""]}"
+2	2	1	14	16	1	Human	2, 11, 14, 16, 17	"{""2"": [""number""], ""11"": [""number""], ""14"": [""number""], ""16"": [""number""], ""17"": [""number""]}"
+2	2	2	11	10	1	Human	2, 11	"{""2"": [""reference number""], ""11"": [""reference number""]}"
+6	6	1	7	14	1	Human	6, 7, 9, 12, 18, 19	"{""6"": [""hotel""], ""7"": [""hotels""], ""9"": [""hotel""], ""12"": [""hotel""], ""18"": [""hotel""], ""19"": [""hotel""]}"
+4	2	1	17	8	2	Human	12, 16, 17, 19	"{""12"": [""reservation""], ""16"": [""reservation""], ""17"": [""reservation""], ""19"": [""reservation""]}"
+2	2	1	15	2	1	Human	14, 15	"{""14"": [""car""], ""15"": [""car""]}"
+2	2	1	15	2	1	Human	14, 15	"{""14"": [""contact""], ""15"": [""contact""]}"
+2	2	1	1	2	1	Human	0, 1	"{""0"": [""food""], ""1"": [""food""]}"
+2	2	1	8	2	1	Agent	7, 8	"{""7"": [""preference""], ""8"": [""preference""]}"
+2	2	1	12	8	1	Agent	5, 12	"{""5"": [""restaurant""], ""12"": [""restaurant""]}"

@@ -1,0 +1,12 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+4	4	1	3	10	1	Human	0, 3, 7, 9	"{""0"": [""centre""], ""3"": [""centre""], ""7"": [""centre""], ""9"": [""centre""]}"
+2	2	3	9	2	1	Human	8, 9	"{""8"": [""moderate price range""], ""9"": [""moderate price range""]}"
+2	2	2	5	2	1	Human	4, 5	"{""4"": [""entrance fee""], ""5"": [""entrance fee""]}"
+3	3	1	8	8	2	Agent	1, 7, 8	"{""1"": [""type""], ""7"": [""type""], ""8"": [""types""]}"
+2	2	2	6	4	1	Agent	3, 6	"{""3"": [""parkside pools""], ""6"": [""parkside pools""]}"
+2	2	2	5	2	1	Human	4, 5	"{""4"": [""phone number""], ""5"": [""phone number""]}"
+4	4	1	7	4	1	Human	6, 7, 9	"{""6"": [""restaurant""], ""7"": [""restaurant""], ""9"": [""restaurants"", ""restaurant""]}"
+3	1	1	13	10	1	Human	4, 5, 13	"{""4"": [""number""], ""5"": [""number""], ""13"": [""number""]}"
+2	2	1	1	2	1	Human	0, 1	"{""0"": [""attractions""], ""1"": [""attraction""]}"
+2	2	1	8	2	1	Agent	7, 8	"{""7"": [""food""], ""8"": [""food""]}"
+2	2	1	12	2	1	Agent	11, 12	"{""11"": [""people""], ""12"": [""people""]}"

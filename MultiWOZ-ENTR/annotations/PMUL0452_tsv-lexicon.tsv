@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	2	15	8	2	Human	8, 14, 15	"{""8"": [""2 nights""], ""14"": [""2 nights""], ""15"": [""2 nights""]}"
+2	2	3	2	2	1	Agent	1, 2	"{""1"": [""table""], ""2"": [""table""]}"
+2	2	1	10	10	1	Agent	1, 10	"{""1"": [""centre""], ""10"": [""center""]}"
+3	3	1	11	4	2	Human	8, 10, 11	"{""8"": [""guesthouse""], ""10"": [""guesthouse""], ""11"": [""guesthouses""]}"
+2	2	2	8	2	1	Agent	7, 8	"{""7"": [""price range""], ""8"": [""price range""]}"
+4	4	1	15	12	3	Human	4, 8, 14, 15	"{""4"": [""sunday""], ""8"": [""sunday""], ""14"": [""sunday""], ""15"": [""sunday""]}"
+3	3	1	17	18	2	Human	0, 10, 17	"{""0"": [""restaurant"", ""restaurant""], ""10"": [""restaurant""], ""17"": [""restaurant""]}"
+4	4	1	12	6	3	Agent	7, 9, 11, 12	"{""7"": [""area""], ""9"": [""area""], ""11"": [""area""], ""12"": [""area""]}"
+4	4	1	20	15	2	Agent	20, 21	"{""20"": [""help""], ""21"": [""help""]}"
+2	2	1	12	4	1	Agent	9, 12	"{""9"": [""options""], ""12"": [""option""]}"

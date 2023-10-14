@@ -1,0 +1,9 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	4	7	6	2	Human	2, 6, 7	"{""2"": [""modern european food""], ""6"": [""modern european food""], ""7"": [""modern european food""]}"
+2	2	3	2	2	1	Agent	1, 2	"{""1"": [""restaurant""], ""2"": [""restaurant""]}"
+3	3	3	8	4	2	Agent	5, 7, 8	"{""5"": [""de luca cucina""], ""7"": [""de luca cucina""], ""8"": [""de luca cucina""]}"
+2	2	3	1	2	1	Human	0, 1	"{""0"": [""northern european food""], ""1"": [""northern european food""]}"
+2	2	2	9	2	1	Human	8, 9	"{""8"": [""post code""], ""9"": [""post code""]}"
+2	2	2	9	2	1	Human	8, 9	"{""8"": [""phone number""], ""9"": [""phone number""]}"
+2	2	1	4	2	1	Agent	3, 4	"{""3"": [""area""], ""4"": [""area""]}"
+2	2	1	4	2	1	Agent	3, 4	"{""3"": [""price""], ""4"": [""price""]}"

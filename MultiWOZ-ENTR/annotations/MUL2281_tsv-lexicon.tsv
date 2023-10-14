@@ -1,0 +1,9 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+4	4	3	9	7	1	Human	8, 9, 10, 14	"{""8"": [""london liverpool street""], ""9"": [""london liverpool street""], ""10"": [""london liverpool street""], ""14"": [""london liverpool street""]}"
+3	3	1	5	6	2	Human	0, 4, 5	"{""0"": [""north""], ""4"": [""north""], ""5"": [""north""]}"
+2	2	3	13	6	1	Human	8, 9, 11, 13	"{""8"": [""train""], ""9"": [""trains""], ""11"": [""trains""], ""13"": [""train""]}"
+4	4	1	9	6	1	Human	8, 9, 12, 13	"{""8"": [""sunday""], ""9"": [""sunday""], ""12"": [""sunday""], ""13"": [""sunday""]}"
+2	2	2	5	2	1	Human	4, 5	"{""4"": [""free parking""], ""5"": [""free parking""]}"
+2	2	2	14	2	1	Agent	13, 14	"{""13"": [""tr0189""], ""14"": [""tr0189""]}"
+4	4	1	9	13	2	Human	2, 8, 9, 14	"{""2"": [""cambridge""], ""8"": [""cambridge""], ""9"": [""cambridge""], ""14"": [""cambridge""]}"
+2	2	1	3	2	1	Human	2, 3	"{""2"": [""guesthouse""], ""3"": [""guesthouse""]}"

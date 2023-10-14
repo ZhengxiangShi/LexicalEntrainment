@@ -1,0 +1,12 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	3	7	2	1	Human	6, 7	"{""6"": [""multiple sports attraction""], ""7"": [""multiple sports attractions""]}"
+3	3	2	9	4	2	Human	6, 8, 9	"{""6"": [""city centre""], ""8"": [""city centre""], ""9"": [""city centre""]}"
+3	3	2	13	4	2	Human	10, 12, 13	"{""10"": [""phone number""], ""12"": [""phone number""], ""13"": [""phone number""]}"
+3	3	2	10	3	1	Agent	9, 10, 11	"{""9"": [""entrance fee""], ""10"": [""entrance fee""], ""11"": [""entrance fee""]}"
+2	2	2	5	2	1	Human	4, 5	"{""4"": [""reference number""], ""5"": [""reference number""]}"
+2	2	1	11	2	1	Human	10, 11	"{""10"": [""postcode""], ""11"": [""postcode""]}"
+2	2	1	10	4	1	Agent	7, 10	"{""7"": [""type""], ""10"": [""type""]}"
+4	4	1	9	4	1	Human	8, 9, 10, 11	"{""8"": [""colleges""], ""9"": [""college"", ""colleges""], ""10"": [""college""], ""11"": [""college""]}"
+4	1	1	10	7	2	Agent	5, 9, 10, 11	"{""5"": [""fee""], ""9"": [""fee""], ""10"": [""fee""], ""11"": [""fee""]}"
+2	1	1	7	2	1	Human	6, 7	"{""6"": [""attraction""], ""7"": [""attraction"", ""attractions""]}"
+2	2	1	3	4	1	Human	0, 3	"{""0"": [""train""], ""3"": [""train"", ""trains""]}"

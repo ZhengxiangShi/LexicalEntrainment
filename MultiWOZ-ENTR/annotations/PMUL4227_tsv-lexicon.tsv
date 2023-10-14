@@ -1,0 +1,12 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	4	9	2	1	Human	8, 9	"{""8"": [""phone number for allenbell""], ""9"": [""phone number for allenbell""]}"
+3	3	1	5	6	1	Human	2, 5, 7	"{""2"": [""east""], ""5"": [""east""], ""7"": [""east""]}"
+2	2	2	7	2	1	Human	6, 7	"{""6"": [""free wifi""], ""7"": [""free wifi""]}"
+2	2	2	5	2	1	Human	4, 5	"{""4"": [""1 star""], ""5"": [""1 star""]}"
+3	1	1	8	3	1	Agent	7, 8, 9	"{""7"": [""allenbell""], ""8"": [""allenbell""], ""9"": [""allenbell""]}"
+3	3	1	10	8	2	Agent	3, 7, 10	"{""3"": [""guesthouses""], ""7"": [""guesthouse""], ""10"": [""guesthouse""]}"
+3	3	1	8	6	2	Agent	3, 5, 8	"{""3"": [""hotel""], ""5"": [""hotels""], ""8"": [""hotel""]}"
+3	3	1	4	5	1	Agent	3, 4, 7	"{""3"": [""price""], ""4"": [""price""], ""7"": [""price""]}"
+3	1	1	6	3	1	Human	4, 5, 6	"{""4"": [""star""], ""5"": [""star""], ""6"": [""star""]}"
+2	2	1	12	2	1	Agent	11, 12	"{""11"": [""museums""], ""12"": [""museums""]}"
+2	2	1	8	8	1	Agent	1, 8	"{""1"": [""town""], ""8"": [""town""]}"

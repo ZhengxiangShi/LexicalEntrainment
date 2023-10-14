@@ -1,0 +1,10 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	2	11	4	2	Human	8, 10, 11	"{""8"": [""entrance fee""], ""10"": [""entrance fee""], ""11"": [""entrance fee""]}"
+4	4	1	1	8	1	Human	0, 1, 6, 7	"{""0"": [""place""], ""1"": [""places""], ""6"": [""place""], ""7"": [""places""]}"
+2	2	2	5	2	1	Human	4, 5	"{""4"": [""reference number""], ""5"": [""reference number""]}"
+3	1	1	13	10	1	Human	4, 5, 13	"{""4"": [""number""], ""5"": [""number""], ""13"": [""number""]}"
+2	2	1	12	4	1	Agent	9, 12	"{""9"": [""camboats""], ""12"": [""camboats""]}"
+2	2	1	4	2	1	Agent	3, 4	"{""3"": [""choices""], ""4"": [""choices""]}"
+2	2	1	9	10	1	Human	0, 9	"{""0"": [""information""], ""9"": [""info""]}"
+2	2	1	3	2	1	Human	2, 3	"{""2"": [""star""], ""3"": [""stars""]}"
+2	2	1	15	4	1	Human	12, 15	"{""12"": [""taxi""], ""15"": [""taxi""]}"

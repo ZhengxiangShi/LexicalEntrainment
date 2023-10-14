@@ -1,0 +1,10 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	2	11	6	1	Human	10, 11, 15	"{""10"": [""three star""], ""11"": [""3 star""], ""15"": [""3 star""]}"
+4	4	1	13	6	1	Human	12, 13, 16, 17	"{""12"": [""postcode""], ""13"": [""postcode""], ""16"": [""postcode""], ""17"": [""postcode""]}"
+7	7	1	9	9	1	Human	8, 9, 10, 11, 13, 16	"{""8"": [""hotel""], ""9"": [""hotel""], ""10"": [""hotel""], ""11"": [""hotel""], ""13"": [""hotel""], ""16"": [""hotel""]}"
+3	3	2	16	5	1	Agent	13, 16, 17	"{""13"": [""price range""], ""16"": [""price range""], ""17"": [""price range""]}"
+2	2	2	7	2	1	Human	6, 7	"{""6"": [""reference number""], ""7"": [""reference number""]}"
+3	3	1	13	6	1	Human	12, 13, 16, 17	"{""12"": [""price""], ""13"": [""price""], ""16"": [""price""], ""17"": [""price""]}"
+2	2	2	4	2	1	Agent	3, 4	"{""3"": [""time travel""], ""4"": [""time travel""]}"
+2	2	1	1	2	1	Human	0, 1	"{""0"": [""broxbourne""], ""1"": [""broxbourne""]}"
+2	2	1	15	8	1	Human	8, 15	"{""8"": [""wifi""], ""15"": [""wifi""]}"

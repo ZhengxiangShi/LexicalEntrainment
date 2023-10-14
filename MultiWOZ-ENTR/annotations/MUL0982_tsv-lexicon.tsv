@@ -1,0 +1,9 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+5	5	1	7	14	1	Human	0, 7, 9, 13	"{""0"": [""centre""], ""7"": [""center""], ""9"": [""centre""], ""13"": [""centre""]}"
+4	4	2	7	5	1	Human	6, 7, 9, 10	"{""6"": [""pizza hut""], ""7"": [""pizza huts""], ""9"": [""pizza hut""], ""10"": [""pizza hut""]}"
+3	3	2	5	7	1	Human	4, 5, 10	"{""4"": [""phone number""], ""5"": [""phone number""], ""10"": [""phone number""]}"
+2	2	2	11	2	1	Human	10, 11	"{""10"": [""fen ditton""], ""11"": [""fen ditton""]}"
+3	3	1	4	3	1	Agent	3, 4, 5	"{""3"": [""school""], ""4"": [""school""], ""5"": [""schools""]}"
+4	1	1	11	8	1	Human	4, 5, 10, 11	"{""4"": [""number""], ""5"": [""number""], ""10"": [""number""], ""11"": [""number""]}"
+3	3	1	11	4	2	Human	8, 10, 11	"{""8"": [""addresses""], ""10"": [""address""], ""11"": [""address""]}"
+2	2	1	9	2	1	Human	8, 9	"{""8"": [""food""], ""9"": [""food""]}"

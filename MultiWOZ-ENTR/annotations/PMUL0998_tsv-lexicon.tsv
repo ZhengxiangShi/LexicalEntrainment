@@ -1,0 +1,12 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	3	11	6	2	Human	6, 8, 11	"{""6"": [""london liverpool street""], ""8"": [""london liverpool street""], ""11"": [""london liverpool street""]}"
+3	3	2	13	8	2	Human	6, 12, 13	"{""6"": [""6 people""], ""12"": [""6 people""], ""13"": [""6 people""]}"
+2	2	1	1	2	1	Human	0, 1	"{""0"": [""centre""], ""1"": [""centre""]}"
+4	4	2	7	8	1	Human	6, 7, 12, 13	"{""6"": [""reference number""], ""7"": [""reference number""], ""12"": [""reference number""], ""13"": [""reference number""]}"
+2	2	2	4	2	1	Agent	3, 4	"{""3"": [""british cuisine""], ""4"": [""british cuisine""]}"
+3	3	1	5	8	1	Human	0, 5, 7	"{""0"": [""info""], ""5"": [""info""], ""7"": [""information""]}"
+2	2	2	11	2	1	Human	6, 10, 11	"{""6"": [""cambridge""], ""10"": [""cambridge""], ""11"": [""cambridge""]}"
+2	2	1	11	2	1	Human	10, 11	"{""10"": [""tuesday""], ""11"": [""tuesday""]}"
+5	5	1	7	7	1	Human	6, 7, 10, 11, 12	"{""6"": [""train""], ""7"": [""train""], ""10"": [""train""], ""11"": [""train""], ""12"": [""train""]}"
+4	1	1	11	8	1	Human	6, 11, 12, 13	"{""6"": [""people""], ""11"": [""people""], ""12"": [""people""], ""13"": [""people""]}"
+4	4	1	1	6	1	Human	0, 1, 4, 5	"{""0"": [""restaurant""], ""1"": [""restaurants""], ""4"": [""restaurant""], ""5"": [""restaurant""]}"

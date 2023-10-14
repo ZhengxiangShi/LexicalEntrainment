@@ -1,0 +1,5 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	5	7	2	1	Human	6, 7	"{""6"": [""cambridge book and print gallery""], ""7"": [""cambridge book and print gallery""]}"
+2	2	2	5	2	1	Human	4, 5	"{""4"": [""reference number""], ""5"": [""reference number""]}"
+5	5	1	3	6	2	Human	0, 2, 3, 4, 5	"{""0"": [""train""], ""2"": [""train""], ""3"": [""trains""], ""4"": [""train""], ""5"": [""train""]}"
+3	1	1	7	6	2	Human	2, 6, 7	"{""2"": [""cambridge""], ""6"": [""cambridge""], ""7"": [""cambridge""]}"

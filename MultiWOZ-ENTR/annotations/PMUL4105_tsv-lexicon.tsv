@@ -1,0 +1,4 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	1	9	10	2	Human	0, 8, 9	"{""0"": [""north""], ""8"": [""north""], ""9"": [""north""]}"
+5	5	1	9	9	1	Human	8, 9, 12, 13, 16	"{""8"": [""park""], ""9"": [""park""], ""12"": [""park""], ""13"": [""park""], ""16"": [""park""]}"
+2	2	1	13	2	1	Human	12, 13	"{""12"": [""postcode""], ""13"": [""postcode""]}"

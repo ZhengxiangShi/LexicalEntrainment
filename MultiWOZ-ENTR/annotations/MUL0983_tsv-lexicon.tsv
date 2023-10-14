@@ -1,0 +1,6 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	4	6	2	1	Agent	5, 6	"{""5"": [""curry prince or rajmahal""], ""6"": [""curry prince or rajmahal""]}"
+2	2	1	6	2	1	Agent	5, 6	"{""5"": [""east""], ""6"": [""east""]}"
+3	3	1	10	4	2	Agent	7, 9, 10	"{""7"": [""reservation""], ""9"": [""reservation""], ""10"": [""reservation""]}"
+4	2	1	7	4	1	Agent	5, 6, 7, 8	"{""5"": [""rajmahal""], ""6"": [""rajmahal""], ""7"": [""rajmahal""], ""8"": [""rajmahal""]}"
+2	2	1	1	2	1	Human	0, 1	"{""0"": [""magdalene""], ""1"": [""magdalene""]}"

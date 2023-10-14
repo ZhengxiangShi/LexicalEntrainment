@@ -1,0 +1,5 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+6	6	1	2	6	1	Agent	1, 2, 3, 4, 6	"{""1"": [""type""], ""2"": [""type""], ""3"": [""type""], ""4"": [""type""], ""6"": [""type""]}"
+2	2	1	1	2	1	Human	0, 1	"{""0"": [""room""], ""1"": [""room""]}"
+2	2	1	7	2	1	Human	6, 7	"{""6"": [""address""], ""7"": [""address""]}"
+2	2	1	7	2	1	Human	6, 7	"{""6"": [""postcode""], ""7"": [""postcode""]}"

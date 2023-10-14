@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+5	5	1	1	10	1	Human	0, 1, 5, 7, 9	"{""0"": [""centre""], ""1"": [""centre""], ""5"": [""centre""], ""7"": [""centre""], ""9"": [""centre""]}"
+5	5	2	11	7	1	Agent	7, 10, 11, 12, 13	"{""7"": [""phone number""], ""10"": [""phone number""], ""11"": [""phone number""], ""12"": [""phone number""], ""13"": [""phone number""]}"
+3	3	2	8	4	2	Agent	5, 7, 8	"{""5"": [""sesame restaurant""], ""7"": [""sesame restaurant""], ""8"": [""sesame restaurant""]}"
+2	2	1	9	2	1	Human	8, 9	"{""8"": [""attraction""], ""9"": [""attraction""]}"
+6	1	1	7	8	1	Human	6, 7, 10, 11, 12, 13	"{""6"": [""number""], ""7"": [""number""], ""10"": [""number""], ""11"": [""number""], ""12"": [""number""], ""13"": [""number""]}"
+5	5	1	7	7	1	Human	6, 7, 10, 11, 12	"{""6"": [""postcode""], ""7"": [""postcode""], ""10"": [""postcode""], ""11"": [""postcode""], ""12"": [""postcode""]}"
+5	2	1	5	9	2	Human	0, 2, 5, 7, 8	"{""0"": [""restaurant""], ""2"": [""restaurant""], ""5"": [""restaurant""], ""7"": [""restaurant""], ""8"": [""restaurant""]}"
+4	4	1	11	6	2	Human	8, 10, 11, 13	"{""8"": [""college""], ""10"": [""college""], ""11"": [""college""], ""13"": [""college""]}"
+2	2	1	11	2	1	Human	10, 11	"{""10"": [""entrance""], ""11"": [""entrance""]}"
+2	2	1	9	2	1	Human	8, 9	"{""8"": [""town""], ""9"": [""town""]}"

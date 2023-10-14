@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	2	1	2	1	Human	0, 1	"{""0"": [""malaysian restaurant""], ""1"": [""malaysian restaurant""]}"
+2	2	2	4	2	1	Agent	3, 4	"{""3"": [""la raza""], ""4"": [""la raza""]}"
+10	10	1	9	15	2	Human	6, 8, 9, 10, 11, 12, 13, 15, 17, 20	"{""6"": [""hotel""], ""8"": [""hotel""], ""9"": [""hotel""], ""10"": [""hotel""], ""11"": [""hotel""], ""12"": [""hotel""], ""13"": [""hotel""], ""15"": [""hotel""], ""17"": [""hotels""], ""20"": [""hotel""]}"
+5	5	1	20	17	3	Agent	5, 20	"{""5"": [""booking""], ""20"": [""booking""]}"
+2	1	1	4	2	1	Agent	3, 4	"{""3"": [""la""], ""4"": [""la""]}"
+6	6	1	11	6	1	Human	10, 11, 12, 13, 14, 15	"{""10"": [""name""], ""11"": [""name""], ""12"": [""name""], ""13"": [""name""], ""14"": [""name""], ""15"": [""name""]}"
+3	3	1	18	18	2	Agent	1, 18	"{""1"": [""preference""], ""18"": [""preferences""]}"
+3	3	1	5	17	1	Human	5, 20	"{""5"": [""reservation""], ""20"": [""reservation""]}"
+3	1	1	20	21	1	Human	0, 1, 20	"{""0"": [""restaurant""], ""1"": [""restaurant""], ""20"": [""restaurant""]}"
+2	2	1	17	2	1	Human	16, 17	"{""16"": [""vicinity""], ""17"": [""vicinity""]}"

@@ -1,0 +1,9 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	4	3	2	1	Human	2, 3	"{""2"": [""museum in the east""], ""3"": [""museums in the east""]}"
+4	2	1	1	4	1	Human	0, 1, 2, 3	"{""0"": [""east""], ""1"": [""east""], ""2"": [""east""], ""3"": [""east""]}"
+2	2	3	7	2	1	Human	6, 7, 9	"{""6"": [""train""], ""7"": [""trains""], ""9"": [""train""]}"
+3	3	2	4	3	1	Agent	3, 4, 5	"{""3"": [""cambridge artworks""], ""4"": [""cambridge artworks""], ""5"": [""cambridge artworks""]}"
+2	2	1	9	4	1	Human	6, 9	"{""6"": [""monday""], ""9"": [""monday""]}"
+6	3	1	3	10	1	Human	0, 3, 4, 5, 8, 9	"{""0"": [""cambridge""], ""3"": [""cambridge""], ""4"": [""cambridge""], ""5"": [""cambridge""], ""8"": [""cambridge""], ""9"": [""cambridge""]}"
+3	3	1	5	8	1	Human	4, 5, 11	"{""4"": [""number""], ""5"": [""number""], ""11"": [""number""]}"
+2	2	1	1	2	1	Human	0, 1	"{""0"": [""architecture""], ""1"": [""architecture""]}"

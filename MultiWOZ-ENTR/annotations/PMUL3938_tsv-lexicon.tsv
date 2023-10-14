@@ -1,0 +1,13 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	5	11	2	1	Human	10, 11	"{""10"": [""table for 3""], ""11"": [""table for 3""]}"
+2	2	5	7	2	1	Human	6, 7	"{""6"": [""eritrean restaurants in the east""], ""7"": [""eritrean restaurants in the east""]}"
+3	1	2	6	3	1	Agent	5, 6, 7	"{""5"": [""eritrean restaurants""], ""6"": [""eritrean restaurants""], ""7"": [""eritrean restaurants""]}"
+3	1	4	9	4	1	Human	6, 7, 9	"{""6"": [""restaurants in the east""], ""7"": [""restaurants in the east""], ""9"": [""restaurant in the east""]}"
+6	6	1	3	20	1	Human	13, 15, 20, 21	"{""13"": [""booking""], ""15"": [""booking""], ""20"": [""booking""], ""21"": [""booking""]}"
+3	1	1	20	11	1	Human	10, 11, 20	"{""10"": [""table""], ""11"": [""table""], ""20"": [""table""]}"
+3	3	2	12	19	1	Agent	3, 12, 21	"{""3"": [""reference number""], ""12"": [""reference number""], ""21"": [""reference number""]}"
+3	3	1	11	10	2	Human	2, 10, 11	"{""2"": [""monday""], ""10"": [""monday""], ""11"": [""monday""]}"
+2	2	2	19	12	1	Human	8, 19	"{""8"": [""italian food""], ""19"": [""italian food""]}"
+8	4	1	5	16	1	Human	4, 5, 6, 7, 9, 17, 18, 19	"{""4"": [""restaurant""], ""5"": [""restaurants""], ""6"": [""restaurants""], ""7"": [""restaurants""], ""9"": [""restaurant""], ""17"": [""restaurant""], ""18"": [""restaurant""], ""19"": [""restaurants""]}"
+3	1	1	19	16	2	Human	4, 8, 19	"{""4"": [""food""], ""8"": [""food""], ""19"": [""food""]}"
+2	2	1	1	2	1	Human	0, 1	"{""0"": [""warkworth""], ""1"": [""warkworth""]}"

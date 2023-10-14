@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	2	9	2	1	Human	8, 9	"{""8"": [""7 people""], ""9"": [""7 people""]}"
+2	2	2	17	2	1	Human	16, 17	"{""16"": [""train id""], ""17"": [""train id""]}"
+2	2	2	7	2	1	Human	6, 7	"{""6"": [""european food""], ""7"": [""european food""]}"
+2	2	1	9	2	1	Human	8, 9	"{""8"": [""friday""], ""9"": [""friday""]}"
+5	3	1	3	6	1	Human	2, 3, 4, 6, 7	"{""2"": [""food""], ""3"": [""food""], ""4"": [""food""], ""6"": [""food""], ""7"": [""food""]}"
+4	4	1	4	6	1	Agent	1, 4, 5, 6	"{""1"": [""area""], ""4"": [""area""], ""5"": [""area""], ""6"": [""area""]}"
+4	2	1	15	8	1	Human	10, 15, 16, 17	"{""10"": [""train""], ""15"": [""train"", ""trains""], ""16"": [""train""], ""17"": [""train""]}"
+3	3	1	3	8	1	Human	0, 3, 7	"{""0"": [""restaurant""], ""3"": [""restaurant""], ""7"": [""restaurants"", ""restaurant""]}"
+2	2	1	12	6	1	Agent	7, 12	"{""7"": [""cambridge""], ""12"": [""cambridge""]}"
+2	2	1	3	2	1	Human	2, 3	"{""2"": [""corsican""], ""3"": [""corsican""]}"

@@ -1,0 +1,12 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	2	3	2	1	Human	2, 3	"{""2"": [""town centre""], ""3"": [""town center""]}"
+2	2	1	7	2	1	Human	6, 7	"{""6"": [""table""], ""7"": [""table""]}"
+2	2	1	11	6	1	Human	6, 11	"{""6"": [""thursday""], ""11"": [""thursday""]}"
+2	2	2	15	2	1	Human	14, 15	"{""14"": [""phone number""], ""15"": [""phone number""]}"
+2	2	1	4	2	1	Agent	3, 4	"{""3"": [""gardenia""], ""4"": [""gardenia""]}"
+3	1	1	14	5	1	Agent	11, 14, 15	"{""11"": [""number""], ""14"": [""number""], ""15"": [""number""]}"
+3	3	1	5	13	1	Human	0, 5, 12	"{""0"": [""restaurant""], ""5"": [""restaurant""], ""12"": [""restaurant""]}"
+3	3	1	8	4	2	Agent	5, 7, 8	"{""5"": [""shiraz""], ""7"": [""shiraz""], ""8"": [""shiraz""]}"
+3	1	1	13	12	1	Human	2, 3, 13	"{""2"": [""town""], ""3"": [""town""], ""13"": [""town""]}"
+2	2	1	10	2	1	Agent	9, 10	"{""9"": [""day""], ""10"": [""day""]}"
+2	2	1	15	2	1	Human	14, 15	"{""14"": [""postcode""], ""15"": [""postcode""]}"

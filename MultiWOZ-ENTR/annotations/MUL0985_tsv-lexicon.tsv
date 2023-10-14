@@ -1,0 +1,7 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	3	5	2	1	Human	4, 5	"{""4"": [""chiquito restaurant bar""], ""5"": [""chiquito restaurant bar""]}"
+3	3	2	1	4	1	Human	0, 1, 3	"{""0"": [""magdalene college""], ""1"": [""magdalene college""], ""3"": [""magdalene college""]}"
+2	2	2	7	2	1	Human	6, 7	"{""6"": [""price range""], ""7"": [""price range""]}"
+3	3	1	7	6	2	Human	2, 6, 7	"{""2"": [""address""], ""6"": [""address""], ""7"": [""address""]}"
+3	1	1	3	4	1	Human	0, 1, 3	"{""0"": [""magdalene""], ""1"": [""magdalene""], ""3"": [""magdalene""]}"
+3	1	1	6	3	1	Human	4, 5, 6	"{""4"": [""restaurant""], ""5"": [""restaurant""], ""6"": [""restaurant""]}"

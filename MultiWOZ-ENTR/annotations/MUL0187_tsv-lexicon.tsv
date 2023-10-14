@@ -1,0 +1,6 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+5	5	2	2	5	1	Agent	1, 2, 3, 4, 5	"{""1"": [""copper kettle""], ""2"": [""copper kettle's""], ""3"": [""copper kettle's""], ""4"": [""copper kettle""], ""5"": [""copper kettle""]}"
+3	3	3	11	4	1	Human	0, 10, 11, 13	"{""0"": [""place""], ""10"": [""place""], ""11"": [""place""], ""13"": [""place""]}"
+2	2	1	12	8	1	Agent	5, 12	"{""5"": [""town""], ""12"": [""town""]}"
+2	2	2	15	2	1	Human	14, 15	"{""14"": [""reference number""], ""15"": [""reference number""]}"
+4	2	1	3	14	1	Human	2, 3, 14, 15	"{""2"": [""number""], ""3"": [""number""], ""14"": [""number""], ""15"": [""number""]}"

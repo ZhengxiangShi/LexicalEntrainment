@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	2	6	3	1	Agent	5, 6, 7	"{""5"": [""arbury lodge""], ""6"": [""arbury lodge""], ""7"": [""arbury lodge""]}"
+3	3	2	10	3	1	Agent	9, 10, 11	"{""9"": [""byard art""], ""10"": [""byard art""], ""11"": [""byard art""]}"
+4	4	1	2	4	1	Agent	1, 2, 3, 4	"{""1"": [""hotels"", ""hotel""], ""2"": [""hotel""], ""3"": [""hotel""], ""4"": [""hotel""]}"
+2	2	2	1	2	1	Human	0, 1	"{""0"": [""free parking""], ""1"": [""free parking""]}"
+3	1	1	10	3	1	Agent	9, 10, 11	"{""9"": [""art"", ""art""], ""10"": [""art""], ""11"": [""art""]}"
+3	3	1	11	8	2	Human	4, 10, 11	"{""4"": [""fee""], ""10"": [""fee""], ""11"": [""fee""]}"
+3	3	1	5	6	1	Human	2, 5, 7	"{""2"": [""guesthouse""], ""5"": [""guesthouse""], ""7"": [""guesthouse""]}"
+3	1	1	5	6	1	Human	0, 1, 5	"{""0"": [""parking""], ""1"": [""parking""], ""5"": [""parking""]}"
+2	2	1	9	2	1	Human	8, 9	"{""8"": [""museums""], ""9"": [""museums""]}"
+2	2	1	8	2	1	Agent	7, 8	"{""7"": [""town""], ""8"": [""town""]}"

@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	3	14	4	1	Agent	11, 14	"{""11"": [""cambridge artworks museum""], ""14"": [""cambridge artworks museum""]}"
+3	1	2	15	5	1	Agent	11, 14, 15	"{""11"": [""cambridge artworks""], ""14"": [""cambridge artworks""], ""15"": [""cambridge artworks""]}"
+3	3	1	13	8	2	Human	6, 12, 13	"{""6"": [""address""], ""12"": [""address""], ""13"": [""address""]}"
+3	3	1	14	10	2	Agent	5, 7, 14	"{""5"": [""allenbell""], ""7"": [""allenbell""], ""14"": [""allenbell""]}"
+3	3	1	9	6	1	Human	8, 9, 13	"{""8"": [""postcode""], ""9"": [""postcode""], ""13"": [""postcode""]}"
+3	3	1	4	4	2	Agent	1, 3, 4	"{""1"": [""price""], ""3"": [""price""], ""4"": [""price""]}"
+2	2	1	1	2	1	Human	0, 1	"{""0"": [""guesthouses""], ""1"": [""guesthouses""]}"
+2	1	1	14	4	1	Agent	11, 14	"{""11"": [""museum""], ""14"": [""museum""]}"
+2	2	1	2	2	1	Agent	1, 2	"{""1"": [""parking""], ""2"": [""parking""]}"
+2	2	1	10	10	1	Agent	1, 10	"{""1"": [""town""], ""10"": [""town""]}"

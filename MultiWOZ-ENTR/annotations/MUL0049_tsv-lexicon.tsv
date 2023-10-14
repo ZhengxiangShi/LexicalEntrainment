@@ -1,0 +1,13 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	2	5	4	2	Human	2, 4, 5	"{""2"": [""hotel type""], ""4"": [""hotel type""], ""5"": [""hotel type""]}"
+2	2	1	7	2	1	Human	6, 7	"{""6"": [""centre""], ""7"": [""centre""]}"
+4	1	1	14	13	2	Human	2, 4, 5, 14	"{""2"": [""hotel""], ""4"": [""hotel""], ""5"": [""hotel""], ""14"": [""hotel""]}"
+2	2	1	5	2	1	Human	4, 5	"{""4"": [""area""], ""5"": [""area""]}"
+2	2	2	15	16	1	Human	0, 15	"{""0"": [""hamilton lodge""], ""15"": [""hamilton lodge""]}"
+2	2	1	12	2	1	Agent	11, 12	"{""11"": [""information""], ""12"": [""information""]}"
+2	2	1	14	4	1	Agent	11, 14	"{""11"": [""gardina""], ""14"": [""gardina""]}"
+2	2	2	7	2	1	Human	6, 7	"{""6"": [""unusual cuisine""], ""7"": [""unusual cuisines""]}"
+4	4	1	7	8	1	Human	6, 7, 11, 13	"{""6"": [""restaurant""], ""7"": [""restaurants""], ""11"": [""restaurant""], ""13"": [""restaurant""]}"
+4	1	1	14	13	2	Human	2, 4, 5, 14	"{""2"": [""type""], ""4"": [""type""], ""5"": [""type""], ""14"": [""type""]}"
+2	2	1	15	2	1	Human	14, 15	"{""14"": [""number""], ""15"": [""number""]}"
+2	2	1	3	2	1	Human	2, 3	"{""2"": [""stars""], ""3"": [""stars""]}"

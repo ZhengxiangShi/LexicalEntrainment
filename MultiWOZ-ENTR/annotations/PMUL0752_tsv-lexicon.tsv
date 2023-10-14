@@ -1,0 +1,8 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	3	15	2	1	Human	14, 15	"{""14"": [""table for 1""], ""15"": [""table for one""]}"
+3	3	3	14	3	1	Agent	13, 14, 15	"{""13"": [""de luca cucina""], ""14"": [""de luca cucina""], ""15"": [""de luca cucina""]}"
+5	5	1	3	14	1	Human	2, 3, 14, 15	"{""2"": [""saturday""], ""3"": [""saturday""], ""14"": [""saturday""], ""15"": [""saturday""]}"
+3	3	1	9	4	1	Human	8, 9, 11	"{""8"": [""food""], ""9"": [""food""], ""11"": [""food""]}"
+3	3	1	3	6	1	Human	0, 3, 5	"{""0"": [""train""], ""3"": [""train""], ""5"": [""train""]}"
+2	2	1	3	4	1	Human	0, 3	"{""0"": [""cambridge""], ""3"": [""cambridge""]}"
+2	2	1	11	6	1	Human	6, 11	"{""6"": [""restaurant""], ""11"": [""restaurants""]}"

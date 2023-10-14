@@ -1,0 +1,4 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	3	1	2	1	Human	0, 1	"{""0"": [""wandlebury country park""], ""1"": [""wandlebury country park""]}"
+4	2	1	3	5	1	Human	0, 1, 3, 4	"{""0"": [""park""], ""1"": [""park""], ""3"": [""park""], ""4"": [""parking""]}"
+2	1	1	1	2	1	Human	0, 1	"{""0"": [""wandlebury""], ""1"": [""wandlebury"", ""wandlebury""]}"

@@ -1,0 +1,10 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	3	11	4	1	Human	10, 11, 13	"{""10"": [""saint catharine's college""], ""11"": [""saint catharine's college""], ""13"": [""saint catharine's college""]}"
+2	2	2	1	2	1	Human	0, 1	"{""0"": [""free parking""], ""1"": [""free parking""]}"
+5	5	1	1	17	1	Human	0, 1, 5, 6, 16	"{""0"": [""hotel""], ""1"": [""hotels""], ""5"": [""hotel""], ""6"": [""hotel""], ""16"": [""hotel""]}"
+2	2	2	9	2	1	Human	8, 9	"{""8"": [""reference number""], ""9"": [""reference number""]}"
+4	2	1	12	10	1	Human	8, 9, 12, 17	"{""8"": [""number""], ""9"": [""number""], ""12"": [""number""], ""17"": [""number""]}"
+3	1	1	11	4	1	Human	10, 11, 13	"{""10"": [""college""], ""11"": [""college"", ""college""], ""13"": [""college""]}"
+3	3	1	5	6	1	Human	2, 5, 7	"{""2"": [""guesthouse""], ""5"": [""guesthouse""], ""7"": [""guesthouse""]}"
+3	1	1	7	8	1	Human	0, 1, 7	"{""0"": [""parking""], ""1"": [""parking""], ""7"": [""parking""]}"
+2	2	1	1	2	1	Human	0, 1	"{""0"": [""wifi""], ""1"": [""wifi""]}"

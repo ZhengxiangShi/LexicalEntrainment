@@ -1,0 +1,12 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	4	18	10	1	Agent	11, 18, 20	"{""11"": [""aylesbray lodge guest house""], ""18"": [""aylesbray lodge guest house""], ""20"": [""aylesbray lodge guest house""]}"
+4	4	3	18	18	2	Agent	3, 17, 18, 20	"{""3"": [""gourmet burger kitchen""], ""17"": [""gourmet burger kitchen""], ""18"": [""gourmet burger kitchen""], ""20"": [""gourmet burger kitchen""]}"
+2	2	2	21	8	1	Human	14, 21	"{""14"": [""contact number""], ""21"": [""contact number""]}"
+2	2	1	13	2	1	Human	12, 13	"{""12"": [""internet""], ""13"": [""internet""]}"
+4	4	1	10	9	2	Agent	3, 9, 10, 11	"{""3"": [""pricing""], ""9"": [""price""], ""10"": [""price""], ""11"": [""price""]}"
+2	2	1	13	2	1	Human	12, 13	"{""12"": [""postcode""], ""13"": [""postcode""]}"
+4	2	1	14	17	2	Agent	5, 9, 14, 21	"{""5"": [""number""], ""9"": [""number""], ""14"": [""number""], ""21"": [""number""]}"
+3	3	1	6	5	1	Agent	3, 6, 7	"{""3"": [""area""], ""6"": [""area""], ""7"": [""area""]}"
+3	3	1	18	16	1	Agent	5, 18, 20	"{""5"": [""reservation""], ""18"": [""reservation""], ""20"": [""reservation""]}"
+2	2	1	2	2	1	Agent	1, 2	"{""1"": [""food""], ""2"": [""food""]}"
+2	2	1	14	14	1	Agent	1, 14	"{""1"": [""type""], ""14"": [""type""]}"

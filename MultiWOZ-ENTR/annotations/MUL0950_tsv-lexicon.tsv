@@ -1,0 +1,9 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	3	8	2	1	Agent	7, 8	"{""7"": [""type of museum""], ""8"": [""type of museum""]}"
+3	1	1	8	8	2	Agent	1, 7, 8	"{""1"": [""type""], ""7"": [""type""], ""8"": [""type""]}"
+3	3	1	4	3	1	Agent	3, 4, 5	"{""3"": [""table""], ""4"": [""table""], ""5"": [""table""]}"
+3	3	1	7	8	2	Human	0, 6, 7	"{""0"": [""town""], ""6"": [""town""], ""7"": [""town""]}"
+2	2	2	5	2	1	Human	4, 5	"{""4"": [""reference number""], ""5"": [""reference number""]}"
+3	1	1	7	3	1	Human	6, 7, 8	"{""6"": [""museum""], ""7"": [""museum""], ""8"": [""museum""]}"
+3	1	1	9	6	1	Human	4, 5, 9	"{""4"": [""number""], ""5"": [""number""], ""9"": [""number""]}"
+2	2	1	11	2	1	Human	10, 11	"{""10"": [""trip""], ""11"": [""trip""]}"

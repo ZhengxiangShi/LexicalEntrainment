@@ -1,0 +1,4 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+4	4	1	1	6	1	Human	0, 1, 2, 5	"{""0"": [""cambridge""], ""1"": [""cambridge""], ""2"": [""cambridge""], ""5"": [""cambridge""]}"
+2	2	1	5	4	1	Human	2, 5	"{""2"": [""norwich""], ""5"": [""norwich""]}"
+2	2	1	9	2	1	Human	8, 9	"{""8"": [""postcode""], ""9"": [""postcode""]}"

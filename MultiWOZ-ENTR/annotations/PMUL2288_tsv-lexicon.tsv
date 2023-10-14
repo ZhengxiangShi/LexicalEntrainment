@@ -1,0 +1,5 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	4	5	2	1	Human	4, 5	"{""4"": [""college in the center""], ""5"": [""colleges in the centre""]}"
+2	2	1	9	2	1	Human	8, 9	"{""8"": [""day""], ""9"": [""day""]}"
+3	1	1	7	4	1	Human	4, 5, 7	"{""4"": [""college""], ""5"": [""colleges""], ""7"": [""college""]}"
+2	2	1	7	2	1	Human	6, 7	"{""6"": [""postcode""], ""7"": [""postcode""]}"

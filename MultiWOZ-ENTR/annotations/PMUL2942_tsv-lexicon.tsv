@@ -1,0 +1,13 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	4	10	8	1	Agent	3, 10	"{""3"": [""cambridge university botanic gardens""], ""10"": [""cambridge university botanic gardens""]}"
+2	2	1	7	8	1	Human	0, 7	"{""0"": [""centre""], ""7"": [""centre""]}"
+4	4	1	9	8	1	Human	8, 9, 14, 15	"{""8"": [""postcode""], ""9"": [""postcode""], ""14"": [""postcode""], ""15"": [""postcode""]}"
+3	3	1	7	4	2	Human	4, 6, 7	"{""4"": [""address""], ""6"": [""address""], ""7"": [""address""]}"
+2	2	1	12	2	1	Agent	11, 12	"{""11"": [""guesthouse""], ""12"": [""guesthouse""]}"
+2	2	2	15	2	1	Human	14, 15	"{""14"": [""free parking""], ""15"": [""free parking""]}"
+2	2	1	7	8	1	Human	0, 7	"{""0"": [""town""], ""7"": [""town""]}"
+3	3	1	10	10	2	Agent	1, 7, 10	"{""1"": [""area""], ""7"": [""area""], ""10"": [""area""]}"
+3	3	1	4	3	1	Agent	3, 4, 5	"{""3"": [""number""], ""4"": [""number""], ""5"": [""number""]}"
+3	1	1	15	14	2	Human	2, 14, 15	"{""2"": [""park""], ""14"": [""parking""], ""15"": [""parking""]}"
+3	3	1	13	14	2	Human	0, 10, 13	"{""0"": [""places""], ""10"": [""place""], ""13"": [""place""]}"
+3	3	1	14	15	1	Agent	1, 14	"{""1"": [""prices""], ""14"": [""price""]}"

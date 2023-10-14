@@ -1,0 +1,9 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	3	9	2	1	Human	8, 9	"{""8"": [""lynne strover gallery""], ""9"": [""lynne strover gallery's""]}"
+2	2	1	5	4	1	Human	2, 5	"{""2"": [""tuesday""], ""5"": [""tuesday""]}"
+3	3	1	6	5	1	Agent	3, 6, 7	"{""3"": [""time""], ""6"": [""time""], ""7"": [""time""]}"
+3	1	1	10	3	1	Human	8, 9, 10	"{""8"": [""gallery""], ""9"": [""gallery's""], ""10"": [""gallery""]}"
+2	2	1	9	2	1	Human	8, 9	"{""8"": [""address""], ""9"": [""address""]}"
+2	2	1	13	14	1	Human	0, 13	"{""0"": [""cambridge""], ""13"": [""cambridge""]}"
+2	2	1	12	12	1	Agent	1, 12	"{""1"": [""day""], ""12"": [""day""]}"
+2	2	1	7	8	1	Human	0, 7	"{""0"": [""train""], ""7"": [""train""]}"

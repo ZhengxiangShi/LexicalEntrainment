@@ -1,0 +1,10 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	5	1	2	1	Human	0, 1	"{""0"": [""abbey pool and astroturf pitch""], ""1"": [""abbey pool and astroturf pitch""]}"
+2	2	4	17	10	1	Human	8, 16, 17	"{""8"": [""3 people""], ""16"": [""3 people""], ""17"": [""3 people""]}"
+3	3	1	2	3	1	Agent	1, 2	"{""1"": [""east""], ""2"": [""east""]}"
+7	7	1	5	17	1	Human	4, 5, 8, 9, 17, 20	"{""4"": [""trains""], ""5"": [""train"", ""trains""], ""8"": [""train""], ""9"": [""trains""], ""17"": [""train""], ""20"": [""train""]}"
+3	3	1	4	8	1	Agent	3, 4, 10	"{""3"": [""cambridge""], ""4"": [""cambridge""], ""10"": [""cambridge""]}"
+2	2	1	19	2	1	Human	18, 19	"{""18"": [""hotel""], ""19"": [""hotel""]}"
+2	1	1	1	2	1	Human	0, 1	"{""0"": [""pool""], ""1"": [""pool""]}"
+2	2	1	9	4	1	Human	6, 9	"{""6"": [""time""], ""9"": [""time""]}"
+2	2	1	21	6	1	Human	16, 21	"{""16"": [""trip""], ""21"": [""trip""]}"

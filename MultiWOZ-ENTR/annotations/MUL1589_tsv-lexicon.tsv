@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	3	1	2	1	Human	0, 1	"{""0"": [""train leaving cambridge""], ""1"": [""trains leaving cambridge""]}"
+2	2	2	13	2	1	Human	12, 13	"{""12"": [""phone number""], ""13"": [""phone number""]}"
+4	2	1	3	5	1	Human	0, 1, 3, 4	"{""0"": [""train""], ""1"": [""trains""], ""3"": [""trains""], ""4"": [""train""]}"
+3	1	1	15	16	1	Human	0, 1, 15	"{""0"": [""cambridge""], ""1"": [""cambridge""], ""15"": [""cambridge""]}"
+3	3	1	13	8	1	Human	8, 13, 15	"{""8"": [""centre""], ""13"": [""centre""], ""15"": [""centre""]}"
+3	3	1	9	4	1	Human	8, 9, 11	"{""8"": [""restaurant""], ""9"": [""restaurants""], ""11"": [""restaurants""]}"
+3	3	1	6	13	1	Agent	3, 6, 15	"{""3"": [""time""], ""6"": [""time""], ""15"": [""time""]}"
+2	2	1	13	2	1	Human	12, 13	"{""12"": [""address""], ""13"": [""address""]}"
+2	2	1	5	4	1	Human	2, 5	"{""2"": [""broxbourne""], ""5"": [""broxbourne""]}"
+2	2	1	10	2	1	Agent	9, 10	"{""9"": [""food""], ""10"": [""food""]}"

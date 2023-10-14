@@ -1,0 +1,7 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	3	10	5	1	Agent	7, 10, 11	"{""7"": [""broughton house gallery""], ""10"": [""broughton house gallery""], ""11"": [""broughton house gallery""]}"
+3	3	3	1	7	1	Human	0, 1, 6	"{""0"": [""yippee noodle bar""], ""1"": [""yippee noodle bar""], ""6"": [""yippee noodle bar""]}"
+2	2	2	3	2	1	Human	2, 3	"{""2"": [""6 people""], ""3"": [""6 people""]}"
+3	3	1	2	3	1	Agent	1, 2, 3	"{""1"": [""reservation""], ""2"": [""reservation""], ""3"": [""reservation""]}"
+3	3	1	5	4	1	Human	4, 5, 7	"{""4"": [""town""], ""5"": [""town""], ""7"": [""town""]}"
+2	2	1	3	2	1	Human	2, 3	"{""2"": [""thursday""], ""3"": [""thursday""]}"

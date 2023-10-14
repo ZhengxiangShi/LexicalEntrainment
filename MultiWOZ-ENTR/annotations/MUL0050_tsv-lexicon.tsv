@@ -1,0 +1,13 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	2	7	2	1	Human	6, 7	"{""6"": [""guesthouse style""], ""7"": [""guesthouse style""]}"
+3	3	2	5	6	1	Human	4, 5, 9	"{""4"": [""free wifi""], ""5"": [""free wifi""], ""9"": [""free wifi""]}"
+3	3	1	10	9	1	Agent	5, 10, 13	"{""5"": [""room""], ""10"": [""room""], ""13"": [""room""]}"
+3	3	1	7	8	1	Human	6, 7, 11, 13	"{""6"": [""guesthouse""], ""7"": [""guesthouse""], ""11"": [""guesthouses""], ""13"": [""guesthouse""]}"
+2	2	2	9	4	1	Human	6, 9	"{""6"": [""free parking""], ""9"": [""free parking""]}"
+2	2	2	2	2	1	Agent	1, 2	"{""1"": [""particular location""], ""2"": [""particular location""]}"
+2	2	2	13	2	1	Human	12, 13	"{""12"": [""3 nights""], ""13"": [""3 nights""]}"
+4	4	1	5	13	1	Human	4, 5, 8, 16	"{""4"": [""hotel""], ""5"": [""hotel""], ""8"": [""hotels""], ""16"": [""hotel""]}"
+4	4	1	16	17	2	Agent	1, 5, 16, 17	"{""1"": [""restaurants""], ""5"": [""restaurant""], ""16"": [""restaurant""], ""17"": [""restaurant""]}"
+3	1	1	5	5	1	Agent	1, 2	"{""1"": [""location""], ""2"": [""location""]}"
+3	1	1	13	4	2	Human	10, 12, 13	"{""10"": [""nights""], ""12"": [""nights""], ""13"": [""nights""]}"
+2	2	1	17	2	1	Human	16, 17	"{""16"": [""contact""], ""17"": [""contact""]}"

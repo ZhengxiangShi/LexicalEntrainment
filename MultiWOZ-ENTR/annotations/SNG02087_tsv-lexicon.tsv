@@ -1,0 +1,5 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	2	5	2	1	Human	4, 5	"{""4"": [""paediatric clinic""], ""5"": [""paediatric clinic""]}"
+2	2	2	7	2	1	Human	6, 7	"{""6"": [""post code""], ""7"": [""post code""]}"
+3	3	2	3	4	1	Human	2, 3, 5	"{""2"": [""phone number""], ""3"": [""phone number""], ""5"": [""phone number""]}"
+2	2	1	1	2	1	Human	0, 1	"{""0"": [""hospital""], ""1"": [""hospital""]}"

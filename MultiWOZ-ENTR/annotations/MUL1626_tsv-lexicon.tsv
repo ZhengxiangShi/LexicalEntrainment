@@ -1,0 +1,12 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	1	7	15	1	Human	6, 7	"{""6"": [""west""], ""7"": [""west""]}"
+4	4	1	21	22	3	Human	0, 2, 20, 21	"{""0"": [""saturday""], ""2"": [""saturday""], ""20"": [""saturday""], ""21"": [""saturday""]}"
+2	2	2	21	6	1	Human	16, 21	"{""16"": [""reference number""], ""21"": [""reference number""]}"
+2	2	2	3	2	1	Human	2, 3	"{""2"": [""stansted airport""], ""3"": [""stansted airport""]}"
+3	3	1	5	14	1	Human	4, 5, 17	"{""4"": [""price""], ""5"": [""price""], ""17"": [""price""]}"
+6	6	1	11	14	1	Human	10, 11, 16, 18, 19, 23	"{""10"": [""day""], ""11"": [""day""], ""16"": [""day""], ""18"": [""day""], ""19"": [""day""], ""23"": [""day""]}"
+4	4	1	8	15	1	Agent	7, 8, 17, 21	"{""7"": [""restaurants""], ""8"": [""restaurant""], ""17"": [""restaurant""], ""21"": [""restaurant""]}"
+4	4	1	1	4	1	Human	0, 1, 2, 3	"{""0"": [""train""], ""1"": [""trains""], ""2"": [""train""], ""3"": [""train""]}"
+3	3	1	17	15	1	Human	6, 17, 20	"{""6"": [""place""], ""17"": [""place""], ""20"": [""place""]}"
+2	2	1	18	2	1	Agent	17, 18	"{""17"": [""meghna""], ""18"": [""meghna""]}"
+2	2	1	14	2	1	Agent	13, 14	"{""13"": [""open""], ""14"": [""open""]}"

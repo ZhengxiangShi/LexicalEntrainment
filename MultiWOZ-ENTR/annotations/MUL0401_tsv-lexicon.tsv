@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	4	3	2	1	Human	2, 3	"{""2"": [""kings lynn on saturday""], ""3"": [""kings lynn on saturday""]}"
+2	2	1	9	2	1	Human	8, 9	"{""8"": [""south""], ""9"": [""south""]}"
+2	2	2	5	2	1	Human	4, 5	"{""4"": [""credit card""], ""5"": [""credit card""]}"
+2	2	2	3	4	1	Human	0, 3	"{""0"": [""cambridge""], ""3"": [""cambridge""]}"
+2	2	1	12	10	1	Agent	3, 12	"{""3"": [""tr8364""], ""12"": [""tr8364""]}"
+2	2	2	13	2	1	Human	12, 13	"{""12"": [""travel time""], ""13"": [""travel time""]}"
+4	4	1	5	8	1	Human	4, 5, 10, 11	"{""4"": [""number""], ""5"": [""number""], ""10"": [""number""], ""11"": [""number""]}"
+4	4	1	8	5	1	Agent	7, 8, 9, 11	"{""7"": [""park""], ""8"": [""park""], ""9"": [""parks"", ""park""], ""11"": [""park"", ""park's""]}"
+2	2	1	7	2	1	Human	6, 7	"{""6"": [""attractions""], ""7"": [""attractions""]}"
+2	2	1	4	2	1	Agent	3, 4	"{""3"": [""tickets""], ""4"": [""ticket""]}"

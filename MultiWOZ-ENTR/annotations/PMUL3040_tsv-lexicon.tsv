@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	5	7	2	1	Human	4, 6, 7	"{""4"": [""peterborough to cambridge""], ""6"": [""peterborough to cambridge""], ""7"": [""peterborough to cambridge""]}"
+3	3	1	18	7	1	Agent	13, 18, 19	"{""13"": [""day""], ""18"": [""day""], ""19"": [""day""]}"
+3	3	2	9	5	1	Human	8, 9, 12	"{""8"": [""7 people""], ""9"": [""7 people""], ""12"": [""7 people""]}"
+4	4	1	3	10	2	Human	0, 2, 3, 4, 6, 7, 9	"{""0"": [""cambridge""], ""2"": [""cambridge""], ""3"": [""cambridge""], ""4"": [""cambridge""], ""6"": [""cambridge""], ""7"": [""cambridge""], ""9"": [""cambridge""]}"
+5	5	1	7	9	1	Human	6, 7, 9, 12, 14	"{""6"": [""sunday""], ""7"": [""sunday""], ""9"": [""sunday""], ""12"": [""sunday""], ""14"": [""sunday""]}"
+3	3	2	9	9	1	Human	8, 9, 16	"{""8"": [""reference number""], ""9"": [""reference number""], ""16"": [""reference number""]}"
+4	1	1	9	6	2	Human	4, 6, 7, 9	"{""4"": [""peterborough""], ""6"": [""peterborough""], ""7"": [""peterborough""], ""9"": [""peterborough""]}"
+4	4	1	3	5	1	Human	2, 3, 4, 6	"{""2"": [""train""], ""3"": [""train"", ""train""], ""4"": [""train""], ""6"": [""train""]}"
+3	3	1	13	6	1	Human	10, 13, 15	"{""10"": [""house""], ""13"": [""house""], ""15"": [""house""]}"
+2	2	1	15	16	1	Human	0, 15	"{""0"": [""information""], ""15"": [""information""]}"

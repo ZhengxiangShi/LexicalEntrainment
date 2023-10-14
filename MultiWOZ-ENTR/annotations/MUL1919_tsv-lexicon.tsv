@@ -1,0 +1,10 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+4	4	2	13	4	1	Human	12, 13, 14, 15	"{""12"": [""entrance fee""], ""13"": [""entrance fee""], ""14"": [""entrance fees""], ""15"": [""entrance fee""]}"
+4	4	2	11	8	1	Human	10, 11, 16, 17	"{""10"": [""phone number""], ""11"": [""phone number""], ""16"": [""phone number""], ""17"": [""phone number""]}"
+2	2	2	16	2	1	Agent	15, 16	"{""15"": [""two parks""], ""16"": [""two parks""]}"
+4	4	1	9	10	1	Human	8, 9, 16, 17	"{""8"": [""address""], ""9"": [""address""], ""16"": [""address""], ""17"": [""address""]}"
+5	1	1	10	13	1	Agent	5, 10, 11, 16, 17	"{""5"": [""number""], ""10"": [""number""], ""11"": [""number""], ""16"": [""number""], ""17"": [""number""]}"
+4	4	1	8	6	1	Agent	7, 8, 9, 12	"{""7"": [""cinema""], ""8"": [""cinema""], ""9"": [""cinema""], ""12"": [""cinema""]}"
+4	2	1	16	9	2	Agent	9, 15, 16, 17	"{""9"": [""park""], ""15"": [""parks""], ""16"": [""parks""], ""17"": [""park""]}"
+2	2	1	9	8	1	Human	2, 9	"{""2"": [""cambridge""], ""9"": [""cambridge""]}"
+2	2	1	4	2	1	Agent	3, 4	"{""3"": [""tr1681""], ""4"": [""tr1681""]}"

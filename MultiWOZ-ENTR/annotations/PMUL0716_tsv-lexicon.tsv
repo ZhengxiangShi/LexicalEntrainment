@@ -1,0 +1,13 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	2	11	6	2	Human	6, 10, 11	"{""6"": [""train id""], ""10"": [""train id""], ""11"": [""train id""]}"
+2	2	2	15	2	1	Human	14, 15	"{""14"": [""departure time""], ""15"": [""departure time""]}"
+6	6	1	5	10	1	Human	2, 5, 6, 7, 8, 9, 10, 11	"{""2"": [""train""], ""5"": [""train""], ""6"": [""train""], ""7"": [""train""], ""8"": [""train""], ""9"": [""train""], ""10"": [""train""], ""11"": [""train""]}"
+3	3	1	1	2	1	Human	0, 1	"{""0"": [""taxi""], ""1"": [""taxi""]}"
+5	3	1	4	13	1	Agent	3, 4, 9, 14, 15	"{""3"": [""time""], ""4"": [""time""], ""9"": [""time""], ""14"": [""time""], ""15"": [""time""]}"
+3	3	1	21	22	2	Human	0, 16, 21	"{""0"": [""centre""], ""16"": [""centre""], ""21"": [""centre""]}"
+3	3	1	20	3	1	Agent	19, 20, 21	"{""19"": [""cotto""], ""20"": [""cotto""], ""21"": [""cotto""]}"
+2	2	1	21	2	1	Human	20, 21	"{""20"": [""address""], ""21"": [""address""]}"
+2	2	1	18	2	1	Agent	17, 18	"{""17"": [""food""], ""18"": [""food""]}"
+2	2	1	15	14	1	Human	2, 15	"{""2"": [""leicester""], ""15"": [""leicester""]}"
+2	2	1	21	2	1	Human	20, 21	"{""20"": [""postcode""], ""21"": [""postcode""]}"
+2	2	1	14	2	1	Agent	13, 14	"{""13"": [""tickets""], ""14"": [""tickets""]}"

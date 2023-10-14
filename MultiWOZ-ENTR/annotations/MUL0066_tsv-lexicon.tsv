@@ -1,0 +1,12 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	3	4	2	1	Agent	3, 4, 6	"{""3"": [""hotel""], ""4"": [""hotel""], ""6"": [""hotel""]}"
+4	4	1	1	10	1	Human	0, 1, 7, 9	"{""0"": [""centre""], ""1"": [""centre""], ""7"": [""centre""], ""9"": [""centre""]}"
+2	2	3	9	2	1	Human	8, 9	"{""8"": [""african food""], ""9"": [""african food""]}"
+5	5	1	7	7	1	Human	6, 7, 8, 9, 12	"{""6"": [""bedouin""], ""7"": [""bedouin""], ""8"": [""bedouin""], ""9"": [""bedouin""], ""12"": [""bedouin""]}"
+3	3	1	11	4	2	Human	8, 10, 11	"{""8"": [""postcode""], ""10"": [""postcode""], ""11"": [""postcode""]}"
+3	3	1	4	6	2	Agent	5, 6	"{""5"": [""booking""], ""6"": [""booking""]}"
+3	3	1	13	2	1	Human	12, 13	"{""12"": [""taxi""], ""13"": [""taxi""]}"
+2	2	2	7	2	1	Human	6, 7	"{""6"": [""reference number""], ""7"": [""reference number""]}"
+2	2	1	12	12	1	Agent	1, 12	"{""1"": [""alexander""], ""12"": [""alexander""]}"
+2	2	1	4	2	1	Agent	3, 4	"{""3"": [""people""], ""4"": [""people""]}"
+2	2	1	7	2	1	Human	6, 7	"{""6"": [""restaurant""], ""7"": [""restaurant""]}"

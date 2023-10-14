@@ -1,0 +1,12 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	4	7	4	1	Human	4, 7	"{""4"": [""guesthouse in the north""], ""7"": [""guesthouse in the north""]}"
+4	2	1	3	6	1	Human	2, 3, 4, 7	"{""2"": [""North""], ""3"": [""north""], ""4"": [""north""], ""7"": [""north""]}"
+3	3	3	7	8	2	Human	0, 4, 7	"{""0"": [""free wifi""], ""4"": [""free wifi""], ""7"": [""free wifi""]}"
+3	3	1	6	15	2	Agent	1, 5, 14, 15	"{""1"": [""price""], ""5"": [""price""], ""14"": [""price""], ""15"": [""price""]}"
+2	2	3	13	4	1	Human	10, 13	"{""10"": [""stevenage on friday""], ""13"": [""stevenage on friday""]}"
+4	4	1	11	6	1	Human	10, 11, 14, 15	"{""10"": [""ticket""], ""11"": [""tickets""], ""14"": [""tickets""], ""15"": [""ticket""]}"
+5	4	1	3	8	1	Human	0, 3, 4, 5, 7	"{""0"": [""guesthouse""], ""3"": [""guesthouse"", ""guesthouses""], ""4"": [""guesthouse""], ""5"": [""guesthouses""], ""7"": [""guesthouse"", ""guesthouse""]}"
+4	1	1	1	8	1	Human	0, 1, 4, 7	"{""0"": [""wifi""], ""1"": [""wifi""], ""4"": [""wifi""], ""7"": [""wifi""]}"
+2	2	1	13	2	1	Human	12, 13	"{""12"": [""cambridge""], ""13"": [""cambridge""]}"
+2	2	1	11	4	1	Human	8, 11	"{""8"": [""time""], ""11"": [""time""]}"
+2	2	1	17	8	1	Human	10, 17	"{""10"": [""train""], ""17"": [""train""]}"

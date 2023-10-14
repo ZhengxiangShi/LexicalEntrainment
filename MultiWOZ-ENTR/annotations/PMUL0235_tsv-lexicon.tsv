@@ -1,0 +1,10 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	2	8	7	1	Agent	7, 8, 13	"{""7"": [""ashley hotel""], ""8"": [""ashley hotel""], ""13"": [""ashley hotel""]}"
+4	1	1	9	7	1	Agent	7, 8, 9, 13	"{""7"": [""ashley""], ""8"": [""ashley""], ""9"": [""ashley""], ""13"": [""ashley""]}"
+3	3	2	9	10	2	Human	0, 8, 9	"{""0"": [""star hotel""], ""8"": [""star hotel""], ""9"": [""star hotel""]}"
+3	3	1	13	9	1	Human	12, 13, 20	"{""12"": [""postcode""], ""13"": [""postcode""], ""20"": [""postcode""]}"
+11	6	1	7	27	3	Human	0, 2, 4, 7, 8, 9, 13, 14, 16, 24, 26	"{""0"": [""hotel""], ""2"": [""hotels""], ""4"": [""hotel""], ""7"": [""hotel""], ""8"": [""hotel""], ""9"": [""hotel""], ""13"": [""hotel""], ""14"": [""hotel""], ""16"": [""hotel""], ""24"": [""hotel""], ""26"": [""hotel""]}"
+5	5	1	15	13	1	Human	14, 15, 16, 24, 26	"{""14"": [""restaurant""], ""15"": [""restaurant""], ""16"": [""restaurant""], ""24"": [""restaurant""], ""26"": [""restaurant""]}"
+3	3	1	13	9	1	Human	12, 13, 20	"{""12"": [""address""], ""13"": [""address""], ""20"": [""address""]}"
+3	3	1	28	16	2	Agent	15, 28	"{""15"": [""help""], ""28"": [""help""]}"
+2	2	1	16	16	1	Agent	1, 16	"{""1"": [""area""], ""16"": [""area""]}"

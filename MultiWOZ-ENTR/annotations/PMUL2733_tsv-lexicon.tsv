@@ -1,0 +1,13 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+4	4	2	5	8	1	Human	4, 5, 10, 11	"{""4"": [""phone number""], ""5"": [""phone number""], ""10"": [""phone number""], ""11"": [""phone number""]}"
+3	3	1	7	8	2	Human	6, 7	"{""6"": [""south""], ""7"": [""south""]}"
+2	2	3	12	8	1	Agent	5, 12	"{""5"": [""bridge guest house""], ""12"": [""bridge guest house""]}"
+2	2	3	2	2	1	Agent	1, 2	"{""1"": [""moderately priced guesthouse""], ""2"": [""moderately priced guesthouse""]}"
+3	3	2	12	4	2	Agent	9, 11, 12	"{""9"": [""art museum""], ""11"": [""art museum""], ""12"": [""art museum""]}"
+2	2	2	3	2	1	Human	2, 3	"{""2"": [""free wifi""], ""3"": [""free wifi""]}"
+5	1	1	13	10	1	Human	4, 5, 10, 11, 13	"{""4"": [""number""], ""5"": [""number""], ""10"": [""number""], ""11"": [""number""], ""13"": [""number""]}"
+4	1	1	12	6	3	Agent	7, 9, 11, 12	"{""7"": [""museum""], ""9"": [""museum""], ""11"": [""museum""], ""12"": [""museum""]}"
+3	3	1	8	12	1	Agent	1, 8, 12	"{""1"": [""hotel""], ""8"": [""hotel""], ""12"": [""hotel""]}"
+2	2	1	11	2	1	Human	10, 11	"{""10"": [""address""], ""11"": [""address""]}"
+2	2	1	7	2	1	Human	6, 7	"{""6"": [""attractions""], ""7"": [""attractions""]}"
+2	2	1	15	4	1	Human	12, 15	"{""12"": [""service""], ""15"": [""service""]}"

@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	4	1	6	1	Human	0, 1, 5	"{""0"": [""restaurant in the south""], ""1"": [""restaurants in the south""], ""5"": [""restaurant in the south""]}"
+2	2	4	16	8	1	Agent	9, 16	"{""9"": [""rosa's bed and breakfast""], ""16"": [""rosa's bed and breakfast""]}"
+4	1	1	8	9	1	Human	0, 1, 5, 8	"{""0"": [""south""], ""1"": [""south""], ""5"": [""south""], ""8"": [""south""]}"
+2	2	3	3	4	1	Human	0, 2, 3	"{""0"": [""christmas food""], ""2"": [""christmas food""], ""3"": [""christmas food""]}"
+2	2	2	17	2	1	Human	16, 17	"{""16"": [""contact number""], ""17"": [""contact number""]}"
+2	2	2	15	6	1	Human	10, 15	"{""10"": [""reference number""], ""15"": [""reference number""]}"
+5	2	1	1	5	1	Human	0, 1, 2, 3, 4	"{""0"": [""food""], ""1"": [""food""], ""2"": [""food""], ""3"": [""food""], ""4"": [""food""]}"
+2	2	1	5	2	1	Human	4, 5	"{""4"": [""portuguese""], ""5"": [""portuguese""]}"
+2	2	1	7	2	1	Human	6, 7	"{""6"": [""postcode""], ""7"": [""postcode""]}"
+2	2	1	10	2	1	Agent	9, 10	"{""9"": [""reservation""], ""10"": [""reservation""]}"

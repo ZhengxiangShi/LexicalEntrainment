@@ -1,0 +1,10 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	4	7	2	1	Human	6, 7	"{""6"": [""internet and free parking""], ""7"": [""internet and free parking""]}"
+2	2	4	11	8	1	Human	4, 11	"{""4"": [""address for leverton house""], ""11"": [""address for leverton house""]}"
+2	2	4	1	2	1	Human	0, 1	"{""0"": [""guesthouses in the east""], ""1"": [""guesthouses in the east""]}"
+3	1	1	11	12	1	Human	0, 1, 11	"{""0"": [""east""], ""1"": [""east""], ""11"": [""east""]}"
+3	1	2	6	5	1	Agent	3, 6, 7	"{""3"": [""free parking""], ""6"": [""free parking""], ""7"": [""free parking""]}"
+3	1	2	4	9	1	Agent	3, 4, 11	"{""3"": [""leverton house""], ""4"": [""leverton house""], ""11"": [""leverton house""]}"
+4	2	1	5	8	1	Human	4, 5, 10, 11	"{""4"": [""address""], ""5"": [""address""], ""10"": [""address""], ""11"": [""address""]}"
+3	1	1	6	5	1	Agent	3, 6, 7	"{""3"": [""internet""], ""6"": [""internet""], ""7"": [""internet""]}"
+2	2	1	15	4	1	Human	12, 15	"{""12"": [""train""], ""15"": [""trains""]}"

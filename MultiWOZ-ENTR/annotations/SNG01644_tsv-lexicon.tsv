@@ -1,0 +1,5 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	3	3	5	1	Human	0, 3, 4	"{""0"": [""broxbourne train station""], ""3"": [""broxbourne train station""], ""4"": [""broxbourne train station""]}"
+2	2	2	3	2	1	Human	2, 3	"{""2"": [""bankok city""], ""3"": [""bankok city""]}"
+2	2	2	5	2	1	Human	4, 5	"{""4"": [""contact number""], ""5"": [""contact number""]}"
+3	1	1	4	3	1	Human	2, 3, 4	"{""2"": [""city""], ""3"": [""city""], ""4"": [""city""]}"

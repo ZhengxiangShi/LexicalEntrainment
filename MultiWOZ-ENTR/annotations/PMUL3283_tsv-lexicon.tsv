@@ -1,0 +1,10 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	3	19	8	2	Human	12, 18, 19	"{""12"": [""bridge guest house""], ""18"": [""bridge guest house""], ""19"": [""bridge guest house""]}"
+3	1	2	19	8	2	Human	12, 18, 19	"{""12"": [""guest house""], ""18"": [""guest house""], ""19"": [""guest house""]}"
+2	2	2	23	2	1	Human	22, 23	"{""22"": [""contact number""], ""23"": [""contact number""]}"
+2	2	1	16	2	1	Agent	15, 16	"{""15"": [""people""], ""16"": [""people""]}"
+5	5	1	1	11	1	Human	0, 1, 2, 3, 10	"{""0"": [""restaurant""], ""1"": [""restaurant""], ""2"": [""restaurant""], ""3"": [""restaurant""], ""10"": [""restaurant""]}"
+4	4	1	3	20	1	Human	2, 3, 19, 21	"{""2"": [""eraina""], ""3"": [""eraina""], ""19"": [""eraina""], ""21"": [""eraina""]}"
+4	2	1	23	18	3	Human	6, 14, 22, 23	"{""6"": [""number""], ""14"": [""number""], ""22"": [""number""], ""23"": [""number""]}"
+3	3	1	11	13	1	Human	10, 11, 22	"{""10"": [""hotel""], ""11"": [""hotel""], ""22"": [""hotel""]}"
+2	2	1	5	2	1	Human	4, 5	"{""4"": [""food""], ""5"": [""food""]}"

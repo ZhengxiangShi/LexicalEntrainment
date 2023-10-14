@@ -1,0 +1,9 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	3	11	2	1	Human	0, 10, 11	"{""0"": [""cambridge""], ""10"": [""cambridge""], ""11"": [""cambridge""]}"
+3	3	2	9	4	1	Human	8, 9, 11	"{""8"": [""bishops stortford""], ""9"": [""bishops stortford""], ""11"": [""bishops stortford""]}"
+4	4	2	7	8	1	Human	6, 7, 12, 13	"{""6"": [""reference number""], ""7"": [""reference number""], ""12"": [""reference number""], ""13"": [""reference number""]}"
+5	5	1	9	6	1	Human	8, 9, 10, 11, 13	"{""8"": [""train""], ""9"": [""trains""], ""10"": [""train""], ""11"": [""train""], ""13"": [""train""]}"
+3	3	1	9	8	1	Human	8, 9, 15	"{""8"": [""day""], ""9"": [""day""], ""15"": [""day""]}"
+3	3	1	5	9	1	Human	4, 5, 12	"{""4"": [""people""], ""5"": [""people""], ""12"": [""people""]}"
+3	3	1	1	9	1	Human	0, 1, 8	"{""0"": [""restaurant""], ""1"": [""restaurants""], ""8"": [""restaurant""]}"
+2	2	1	13	10	1	Human	4, 13	"{""4"": [""tuesday""], ""13"": [""tuesday""]}"

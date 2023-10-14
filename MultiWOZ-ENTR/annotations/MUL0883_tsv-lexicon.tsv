@@ -1,0 +1,13 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	5	5	2	1	Human	4, 5	"{""4"": [""theatre in the same area""], ""5"": [""theaters in the same area""]}"
+4	4	3	8	4	1	Agent	7, 8, 9, 10	"{""7"": [""cambridge arts theatre""], ""8"": [""cambridge arts theatre""], ""9"": [""cambridge arts theatre""], ""10"": [""cambridge arts theatre""]}"
+2	2	3	5	2	1	Human	4, 5	"{""4"": [""table for 2""], ""5"": [""table for two""]}"
+2	2	1	13	14	1	Human	0, 13	"{""0"": [""cambridge""], ""13"": [""cambridge""]}"
+2	2	2	9	2	1	Human	8, 9	"{""8"": [""entrance fee""], ""9"": [""entrance fee""]}"
+3	3	2	7	4	1	Human	6, 7, 9	"{""6"": [""phone number""], ""7"": [""phone number""], ""9"": [""phone number""]}"
+5	1	2	8	6	2	Agent	5, 7, 8, 9, 10	"{""5"": [""cambridge arts""], ""7"": [""cambridge arts""], ""8"": [""cambridge arts""], ""9"": [""cambridge arts""], ""10"": [""cambridge arts""]}"
+6	3	1	5	8	1	Human	4, 5, 6, 7, 9, 11	"{""4"": [""number""], ""5"": [""number""], ""6"": [""number""], ""7"": [""number""], ""9"": [""number""], ""11"": [""number""]}"
+3	3	1	4	4	2	Agent	1, 3, 4	"{""1"": [""restaurants"", ""restaurant""], ""3"": [""restaurant""], ""4"": [""restaurant""]}"
+2	2	1	2	2	1	Agent	1, 2	"{""1"": [""cuisine""], ""2"": [""cuisine""]}"
+2	2	1	10	8	1	Agent	3, 10	"{""3"": [""meghna""], ""10"": [""meghna""]}"
+2	2	1	11	2	1	Human	10, 11	"{""10"": [""taxi""], ""11"": [""taxi""]}"

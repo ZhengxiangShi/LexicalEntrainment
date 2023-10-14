@@ -1,0 +1,10 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+5	5	2	11	14	2	Human	6, 10, 11, 18, 19	"{""6"": [""reference number""], ""10"": [""reference number""], ""11"": [""reference number""], ""18"": [""reference number""], ""19"": [""reference number""]}"
+3	3	1	16	5	1	Agent	15, 16, 19	"{""15"": [""table""], ""16"": [""table""], ""19"": [""table""]}"
+5	5	1	5	15	1	Human	4, 5, 8, 16, 18	"{""4"": [""friday""], ""5"": [""friday""], ""8"": [""friday""], ""16"": [""friday""], ""18"": [""friday""]}"
+6	6	1	9	16	1	Human	17, 18	"{""17"": [""booking""], ""18"": [""booking""]}"
+4	4	1	20	21	2	Agent	1, 15, 20, 21	"{""1"": [""hotels""], ""15"": [""hotel""], ""20"": [""hotel""], ""21"": [""hotel's""]}"
+6	1	1	11	14	3	Human	6, 8, 10, 11, 18, 19	"{""6"": [""number""], ""8"": [""number""], ""10"": [""number""], ""11"": [""number""], ""18"": [""number""], ""19"": [""number""]}"
+4	4	1	10	6	3	Agent	5, 7, 9, 10	"{""5"": [""night""], ""7"": [""nights""], ""9"": [""nights""], ""10"": [""nights""]}"
+4	4	1	6	11	1	Agent	5, 6, 8	"{""5"": [""reservation""], ""6"": [""reservation""], ""8"": [""reservation""]}"
+3	3	1	10	8	1	Agent	9, 10, 16	"{""9"": [""people""], ""10"": [""people""], ""16"": [""people""]}"

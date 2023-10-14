@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	7	13	2	1	Human	12, 13	"{""12"": [""friday for 2 people at 8 pm""], ""13"": [""friday for 2 people at 8 pm""]}"
+2	2	2	6	2	1	Agent	5, 6	"{""5"": [""tr3240""], ""6"": [""tr3240""]}"
+3	1	2	13	8	2	Human	6, 12, 13	"{""6"": [""two people""], ""12"": [""2 people""], ""13"": [""2 people""]}"
+2	2	3	12	8	1	Agent	5, 6, 12, 13	"{""5"": [""reservation""], ""6"": [""reservation""], ""12"": [""reservation""], ""13"": [""reservation""]}"
+3	3	2	14	8	2	Agent	7, 13, 14	"{""7"": [""reference number""], ""13"": [""reference number""], ""14"": [""reference number""]}"
+3	3	1	12	3	1	Agent	11, 12, 13	"{""11"": [""hotpot""], ""12"": [""hotpot""], ""13"": [""hotpot""]}"
+2	2	2	1	2	1	Human	0, 1, 5	"{""0"": [""train""], ""1"": [""trains""], ""5"": [""trains""]}"
+2	2	1	4	2	1	Agent	3, 4	"{""3"": [""time""], ""4"": [""time""]}"
+2	2	1	11	2	1	Human	10, 11	"{""10"": [""code""], ""11"": [""code""]}"
+2	2	1	1	2	1	Human	0, 1	"{""0"": [""ely""], ""1"": [""ely""]}"

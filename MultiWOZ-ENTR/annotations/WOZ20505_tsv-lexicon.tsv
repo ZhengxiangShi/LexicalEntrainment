@@ -1,0 +1,4 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	4	4	2	1	Agent	3, 4	"{""3"": [""address and phone number""], ""4"": [""address and phone number""]}"
+3	1	2	5	3	1	Agent	3, 4, 5	"{""3"": [""phone number""], ""4"": [""phone number""], ""5"": [""phone number""]}"
+3	3	1	3	8	1	Human	0, 3, 7	"{""0"": [""food""], ""3"": [""food""], ""7"": [""food""]}"

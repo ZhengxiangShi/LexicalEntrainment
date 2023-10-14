@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+4	4	1	1	10	1	Human	0, 1, 4, 9	"{""0"": [""centre""], ""1"": [""centre""], ""4"": [""centre""], ""9"": [""centre""]}"
+2	2	3	15	4	1	Human	12, 13, 15	"{""12"": [""taxi""], ""13"": [""taxi""], ""15"": [""taxi""]}"
+4	4	2	3	10	1	Human	2, 3, 10, 11	"{""2"": [""phone number""], ""3"": [""phone number""], ""10"": [""phone number""], ""11"": [""phone number""]}"
+2	2	2	14	12	1	Agent	3, 14	"{""3"": [""mary's church""], ""14"": [""mary's church""]}"
+2	2	1	15	4	1	Human	12, 15	"{""12"": [""church""], ""15"": [""church""]}"
+5	1	1	15	14	1	Human	2, 3, 10, 11, 15	"{""2"": [""number""], ""3"": [""number""], ""10"": [""number""], ""11"": [""number""], ""15"": [""number""]}"
+3	3	1	8	4	2	Agent	5, 7, 8	"{""5"": [""food""], ""7"": [""food""], ""8"": [""food""]}"
+3	3	1	9	10	2	Human	0, 2, 9	"{""0"": [""place""], ""2"": [""place""], ""9"": [""place""]}"
+3	3	1	3	11	1	Human	2, 3, 12	"{""2"": [""postcode""], ""3"": [""postcode""], ""12"": [""postcode""]}"
+2	2	1	16	2	1	Agent	15, 16	"{""15"": [""car""], ""16"": [""car""]}"

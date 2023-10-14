@@ -1,0 +1,12 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	4	10	4	1	Agent	7, 10	"{""7"": [""whale of a time""], ""10"": [""whale of a time""]}"
+3	3	1	5	4	1	Human	4, 5, 7	"{""4"": [""west""], ""5"": [""west""], ""7"": [""west""]}"
+3	3	3	1	11	1	Human	0, 1, 10	"{""0"": [""lan hong house""], ""1"": [""lan hong house""], ""10"": [""lan hong house""]}"
+2	2	2	13	2	1	Human	12, 13	"{""12"": [""contact number""], ""13"": [""contact number""]}"
+2	2	2	9	2	1	Human	8, 9	"{""8"": [""phone number""], ""9"": [""phone number""]}"
+2	2	1	6	2	1	Agent	5, 6	"{""5"": [""entertainment""], ""6"": [""entertainment""]}"
+2	2	2	7	2	1	Human	6, 7	"{""6"": [""entertainment attraction""], ""7"": [""entertainment attraction""]}"
+2	2	2	3	2	1	Human	2, 3	"{""2"": [""reference number""], ""3"": [""reference number""]}"
+4	2	1	6	4	1	Agent	5, 6, 7, 8	"{""5"": [""attractions""], ""6"": [""attraction""], ""7"": [""attraction""], ""8"": [""attraction""]}"
+3	3	1	10	10	2	Agent	1, 10	"{""1"": [""reservation""], ""10"": [""reservation""]}"
+2	1	1	10	4	1	Agent	7, 10	"{""7"": [""time""], ""10"": [""time"", ""time""]}"

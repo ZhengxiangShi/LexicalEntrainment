@@ -1,0 +1,7 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	3	9	6	1	Human	8, 9, 13	"{""8"": [""cafe jello gallery""], ""9"": [""cafe jello gallery's""], ""13"": [""cafe jello gallery""]}"
+2	2	2	15	2	1	Human	14, 15	"{""14"": [""contact number""], ""15"": [""contact number""]}"
+2	2	2	9	2	1	Human	8, 9	"{""8"": [""phone number""], ""9"": [""phone number""]}"
+5	1	1	8	9	1	Agent	7, 8, 9, 14, 15	"{""7"": [""number""], ""8"": [""number""], ""9"": [""number""], ""14"": [""number""], ""15"": [""number""]}"
+4	1	1	11	6	1	Human	8, 9, 11, 13	"{""8"": [""gallery""], ""9"": [""gallery's""], ""11"": [""gallery""], ""13"": [""gallery""]}"
+3	3	1	14	4	2	Agent	11, 13, 14	"{""11"": [""car""], ""13"": [""car""], ""14"": [""car""]}"

@@ -1,0 +1,5 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	1	17	2	1	Human	16, 17	"{""16"": [""day""], ""17"": [""day""]}"
+3	3	2	1	5	1	Human	0, 1, 4	"{""0"": [""cherry hinton""], ""1"": [""cherry hinton""], ""4"": [""cherry hinton""]}"
+2	2	1	17	16	1	Human	2, 17	"{""2"": [""excellent""], ""17"": [""excellent""]}"
+2	2	1	12	2	1	Agent	11, 12	"{""11"": [""seats""], ""12"": [""seat""]}"

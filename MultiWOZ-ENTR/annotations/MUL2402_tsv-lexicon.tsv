@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	2	3	4	1	Human	2, 3, 5	"{""2"": [""admission fee""], ""3"": [""admission fee""], ""5"": [""admission fee""]}"
+2	2	2	7	6	1	Human	2, 7	"{""2"": [""east side""], ""7"": [""east side""]}"
+2	2	2	10	4	1	Agent	7, 10	"{""7"": [""yu garden""], ""10"": [""yu garden""]}"
+4	4	1	3	9	2	Human	0, 2, 3, 8	"{""0"": [""museum""], ""2"": [""museum""], ""3"": [""museum"", ""museums""], ""8"": [""museum""]}"
+3	3	1	3	4	1	Human	2, 3, 5	"{""2"": [""postcode""], ""3"": [""postcode""], ""5"": [""postcode""]}"
+3	3	1	7	3	1	Human	6, 7, 8	"{""6"": [""restaurant""], ""7"": [""restaurant""], ""8"": [""restaurant""]}"
+3	3	1	9	4	1	Human	8, 9, 11	"{""8"": [""taxi""], ""9"": [""taxi""], ""11"": [""taxi""]}"
+2	2	1	1	2	1	Human	0, 1	"{""0"": [""attraction""], ""1"": [""attractions""]}"
+2	2	1	11	10	1	Human	2, 11	"{""2"": [""number""], ""11"": [""number""]}"
+2	2	1	5	4	1	Human	2, 5	"{""2"": [""phone""], ""5"": [""phone""]}"

@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	7	22	6	2	Agent	17, 19, 22	"{""17"": [""whipple museum of the history of science""], ""19"": [""whipple museum of the history of science""], ""22"": [""whipple museum of the history of science""]}"
+3	3	4	22	15	1	Agent	9, 22, 23	"{""9"": [""alexander bed and breakfast""], ""22"": [""alexander bed and breakfast""], ""23"": [""alexander bed and breakfast""]}"
+2	2	4	23	6	1	Human	18, 23	"{""18"": [""whipple museum of history""], ""23"": [""whipple museum of history""]}"
+2	2	4	17	2	1	Human	16, 17	"{""16"": [""museum in the centre""], ""17"": [""museums in the center""]}"
+2	2	1	16	15	2	Agent	3, 9, 16, 17	"{""3"": [""centre""], ""9"": [""centre""], ""16"": [""centre""], ""17"": [""center""]}"
+3	3	2	19	7	1	Human	18, 19, 24	"{""18"": [""phone number""], ""19"": [""phone number""], ""24"": [""phone number""]}"
+4	4	1	14	8	1	Agent	13, 14, 16, 20	"{""13"": [""taxi""], ""14"": [""taxi""], ""16"": [""taxi""], ""20"": [""taxi""]}"
+2	2	2	9	6	1	Human	4, 9	"{""4"": [""4 stars""], ""9"": [""4 star""]}"
+2	2	2	9	8	1	Human	2, 9	"{""2"": [""guest house""], ""9"": [""guest house""]}"
+5	2	1	18	15	1	Agent	11, 18, 19, 24, 25	"{""11"": [""number""], ""18"": [""number""], ""19"": [""number""], ""24"": [""number""], ""25"": [""number""]}"

@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+4	4	2	10	5	2	Agent	7, 9, 10, 11	"{""7"": [""huntingdon marriott""], ""9"": [""huntingdon marriott""], ""10"": [""huntingdon marriott""], ""11"": [""huntingdon marriott""]}"
+3	3	2	9	4	2	Human	6, 8, 9	"{""6"": [""free parking""], ""8"": [""free parking""], ""9"": [""free parking""]}"
+2	2	1	9	2	1	Human	8, 9	"{""8"": [""internet""], ""9"": [""internet""]}"
+2	2	2	11	2	1	Human	10, 11	"{""10"": [""phone number""], ""11"": [""phone number""]}"
+2	2	2	3	2	1	Human	2, 3	"{""2"": [""reference number""], ""3"": [""reference number""]}"
+2	2	1	11	2	1	Human	10, 11	"{""10"": [""address""], ""11"": [""address""]}"
+6	6	1	5	8	1	Human	4, 5, 6, 7, 9, 11	"{""4"": [""hotel""], ""5"": [""hotels""], ""6"": [""hotel""], ""7"": [""hotel""], ""9"": [""hotel""], ""11"": [""hotel""]}"
+4	1	1	11	5	2	Agent	7, 9, 10, 11	"{""7"": [""huntingdon""], ""9"": [""huntingdon""], ""10"": [""huntingdon""], ""11"": [""huntingdon"", ""huntingdon""]}"
+4	1	1	11	6	2	Human	6, 8, 9, 11	"{""6"": [""parking""], ""8"": [""parking""], ""9"": [""parking""], ""11"": [""park""]}"
+2	2	1	1	2	1	Human	0, 1	"{""0"": [""restaurant""], ""1"": [""restaurant""]}"

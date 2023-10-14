@@ -1,0 +1,13 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	3	9	4	1	Human	8, 9, 11	"{""8"": [""wandlebury country park""], ""9"": [""wandlebury country park""], ""11"": [""wandlebury country park""]}"
+2	2	2	7	2	1	Human	6, 7	"{""6"": [""2 nights""], ""7"": [""2 nights""]}"
+2	2	1	5	6	1	Human	0, 5	"{""0"": [""south""], ""5"": [""south""]}"
+2	2	2	17	2	1	Human	16, 17	"{""16"": [""contact number""], ""17"": [""contact number""]}"
+6	6	1	1	15	1	Human	0, 1, 2, 4, 12, 14	"{""0"": [""hotel""], ""1"": [""hotels""], ""2"": [""hotel""], ""4"": [""hotels""], ""12"": [""hotel""], ""14"": [""hotel""]}"
+2	2	2	11	2	1	Human	10, 11	"{""10"": [""phone number""], ""11"": [""phone number""]}"
+2	2	2	5	2	1	Human	4, 5	"{""4"": [""3 star""], ""5"": [""3 stars""]}"
+5	2	1	8	10	1	Agent	5, 8, 9, 11, 14	"{""5"": [""parking""], ""8"": [""park""], ""9"": [""park""], ""11"": [""park""], ""14"": [""park""]}"
+3	1	1	5	4	2	Human	2, 4, 5	"{""2"": [""star""], ""4"": [""star""], ""5"": [""stars""]}"
+3	1	1	9	4	1	Human	8, 9, 11	"{""8"": [""wandlebury""], ""9"": [""wandlebury"", ""wandlebury""], ""11"": [""wandlebury""]}"
+2	2	1	9	2	1	Human	8, 9	"{""8"": [""info""], ""9"": [""information""]}"
+2	2	1	7	2	1	Human	6, 7	"{""6"": [""thursday""], ""7"": [""thursday""]}"

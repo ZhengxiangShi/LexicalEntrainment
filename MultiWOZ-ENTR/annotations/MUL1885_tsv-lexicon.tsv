@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	1	1	3	1	Human	0, 1, 2	"{""0"": [""centre""], ""1"": [""centre""], ""2"": [""centre""]}"
+4	4	1	3	4	1	Human	2, 3, 5	"{""2"": [""museums""], ""3"": [""museum""], ""5"": [""museum"", ""museums""]}"
+2	2	1	9	4	1	Human	6, 9	"{""6"": [""cambridge""], ""9"": [""cambridge""]}"
+2	2	2	1	2	1	Human	0, 1	"{""0"": [""multiple sports""], ""1"": [""multiple sports""]}"
+2	2	2	7	2	1	Human	6, 7	"{""6"": [""phone numbers""], ""7"": [""phone number""]}"
+2	2	2	11	2	1	Human	10, 11	"{""10"": [""reference number""], ""11"": [""reference number""]}"
+3	3	1	7	4	1	Human	6, 7, 9	"{""6"": [""train""], ""7"": [""train""], ""9"": [""train""]}"
+2	2	1	9	4	1	Human	6, 9	"{""6"": [""broxbourne""], ""9"": [""broxbourne""]}"
+2	2	1	12	2	1	Agent	11, 12	"{""11"": [""help""], ""12"": [""help""]}"
+2	2	1	9	2	1	Human	8, 9	"{""8"": [""sunday""], ""9"": [""sunday""]}"

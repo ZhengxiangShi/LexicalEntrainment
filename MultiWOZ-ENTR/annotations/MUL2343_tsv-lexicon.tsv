@@ -1,0 +1,12 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	4	10	8	1	Agent	3, 10	"{""3"": [""kings hedges learner pool""], ""10"": [""kings hedges learner pool""]}"
+2	2	2	9	2	1	Human	8, 9	"{""8"": [""4 people""], ""9"": [""4 people""]}"
+4	4	2	13	12	3	Human	2, 10, 12, 13	"{""2"": [""entrance fee""], ""10"": [""entrance fee""], ""12"": [""entrance fee""], ""13"": [""entrance fee""]}"
+2	2	1	9	4	1	Human	6, 9	"{""6"": [""table""], ""9"": [""table""]}"
+2	1	2	10	8	1	Agent	3, 10	"{""3"": [""kings hedges""], ""10"": [""kings hedges""]}"
+2	2	2	7	4	1	Human	4, 7	"{""4"": [""mediterranean restaurant""], ""7"": [""mediterranean restaurants""]}"
+5	3	1	3	17	1	Human	0, 3, 10, 12, 16	"{""0"": [""pool""], ""3"": [""pool""], ""10"": [""pool""], ""12"": [""pools""], ""16"": [""pool""]}"
+3	1	1	10	10	2	Agent	1, 3, 10	"{""1"": [""hedges""], ""3"": [""hedges""], ""10"": [""hedges""]}"
+3	1	1	16	13	1	Human	4, 7, 16	"{""4"": [""restaurant""], ""7"": [""restaurants""], ""16"": [""restaurant""]}"
+3	3	1	15	3	1	Human	14, 15, 16	"{""14"": [""taxi""], ""15"": [""taxi""], ""16"": [""taxi""]}"
+2	2	1	5	6	1	Human	0, 5	"{""0"": [""town""], ""5"": [""town""]}"

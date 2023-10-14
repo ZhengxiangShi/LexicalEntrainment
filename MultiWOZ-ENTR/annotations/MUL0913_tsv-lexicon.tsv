@@ -1,0 +1,12 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	3	8	2	1	Agent	7, 8, 9	"{""7"": [""reservation""], ""8"": [""reservation""], ""9"": [""reservation""]}"
+2	2	2	9	2	1	Human	8, 9	"{""8"": [""2 people""], ""9"": [""2 people""]}"
+3	3	2	8	3	1	Agent	7, 8, 9	"{""7"": [""charlie chan""], ""8"": [""charlie chan""], ""9"": [""charlie chan""]}"
+3	3	2	5	3	1	Human	4, 5, 6	"{""4"": [""chinese restaurant""], ""5"": [""chinese restaurants""], ""6"": [""chinese restaurant""]}"
+2	2	1	3	2	1	Human	2, 3	"{""2"": [""address""], ""3"": [""address""]}"
+4	4	1	1	4	1	Human	0, 1, 2, 3	"{""0"": [""theatre""], ""1"": [""theatres""], ""2"": [""theater""], ""3"": [""theatre's""]}"
+3	3	1	2	4	1	Agent	1, 2, 4	"{""1"": [""centre""], ""2"": [""centre""], ""4"": [""centre""]}"
+2	2	1	2	2	1	Agent	1, 2	"{""1"": [""area""], ""2"": [""area""]}"
+2	2	1	9	2	1	Human	8, 9	"{""8"": [""monday""], ""9"": [""monday""]}"
+2	2	1	3	2	1	Human	2, 3	"{""2"": [""postcode""], ""3"": [""postcode""]}"
+2	2	1	9	2	1	Human	8, 9	"{""8"": [""table""], ""9"": [""table""]}"

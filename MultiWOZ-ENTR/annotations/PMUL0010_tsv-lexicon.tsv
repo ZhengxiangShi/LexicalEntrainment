@@ -1,0 +1,12 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	5	3	2	1	Human	2, 3	"{""2"": [""guesthouse on the east side""], ""3"": [""guesthouses on the east side""]}"
+3	1	2	11	10	1	Human	2, 3, 11	"{""2"": [""east side""], ""3"": [""east side""], ""11"": [""east side""]}"
+3	3	2	5	16	1	Human	4, 5, 19	"{""4"": [""reference number""], ""5"": [""reference number""], ""19"": [""reference number""]}"
+2	2	1	2	2	1	Agent	1, 2	"{""1"": [""guesthouse""], ""2"": [""guesthouse""]}"
+2	2	2	4	2	1	Agent	3, 4	"{""3"": [""free parking""], ""4"": [""free parking""]}"
+2	2	2	9	10	1	Human	0, 9	"{""0"": [""price range""], ""9"": [""price range""]}"
+4	1	1	21	18	1	Human	4, 5, 19, 21	"{""4"": [""number""], ""5"": [""number""], ""19"": [""number""], ""21"": [""number""]}"
+3	3	1	20	14	2	Agent	7, 11, 20	"{""7"": [""restaurants""], ""11"": [""restaurants""], ""20"": [""restaurant""]}"
+2	2	1	8	2	1	Agent	7, 8	"{""7"": [""area""], ""8"": [""area""]}"
+2	2	1	8	8	1	Agent	1, 8	"{""1"": [""hotel""], ""8"": [""hotel""]}"
+2	2	1	18	2	1	Agent	17, 18	"{""17"": [""people""], ""18"": [""people""]}"

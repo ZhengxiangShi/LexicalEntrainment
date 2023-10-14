@@ -1,0 +1,8 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	2	3	5	1	Human	2, 3, 6	"{""2"": [""4 star""], ""3"": [""4 star""], ""6"": [""4 star""]}"
+3	3	2	3	4	1	Human	2, 3, 5	"{""2"": [""free parking""], ""3"": [""free parking""], ""5"": [""free parking""]}"
+3	3	1	17	6	2	Human	12, 14, 17	"{""12"": [""centre""], ""14"": [""centre""], ""17"": [""centre""]}"
+2	2	2	19	2	1	Human	18, 19	"{""18"": [""phone number""], ""19"": [""phone number""]}"
+3	3	1	11	9	1	Human	10, 11, 18	"{""10"": [""postcode""], ""11"": [""postcode""], ""18"": [""postcode""]}"
+4	4	1	7	7	2	Human	2, 6, 7, 8	"{""2"": [""hotel""], ""6"": [""hotels"", ""hotel""], ""7"": [""hotels""], ""8"": [""hotels""]}"
+2	2	1	17	2	1	Human	16, 17	"{""16"": [""college""], ""17"": [""college"", ""colleges""]}"

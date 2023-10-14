@@ -1,0 +1,13 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	1	11	4	1	Human	10, 11, 13	"{""10"": [""center""], ""11"": [""centre""], ""13"": [""centre""]}"
+3	3	1	11	5	1	Human	10, 11, 14	"{""10"": [""town""], ""11"": [""town""], ""14"": [""town""]}"
+2	2	1	5	2	1	Human	4, 5	"{""4"": [""internet""], ""5"": [""internet""]}"
+4	4	1	11	14	1	Human	6, 11, 13, 19	"{""6"": [""type""], ""11"": [""type""], ""13"": [""type""], ""19"": [""type""]}"
+5	5	1	18	8	3	Agent	11, 13, 15, 18	"{""11"": [""restaurants"", ""restaurant""], ""13"": [""restaurants""], ""15"": [""restaurant""], ""18"": [""restaurant""]}"
+6	6	1	1	19	1	Human	0, 1, 2, 6, 7, 18	"{""0"": [""hotel""], ""1"": [""hotel""], ""2"": [""hotel""], ""6"": [""hotel""], ""7"": [""hotel""], ""18"": [""hotel""]}"
+4	4	1	12	4	1	Agent	11, 12, 13, 14	"{""11"": [""food""], ""12"": [""food""], ""13"": [""food""], ""14"": [""food""]}"
+3	3	1	18	3	1	Agent	17, 18, 19	"{""17"": [""number""], ""18"": [""number""], ""19"": [""number""]}"
+2	2	1	19	2	1	Human	18, 19	"{""18"": [""car""], ""19"": [""car""]}"
+2	2	1	9	4	1	Human	6, 9	"{""6"": [""code""], ""9"": [""code""]}"
+2	2	1	13	2	1	Human	12, 13	"{""12"": [""preference""], ""13"": [""preference""]}"
+2	2	1	19	2	1	Human	18, 19	"{""18"": [""taxi""], ""19"": [""taxi""]}"

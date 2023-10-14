@@ -1,0 +1,6 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	3	1	2	1	Human	0, 1	"{""0"": [""university arms hotel""], ""1"": [""university arms hotel""]}"
+2	2	1	5	4	1	Human	2, 5	"{""2"": [""sunday""], ""5"": [""sunday""]}"
+2	2	2	5	2	1	Human	4, 5	"{""4"": [""2 nights""], ""5"": [""2 nights""]}"
+3	1	1	5	4	2	Human	2, 4, 5	"{""2"": [""nights""], ""4"": [""nights""], ""5"": [""nights""]}"
+2	1	1	1	2	1	Human	0, 1	"{""0"": [""hotel""], ""1"": [""hotel""]}"

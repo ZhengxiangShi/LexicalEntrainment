@@ -1,0 +1,5 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	4	13	8	1	Human	6, 13	"{""6"": [""kings lynn on sunday""], ""13"": [""kings lynn on sunday""]}"
+4	4	1	2	16	1	Agent	1, 2, 5, 16	"{""1"": [""table""], ""2"": [""table""], ""5"": [""table""], ""16"": [""table""]}"
+2	2	1	13	10	1	Human	4, 13	"{""4"": [""sunday""], ""13"": [""sunday""]}"
+2	2	1	12	6	1	Agent	7, 12	"{""7"": [""time""], ""12"": [""time""]}"

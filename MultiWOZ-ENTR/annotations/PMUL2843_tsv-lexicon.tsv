@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	4	7	2	1	Human	6, 7	"{""6"": [""north side of town""], ""7"": [""north side of town""]}"
+2	2	2	1	2	1	Human	0, 1	"{""0"": [""west side""], ""1"": [""west side""]}"
+2	2	3	18	12	1	Agent	7, 18	"{""7"": [""acorn guest house""], ""18"": [""acorn guest house""]}"
+3	1	2	18	14	2	Agent	5, 7, 18	"{""5"": [""guest houses""], ""7"": [""guest house""], ""18"": [""guest house""]}"
+2	2	2	7	2	1	Human	6, 7	"{""6"": [""4 star""], ""7"": [""4 stars""]}"
+2	2	2	18	18	1	Agent	1, 18	"{""1"": [""kettle's yard""], ""18"": [""kettle's yard""]}"
+2	2	1	3	2	1	Human	2, 3	"{""2"": [""address""], ""3"": [""address""]}"
+4	4	1	7	9	2	Human	4, 6, 7, 12	"{""4"": [""guesthouse""], ""6"": [""guesthouses""], ""7"": [""guesthouses"", ""guesthouse""], ""12"": [""guesthouse""]}"
+3	1	1	8	12	1	Agent	7, 8, 18	"{""7"": [""acorn""], ""8"": [""acorn""], ""18"": [""acorn""]}"
+2	2	1	13	2	1	Human	12, 13	"{""12"": [""internet""], ""13"": [""internet""]}"

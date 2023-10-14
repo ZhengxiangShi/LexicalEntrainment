@@ -1,0 +1,13 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	2	14	6	2	Agent	9, 13, 14	"{""9"": [""cambridge belfry""], ""13"": [""cambridge belfry""], ""14"": [""cambridge belfry""]}"
+3	3	2	13	10	2	Human	4, 12, 13	"{""4"": [""4 people""], ""12"": [""4 people""], ""13"": [""4 people""]}"
+2	2	2	13	2	1	Human	12, 13	"{""12"": [""4 nights""], ""13"": [""4 nights""]}"
+3	3	1	9	10	1	Human	6, 9, 15	"{""6"": [""hotel""], ""9"": [""hotel""], ""15"": [""hotel""]}"
+2	2	1	10	2	1	Agent	9, 10	"{""9"": [""reservation""], ""10"": [""reservation""]}"
+2	2	2	15	2	1	Human	14, 15	"{""14"": [""guest house""], ""15"": [""guest house""]}"
+2	2	1	13	12	1	Human	2, 13	"{""2"": [""friday""], ""13"": [""friday""]}"
+4	1	1	9	15	1	Human	0, 9, 13, 14	"{""0"": [""cambridge""], ""9"": [""cambridge""], ""13"": [""cambridge""], ""14"": [""cambridge""]}"
+3	3	1	8	12	1	Agent	7, 18	"{""7"": [""preference""], ""18"": [""preference""]}"
+2	2	1	22	22	1	Agent	1, 22	"{""1"": [""day""], ""22"": [""day""]}"
+2	2	1	17	2	1	Human	16, 17	"{""16"": [""guesthouse""], ""17"": [""guesthouse""]}"
+2	2	1	17	12	1	Human	6, 17	"{""6"": [""wifi""], ""17"": [""wifi""]}"

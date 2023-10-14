@@ -1,0 +1,10 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+4	4	2	12	8	2	Agent	9, 11, 12, 16	"{""9"": [""cambridge punter""], ""11"": [""cambridge punter""], ""12"": [""cambridge punter""], ""16"": [""cambridge punter""]}"
+2	2	1	7	2	1	Human	6, 7	"{""6"": [""centre""], ""7"": [""centre""]}"
+2	2	2	11	2	1	Human	10, 11	"{""10"": [""phone number""], ""11"": [""phone number""]}"
+2	2	2	12	10	1	Agent	3, 12	"{""3"": [""pipasha restaurant""], ""12"": [""pipasha restaurant""]}"
+4	4	1	1	14	1	Human	0, 1, 3, 12, 13	"{""0"": [""restaurant""], ""1"": [""restaurants""], ""3"": [""restaurant""], ""12"": [""restaurant""], ""13"": [""restaurant""]}"
+4	2	1	10	13	1	Agent	5, 10, 11, 17	"{""5"": [""number""], ""10"": [""number""], ""11"": [""number""], ""17"": [""number""]}"
+3	3	1	7	3	1	Human	6, 7, 8	"{""6"": [""attractions""], ""7"": [""attraction""], ""8"": [""attraction""]}"
+3	3	1	15	6	1	Human	12, 15, 17	"{""12"": [""taxi""], ""15"": [""taxi""], ""17"": [""taxi""]}"
+2	2	1	15	2	1	Human	14, 15	"{""14"": [""house""], ""15"": [""house""]}"

@@ -1,0 +1,13 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	5	3	2	1	Human	2, 3	"{""2"": [""expensive guesthouses in the centre""], ""3"": [""expensive guesthouse in the centre""]}"
+4	4	1	8	16	1	Agent	7, 8, 19, 22	"{""7"": [""table""], ""8"": [""table""], ""19"": [""table""], ""22"": [""table""]}"
+2	2	2	1	4	1	Human	0, 1, 2, 3	"{""0"": [""expensive guesthouse""], ""1"": [""expensive guesthouses""], ""2"": [""expensive guesthouses""], ""3"": [""expensive guesthouse""]}"
+3	1	1	24	23	1	Human	2, 3, 24	"{""2"": [""centre""], ""3"": [""centre""], ""24"": [""centre""]}"
+5	5	2	6	16	1	Agent	5, 6, 9, 12, 20	"{""5"": [""el shaddai""], ""6"": [""el shaddai""], ""9"": [""el shaddai""], ""12"": [""el shaddai""], ""20"": [""el shaddai""]}"
+3	3	1	15	4	1	Human	14, 15, 17	"{""14"": [""taxi""], ""15"": [""taxi""], ""17"": [""taxi""]}"
+5	5	1	15	15	2	Human	8, 12, 15, 16, 22	"{""8"": [""people""], ""12"": [""people""], ""15"": [""people""], ""16"": [""people""], ""22"": [""people""]}"
+4	1	1	1	4	1	Human	0, 1, 2, 3	"{""0"": [""guesthouse""], ""1"": [""guesthouses""], ""2"": [""guesthouses""], ""3"": [""guesthouse""]}"
+4	4	1	19	6	1	Human	18, 19, 21, 23	"{""18"": [""restaurant""], ""19"": [""restaurant""], ""21"": [""restaurant""], ""23"": [""restaurants""]}"
+2	2	1	22	12	1	Agent	11, 22	"{""11"": [""day""], ""22"": [""day""]}"
+2	2	1	18	6	1	Agent	13, 18	"{""13"": [""hotel""], ""18"": [""hotel""]}"
+2	2	1	12	4	1	Agent	9, 12	"{""9"": [""nights""], ""12"": [""nights""]}"

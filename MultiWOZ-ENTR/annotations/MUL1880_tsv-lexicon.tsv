@@ -1,0 +1,6 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	4	1	2	1	Human	0, 1	"{""0"": [""cambridge museum of technology""], ""1"": [""cambridge museum of technology""]}"
+2	2	1	3	2	1	Human	2, 3	"{""2"": [""postcode""], ""3"": [""postcode""]}"
+4	2	1	4	8	1	Human	0, 1, 4, 7	"{""0"": [""cambridge""], ""1"": [""cambridge""], ""4"": [""cambridge""], ""7"": [""cambridge""]}"
+3	3	1	5	4	1	Human	4, 5, 7	"{""4"": [""train""], ""5"": [""trains""], ""7"": [""train"", ""train""]}"
+2	2	1	7	4	1	Human	4, 7	"{""4"": [""airport""], ""7"": [""airport""]}"

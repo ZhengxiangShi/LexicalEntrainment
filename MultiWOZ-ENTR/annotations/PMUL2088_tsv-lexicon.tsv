@@ -1,0 +1,9 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	2	21	18	2	Human	4, 20, 21	"{""4"": [""phone number""], ""20"": [""phone number""], ""21"": [""phone number""]}"
+5	5	1	9	15	1	Human	8, 9, 16, 21, 22	"{""8"": [""taxi""], ""9"": [""taxi""], ""16"": [""taxi""], ""21"": [""taxi""], ""22"": [""taxi""]}"
+7	7	1	1	17	1	Human	0, 1, 2, 3, 4, 15, 16	"{""0"": [""restaurants""], ""1"": [""restaurants""], ""2"": [""restaurants""], ""3"": [""restaurants""], ""4"": [""restaurant""], ""15"": [""restaurant""], ""16"": [""restaurant""]}"
+6	3	1	5	20	1	Human	4, 5, 7, 20, 21, 23	"{""4"": [""number""], ""5"": [""number""], ""7"": [""number""], ""20"": [""number""], ""21"": [""number""], ""23"": [""number""]}"
+5	5	1	17	20	2	Human	0, 16, 17, 18, 19	"{""0"": [""colleges""], ""16"": [""college""], ""17"": [""college""], ""18"": [""college""], ""19"": [""college""]}"
+4	4	1	10	8	1	Agent	9, 10, 12, 16	"{""9"": [""times""], ""10"": [""time""], ""12"": [""time""], ""16"": [""time""]}"
+3	3	1	10	6	2	Agent	5, 7, 10	"{""5"": [""reservation""], ""7"": [""reservations""], ""10"": [""reservation""]}"
+2	2	1	18	8	1	Agent	11, 18	"{""11"": [""getting""], ""18"": [""getting""]}"

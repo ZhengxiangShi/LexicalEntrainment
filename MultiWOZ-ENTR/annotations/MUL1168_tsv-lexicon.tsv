@@ -1,0 +1,10 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	3	1	2	1	Human	0, 1	"{""0"": [""centre of town""], ""1"": [""centre of town""]}"
+3	3	1	5	24	1	Human	0, 1, 5, 17, 23	"{""0"": [""centre""], ""1"": [""centre""], ""5"": [""centre""], ""17"": [""centre""], ""23"": [""centre""]}"
+2	2	2	3	2	1	Human	2, 3	"{""2"": [""entrance fee""], ""3"": [""entrance fee""]}"
+2	2	2	20	2	1	Agent	19, 20	"{""19"": [""hamilton lodge""], ""20"": [""hamilton lodge""]}"
+2	2	1	3	2	1	Human	2, 3	"{""2"": [""postcode""], ""3"": [""postcode""]}"
+3	3	1	17	14	2	Human	4, 14, 17	"{""4"": [""guesthouses""], ""14"": [""guesthouse""], ""17"": [""guesthouses""]}"
+3	3	1	18	18	2	Agent	1, 3, 18	"{""1"": [""house""], ""3"": [""house""], ""18"": [""house""]}"
+3	3	1	1	3	1	Human	0, 1, 2	"{""0"": [""museum""], ""1"": [""museums""], ""2"": [""museum""]}"
+3	1	1	23	24	1	Human	0, 1, 23	"{""0"": [""town""], ""1"": [""town""], ""23"": [""town""]}"

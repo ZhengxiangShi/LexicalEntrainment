@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	5	7	2	1	Human	6, 7	"{""6"": [""indian restaurant in the east""], ""7"": [""indian restaurants in the east""]}"
+2	2	4	8	2	1	Agent	7, 8	"{""7"": [""two expensive indian restaurants""], ""8"": [""two expensive indian restaurants""]}"
+4	2	1	5	4	1	Human	4, 5, 6, 7	"{""4"": [""east""], ""5"": [""east""], ""6"": [""east""], ""7"": [""east""]}"
+3	3	1	7	13	2	Human	4, 6, 7, 8, 9, 16	"{""4"": [""restaurants""], ""6"": [""restaurant""], ""7"": [""restaurants""], ""8"": [""restaurants""], ""9"": [""restaurant""], ""16"": [""restaurant""]}"
+2	2	2	1	2	1	Human	0, 1	"{""0"": [""magdalene college""], ""1"": [""magdalene college""]}"
+2	2	1	15	6	1	Human	10, 15	"{""10"": [""sunday""], ""15"": [""sunday""]}"
+2	2	2	10	2	1	Agent	9, 10	"{""9"": [""sitar tandoori""], ""10"": [""sitar tandoori""]}"
+3	1	1	16	17	1	Human	0, 1, 16	"{""0"": [""college""], ""1"": [""college""], ""16"": [""college""]}"
+3	3	1	16	6	2	Agent	11, 13, 16	"{""11"": [""time""], ""13"": [""time""], ""16"": [""time""]}"
+2	2	1	4	4	1	Agent	1, 4	"{""1"": [""area""], ""4"": [""area""]}"

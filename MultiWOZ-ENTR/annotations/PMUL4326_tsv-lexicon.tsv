@@ -1,0 +1,13 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	3	5	8	1	Human	2, 5, 9	"{""2"": [""centre of town""], ""5"": [""centre of town""], ""9"": [""centre of town""]}"
+4	1	1	5	8	2	Human	2, 4, 5, 9	"{""2"": [""centre""], ""4"": [""center""], ""5"": [""centre""], ""9"": [""centre""]}"
+5	5	2	11	14	2	Human	2, 10, 11, 14, 15	"{""2"": [""phone numbers""], ""10"": [""phone number""], ""11"": [""phone number""], ""14"": [""phone number""], ""15"": [""phone number""]}"
+3	3	3	2	3	1	Agent	1, 2, 3	"{""1"": [""types of attractions""], ""2"": [""types of attractions""], ""3"": [""type of attractions""]}"
+2	2	2	15	2	1	Human	14, 15	"{""14"": [""free internet""], ""15"": [""free internet""]}"
+2	2	1	13	14	1	Human	0, 13	"{""0"": [""town""], ""13"": [""town""]}"
+2	2	1	7	2	1	Human	6, 7	"{""6"": [""info""], ""7"": [""info""]}"
+2	2	2	16	10	1	Agent	7, 16	"{""7"": [""old schools""], ""16"": [""old schools""]}"
+2	2	1	13	8	1	Human	6, 13	"{""6"": [""best""], ""13"": [""best""]}"
+6	1	1	17	16	2	Human	2, 10, 11, 14, 15, 17	"{""2"": [""numbers""], ""10"": [""number""], ""11"": [""number""], ""14"": [""number""], ""15"": [""number""], ""17"": [""number""]}"
+5	2	1	1	13	1	Human	0, 1, 2, 3, 12	"{""0"": [""attractions""], ""1"": [""attractions""], ""2"": [""attractions""], ""3"": [""attractions""], ""12"": [""attraction""]}"
+3	3	1	11	10	2	Human	2, 10, 11	"{""2"": [""addresses""], ""10"": [""address""], ""11"": [""address""]}"

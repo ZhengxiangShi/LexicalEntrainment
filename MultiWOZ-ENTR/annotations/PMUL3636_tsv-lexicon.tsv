@@ -1,0 +1,13 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	5	11	2	1	Human	10, 11	"{""10"": [""chinese restaurant in the centre""], ""11"": [""chinese restaurants in the centre""]}"
+2	2	4	9	2	1	Human	8, 9	"{""8"": [""parking and 4 stars""], ""9"": [""parking and 4 stars""]}"
+4	2	2	9	10	3	Human	0, 6, 8, 9	"{""0"": [""4 star""], ""6"": [""4 stars""], ""8"": [""4 stars""], ""9"": [""4 stars""]}"
+6	6	1	5	17	2	Human	2, 4, 5, 6, 8, 18	"{""2"": [""guesthouse""], ""4"": [""guesthouses""], ""5"": [""guesthouses""], ""6"": [""guesthouse""], ""8"": [""guesthouse""], ""18"": [""guesthouse""]}"
+5	5	1	9	16	2	Human	4, 8, 9, 15, 19	"{""4"": [""number""], ""8"": [""number""], ""9"": [""number""], ""15"": [""number""], ""19"": [""number""]}"
+4	2	1	9	10	3	Human	0, 6, 8, 9	"{""0"": [""parking""], ""6"": [""parking""], ""8"": [""parking""], ""9"": [""parking""]}"
+4	4	1	12	10	3	Agent	3, 5, 11, 12	"{""3"": [""price""], ""5"": [""price""], ""11"": [""price""], ""12"": [""price""]}"
+4	2	1	16	9	1	Human	10, 11, 16, 18	"{""10"": [""restaurant""], ""11"": [""restaurants""], ""16"": [""restaurant""], ""18"": [""restaurant""]}"
+3	3	1	10	10	2	Agent	1, 5, 10	"{""1"": [""area""], ""5"": [""area""], ""10"": [""area""]}"
+3	1	1	13	4	1	Human	10, 11, 13	"{""10"": [""centre""], ""11"": [""centre""], ""13"": [""centre""]}"
+2	2	1	9	10	1	Human	0, 9	"{""0"": [""guests""], ""9"": [""guest""]}"
+2	2	1	17	2	1	Human	16, 17	"{""16"": [""taxi""], ""17"": [""taxi""]}"

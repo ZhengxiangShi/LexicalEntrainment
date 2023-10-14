@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	2	6	3	1	Agent	5, 6, 7	"{""5"": [""archway house""], ""6"": [""archway house""], ""7"": [""archway house""]}"
+2	2	1	11	10	1	Human	2, 11	"{""2"": [""north""], ""11"": [""north""]}"
+3	3	1	14	5	1	Agent	13, 14, 17	"{""13"": [""nirala""], ""14"": [""nirala""], ""17"": [""nirala""]}"
+5	5	1	9	11	1	Human	8, 9, 10, 11, 18	"{""8"": [""restaurant""], ""9"": [""restaurants""], ""10"": [""restaurants""], ""11"": [""restaurants""], ""18"": [""restaurant""]}"
+4	4	1	15	13	2	Human	4, 6, 15, 16	"{""4"": [""people""], ""6"": [""people""], ""15"": [""people""], ""16"": [""people""]}"
+3	3	1	5	7	1	Human	4, 5, 10	"{""4"": [""hotel""], ""5"": [""hotels""], ""10"": [""hotel""]}"
+3	3	1	17	14	2	Human	4, 6, 17	"{""4"": [""wednesday""], ""6"": [""wednesday""], ""17"": [""wednesday""]}"
+2	2	1	5	6	1	Human	0, 5	"{""0"": [""accommodation""], ""5"": [""accommodations""]}"
+2	2	1	17	4	1	Human	14, 17	"{""14"": [""table""], ""17"": [""table""]}"
+2	2	1	18	4	1	Agent	15, 18	"{""15"": [""time""], ""18"": [""time""]}"

@@ -1,0 +1,12 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	3	16	6	1	Agent	11, 16	"{""11"": [""acorn guest house""], ""16"": [""acorn guest house""]}"
+2	2	3	16	10	1	Agent	7, 16	"{""7"": [""saint catharine's college""], ""16"": [""saint catharine's college""]}"
+2	2	2	5	2	1	Human	4, 5	"{""4"": [""phone number""], ""5"": [""phone number""]}"
+2	2	1	20	8	1	Agent	13, 20	"{""13"": [""set""], ""20"": [""set""]}"
+2	2	1	16	2	1	Agent	15, 16	"{""15"": [""dropped""], ""16"": [""drop""]}"
+2	2	2	1	2	1	Human	0, 1	"{""0"": [""chinese restaurant""], ""1"": [""chinese restaurant""]}"
+5	3	1	3	15	1	Human	2, 3, 6, 7, 16	"{""2"": [""college""], ""3"": [""college""], ""6"": [""college""], ""7"": [""college""], ""16"": [""college""]}"
+4	2	1	13	16	1	Human	4, 5, 13, 19	"{""4"": [""number""], ""5"": [""number""], ""13"": [""number""], ""19"": [""number""]}"
+3	1	1	16	14	2	Agent	3, 7, 16	"{""3"": [""saint""], ""7"": [""saint""], ""16"": [""saint""]}"
+2	1	1	1	2	1	Human	0, 1	"{""0"": [""restaurant""], ""1"": [""restaurant""]}"
+2	2	1	9	8	1	Human	2, 9	"{""2"": [""town""], ""9"": [""town""]}"

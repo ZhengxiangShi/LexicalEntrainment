@@ -1,0 +1,9 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	4	3	2	1	Human	2, 3	"{""2"": [""moderately priced russian restaurant""], ""3"": [""moderately priced russian restaurant""]}"
+2	2	4	1	2	1	Human	0, 1	"{""0"": [""restaurant in the west""], ""1"": [""restaurant in the west""]}"
+5	5	3	2	11	1	Agent	1, 2, 5, 10, 11	"{""1"": [""part of town""], ""2"": [""part of town""], ""5"": [""part of town""], ""10"": [""part of town""], ""11"": [""part of town""]}"
+4	4	1	1	8	1	Human	0, 1, 2, 3, 5, 6, 7	"{""0"": [""restaurant""], ""1"": [""restaurant""], ""2"": [""restaurant""], ""3"": [""restaurant""], ""5"": [""restaurants""], ""6"": [""restaurant""], ""7"": [""restaurant""]}"
+2	2	2	9	2	1	Human	8, 9	"{""8"": [""phone number""], ""9"": [""phone number""]}"
+2	2	1	1	12	1	Human	0, 1, 2, 5, 6, 10, 11	"{""0"": [""town""], ""1"": [""town""], ""2"": [""town""], ""5"": [""town""], ""6"": [""town""], ""10"": [""town""], ""11"": [""town""]}"
+2	2	2	6	2	1	Agent	5, 6	"{""5"": [""chinese restaurants""], ""6"": [""chinese restaurant""]}"
+2	2	1	4	2	1	Agent	3, 4	"{""3"": [""food""], ""4"": [""food""]}"

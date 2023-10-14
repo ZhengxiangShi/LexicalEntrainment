@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	2	11	2	1	Human	10, 11	"{""10"": [""travel time""], ""11"": [""travel time""]}"
+6	6	1	7	8	2	Human	4, 6, 7, 9, 10, 11	"{""4"": [""trains""], ""6"": [""train""], ""7"": [""trains""], ""9"": [""train""], ""10"": [""train""], ""11"": [""train""]}"
+2	2	1	9	6	1	Human	4, 9	"{""4"": [""cambridge""], ""9"": [""cambridge""]}"
+2	2	2	1	2	1	Human	0, 1	"{""0"": [""mumford theatre""], ""1"": [""mumford theatre""]}"
+2	2	1	9	2	1	Human	8, 9	"{""8"": [""monday""], ""9"": [""monday""]}"
+2	2	1	5	4	1	Human	2, 5	"{""2"": [""theatre""], ""5"": [""theater""]}"
+2	2	1	9	4	1	Human	6, 9	"{""6"": [""stansted""], ""9"": [""stansted""]}"
+4	2	1	8	5	1	Agent	7, 8, 10, 11	"{""7"": [""time""], ""8"": [""time""], ""10"": [""time""], ""11"": [""time""]}"
+2	2	1	11	2	1	Human	10, 11	"{""10"": [""id""], ""11"": [""id""]}"
+2	2	1	11	2	1	Human	10, 11	"{""10"": [""minutes""], ""11"": [""minutes""]}"

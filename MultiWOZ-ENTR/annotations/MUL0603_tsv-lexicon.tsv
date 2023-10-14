@@ -1,0 +1,12 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	2	11	2	1	Human	10, 11	"{""10"": [""4 nights""], ""11"": [""4 nights""]}"
+2	2	2	11	6	1	Human	6, 11	"{""6"": [""gonville hotel""], ""11"": [""gonville hotel""]}"
+3	3	1	11	12	2	Human	0, 8, 11	"{""0"": [""wednesday""], ""8"": [""wednesday""], ""11"": [""wednesday""]}"
+2	2	2	11	2	1	Human	10, 11	"{""10"": [""reference number""], ""11"": [""reference number""]}"
+2	2	2	11	2	1	Human	10, 11	"{""10"": [""7 people""], ""11"": [""7 people""]}"
+4	2	1	9	4	1	Human	8, 9, 10, 11	"{""8"": [""people""], ""9"": [""people""], ""10"": [""people""], ""11"": [""people""]}"
+4	4	1	1	5	1	Human	0, 1, 3, 4	"{""0"": [""train""], ""1"": [""trains""], ""3"": [""trains""], ""4"": [""train""]}"
+3	2	1	7	6	1	Human	6, 7, 11	"{""6"": [""hotel"", ""hotel""], ""7"": [""hotel""], ""11"": [""hotel""]}"
+3	1	1	11	4	2	Human	8, 10, 11	"{""8"": [""nights""], ""10"": [""nights""], ""11"": [""nights""]}"
+2	2	1	13	6	1	Human	8, 13	"{""8"": [""day""], ""13"": [""day""]}"
+2	2	1	4	4	1	Agent	1, 4	"{""1"": [""time""], ""4"": [""time""]}"

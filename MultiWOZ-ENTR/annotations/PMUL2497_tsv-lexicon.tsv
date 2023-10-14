@@ -1,0 +1,13 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	3	9	4	1	Human	6, 9	"{""6"": [""centre of town""], ""9"": [""centre of town""]}"
+3	3	2	13	4	2	Human	10, 12, 13	"{""10"": [""phone number""], ""12"": [""phone number""], ""13"": [""phone number""]}"
+4	2	1	7	10	2	Human	0, 6, 7, 9	"{""0"": [""centre""], ""6"": [""centre""], ""7"": [""centre""], ""9"": [""centre""]}"
+4	4	2	12	6	1	Agent	11, 12, 13, 16	"{""11"": [""cambridge punter""], ""12"": [""cambridge punter""], ""13"": [""cambridge punter""], ""16"": [""cambridge punter""]}"
+2	2	3	15	2	1	Human	14, 15	"{""14"": [""cab""], ""15"": [""cab""]}"
+2	2	2	15	2	1	Human	14, 15	"{""14"": [""time""], ""15"": [""time""]}"
+2	2	2	17	4	1	Human	14, 17	"{""14"": [""contact number""], ""17"": [""contact number""]}"
+2	2	2	9	2	1	Human	8, 9	"{""8"": [""entertainment attraction""], ""9"": [""entertainment attractions""]}"
+4	2	1	8	4	1	Agent	7, 8, 9, 10	"{""7"": [""attraction""], ""8"": [""attraction""], ""9"": [""attractions""], ""10"": [""attraction""]}"
+4	4	1	1	16	1	Human	0, 1, 3, 15	"{""0"": [""restaurant""], ""1"": [""restaurants""], ""3"": [""restaurants""], ""15"": [""restaurant""]}"
+3	3	1	14	14	2	Agent	1, 7, 14	"{""1"": [""type""], ""7"": [""type""], ""14"": [""type""]}"
+2	2	1	7	2	1	Human	6, 7	"{""6"": [""fun""], ""7"": [""fun""]}"

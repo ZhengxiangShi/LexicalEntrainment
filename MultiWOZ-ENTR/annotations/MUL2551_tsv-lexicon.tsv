@@ -1,0 +1,8 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+3	3	2	6	3	1	Agent	5, 6, 7	"{""5"": [""riverboat georgina""], ""6"": [""riverboat georgina""], ""7"": [""riverboat georgina""]}"
+2	2	2	11	4	1	Human	8, 11	"{""8"": [""hobsons house""], ""11"": [""hobsons house""]}"
+2	2	2	11	2	1	Human	10, 11	"{""10"": [""reference number""], ""11"": [""reference number""]}"
+3	1	1	10	5	1	Agent	7, 10, 11	"{""7"": [""number""], ""10"": [""number""], ""11"": [""number""]}"
+2	2	1	10	2	1	Agent	9, 10	"{""9"": [""nights""], ""10"": [""nights""]}"
+2	2	1	5	2	1	Human	4, 5	"{""4"": [""place""], ""5"": [""places""]}"
+2	2	1	9	2	1	Human	8, 9	"{""8"": [""thursday""], ""9"": [""thursday""]}"

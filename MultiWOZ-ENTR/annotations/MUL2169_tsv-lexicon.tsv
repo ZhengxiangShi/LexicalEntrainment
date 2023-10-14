@@ -1,0 +1,5 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	6	1	2	1	Human	0, 1	"{""0"": [""city centre north b and b""], ""1"": [""city centre north b and b""]}"
+2	2	3	8	2	1	Agent	4, 5, 7, 8, 9	"{""4"": [""train""], ""5"": [""train""], ""7"": [""train""], ""8"": [""train""], ""9"": [""train""]}"
+2	2	2	3	2	1	Human	2, 3	"{""2"": [""price range""], ""3"": [""price range""]}"
+2	2	1	9	2	1	Human	8, 9	"{""8"": [""number""], ""9"": [""number""]}"

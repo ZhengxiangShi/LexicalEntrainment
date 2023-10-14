@@ -1,0 +1,7 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	6	10	2	1	Agent	9, 10	"{""9"": [""one in regent street city centre""], ""10"": [""one in regent street city centre""]}"
+4	4	1	9	2	1	Human	8, 9	"{""8"": [""center""], ""9"": [""centre"", ""centre""]}"
+2	2	2	2	2	1	Agent	1, 2	"{""1"": [""price range""], ""2"": [""price range""]}"
+4	2	1	6	8	1	Agent	1, 2, 8	"{""1"": [""price""], ""2"": [""price""], ""8"": [""pricing""]}"
+2	2	1	2	2	1	Agent	1, 2	"{""1"": [""area""], ""2"": [""area""]}"
+2	2	1	7	8	1	Human	0, 7	"{""0"": [""town""], ""7"": [""town""]}"

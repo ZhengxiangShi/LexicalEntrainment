@@ -1,0 +1,12 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+5	5	3	9	5	1	Human	8, 9, 10, 11, 12	"{""8"": [""cambridge corn exchange""], ""9"": [""cambridge corn exchange""], ""10"": [""cambridge corn exchange""], ""11"": [""cambridge corn exchange""], ""12"": [""cambridge corn exchange""]}"
+2	2	3	5	2	1	Human	4, 5	"{""4"": [""expensive indian restaurants""], ""5"": [""expensive indian restaurant""]}"
+2	2	1	9	10	1	Human	0, 9	"{""0"": [""centre""], ""9"": [""centre""]}"
+2	2	1	5	6	1	Human	0, 5	"{""0"": [""restaurant""], ""5"": [""restaurant""]}"
+3	1	2	5	4	2	Human	2, 4, 5	"{""2"": [""indian restaurant""], ""4"": [""indian restaurants""], ""5"": [""indian restaurant""]}"
+3	3	2	6	3	1	Agent	5, 6, 7	"{""5"": [""tandoori palace""], ""6"": [""tandoori palace""], ""7"": [""tandoori palace""]}"
+4	4	1	7	7	1	Human	6, 7, 9, 12	"{""6"": [""phone""], ""7"": [""phone""], ""9"": [""phone""], ""12"": [""phone""]}"
+2	2	1	9	10	1	Human	0, 9	"{""0"": [""town""], ""9"": [""town""]}"
+3	3	1	8	7	1	Agent	5, 8, 11	"{""5"": [""information""], ""8"": [""information""], ""11"": [""information""]}"
+3	1	1	6	3	1	Agent	5, 6, 7	"{""5"": [""tandoori""], ""6"": [""tandoori""], ""7"": [""tandoori""]}"
+2	2	1	7	2	1	Human	6, 7	"{""6"": [""postcode""], ""7"": [""postcode""]}"

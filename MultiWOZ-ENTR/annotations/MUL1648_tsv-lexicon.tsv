@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	1	13	2	1	Human	12, 13	"{""12"": [""price""], ""13"": [""price""]}"
+2	2	2	1	2	1	Human	0, 1	"{""0"": [""cheap restaurant""], ""1"": [""cheap restaurants""]}"
+2	2	2	7	2	1	Human	6, 7	"{""6"": [""phone number""], ""7"": [""phone number""]}"
+5	5	1	13	9	2	Human	8, 12, 13, 15, 16	"{""8"": [""train""], ""12"": [""train""], ""13"": [""train""], ""15"": [""train""], ""16"": [""train""]}"
+4	2	1	2	4	1	Human	0, 1, 2, 3	"{""0"": [""restaurant""], ""1"": [""restaurants""], ""2"": [""restaurant""], ""3"": [""restaurants""]}"
+3	1	1	17	12	1	Human	6, 7, 17	"{""6"": [""number""], ""7"": [""number""], ""17"": [""number""]}"
+2	2	1	10	4	1	Agent	7, 10	"{""7"": [""cambridge""], ""10"": [""cambridge""]}"
+2	2	1	7	2	1	Human	6, 7	"{""6"": [""favorite""], ""7"": [""favorite""]}"
+2	2	1	9	2	1	Human	8, 9	"{""8"": [""peterborough""], ""9"": [""peterborough""]}"
+2	2	1	16	4	1	Agent	13, 16	"{""13"": [""ticket""], ""16"": [""ticket""]}"

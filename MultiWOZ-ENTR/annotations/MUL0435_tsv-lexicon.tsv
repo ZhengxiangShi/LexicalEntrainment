@@ -1,0 +1,12 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	8	1	2	1	Human	0, 1	"{""0"": [""place to go in the centre of town""], ""1"": [""places to go in the centre of town""]}"
+2	2	2	5	2	1	Human	4, 5	"{""4"": [""phone number""], ""5"": [""phone number""]}"
+3	3	1	7	4	1	Human	6, 7, 9	"{""6"": [""train""], ""7"": [""train""], ""9"": [""train""]}"
+2	2	2	11	4	1	Human	8, 11	"{""8"": [""8 tickets""], ""11"": [""eight tickets""]}"
+2	2	2	11	2	1	Human	10, 11	"{""10"": [""reference number""], ""11"": [""reference number""]}"
+3	1	1	13	14	1	Human	0, 1, 13	"{""0"": [""centre""], ""1"": [""centre""], ""13"": [""centre""]}"
+3	1	1	8	5	1	Agent	7, 8, 11	"{""7"": [""ticket""], ""8"": [""tickets""], ""11"": [""tickets""]}"
+3	1	1	13	14	1	Human	0, 1, 13	"{""0"": [""town""], ""1"": [""town""], ""13"": [""towne""]}"
+2	2	1	2	2	1	Agent	1, 2	"{""1"": [""attraction""], ""2"": [""attraction""]}"
+2	2	1	13	8	1	Human	6, 13	"{""6"": [""cambridge""], ""13"": [""cambridge""]}"
+2	2	1	5	2	1	Human	4, 5	"{""4"": [""postcode""], ""5"": [""postcode""]}"

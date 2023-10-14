@@ -1,0 +1,7 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+4	4	4	4	5	2	Agent	1, 3, 4, 5	"{""1"": [""pizza hut cherry hinton""], ""3"": [""pizza hut cherry hinton""], ""4"": [""pizza hut cherry hinton""], ""5"": [""pizza hut cherry hinton""]}"
+4	1	2	5	5	2	Agent	1, 3, 4, 5	"{""1"": [""cherry hinton""], ""3"": [""cherry hinton""], ""4"": [""cherry hinton""], ""5"": [""cherry hinton"", ""cherry hinton""]}"
+2	2	2	5	2	1	Human	4, 5	"{""4"": [""phone number""], ""5"": [""phone number""]}"
+2	2	1	5	2	1	Human	4, 5	"{""4"": [""address""], ""5"": [""address""]}"
+3	3	1	7	6	2	Human	2, 6, 7	"{""2"": [""food""], ""6"": [""food""], ""7"": [""food""]}"
+3	3	1	1	4	1	Human	0, 1, 3	"{""0"": [""restaurant""], ""1"": [""restaurants"", ""restaurant""], ""3"": [""restaurant""]}"

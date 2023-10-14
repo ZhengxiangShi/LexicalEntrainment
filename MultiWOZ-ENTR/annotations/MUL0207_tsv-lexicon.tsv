@@ -1,0 +1,12 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	4	17	2	1	Human	16, 17	"{""16"": [""name of the restaurant""], ""17"": [""name of the restaurant""]}"
+2	2	3	11	2	1	Human	10, 11	"{""10"": [""indian food""], ""11"": [""indian food""]}"
+4	4	2	5	10	1	Human	4, 5, 12, 13	"{""4"": [""reference number""], ""5"": [""reference number""], ""12"": [""reference number""], ""13"": [""reference number""]}"
+2	2	1	5	2	1	Human	4, 5	"{""4"": [""ticket""], ""5"": [""ticket""]}"
+2	2	3	11	6	1	Human	6, 8, 11, 14, 15, 16, 17	"{""6"": [""restaurant""], ""8"": [""restaurants""], ""11"": [""restaurants"", ""restaurant""], ""14"": [""restaurants"", ""restaurant""], ""15"": [""restaurant""], ""16"": [""restaurant""], ""17"": [""restaurant""]}"
+2	2	2	15	2	1	Human	14, 15	"{""14"": [""cheap restaurant""], ""15"": [""cheap restaurant""]}"
+3	3	1	5	13	1	Human	0, 5, 12	"{""0"": [""thursday""], ""5"": [""thursday""], ""12"": [""thursday""]}"
+5	1	1	15	12	1	Human	4, 5, 12, 13, 15	"{""4"": [""reference""], ""5"": [""reference""], ""12"": [""reference""], ""13"": [""reference""], ""15"": [""reference""]}"
+4	2	1	7	6	1	Human	6, 7, 10, 11	"{""6"": [""food""], ""7"": [""food""], ""10"": [""food""], ""11"": [""food""]}"
+3	3	1	13	3	1	Human	12, 13, 14	"{""12"": [""reservation""], ""13"": [""reservation""], ""14"": [""reservation""]}"
+2	2	1	3	4	1	Human	0, 3	"{""0"": [""train""], ""3"": [""trains""]}"

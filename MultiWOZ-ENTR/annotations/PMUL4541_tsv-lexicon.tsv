@@ -1,0 +1,11 @@
+Freq.	Free Freq.	Size	Establishment turn	Spanning	Priming	First Speaker	Turns	Expression
+2	2	4	15	6	1	Human	10, 15	"{""10"": [""aylesbray lodge guest house""], ""15"": [""aylesbray lodge guest house""]}"
+2	2	1	15	2	1	Human	12, 14, 15	"{""12"": [""room""], ""14"": [""room""], ""15"": [""room""]}"
+3	3	2	17	12	2	Human	6, 16, 17	"{""6"": [""reference number""], ""16"": [""reference number""], ""17"": [""reference number""]}"
+2	2	2	5	2	1	Human	4, 5	"{""4"": [""chinese food""], ""5"": [""chinese food""]}"
+2	2	2	5	6	1	Human	0, 5	"{""0"": [""expensive restaurant""], ""5"": [""expensive restaurants""]}"
+3	3	1	14	10	1	Agent	7, 16	"{""7"": [""reservation""], ""16"": [""reservation""]}"
+4	2	1	3	4	1	Human	2, 3, 4, 5	"{""2"": [""food""], ""3"": [""food""], ""4"": [""food""], ""5"": [""food""]}"
+4	4	1	12	10	1	Agent	17, 18	"{""17"": [""help""], ""18"": [""help""]}"
+2	2	1	15	2	1	Human	14, 15	"{""14"": [""friday""], ""15"": [""friday""]}"
+2	2	1	9	2	1	Human	8, 9	"{""8"": [""postcode""], ""9"": [""postcode""]}"
