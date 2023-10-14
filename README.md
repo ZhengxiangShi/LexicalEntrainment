@@ -48,7 +48,7 @@ If you have any questions regarding the code or the paper, please feel free to r
 ```
 @inproceedings{shi-etal-2023-lexical,
 title={Lexical Entrianment for Conversation Systems},
-author={Shi, Zhengxaing and Sen, Procheta and Lipani, Aldo},
+author={Shi, Zhengxiang and Sen, Procheta and Lipani, Aldo},
 booktitle={Findings of the Association for Computational Linguistics: EMNLP 2023},
 year={2023},
 publisher={Association for Computational Linguistics}
