@@ -1,5 +1,5 @@
-# Lexical Entrianment for Conversation Systems
-This repository provides the code for the Findings of EMNLP 2023 paper titled **[Lexical Entrianment for Conversation Systems]()**, making the integration of our code contributions into other projects more accessible.
+# Lexical Entrainment for Conversation Systems
+This repository provides the code for the Findings of the EMNLP 2023 paper titled **[Lexical Entrainment for Conversation Systems](https://arxiv.org/abs/2310.09651)**, making the integration of our code contributions into other projects more accessible.
 
 <div align="center">
 
@@ -15,7 +15,7 @@ This repository provides the code for the Findings of EMNLP 2023 paper titled **
 </p>
 
 ## Quick Links
-- [Lexical Entrianment for Conversation Systems](#lexical-entrianment-for-conversation-systems)
+- [Lexical Entrainment for Conversation Systems](#lexical-entrianment-for-conversation-systems)
   - [Quick Links](#quick-links)
   - [Overview](#overview)
   - [1. Requirements](#1-requirements)
@@ -24,7 +24,7 @@ This repository provides the code for the Findings of EMNLP 2023 paper titled **
   - [Citation](#citation)
 
 ## Overview
-You can reproduce the experiments of our paper [Lexical Entrianment for Conversation Systems]().
+You can reproduce the experiments of our paper [Lexical Entrainment for Conversation Systems](https://arxiv.org/abs/2310.09651).
 
 > **Abstract**
 >
@@ -32,7 +32,7 @@ You can reproduce the experiments of our paper [Lexical Entrianment for Conversa
 
 ## 1. Requirements
 ```
-python
+Python
 torch
 nltk
 ```
@@ -47,10 +47,11 @@ If you have any questions regarding the code or the paper, please feel free to r
 ## Citation
 ```
 @inproceedings{shi-etal-2023-lexical,
-title={Lexical Entrianment for Conversation Systems},
+title={Lexical Entrainment for Conversation Systems},
 author={Shi, Zhengxiang and Sen, Procheta and Lipani, Aldo},
 booktitle={Findings of the Association for Computational Linguistics: EMNLP 2023},
 year={2023},
-publisher={Association for Computational Linguistics}
+publisher={Association for Computational Linguistics},
+url={https://arxiv.org/abs/2310.09651},
 }
 ```
